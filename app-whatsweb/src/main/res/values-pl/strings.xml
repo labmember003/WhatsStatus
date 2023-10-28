@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Aktualizacja została zakończona</string>
+    <string name="app_update_alert_dialog_subtitle">Uruchom ponownie aplikację, aby zastosować aktualizacje…</string>
+    <string name="help">Pomoc</string>
+    <string name="cleaner">Odkurzacz</string>
+    <string name="status_saver">Oszczędzanie stanu</string>
+    <string name="settings">Ustawienia</string>
+    <string name="saved_statuses_appear_here">Brak dostępnych statusów!</string>
+    <string name="available_statuses">Dostępny</string>
+    <string name="saved_statuses">Zapisane</string>
+    <string name="enter_message">Wpisz wiadomość (opcjonalnie)</string>
+    <string name="enter_phone_number">Wpisz numer telefonu</string>
+    <string name="send_message">Wyślij wiadomość</string>
+    <string name="enter_a_phone_number">Wprowadź numer telefonu</string>
+    <string name="direct_link_copied_to_clipboard">Link bezpośredni skopiowany do schowka</string>
+    <string name="premium_unlocked">Dziękuję. Możesz teraz korzystać z funkcji premium</string>
+    <string name="settings_category_title_developer">Deweloper</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Biblioteki Open Source</string>
+    <string name="preference_title_application_version">Wersja aplikacji</string>
+    <string name="preference_title_contact_us">Skontaktuj się z nami</string>
+    <string name="preference_title_privacy_policy">Polityka prywatności</string>
+    <string name="preference_title_terms_conditions">Regulamin</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Ogólny</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Tryb ciemny</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Jak to działa\?</string>
+    <string name="ok">OK</string>
+    <string name="direct_message_help_ans">Podaj numer telefonu odbiorcy wraz z wiadomością tekstową. Gdy będziesz gotowy do wysłania wiadomości, po prostu kliknij przycisk „Wyślij”. Alternatywnie możesz również skorzystać z opcji „Bezpośredni link”, aby skopiować link i udostępnić go odbiorcy. Klikając link, mogą rozmawiać z Tobą bezpośrednio.</string>
+    <string name="click_here_to_grant_required_permissions">Wyłącz i ponownie włącz uprawnienia do powiadomień.</string>
+    <string name="please_grant_storage_permissions">Przyznaj uprawnienia do przechowywania</string>
+    <string name="rate_app">Proszę ocenić aplikację!</string>
+    <string name="rate_later">Później</string>
+    <string name="rateUs">Oceń aplikację w Sklepie Play</string>
+    <string name="send_feedback">Prześlij nam swoją opinię. Postaramy się nad tym popracować!</string>
+    <string name="try_again">Proszę spróbuj ponownie</string>
+    <string name="message_copied_to_clipboard">wiadomość skopiowana do schowka</string>
+    <string name="system_default">Domyślne ustawienie systemowe</string>
+    <string name="restart">Uruchom ponownie</string>
+    <string name="light">Światło</string>
+    <string name="dark">Ciemny</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Podziel się z</string>
+    <string name="direct_link">Skopiuj bezpośredni link</string>
+    <string name="remove_ads">Usuń reklamy</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Co to jest sieć</string>
+    <string name="recover_messages">Odzyskaj wiadomości</string>
+    <string name="direct_message">Wiadomość docelowa</string>
+    <string name="title_refresh">Przeładować</string>
+    <string name="whatsapp_not_installed">Whatsapp nie jest zainstalowany. Aby korzystać z tej funkcji, najpierw zainstaluj Whatsapp.</string>
+    <string name="toggle_keyboard">Przełącz klawiaturę</string>
+    <string name="fullscreen">Pełny ekran</string>
+    <string name="dismiss">Odrzucać</string>
+    <string name="keyboard_unblocked">Klawiatura jest odblokowana.</string>
+    <string name="keyboard_blocked">Klawiatura jest zablokowana. Naciśnij ikonę klawiatury, aby odblokować.</string>
+    <string name="whats_web_how_it_works">1. Otwórz aplikację Whats Web na swoim urządzeniu.\n\n2. Otwórz WhatsApp na innym smartfonie.\n\n* Na Androidzie -&gt; Z ekranu czatów przejdź do menu z trzema kropkami znajdującego się w prawym górnym rogu ekranu -&gt; Połączone urządzenia.\n\n* W Windows Phone -&gt; Przejdź do menu z trzema kropkami -&gt; Połączone urządzenia.\n\n* Na iPhonie -&gt; Przejdź do Ustawienia -&gt; Połączone urządzenia.\n\n3. Stuknij w Połącz urządzenie i zeskanuj kod QR wyświetlany na ekranie tej aplikacji z innego telefonu.</string>
+    <string name="retry_sending_voice_message">Spróbuj ponownie wysłać wiadomość głosową</string>
+    <string name="message_retry_sending_voice_message">Naciśnij ponownie ikonę mikrofonu. Powinno działać zgodnie z oczekiwaniami.</string>
+    <string name="retry_camera_capture">Spróbuj ponownie skorzystać z opcji Aparat</string>
+    <string name="message_retry_camera_capture">Naciśnij ponownie ikonę aparatu. Powinno działać zgodnie z oczekiwaniami.</string>
+    <string name="audio_perm_reqd">Aby przejść dalej, wymagane jest pozwolenie na dźwięk.</string>
+    <string name="camera_perm_reqd">Aby przejść dalej, wymagane jest pozwolenie na korzystanie z aparatu.</string>
+    <string name="reset_reload">Zresetuj/Załaduj ponownie</string>
+    <string name="reset_only">RESETOWANIE</string>
+    <string name="reload_only">TYLKO PRZEŁADUJ</string>
+    <string name="reload_warning">Jeśli masz problemy z logowaniem, spróbuj „Resetuj”.\nOSTRZEŻENIE: W przypadku użycia opcji „Resetuj” może być konieczne ponowne zalogowanie.</string>
+    <string name="download_file">Pobieranie pliku</string>
+    <string name="couldnt_download_file">Nie można pobrać pliku</string>
+    <string name="storage_perm_reqd">Pozwolenie na przechowywanie potrzebne do pobrania pliku</string>
+    <string name="purchase_item_not_found">Nie można znaleźć przedmiotu zakupu</string>
+    <string name="error">Błąd</string>
+    <string name="purchase_canceled">Zakup anulowany</string>
+    <string name="pending_purchase">Zakup jest w toku. Proszę zakończyć transakcję</string>
+    <string name="purchase_status_not_known">Status zakupu nie jest znany</string>
+    <string name="enter_file_name">Wprowadź nazwę pliku</string>
+    <string name="downloading_file">Pobieranie pliku</string>
+    <string name="enter_valid_file_name">Wprowadź prawidłową nazwę pliku</string>
+    <string name="download_has_finished_message">Pobieranie zostało zakończone. Sprawdź folder Pobrane.</string>
+    <string name="could_not_download_file">Nie można pobrać pliku</string>
+    <string name="loading">Ładowanie</string>
+    <string name="downloading_update">Pobieranie aktualizacji</string>
+    <string name="update_downloaded_message">Właśnie pobrano aktualizację.</string>
+    <string name="keyboard_enable_webview_message">Naciśnij przycisk przełączania klawiatury u góry, aby włączyć pisanie</string>
+    <string name="preference_title_bug_report">Zgłoszenie błędu</string>
+    <string name="preference_title_report_a_issue">Zgłoś problem</string>
+    <string name="describe_bug">Proszę opisać błąd tutaj</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">Katalog WhatsApp nie zawiera statusów. Wybierz właściwy katalog.</string>
+    <string name="please_select_whatsapp_directory">Wybierz katalog WhatsApp!</string>
+    <string name="download_cleaner">Pobierz Cleaner</string>
+    <string name="download_recover_messages_app">Pobierz aplikację Odzyskaj wiadomości</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Aby korzystać z tej funkcji, musisz pobrać inną aplikację ze Sklepu Play. Kliknij OK, aby otworzyć sklep Play i pobrać aplikację.</string>
+    <string name="cancel">Anulować</string>
+    <string name="ad_space">Przestrzeń reklamowa</string>
+    <string name="status">Status</string>
+    <string name="theme">Temat</string>
+    <string name="more_apps">Więcej aplikacji</string>
+    <string name="share">Udział</string>
+    <string name="send">Wysłać</string>
+    <string name="select_country_code_and_number">Wybierz kod kraju i numer</string>
+    <string name="how_it_works">Jak to działa</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Pobierz aplikację Qr Scanner</string>
+    <string name="share_content">Przygotuj się na najszybszy sposób uzyskiwania dostępu do tego samego konta WhatsApp na dwóch różnych smartfonach lub tabletach, wszystko za darmo! Pobierz i zainstaluj aplikację teraz.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Ažuriranje je završeno</string>
+    <string name="app_update_alert_dialog_subtitle">Ponovo pokrenite aplikaciju da primijenite ažuriranja…</string>
+    <string name="help">Upomoć</string>
+    <string name="cleaner">Čistač</string>
+    <string name="status_saver">Status Saver</string>
+    <string name="settings">Postavke</string>
+    <string name="saved_statuses_appear_here">Nema dostupnog statusa!</string>
+    <string name="available_statuses">Dostupan</string>
+    <string name="saved_statuses">Sačuvano</string>
+    <string name="enter_message">Unesite poruku (opcionalno)</string>
+    <string name="enter_phone_number">Unesite broj telefona</string>
+    <string name="send_message">Pošalji poruku</string>
+    <string name="enter_a_phone_number">Unesite broj telefona</string>
+    <string name="direct_link_copied_to_clipboard">Direktna veza je kopirana u međuspremnik</string>
+    <string name="premium_unlocked">Hvala ti. Sada možete koristiti premium funkcije</string>
+    <string name="settings_category_title_developer">Developer</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Biblioteke otvorenog koda</string>
+    <string name="preference_title_application_version">Verzija aplikacije</string>
+    <string name="preference_title_contact_us">Kontaktiraj nas</string>
+    <string name="preference_title_privacy_policy">Politika privatnosti</string>
+    <string name="preference_title_terms_conditions">Uslovi i odredbe</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Generale</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Dark Mode</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Kako radi\?</string>
+    <string name="ok">uredu</string>
+    <string name="direct_message_help_ans">Unesite broj telefona primaoca zajedno sa svojom tekstualnom porukom. Kada budete spremni da pošaljete poruku, jednostavno kliknite na dugme \'Pošalji\'. Alternativno, također možete koristiti opciju \'Direktna veza\' da kopirate vezu i podijelite je s primaocem. Klikom na link mogu direktno razgovarati s vama.</string>
+    <string name="click_here_to_grant_required_permissions">Onemogućite i ponovo omogućite dozvolu za obavještavanje.</string>
+    <string name="please_grant_storage_permissions">Molimo da date dozvole za pohranu</string>
+    <string name="rate_app">Molimo ocijenite aplikaciju!</string>
+    <string name="rate_later">Kasnije</string>
+    <string name="rateUs">Molimo ocijenite aplikaciju na Play trgovini</string>
+    <string name="send_feedback">Pošaljite nam povratne informacije. Pokušaćemo da radimo na tome!</string>
+    <string name="try_again">Molimo pokušajte ponovo</string>
+    <string name="message_copied_to_clipboard">poruka je kopirana u međuspremnik</string>
+    <string name="system_default">System Default</string>
+    <string name="restart">Ponovo pokreni</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Podijeli sa</string>
+    <string name="direct_link">Kopiraj direktnu vezu</string>
+    <string name="remove_ads">Ukloniti reklame</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Whats Web</string>
+    <string name="recover_messages">Recover Messages</string>
+    <string name="direct_message">Direktna poruka</string>
+    <string name="title_refresh">Ponovo učitaj</string>
+    <string name="whatsapp_not_installed">Whatsapp nije instaliran. Prvo instalirajte Whatsapp da biste koristili ovu funkciju.</string>
+    <string name="toggle_keyboard">Prebaci tastaturu</string>
+    <string name="fullscreen">Cijeli ekran</string>
+    <string name="dismiss">Odbaci</string>
+    <string name="keyboard_unblocked">Tastatura je deblokirana.</string>
+    <string name="keyboard_blocked">Tastatura je blokirana. Pritisnite ikonu tastature da deblokirate.</string>
+    <string name="whats_web_how_it_works">1. Otvorite aplikaciju Whats Web na svom uređaju.\n\n2. Otvorite WhatsApp na drugom pametnom telefonu.\n\n* Na Androidu -&gt; Sa ekrana za ćaskanje idite na meni sa tri tačke koji se nalazi u gornjem desnom uglu ekrana -&gt; Povezani uređaji.\n\n* Na Window phone -&gt; Idite na meni sa tri tačke -&gt; Povezani uređaji.\n\n* Na iPhone-u -&gt; Idite na Postavke -&gt; Povezani uređaji.\n\n3. Dodirnite Poveži uređaj i skenirajte QR kod prikazan na ekranu ove aplikacije sa drugog telefona.</string>
+    <string name="retry_sending_voice_message">Pokušajte ponovo poslati glasovnu poruku</string>
+    <string name="message_retry_sending_voice_message">Pritisnite još jednom ikonu mikrofona. Trebalo bi raditi kako se očekuje.</string>
+    <string name="retry_camera_capture">Pokušajte ponovo opciju kamere</string>
+    <string name="message_retry_camera_capture">Pritisnite još jednom ikonu kamere. Trebalo bi raditi kako se očekuje.</string>
+    <string name="audio_perm_reqd">Za napredak je potrebna audio dozvola.</string>
+    <string name="camera_perm_reqd">Za napredovanje je potrebna dozvola za kameru.</string>
+    <string name="reset_reload">Reset/Ponovo učitaj</string>
+    <string name="reset_only">RESETOVATI</string>
+    <string name="reload_only">SAMO RELOAD</string>
+    <string name="reload_warning">Ako imate problema u vezi sa prijavom, pokušajte \'Reset\'.\nUPOZORENJE: Možda ćete se morati ponovo prijaviti ako koristite \'Reset\'.</string>
+    <string name="download_file">Preuzimanje datoteke</string>
+    <string name="couldnt_download_file">Nije moguće preuzeti fajl</string>
+    <string name="storage_perm_reqd">Za preuzimanje fajla potrebna je dozvola za pohranu</string>
+    <string name="purchase_item_not_found">Stavka kupovine nije pronađena</string>
+    <string name="error">Greška</string>
+    <string name="purchase_canceled">Kupovina otkazana</string>
+    <string name="pending_purchase">Kupovina je na čekanju. Molimo dovršite transakciju</string>
+    <string name="purchase_status_not_known">Status kupovine nije poznat</string>
+    <string name="enter_file_name">Unesite naziv datoteke</string>
+    <string name="downloading_file">Preuzimanje datoteke</string>
+    <string name="enter_valid_file_name">Unesite ispravan naziv datoteke</string>
+    <string name="download_has_finished_message">Preuzimanje je završeno. Molimo provjerite folder Preuzimanja.</string>
+    <string name="could_not_download_file">Nije moguće preuzeti datoteku</string>
+    <string name="loading">Učitavanje</string>
+    <string name="downloading_update">Preuzimanje ažuriranja</string>
+    <string name="update_downloaded_message">Ažuriranje je upravo preuzeto.</string>
+    <string name="keyboard_enable_webview_message">Pritisnite dugme za prebacivanje tastature na vrhu da omogućite kucanje</string>
+    <string name="preference_title_bug_report">Izvještaj o grešci</string>
+    <string name="preference_title_report_a_issue">Prijavite problem</string>
+    <string name="describe_bug">Molimo opišite grešku ovdje</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">WhatsApp direktorij ne sadrži statuse. Molimo odaberite ispravan direktorij.</string>
+    <string name="please_select_whatsapp_directory">Molimo odaberite WhatsApp direktorij!</string>
+    <string name="download_cleaner">Preuzmite Cleaner</string>
+    <string name="download_recover_messages_app">Preuzmite aplikaciju Recover Messages</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Da biste koristili ovu funkciju, morate preuzeti drugu aplikaciju iz Play trgovine. Kliknite OK da otvorite Play Store i preuzmete aplikaciju.</string>
+    <string name="cancel">Otkaži</string>
+    <string name="ad_space">Oglasni prostor</string>
+    <string name="status">Status</string>
+    <string name="theme">Tema</string>
+    <string name="more_apps">Više aplikacija</string>
+    <string name="share">Dijeli</string>
+    <string name="send">Pošalji</string>
+    <string name="select_country_code_and_number">Odaberite pozivni broj i broj zemlje</string>
+    <string name="how_it_works">Kako radi</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Preuzmite aplikaciju Qr Scanner</string>
+    <string name="share_content">Spremite se da doživite najbrži način pristupa istom WhatsApp računu na dva različita pametna telefona ili tableta, sve besplatno! Preuzmite i instalirajte aplikaciju sada.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

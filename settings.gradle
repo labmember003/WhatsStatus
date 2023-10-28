@@ -1,0 +1,2 @@
+include ':app-whatsweb', ':status', ':commons', ':ratingdialog'
+rootProject.name='whatsweb'

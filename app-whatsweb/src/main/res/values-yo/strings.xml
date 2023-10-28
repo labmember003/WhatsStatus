@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Imudojuiwọn ti pari</string>
+    <string name="app_update_alert_dialog_subtitle">Tun ohun elo naa bẹrẹ lati lo awọn imudojuiwọn…</string>
+    <string name="help">Egba Mi O</string>
+    <string name="cleaner">Isenkanjade</string>
+    <string name="status_saver">Ipamọ ipo</string>
+    <string name="settings">Ètò</string>
+    <string name="saved_statuses_appear_here">Ko si Ipo Wa!</string>
+    <string name="available_statuses">Wa</string>
+    <string name="saved_statuses">Ti fipamọ</string>
+    <string name="enter_message">Tẹ ifiranṣẹ sii (aṣayan)</string>
+    <string name="enter_phone_number">Tẹ Nọmba foonu sii</string>
+    <string name="send_message">Firanṣẹ Ifiranṣẹ</string>
+    <string name="enter_a_phone_number">Tẹ nọmba foonu kan sii</string>
+    <string name="direct_link_copied_to_clipboard">Daakọ ọna asopọ taara si agekuru</string>
+    <string name="premium_unlocked">E dupe. O le bayi lo awọn ẹya ara ẹrọ Ere</string>
+    <string name="settings_category_title_developer">Olùgbéejáde</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Ṣii Orisun Awọn ile-ikawe</string>
+    <string name="preference_title_application_version">Ẹya App</string>
+    <string name="preference_title_contact_us">Pe wa</string>
+    <string name="preference_title_privacy_policy">Asiri Afihan</string>
+    <string name="preference_title_terms_conditions">Awọn ofin Ati Awọn ipo</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Gbogboogbo</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Ipo Dudu</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Bawo ni o ṣe n ṣiṣẹ\?</string>
+    <string name="ok">O DARA</string>
+    <string name="direct_message_help_ans">Jọwọ tẹ nọmba foonu olugba wọle pẹlu ifọrọranṣẹ rẹ. Ni kete ti o ba ṣetan lati fi ifiranṣẹ ranṣẹ, tẹ bọtini \'Firanṣẹ\' nìkan. Ni omiiran, o tun le lo aṣayan \'Asopọ Taara\' lati daakọ ọna asopọ naa ki o pin pẹlu olugba naa. Nipa tite lori ọna asopọ, wọn le iwiregbe pẹlu rẹ taara.</string>
+    <string name="click_here_to_grant_required_permissions">Pa ati tun-ṣe igbanilaaye iwifunni ṣiṣẹ.</string>
+    <string name="please_grant_storage_permissions">Jọwọ fun awọn igbanilaaye Ibi ipamọ</string>
+    <string name="rate_app">Jọwọ ṣe oṣuwọn app naa!</string>
+    <string name="rate_later">Nigbamii</string>
+    <string name="rateUs">Jọwọ Ṣe oṣuwọn app lori Play itaja</string>
+    <string name="send_feedback">Jọwọ fi esi wa. A yoo gbiyanju lati ṣiṣẹ lori rẹ!</string>
+    <string name="try_again">Jọwọ gbiyanju lẹẹkansi</string>
+    <string name="message_copied_to_clipboard">daakọ ifiranṣẹ si agekuru</string>
+    <string name="system_default">Eto Aiyipada</string>
+    <string name="restart">Tun bẹrẹ</string>
+    <string name="light">Imọlẹ</string>
+    <string name="dark">Dudu</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Pin pẹlu</string>
+    <string name="direct_link">Daakọ Ọna asopọ taara</string>
+    <string name="remove_ads">Yọ Awọn ipolowo kuro</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Kini Ayelujara</string>
+    <string name="recover_messages">Bọsipọ Awọn ifiranṣẹ</string>
+    <string name="direct_message">Ifiranṣẹ taara</string>
+    <string name="title_refresh">Tun gbee si</string>
+    <string name="whatsapp_not_installed">Whatsapp ko fi sori ẹrọ. Jọwọ kọkọ fi Whatsapp sori ẹrọ lati lo ẹya yii.</string>
+    <string name="toggle_keyboard">Yipada Keyboard</string>
+    <string name="fullscreen">Gbogbo sikirini</string>
+    <string name="dismiss">Yọọ kuro</string>
+    <string name="keyboard_unblocked">Keyboard ti wa ni ṣiṣi silẹ.</string>
+    <string name="keyboard_blocked">Keyboard ti dina mọ. Tẹ aami bọtini itẹwe lati ṣii.</string>
+    <string name="whats_web_how_it_works">1. Ṣii Ohun elo Ayelujara lori ẹrọ rẹ.\n\n2. Ṣii whatsapp lori miiran foonuiyara.\n\n* Lori Android -&gt; Lati iboju iwiregbe, lọ si atokọ aami mẹta ti o wa ni apa ọtun iboju -&gt; Awọn ẹrọ ti o sopọ.\n\n* Lori foonu Ferese -&gt; Lọ si akojọ awọn aami mẹta -&gt; Awọn ẹrọ ti o sopọ.\n\n* Lori iPhone -&gt; Lọ si Eto -&gt; Awọn ẹrọ ti a ti sopọ.\n\n3. Fọwọ ba Ọna asopọ ẹrọ kan ki o ṣayẹwo koodu QR ti o han loju iboju app yii lati inu foonu miiran.</string>
+    <string name="retry_sending_voice_message">Jọwọ tun gbiyanju fifiranṣẹ ifiranṣẹ ohun</string>
+    <string name="message_retry_sending_voice_message">Tẹ aami gbohungbohun lekan si. O yẹ ki o ṣiṣẹ bi o ti ṣe yẹ.</string>
+    <string name="retry_camera_capture">Jọwọ tun gbiyanju aṣayan kamẹra</string>
+    <string name="message_retry_camera_capture">Tẹ aami kamẹra lekan si. O yẹ ki o ṣiṣẹ bi o ti ṣe yẹ.</string>
+    <string name="audio_perm_reqd">A nilo igbanilaaye ohun lati ni ilọsiwaju siwaju.</string>
+    <string name="camera_perm_reqd">A nilo igbanilaaye kamẹra lati ni ilọsiwaju siwaju.</string>
+    <string name="reset_reload">Tun /Tun gbee si</string>
+    <string name="reset_only">Tunto</string>
+    <string name="reload_only">Tun gbejade NIKAN</string>
+    <string name="reload_warning">Ti o ba ni awọn iṣoro ti o ni ibatan si wiwọle, gbiyanju \'Tunto\'.\nIKILO: O le ni lati buwolu wọle lẹẹkansi ti o ba lo \'Tunto\'.</string>
+    <string name="download_file">Gbigba Faili</string>
+    <string name="couldnt_download_file">Faili ko le ṣe igbasilẹ</string>
+    <string name="storage_perm_reqd">Igbanilaaye ibi ipamọ nilo lati ṣe igbasilẹ faili</string>
+    <string name="purchase_item_not_found">Nkan rira ko ṣee ri</string>
+    <string name="error">Asise</string>
+    <string name="purchase_canceled">Ti fagile rira</string>
+    <string name="pending_purchase">Ra ti wa ni isunmọtosi ni. Jọwọ pari Idunadura</string>
+    <string name="purchase_status_not_known">Ipo rira ko mọ</string>
+    <string name="enter_file_name">Tẹ Orukọ Faili kan sii</string>
+    <string name="downloading_file">Gbigba faili naa</string>
+    <string name="enter_valid_file_name">Jọwọ tẹ orukọ faili to wulo</string>
+    <string name="download_has_finished_message">Gbigbasilẹ ti pari. Jọwọ ṣayẹwo folda Gbigba lati ayelujara.</string>
+    <string name="could_not_download_file">Ko le ṣe igbasilẹ Faili</string>
+    <string name="loading">Ikojọpọ</string>
+    <string name="downloading_update">Gbigba imudojuiwọn</string>
+    <string name="update_downloaded_message">Imudojuiwọn ti ṣẹṣẹ ṣe igbasilẹ.</string>
+    <string name="keyboard_enable_webview_message">Tẹ bọtini itẹwe yipo lori oke lati mu titẹ ṣiṣẹ</string>
+    <string name="preference_title_bug_report">Iroyin kokoro</string>
+    <string name="preference_title_report_a_issue">Jabo oro kan</string>
+    <string name="describe_bug">Jọwọ ṣapejuwe kokoro naa nibi</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">Itọsọna WhatsApp ko ni Awọn ipo ninu. Jọwọ yan itọsọna ti o tọ.</string>
+    <string name="please_select_whatsapp_directory">Jọwọ yan WhatsApp liana!</string>
+    <string name="download_cleaner">Ṣe igbasilẹ Isenkanjade</string>
+    <string name="download_recover_messages_app">Ṣe igbasilẹ Ohun elo Awọn ifiranṣẹ Bọsipọ</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Lati lo ẹya yii, o nilo lati ṣe igbasilẹ ohun elo miiran lati ibi itaja itaja. Tẹ O DARA lati ṣii itaja itaja ati ṣe igbasilẹ app.</string>
+    <string name="cancel">Fagilee</string>
+    <string name="ad_space">Aaye Ipolowo</string>
+    <string name="status">Ipo</string>
+    <string name="theme">Akori</string>
+    <string name="more_apps">Awọn ohun elo diẹ sii</string>
+    <string name="share">Pin</string>
+    <string name="send">Firanṣẹ</string>
+    <string name="select_country_code_and_number">Yan koodu orilẹ-ede ati nọmba</string>
+    <string name="how_it_works">Bi o ṣe n ṣiṣẹ</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Ṣe igbasilẹ App Scanner Qr</string>
+    <string name="share_content">Mura lati ni iriri ọna ti o yara julọ lati wọle si akọọlẹ WhatsApp kanna lori awọn fonutologbolori meji tabi awọn tabulẹti, gbogbo rẹ ni ọfẹ! Ṣe igbasilẹ ati fi app naa sori ẹrọ ni bayi.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

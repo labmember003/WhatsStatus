@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data/>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:id="@+id/parentView"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:layout_height="match_parent">
+
+        <com.google.android.material.appbar.MaterialToolbar
+            android:id="@+id/toolbar"
+            app:title="@string/whats_web"
+            android:theme="@style/ThemeOverlay.MaterialComponents.Dark.ActionBar"
+            android:layout_width="match_parent"
+            android:background="@color/colorPrimary"
+            android:layout_height="?attr/actionBarSize"
+            android:minHeight="?actionBarSize"
+            app:layout_constraintTop_toTopOf="parent"
+            app:popupTheme="@style/ThemeOverlay.MaterialComponents.Light" />
+
+        <com.geeksoftapps.whatsweb.app.ui.customwebview.CustomWebView
+            android:id="@+id/webView"
+            android:windowSoftInputMode="adjustResize"
+            app:layout_constraintTop_toBottomOf="@id/toolbar"
+            android:layout_width="match_parent"
+            app:layout_constraintBottom_toTopOf="@id/bannerInclude"
+            android:layout_height="0dp" />
+
+        <include
+            android:id="@+id/bannerInclude"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            layout="@layout/banner_ad_view"
+            />
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            tools:visibility="visible"
+            android:visibility="gone"
+            android:id="@+id/fabExitFullScreen"
+            android:backgroundTint="@color/green_500"
+            app:srcCompat="@drawable/ic_close"
+            app:fabSize="mini"
+            app:tint="@color/white"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/toolbar" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

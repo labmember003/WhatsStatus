@@ -1,0 +1,60 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+buildscript {
+    ext.kotlin_version = '1.8.21'
+    ext.kodein_version = "6.5.5"
+    ext.lifecycle_version = "2.5.1"
+    ext.arch_version = "2.1.0"
+    ext.permissionsdispatcher_version = "4.9.1"
+    ext.glide_version = "4.13.1"
+    ext.threetenabp_version = "1.2.1"
+    ext.osslicense_plugin_version = "0.10.4"
+    ext.osslicense_version = "17.0.0"
+    ext.material_version = "1.4.0"
+    ext.power_preference_version = "2.1.0"
+    ext.inapp_billing_version = '6.0.1'
+    ext.gradle_version = '7.4.2'
+    ext.touch_image_view_version = '2.3.2'
+    ext.ccp_version = '2.5.0'
+    ext.androidx_preference_version = '1.1.1'
+    ext.play_core_version = '1.10.0'
+    ext.gms_version = '4.3.13'
+    ext.crashlytics_project_version = '2.9.1'
+    ext.facebook_audience_network_version = '6.8.0'
+    ext.exoplayer_version = '2.14.0'
+    ext.coroutines_version = '1.4.2'
+    ext.appcompat_version = '1.6.1'
+    ext.firebase_bom_version = '32.2.2'
+    ext.core_ktx_version = '1.7.0'
+    ext.lottie_version = '3.6.0'
+
+    repositories {
+        google()
+        mavenCentral()
+        maven { url "https://jitpack.io" }
+        maven { url 'https://android-sdk.is.com/' }
+    }
+    dependencies {
+        classpath "com.android.tools.build:gradle:$gradle_version"
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+        classpath "com.google.android.gms:oss-licenses-plugin:$osslicense_plugin_version"
+        classpath "com.google.gms:google-services:$gms_version"
+        classpath "com.google.firebase:firebase-crashlytics-gradle:$crashlytics_project_version"
+        classpath "org.jetbrains.kotlin:kotlin-serialization:$kotlin_version"
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+        maven { url "https://jitpack.io" }
+        maven { url 'https://android-sdk.is.com/' }
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

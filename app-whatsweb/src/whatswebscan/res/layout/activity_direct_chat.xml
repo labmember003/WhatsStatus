@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+    <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/rootLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/backgroundColorDefault">
+
+        <com.google.android.material.appbar.MaterialToolbar
+            android:id="@+id/toolbar"
+            app:title="@string/direct_message"
+            android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+            android:layout_width="match_parent"
+            android:background="@color/colorPrimary"
+            android:layout_height="?attr/actionBarSize"
+            android:minHeight="?actionBarSize"
+            app:layout_constraintTop_toTopOf="parent"
+            app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
+
+        <androidx.core.widget.NestedScrollView
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            app:layout_constraintVertical_bias="0"
+            android:layout_marginBottom="@dimen/margin_post_medium"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/toolbar">
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/margin_medium"
+                android:layout_marginTop="@dimen/margin_medium"
+                android:layout_marginEnd="@dimen/margin_medium"
+                android:fillViewport="true"
+                android:scrollbars="none">
+
+                <com.google.android.material.card.MaterialCardView
+                    android:id="@+id/cvStatus"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:cardBackgroundColor="@color/direct_chat_cardview_background_color"
+                    app:cardCornerRadius="@dimen/margin_pre_medium"
+                    app:cardElevation="0dp">
+
+                    <androidx.constraintlayout.widget.ConstraintLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/margin_small"
+                        android:layout_marginTop="@dimen/margin_small"
+                        android:layout_marginEnd="@dimen/margin_small"
+                        android:layout_marginBottom="@dimen/margin_post_medium"
+                        android:focusableInTouchMode="true">
+
+                        <com.google.android.material.textview.MaterialTextView
+                            android:id="@+id/tvSelectCountryAndNumber"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="10dp"
+                            android:fontFamily="@font/euclid_font_medium"
+                            android:gravity="center"
+                            android:text="@string/select_country_code_and_number"
+                            android:textSize="@dimen/text_size_xxnormal"
+                            app:layout_constraintTop_toTopOf="parent"
+                            app:layout_constraintEnd_toEndOf="parent"
+                            app:layout_constraintStart_toStartOf="parent" />
+
+                        <ImageView
+                            android:id="@+id/ivHelpIcon"
+                            android:layout_width="24dp"
+                            android:layout_height="24dp"
+                            android:src="@drawable/ic_help_black_24dp"
+                            android:layout_marginStart="@dimen/margin_padding_small"
+                            app:layout_constraintStart_toEndOf="@id/tvSelectCountryAndNumber"
+                            app:layout_constraintBottom_toBottomOf="@id/tvSelectCountryAndNumber"
+                            app:layout_constraintTop_toTopOf="@id/tvSelectCountryAndNumber"
+                            app:tint="?android:attr/textColorPrimary" />
+
+
+                        <com.hbb20.CountryCodePicker
+                            android:id="@+id/countryCodePicker"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="@dimen/margin_post_medium"
+                            app:ccpDialog_textColor="?android:attr/textColorPrimary"
+                            app:ccp_autoDetectCountry="true"
+                            app:ccp_contentColor="?android:attr/textColorPrimary"
+                            app:ccp_countryPreference="US,IN,NZ"
+                            app:ccp_showFullName="false"
+                            app:ccp_showNameCode="true"
+                            app:ccp_showPhoneCode="true"
+                            app:layout_constraintStart_toStartOf="parent"
+                            app:layout_constraintTop_toBottomOf="@id/tvSelectCountryAndNumber" />
+
+                        <com.google.android.material.textfield.TextInputLayout
+                            android:id="@+id/textInputPhoneNumber"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="@dimen/margin_small"
+                            android:focusableInTouchMode="true"
+                            android:hint="@string/enter_a_phone_number"
+                            app:boxBackgroundColor="@color/direct_chat_cardview_background_color"
+                            app:layout_constraintEnd_toEndOf="parent"
+                            app:layout_constraintStart_toStartOf="parent"
+                            app:layout_constraintTop_toBottomOf="@+id/countryCodePicker">
+
+                            <EditText
+                                android:id="@+id/etWhatsAppNumber"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:inputType="number" />
+                        </com.google.android.material.textfield.TextInputLayout>
+
+                        <com.google.android.material.textfield.TextInputLayout
+                            android:id="@+id/textInputMessage"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:hint="@string/enter_message"
+                            app:boxBackgroundColor="@color/direct_chat_cardview_background_color"
+                            app:layout_constraintEnd_toEndOf="parent"
+                            app:layout_constraintStart_toStartOf="parent"
+                            app:layout_constraintTop_toBottomOf="@id/textInputPhoneNumber">
+
+                            <EditText
+                                android:id="@+id/etWhatsAppMessage"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:inputType="textCapSentences|textMultiLine"
+                                android:maxHeight="180dp"
+                                android:minHeight="70dp" />
+                        </com.google.android.material.textfield.TextInputLayout>
+
+                        <com.google.android.material.button.MaterialButton
+                            android:id="@+id/btnDirectLink"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/direct_link"
+                            android:textColor="@color/white"
+                            android:layout_marginEnd="@dimen/margin_padding_small"
+                            app:layout_constraintEnd_toStartOf="@id/btnSend"
+                            app:layout_constraintBottom_toBottomOf="@id/btnSend"
+                            app:layout_constraintTop_toTopOf="@id/btnSend"/>
+
+                        <com.google.android.material.button.MaterialButton
+                            android:id="@+id/btnSend"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="@dimen/margin_post_medium"
+                            android:text="@string/send"
+                            android:textColor="@color/white"
+                            app:layout_constraintTop_toBottomOf="@id/textInputMessage"
+                            app:layout_constraintEnd_toEndOf="parent" />
+
+
+                    </androidx.constraintlayout.widget.ConstraintLayout>
+
+                </com.google.android.material.card.MaterialCardView>
+            </ScrollView>
+        </androidx.core.widget.NestedScrollView>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

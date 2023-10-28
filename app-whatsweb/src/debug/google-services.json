@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "545148425507",
+    "project_id": "whats-web---geeksoftapps",
+    "storage_bucket": "whats-web---geeksoftapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545148425507:android:e7348235b7fe8e3f77a896",
+        "android_client_info": {
+          "package_name": "com.geeksoftapps.whatsweb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545148425507-8q40to3o6c3eevc0sffc5mda2dnr25ro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZKntTNZWhJ1_LYKqMxhyc8f9jzPi0JMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545148425507-8q40to3o6c3eevc0sffc5mda2dnr25ro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545148425507:android:9bae14e73181b54377a896",
+        "android_client_info": {
+          "package_name": "com.geeksoftapps.whatsweb.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545148425507-8q40to3o6c3eevc0sffc5mda2dnr25ro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZKntTNZWhJ1_LYKqMxhyc8f9jzPi0JMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545148425507-8q40to3o6c3eevc0sffc5mda2dnr25ro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

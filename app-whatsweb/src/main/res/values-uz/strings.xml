@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Yangilash tugallandi</string>
+    <string name="app_update_alert_dialog_subtitle">Yangilanishlarni qo‘llash uchun ilovani qayta ishga tushiring…</string>
+    <string name="help">Yordam</string>
+    <string name="cleaner">Tozalovchi</string>
+    <string name="status_saver">Status Saver</string>
+    <string name="settings">Sozlamalar</string>
+    <string name="saved_statuses_appear_here">Status mavjud emas!</string>
+    <string name="available_statuses">Mavjud</string>
+    <string name="saved_statuses">Saqlangan</string>
+    <string name="enter_message">Xabarni kiriting (ixtiyoriy)</string>
+    <string name="enter_phone_number">Telefon raqamini kiriting</string>
+    <string name="send_message">Xabar yuborish</string>
+    <string name="enter_a_phone_number">Telefon raqamini kiriting</string>
+    <string name="direct_link_copied_to_clipboard">To\'g\'ridan-to\'g\'ri havola vaqtinchalik xotiraga nusxalandi</string>
+    <string name="premium_unlocked">Rahmat. Endi siz premium funksiyalardan foydalanishingiz mumkin</string>
+    <string name="settings_category_title_developer">Dasturchi</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Ochiq kodli kutubxonalar</string>
+    <string name="preference_title_application_version">Ilova versiyasi</string>
+    <string name="preference_title_contact_us">Biz bilan bog\'lanish</string>
+    <string name="preference_title_privacy_policy">Maxfiylik siyosati</string>
+    <string name="preference_title_terms_conditions">Foydalanish shartlari</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">General</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Qorong\'i rejim</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">U qanday ishlaydi\?</string>
+    <string name="ok">KELISHDIKMI</string>
+    <string name="direct_message_help_ans">Iltimos, matnli xabaringiz bilan birga qabul qiluvchining telefon raqamini kiriting. Xabarni yuborishga tayyor bo\'lganingizdan so\'ng, \"Yuborish\" tugmasini bosing. Shu bilan bir qatorda, havolani nusxalash va uni oluvchi bilan baham ko\'rish uchun \"To\'g\'ridan-to\'g\'ri havola\" opsiyasidan ham foydalanishingiz mumkin. Havolani bosish orqali ular siz bilan bevosita suhbatlashishlari mumkin.</string>
+    <string name="click_here_to_grant_required_permissions">Bildirishnoma ruxsatini o\'chiring va qayta yoqing.</string>
+    <string name="please_grant_storage_permissions">Iltimos, saqlashga ruxsat bering</string>
+    <string name="rate_app">Iltimos, ilovani baholang!</string>
+    <string name="rate_later">Keyinchalik</string>
+    <string name="rateUs">Iltimos, Play Marketda ilovani baholang</string>
+    <string name="send_feedback">Iltimos, bizga fikr-mulohaza yuboring. Buning ustida ishlashga harakat qilamiz!</string>
+    <string name="try_again">Iltimos, yana bir bor urinib ko\'ring</string>
+    <string name="message_copied_to_clipboard">xabar vaqtinchalik xotiraga nusxalandi</string>
+    <string name="system_default">Tizim standarti</string>
+    <string name="restart">Qayta ishga tushirish</string>
+    <string name="light">Nur</string>
+    <string name="dark">Qorong\'i</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Bilan ulashing</string>
+    <string name="direct_link">To\'g\'ridan-to\'g\'ri havolani nusxalash</string>
+    <string name="remove_ads">Reklamalarni olib tashlash</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Veb nima</string>
+    <string name="recover_messages">Xabarlarni tiklash</string>
+    <string name="direct_message">To\'g\'ridan-to\'g\'ri xabar</string>
+    <string name="title_refresh">Qayta yuklash</string>
+    <string name="whatsapp_not_installed">Whatsapp o\'rnatilmagan. Iltimos, bu funksiyadan foydalanish uchun avvalo Whatsapp ilovasini oʻrnating.</string>
+    <string name="toggle_keyboard">Klaviaturani almashtirish</string>
+    <string name="fullscreen">To\'liq ekran</string>
+    <string name="dismiss">Rad etish</string>
+    <string name="keyboard_unblocked">Klaviatura blokdan chiqarildi.</string>
+    <string name="keyboard_blocked">Klaviatura bloklangan. Blokdan chiqarish uchun klaviatura belgisini bosing.</string>
+    <string name="whats_web_how_it_works">1. Qurilmangizda Whats Web ilovasini oching.\n\n2. Boshqa smartfonda whatsapp-ni oching.\n\n* Android-da -&gt; Suhbatlar ekranidan ekranning yuqori o\'ng tomonida joylashgan uchta nuqta menyusiga o\'ting -&gt; Bog\'langan qurilmalar.\n\n* Oyna telefonida -&gt; Uch nuqta menyusiga o\'ting -&gt; Bog\'langan qurilmalar.\n\n* iPhone-da -&gt; Sozlamalar -&gt; Bog\'langan qurilmalarga o\'ting.\n\n3. Qurilmani ulash tugmasini bosing va ushbu ilova ekranida ko‘rsatilgan QR kodni boshqa telefondan skanerlang.</string>
+    <string name="retry_sending_voice_message">Ovozli xabar yuborishni qaytadan urinib ko‘ring</string>
+    <string name="message_retry_sending_voice_message">Mikrofon belgisini yana bir marta bosing. U kutilganidek ishlashi kerak.</string>
+    <string name="retry_camera_capture">Kamera variantini qaytadan urinib koʻring</string>
+    <string name="message_retry_camera_capture">Kamera belgisini yana bir marta bosing. U kutilganidek ishlashi kerak.</string>
+    <string name="audio_perm_reqd">Oldinga harakat qilish uchun audio ruxsat talab qilinadi.</string>
+    <string name="camera_perm_reqd">Oldinga harakat qilish uchun kamera ruxsati talab qilinadi.</string>
+    <string name="reset_reload">Qayta tiklash/qayta yuklash</string>
+    <string name="reset_only">QAYTA O\'RNATISH</string>
+    <string name="reload_only">FAQAT QAYTA YUKLASH</string>
+    <string name="reload_warning">Agar tizimga kirish bilan bog\'liq muammolarga duch kelsangiz, \"Qayta tiklash\" ni sinab ko\'ring.\nOGOHLANTIRISH: “Qayta o‘rnatish” dan foydalansangiz, yana tizimga kirishingiz kerak bo‘lishi mumkin.</string>
+    <string name="download_file">Fayl yuklab olinmoqda</string>
+    <string name="couldnt_download_file">Faylni yuklab bo‘lmadi</string>
+    <string name="storage_perm_reqd">Faylni yuklab olish uchun saqlash ruxsati kerak</string>
+    <string name="purchase_item_not_found">Xarid mahsuloti topilmadi</string>
+    <string name="error">Xato</string>
+    <string name="purchase_canceled">Xarid bekor qilindi</string>
+    <string name="pending_purchase">Xarid kutilmoqda. Iltimos, tranzaksiyani yakunlang</string>
+    <string name="purchase_status_not_known">Xarid holati noma\'lum</string>
+    <string name="enter_file_name">Fayl nomini kiriting</string>
+    <string name="downloading_file">Fayl yuklab olinmoqda</string>
+    <string name="enter_valid_file_name">Yaroqli fayl nomini kiriting</string>
+    <string name="download_has_finished_message">Yuklab olish tugadi. Yuklashlar jildini tekshiring.</string>
+    <string name="could_not_download_file">Faylni yuklab boʻlmadi</string>
+    <string name="loading">Yuklanmoqda</string>
+    <string name="downloading_update">Yangilanish yuklab olinmoqda</string>
+    <string name="update_downloaded_message">Yangilanish endigina yuklab olindi.</string>
+    <string name="keyboard_enable_webview_message">Yozishni yoqish uchun yuqoridagi o‘tish-o‘tish klaviatura tugmasini bosing</string>
+    <string name="preference_title_bug_report">Xatolik hisoboti</string>
+    <string name="preference_title_report_a_issue">Muammo haqida xabar berish</string>
+    <string name="describe_bug">Iltimos, bu erda xatoni tasvirlab bering</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">WhatsApp katalogida Statuslar mavjud emas. Iltimos, to\'g\'ri katalogni tanlang.</string>
+    <string name="please_select_whatsapp_directory">Iltimos, WhatsApp katalogini tanlang!</string>
+    <string name="download_cleaner">Tozalash dasturini yuklab oling</string>
+    <string name="download_recover_messages_app">Recover Messages ilovasini yuklab oling</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Ushbu xususiyatdan foydalanish uchun siz o\'yin do\'konidan boshqa ilovani yuklab olishingiz kerak. Play do\'konini ochish va ilovani yuklab olish uchun OK tugmasini bosing.</string>
+    <string name="cancel">Bekor qilish</string>
+    <string name="ad_space">Reklama maydoni</string>
+    <string name="status">Holat</string>
+    <string name="theme">Mavzu</string>
+    <string name="more_apps">Boshqa ilovalar</string>
+    <string name="share">Ulashish</string>
+    <string name="send">Yuborish</string>
+    <string name="select_country_code_and_number">Mamlakat kodi va raqamni tanlang</string>
+    <string name="how_it_works">U qanday ishlaydi</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Qr Scanner ilovasini yuklab oling</string>
+    <string name="share_content">Ikki xil smartfon yoki planshetda bir xil WhatsApp hisobiga kirishning eng tezkor usulini bepul sinab ko\'rishga tayyor bo\'ling! Ilovani hozir yuklab oling va o\'rnating.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

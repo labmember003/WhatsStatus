@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>should_enable_ads</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>user_agent</key>
+        <value>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36</value>
+    </entry>
+    <entry>
+        <key>disable_app_update</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>ads_interval</key>
+        <value>2</value>
+    </entry>
+    <entry>
+        <key>cleaner_app_id</key>
+        <value>com.lookandfeel.cleanerforwhatsapp</value>
+    </entry>
+    <entry>
+        <key>recover_messages_app_id</key>
+        <value>com.mensajes.borrados.deleted.messages</value>
+    </entry>
+    <entry>
+        <key>qr_code_app_id</key>
+        <value>qrcodereader.barcodescanner.qrscanner.barcodereader.qrcode.barcode.qr.scanner.reader</value>
+    </entry>
+    <entry>
+        <key>app_rate_dialog_interval</key>
+        <value>3</value>
+    </entry>
+    <entry>
+        <key>app_rating_flow_v2</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>total_time_spent_threshold</key>
+        <value>180</value>
+    </entry>
+    <entry>
+        <key>rating_threshold</key>
+        <value>4.3</value>
+    </entry>
+</defaultsMap>

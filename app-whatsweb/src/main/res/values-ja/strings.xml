@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">更新が完了しました</string>
+    <string name="app_update_alert_dialog_subtitle">アプリを再起動して更新を適用します…</string>
+    <string name="help">ヘルプ</string>
+    <string name="cleaner">クリーナー</string>
+    <string name="status_saver">ステータスセーバー</string>
+    <string name="settings">設定</string>
+    <string name="saved_statuses_appear_here">利用可能なステータスがありません!</string>
+    <string name="available_statuses">利用可能</string>
+    <string name="saved_statuses">保存しました</string>
+    <string name="enter_message">メッセージを入力してください (オプション)</string>
+    <string name="enter_phone_number">電話番号を入力</string>
+    <string name="send_message">メッセージを送る</string>
+    <string name="enter_a_phone_number">電話番号を入力してください</string>
+    <string name="direct_link_copied_to_clipboard">クリップボードにコピーされた直接リンク</string>
+    <string name="premium_unlocked">ありがとう。プレミアム機能を使用できるようになりました</string>
+    <string name="settings_category_title_developer">デベロッパー</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">オープンソース ライブラリ</string>
+    <string name="preference_title_application_version">アプリのバージョン</string>
+    <string name="preference_title_contact_us">お問い合わせ</string>
+    <string name="preference_title_privacy_policy">プライバシーポリシー</string>
+    <string name="preference_title_terms_conditions">規約と条件</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">全般的</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">ダークモード</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">使い方？</string>
+    <string name="ok">OK</string>
+    <string name="direct_message_help_ans">テキストメッセージとともに受信者の電話番号を入力してください。メッセージを送信する準備ができたら、[送信] ボタンをクリックします。または、「直接リンク」オプションを使用してリンクをコピーし、受信者と共有することもできます。リンクをクリックすると、彼らはあなたと直接チャットできます。</string>
+    <string name="click_here_to_grant_required_permissions">通知許可を無効にして再度有効にします。</string>
+    <string name="please_grant_storage_permissions">ストレージ権限を付与してください</string>
+    <string name="rate_app">アプリを評価してください！</string>
+    <string name="rate_later">後で</string>
+    <string name="rateUs">Play ストアでアプリを評価してください</string>
+    <string name="send_feedback">フィードバックをお送りください。取り組んでいきます！</string>
+    <string name="try_again">もう一度お試しください</string>
+    <string name="message_copied_to_clipboard">クリップボードにコピーされたメッセージ</string>
+    <string name="system_default">システムのデフォルト</string>
+    <string name="restart">再起動</string>
+    <string name="light">ライト</string>
+    <string name="dark">暗い</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">と共有する</string>
+    <string name="direct_link">ダイレクトリンクをコピー</string>
+    <string name="remove_ads">広告を削除</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">ワッツ・ウェブ</string>
+    <string name="recover_messages">メッセージを回復する</string>
+    <string name="direct_message">ダイレクトメッセージ</string>
+    <string name="title_refresh">リロード</string>
+    <string name="whatsapp_not_installed">Whatsapp がインストールされていません。この機能を使用するには、まず Whatsapp をインストールしてください。</string>
+    <string name="toggle_keyboard">キーボードの切り替え</string>
+    <string name="fullscreen">全画面表示</string>
+    <string name="dismiss">解散</string>
+    <string name="keyboard_unblocked">キーボードのブロックが解除されました。</string>
+    <string name="keyboard_blocked">キーボードがブロックされています。キーボード アイコンを押してブロックを解除します。</string>
+    <string name="whats_web_how_it_works">1. デバイスで Whats Web アプリケーションを開きます。\n\n2. 他のスマートフォンで whatsapp を開きます。\n\n* Android の場合 -&gt; チャット画面から、画面右上の 3 つのドット メニュー -&gt; リンクされたデバイスに移動します。\n\n* Windows Phone の場合 -&gt; 3 つのドット メニューに移動 -&gt; リンクされたデバイス。\n\n* iPhone の場合 -&gt; [設定] -&gt; [リンクされたデバイス] に移動します。\n\n3. [デバイスをリンク] をタップし、このアプリの画面に表示されている QR コードを他の電話からスキャンします。</string>
+    <string name="retry_sending_voice_message">音声メッセージの送信を再試行してください</string>
+    <string name="message_retry_sending_voice_message">マイクのアイコンをもう一度押します。期待どおりに動作するはずです。</string>
+    <string name="retry_camera_capture">カメラオプションを再試行してください</string>
+    <string name="message_retry_camera_capture">カメラアイコンをもう一度押します。期待どおりに動作するはずです。</string>
+    <string name="audio_perm_reqd">先に進むには音声の許可が必要です。</string>
+    <string name="camera_perm_reqd">先に進むには、カメラの許可が必要です。</string>
+    <string name="reset_reload">リセット/リロード</string>
+    <string name="reset_only">リセット</string>
+    <string name="reload_only">リロードのみ</string>
+    <string name="reload_warning">ログインに関連する問題が発生している場合は、「リセット」をお試しください。\n警告: 「リセット」を使用すると、再度ログインする必要がある場合があります。</string>
+    <string name="download_file">ファイルをダウンロードしています</string>
+    <string name="couldnt_download_file">ファイルをダウンロードできませんでした</string>
+    <string name="storage_perm_reqd">ファイルをダウンロードするにはストレージのアクセス許可が必要です</string>
+    <string name="purchase_item_not_found">購入アイテムが見つかりませんでした</string>
+    <string name="error">エラー</string>
+    <string name="purchase_canceled">購入をキャンセルしました</string>
+    <string name="pending_purchase">購入は保留中です。取引を完了してください</string>
+    <string name="purchase_status_not_known">購入状況不明</string>
+    <string name="enter_file_name">ファイル名を入力してください</string>
+    <string name="downloading_file">ファイルのダウンロード</string>
+    <string name="enter_valid_file_name">有効なファイル名を入力してください</string>
+    <string name="download_has_finished_message">ダウンロードが終了しました。ダウンロードフォルダを確認してください。</string>
+    <string name="could_not_download_file">ファイルをダウンロードできませんでした</string>
+    <string name="loading">読み込み中</string>
+    <string name="downloading_update">アップデートをダウンロードしています</string>
+    <string name="update_downloaded_message">アップデートがダウンロードされました。</string>
+    <string name="keyboard_enable_webview_message">上部のトグル キーボード ボタンを押して、入力を有効にします</string>
+    <string name="preference_title_bug_report">バグレポート</string>
+    <string name="preference_title_report_a_issue">問題を報告する</string>
+    <string name="describe_bug">ここにバグを記述してください</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">WhatsApp ディレクトリにはステータスが含まれていません。正しいディレクトリを選択してください。</string>
+    <string name="please_select_whatsapp_directory">WhatsApp ディレクトリを選択してください。</string>
+    <string name="download_cleaner">クリーナーをダウンロード</string>
+    <string name="download_recover_messages_app">メッセージ回復アプリをダウンロード</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">この機能を使用するには、Play ストアから別のアプリをダウンロードする必要があります。 [OK] をクリックして Play ストアを開き、アプリをダウンロードします。</string>
+    <string name="cancel">キャンセル</string>
+    <string name="ad_space">広告スペース</string>
+    <string name="status">スターテス</string>
+    <string name="theme">テーマ</string>
+    <string name="more_apps">より多くのアプリケーション</string>
+    <string name="share">共有</string>
+    <string name="send">送信</string>
+    <string name="select_country_code_and_number">国コードと番号を選択</string>
+    <string name="how_it_works">使い方</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Qrスキャナーアプリをダウンロード</string>
+    <string name="share_content">2 つの異なるスマートフォンまたはタブレットで同じ WhatsApp アカウントにアクセスする最速の方法をすべて無料で体験する準備をしましょう!今すぐアプリをダウンロードしてインストールしてください。</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

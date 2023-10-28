@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Atjaunināšana ir pabeigta</string>
+    <string name="app_update_alert_dialog_subtitle">Restartējiet lietotni, lai lietotu atjauninājumus…</string>
+    <string name="help">Palīdzība</string>
+    <string name="cleaner">Apkopēja</string>
+    <string name="status_saver">Statusa saglabātājs</string>
+    <string name="settings">Iestatījumi</string>
+    <string name="saved_statuses_appear_here">Statuss nav pieejams!</string>
+    <string name="available_statuses">Pieejams</string>
+    <string name="saved_statuses">Saglabāts</string>
+    <string name="enter_message">Ievadiet ziņojumu (neobligāti)</string>
+    <string name="enter_phone_number">Ievadiet tālruņa numuru</string>
+    <string name="send_message">Sūtīt ziņu</string>
+    <string name="enter_a_phone_number">Ievadiet tālruņa numuru</string>
+    <string name="direct_link_copied_to_clipboard">Tiešā saite ir kopēta starpliktuvē</string>
+    <string name="premium_unlocked">Paldies. Tagad varat izmantot premium funkcijas</string>
+    <string name="settings_category_title_developer">Izstrādātājs</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Atvērtā pirmkoda bibliotēkas</string>
+    <string name="preference_title_application_version">Lietotnes versija</string>
+    <string name="preference_title_contact_us">Sazinies ar mums</string>
+    <string name="preference_title_privacy_policy">Privātuma politika</string>
+    <string name="preference_title_terms_conditions">Noteikumi un nosacījumi</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Ģenerālis</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Tumšais režīms</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Kā tas strādā\?</string>
+    <string name="ok">labi</string>
+    <string name="direct_message_help_ans">Lūdzu, ievadiet adresāta tālruņa numuru kopā ar īsziņu. Kad esat gatavs nosūtīt ziņojumu, vienkārši noklikšķiniet uz pogas \"Sūtīt\". Varat arī izmantot opciju Tiešā saite, lai kopētu saiti un kopīgotu to ar adresātu. Noklikšķinot uz saites, viņi var tieši ar jums tērzēt.</string>
+    <string name="click_here_to_grant_required_permissions">Atspējojiet un atkārtoti iespējojiet paziņojumu atļauju.</string>
+    <string name="please_grant_storage_permissions">Lūdzu, piešķiriet krātuves atļaujas</string>
+    <string name="rate_app">Lūdzu, novērtējiet lietotni!</string>
+    <string name="rate_later">Vēlāk</string>
+    <string name="rateUs">Lūdzu, novērtējiet lietotni Play veikalā</string>
+    <string name="send_feedback">Lūdzu, nosūtiet mums atsauksmes. Mēs centīsimies pie tā strādāt!</string>
+    <string name="try_again">Lūdzu mēģiniet vēlreiz</string>
+    <string name="message_copied_to_clipboard">ziņojums ir kopēts starpliktuvē</string>
+    <string name="system_default">Sistēmas noklusējums</string>
+    <string name="restart">Restartēt</string>
+    <string name="light">Gaisma</string>
+    <string name="dark">Tumšs</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Dalīties ar</string>
+    <string name="direct_link">Kopēt tiešo saiti</string>
+    <string name="remove_ads">Noņemt reklāmas</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Kas ir Web</string>
+    <string name="recover_messages">Atgūt ziņojumus</string>
+    <string name="direct_message">Tieša ziņa</string>
+    <string name="title_refresh">Pārlādēt</string>
+    <string name="whatsapp_not_installed">Whatsapp nav instalēts. Lai izmantotu šo funkciju, lūdzu, vispirms instalējiet Whatsapp.</string>
+    <string name="toggle_keyboard">Pārslēgt tastatūru</string>
+    <string name="fullscreen">Pilnekrāna režīms</string>
+    <string name="dismiss">Atlaist</string>
+    <string name="keyboard_unblocked">Tastatūra ir atbloķēta.</string>
+    <string name="keyboard_blocked">Tastatūra ir bloķēta. Lai atbloķētu, nospiediet tastatūras ikonu.</string>
+    <string name="whats_web_how_it_works">1. Savā ierīcē atveriet lietojumprogrammu Whats Web.\n\n2. Atveriet whatsapp citā viedtālrunī.\n\n* Operētājsistēmā Android —&gt; tērzēšanas ekrānā atveriet trīs punktu izvēlni, kas atrodas ekrāna augšējā labajā stūrī -&gt; Saistītās ierīces.\n\n* Windows tālrunī -&gt; dodieties uz trīs punktu izvēlni -&gt; Saistītās ierīces.\n\n* iPhone tālrunī -&gt; dodieties uz Iestatījumi -&gt; Saistītās ierīces.\n\n3. Pieskarieties Saistīt ierīci un skenējiet QR kodu, kas tiek parādīts jūsu šīs lietotnes ekrānā no cita tālruņa.</string>
+    <string name="retry_sending_voice_message">Lūdzu, mēģiniet vēlreiz sūtīt balss ziņojumu</string>
+    <string name="message_retry_sending_voice_message">Vēlreiz nospiediet mikrofona ikonu. Tam vajadzētu darboties, kā paredzēts.</string>
+    <string name="retry_camera_capture">Lūdzu, vēlreiz mēģiniet kameras opciju</string>
+    <string name="message_retry_camera_capture">Vēlreiz nospiediet kameras ikonu. Tam vajadzētu darboties, kā paredzēts.</string>
+    <string name="audio_perm_reqd">Lai turpinātu darbu, ir nepieciešama audio atļauja.</string>
+    <string name="camera_perm_reqd">Lai turpinātu darbu, ir nepieciešama kameras atļauja.</string>
+    <string name="reset_reload">Atiestatīt/pārlādēt</string>
+    <string name="reset_only">RESET</string>
+    <string name="reload_only">TIKAI PĀRLODĒT</string>
+    <string name="reload_warning">Ja rodas problēmas ar pieteikšanos, izmēģiniet “Atiestatīt”.\nBRĪDINĀJUMS. Ja izmantosit “Atiestatīt”, iespējams, būs jāpiesakās vēlreiz.</string>
+    <string name="download_file">Notiek faila lejupielāde</string>
+    <string name="couldnt_download_file">Failu nevarēja lejupielādēt</string>
+    <string name="storage_perm_reqd">Lai lejupielādētu failu, nepieciešama krātuves atļauja</string>
+    <string name="purchase_item_not_found">Pirkuma vienumu nevarēja atrast</string>
+    <string name="error">Kļūda</string>
+    <string name="purchase_canceled">Pirkums atcelts</string>
+    <string name="pending_purchase">Pirkums gaida. Lūdzu, pabeidziet Darījumu</string>
+    <string name="purchase_status_not_known">Pirkuma statuss nav zināms</string>
+    <string name="enter_file_name">Ievadiet faila nosaukumu</string>
+    <string name="downloading_file">Faila lejupielāde</string>
+    <string name="enter_valid_file_name">Lūdzu, ievadiet derīgu faila nosaukumu</string>
+    <string name="download_has_finished_message">Lejupielāde ir pabeigta. Lūdzu, pārbaudiet mapi Lejupielādes.</string>
+    <string name="could_not_download_file">Nevarēja lejupielādēt failu</string>
+    <string name="loading">Notiek ielāde</string>
+    <string name="downloading_update">Notiek atjauninājuma lejupielāde</string>
+    <string name="update_downloaded_message">Tikko tika lejupielādēts atjauninājums.</string>
+    <string name="keyboard_enable_webview_message">Nospiediet augšpusē esošo tastatūras pārslēgšanas pogu, lai iespējotu rakstīšanu</string>
+    <string name="preference_title_bug_report">Kļūdu ziņojums</string>
+    <string name="preference_title_report_a_issue">Ziņot par problēmu</string>
+    <string name="describe_bug">Lūdzu, aprakstiet kļūdu šeit</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">WhatsApp direktorijā nav statusu. Lūdzu, atlasiet pareizo direktoriju.</string>
+    <string name="please_select_whatsapp_directory">Lūdzu, atlasiet WhatsApp direktoriju!</string>
+    <string name="download_cleaner">Lejupielādēt Cleaner</string>
+    <string name="download_recover_messages_app">Lejupielādējiet lietotni Atkopt ziņojumus</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Lai izmantotu šo funkciju, no Play veikala ir jālejupielādē cita lietotne. Noklikšķiniet uz Labi, lai atvērtu Play veikalu un lejupielādētu lietotni.</string>
+    <string name="cancel">Atcelt</string>
+    <string name="ad_space">Reklāmas vieta</string>
+    <string name="status">Statuss</string>
+    <string name="theme">Tēma</string>
+    <string name="more_apps">Vairāk lietotņu</string>
+    <string name="share">Dalīties</string>
+    <string name="send">Sūtīt</string>
+    <string name="select_country_code_and_number">Izvēlieties valsts kodu un numuru</string>
+    <string name="how_it_works">Kā tas strādā</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Lejupielādējiet lietotni QR skeneris</string>
+    <string name="share_content">Sagatavojieties piedzīvot ātrāko veidu, kā bez maksas piekļūt vienam un tam pašam WhatsApp kontam divos dažādos viedtālruņos vai planšetdatoros! Lejupielādējiet un instalējiet lietotni tūlīt.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

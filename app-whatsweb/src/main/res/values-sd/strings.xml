@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">اپڊيٽ مڪمل آهي</string>
+    <string name="app_update_alert_dialog_subtitle">اپڊيٽ لاڳو ڪرڻ لاءِ ايپ کي ٻيهر شروع ڪريو…</string>
+    <string name="help">مدد</string>
+    <string name="cleaner">صاف ڪندڙ</string>
+    <string name="status_saver">اسٽيٽس سيور</string>
+    <string name="settings">سيٽنگون</string>
+    <string name="saved_statuses_appear_here">ڪابه حالت موجود ناهي!</string>
+    <string name="available_statuses">دستياب</string>
+    <string name="saved_statuses">محفوظ ٿيل</string>
+    <string name="enter_message">پيغام داخل ڪريو (اختياري)</string>
+    <string name="enter_phone_number">فون نمبر داخل ڪريو</string>
+    <string name="send_message">پيغام موڪليو</string>
+    <string name="enter_a_phone_number">هڪ فون نمبر داخل ڪريو</string>
+    <string name="direct_link_copied_to_clipboard">سڌو لنڪ ڪلپ بورڊ ڏانهن نقل ڪيو ويو</string>
+    <string name="premium_unlocked">تنهنجي مهرباني. توھان ھاڻي استعمال ڪري سگھوٿا پريميئم خاصيتون</string>
+    <string name="settings_category_title_developer">ڊولپر</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">اوپن سورس لائبريريون</string>
+    <string name="preference_title_application_version">ايپ نسخو</string>
+    <string name="preference_title_contact_us">اسان سان رابطو ڪريو</string>
+    <string name="preference_title_privacy_policy">رازداري پاليسي</string>
+    <string name="preference_title_terms_conditions">شرط ۽ ضابطا</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">جنرل</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">ڊارڪ موڊ</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">اهو ڪيئن ڪم ڪري ٿو؟</string>
+    <string name="ok">ٺيڪ</string>
+    <string name="direct_message_help_ans">مهرباني ڪري پنهنجي ٽيڪسٽ پيغام سان گڏ وصول ڪندڙ جو فون نمبر داخل ڪريو. هڪ دفعو توهان پيغام موڪلڻ لاء تيار آهيو، صرف \'موڪليو\' بٽڻ تي ڪلڪ ڪريو. متبادل طور تي، توھان پڻ استعمال ڪري سگھو ٿا \'سڌو لنڪ\' اختيار لنڪ کي نقل ڪرڻ لاءِ ۽ ان کي وصول ڪندڙ سان حصيداري ڪريو. لنڪ تي ڪلڪ ڪندي، اهي توهان سان سڌو چيٽ ڪري سگهن ٿا.</string>
+    <string name="click_here_to_grant_required_permissions">نوٽيفڪيشن جي اجازت کي غير فعال ۽ ٻيهر فعال ڪريو.</string>
+    <string name="please_grant_storage_permissions">مھرباني ڪري اسٽوريج جي اجازت ڏيو</string>
+    <string name="rate_app">مهرباني ڪري ائپ جي شرح ڪريو!</string>
+    <string name="rate_later">بعد ۾</string>
+    <string name="rateUs">مهرباني ڪري Play Store تي ايپ جي درجه بندي ڪريو</string>
+    <string name="send_feedback">مهرباني ڪري اسان کي موٽ موڪليو. اسان ان تي ڪم ڪرڻ جي ڪوشش ڪنداسين!</string>
+    <string name="try_again">مهرباني ڪري ٻيهر ڪوشش ڪريو</string>
+    <string name="message_copied_to_clipboard">پيغام ڪلپ بورڊ تي نقل ڪيو ويو</string>
+    <string name="system_default">سسٽم ڊفالٽ</string>
+    <string name="restart">ٻيهر شروع ڪريو</string>
+    <string name="light">روشني</string>
+    <string name="dark">ڳاڙهو</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">سان حصيداري ڪريو</string>
+    <string name="direct_link">ڪاپي سڌو لنڪ</string>
+    <string name="remove_ads">اشتهار هٽايو</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">ڇا ويب</string>
+    <string name="recover_messages">پيغام بحال ڪريو</string>
+    <string name="direct_message">سڌو پيغام</string>
+    <string name="title_refresh">ٻيهر لوڊ ڪريو</string>
+    <string name="whatsapp_not_installed">Whatsapp انسٽال ناهي. مھرباني ڪري ھن خصوصيت کي استعمال ڪرڻ لاءِ پهريان WhatsApp انسٽال ڪريو.</string>
+    <string name="toggle_keyboard">ڪي بورڊ ٽوگل ڪريو</string>
+    <string name="fullscreen">مڪمل اسڪرين</string>
+    <string name="dismiss">برطرف</string>
+    <string name="keyboard_unblocked">ڪي بورڊ کوليو ويو آهي.</string>
+    <string name="keyboard_blocked">ڪي بورڊ بند ٿيل آهي. کولڻ لاءِ ڪيبورڊ آئڪن کي دٻايو.</string>
+    <string name="whats_web_how_it_works">1. توهان جي ڊوائيس تي Whats ويب ايپليڪيشن کوليو.\n\n2. ٻئي اسمارٽ فون تي WhatsApp کوليو.\n\n* Android تي -&gt; چيٽس اسڪرين مان، اسڪرين جي مٿي ساڄي پاسي واقع ٽي ڊٽ مينيو ڏانھن وڃو -&gt; ڳنڍيل ڊوائيسز.\n\n* ونڊو فون تي -&gt; ٽي ڊٽ مينيو ڏانھن وڃو -&gt; ڳنڍيل ڊوائيسز.\n\n* آئي فون تي -&gt; سيٽنگون ڏانھن وڃو -&gt; ڳنڍيل ڊوائيسز.\n\n3. تي ٽيپ ڪريو لنڪ هڪ ڊوائيس ۽ اسڪين ڪيو QR ڪوڊ توهان جي هن ايپ اسڪرين تي ڏيکاريل آهي ٻئي فون مان.</string>
+    <string name="retry_sending_voice_message">مهرباني ڪري ٻيهر ڪوشش ڪريو وائس پيغام موڪلڻ</string>
+    <string name="message_retry_sending_voice_message">هڪ ڀيرو ٻيهر مائڪروفون جي آئڪن کي دٻايو. اهو ڪم ڪرڻ گهرجي جيئن توقع آهي.</string>
+    <string name="retry_camera_capture">مهرباني ڪري ٻيهر ڪوشش ڪريو ڪئميرا اختيار</string>
+    <string name="message_retry_camera_capture">ڪئميرا آئڪن کي هڪ ڀيرو وڌيڪ دٻايو. اهو ڪم ڪرڻ گهرجي جيئن توقع آهي.</string>
+    <string name="audio_perm_reqd">اڳتي وڌڻ لاءِ آڊيو اجازت گھربل آھي.</string>
+    <string name="camera_perm_reqd">اڳتي وڌڻ لاءِ ڪئميرا جي اجازت گھربل آھي.</string>
+    <string name="reset_reload">ري سيٽ /ٻيهر لوڊ ڪريو</string>
+    <string name="reset_only">ري سيٽ ڪريو</string>
+    <string name="reload_only">صرف ٻيهر لوڊ ڪريو</string>
+    <string name="reload_warning">جيڪڏهن توهان لاگ ان سان لاڳاپيل مسئلا محسوس ڪري رهيا آهيو، ڪوشش ڪريو \'ري سيٽ\'.\nخبردار: توهان کي ٻيهر لاگ ان ٿيڻو پوندو جيڪڏهن توهان \'ري سيٽ\' استعمال ڪندا آهيو.</string>
+    <string name="download_file">فائل ڊائون لوڊ ڪندي</string>
+    <string name="couldnt_download_file">فائل ڊائون لوڊ نه ٿي سگھي</string>
+    <string name="storage_perm_reqd">فائل ڊائون لوڊ ڪرڻ لاءِ اسٽوريج جي اجازت گهربل</string>
+    <string name="purchase_item_not_found">خريداري جي شيءِ نه ملي سگهي</string>
+    <string name="error">نقص</string>
+    <string name="purchase_canceled">خريداري منسوخ ڪئي وئي</string>
+    <string name="pending_purchase">خريداري التوا ۾ آهي. مھرباني ڪري ٽرانزيڪشن مڪمل ڪريو</string>
+    <string name="purchase_status_not_known">خريداري جي صورتحال معلوم نه آهي</string>
+    <string name="enter_file_name">فائل جو نالو داخل ڪريو</string>
+    <string name="downloading_file">فائل ڊائون لوڊ ڪندي</string>
+    <string name="enter_valid_file_name">مھرباني ڪري صحيح فائل جو نالو داخل ڪريو</string>
+    <string name="download_has_finished_message">ڊائون لوڊ مڪمل ٿي چڪو آهي. مهرباني ڪري چيڪ ڪريو ڊائون لوڊ فولڊر.</string>
+    <string name="could_not_download_file">فائل ڊائون لوڊ نه ٿي سگھي</string>
+    <string name="loading">لوڊشيڊنگ</string>
+    <string name="downloading_update">اپڊيٽ ڊائون لوڊ ڪندي</string>
+    <string name="update_downloaded_message">هڪ تازه ڪاري ڊائون لوڊ ڪيو ويو آهي.</string>
+    <string name="keyboard_enable_webview_message">ٽائپنگ کي فعال ڪرڻ لاءِ مٿي تي ٽوگل ڪيبورڊ بٽڻ کي دٻايو</string>
+    <string name="preference_title_bug_report">بگ رپورٽ</string>
+    <string name="preference_title_report_a_issue">هڪ مسئلو رپورٽ ڪريو</string>
+    <string name="describe_bug">مهرباني ڪري هتي بگ بيان ڪريو</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">WhatsApp ڊاريڪٽري ۾ اسٽيٽس شامل ناهي. مھرباني ڪري صحيح ڊاريڪٽري چونڊيو.</string>
+    <string name="please_select_whatsapp_directory">مهرباني ڪري WhatsApp ڊاريڪٽري چونڊيو!</string>
+    <string name="download_cleaner">ڊائون لوڊ ڪريو صاف ڪندڙ</string>
+    <string name="download_recover_messages_app">ڊائون لوڊ ڪريو Recover Messages ايپ</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">هن فيچر کي استعمال ڪرڻ لاءِ، توهان کي پلي اسٽور تان ٻي ايپ ڊائون لوڊ ڪرڻي پوندي. پلي اسٽور کولڻ ۽ ايپ ڊائون لوڊ ڪرڻ لاءِ OK تي ڪلڪ ڪريو.</string>
+    <string name="cancel">منسوخ ڪريو</string>
+    <string name="ad_space">اشتهار جي جڳھ</string>
+    <string name="status">حيثيت</string>
+    <string name="theme">موضوع</string>
+    <string name="more_apps">وڌيڪ ائپس</string>
+    <string name="share">حصيداري ڪريو</string>
+    <string name="send">موڪليو</string>
+    <string name="select_country_code_and_number">ملڪ جو ڪوڊ ۽ نمبر چونڊيو</string>
+    <string name="how_it_works">اهو ڪيئن ڪم ڪري ٿو</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">ڊائون لوڊ ڪريو Qr اسڪينر ايپ</string>
+    <string name="share_content">ٻن مختلف اسمارٽ فونز يا ٽيبلٽس تي هڪ ئي WhatsApp اڪائونٽ تائين رسائي حاصل ڪرڻ لاءِ تيز ترين طريقو تجربو ڪرڻ لاءِ تيار ٿي وڃو، سڀ مفت ۾! ھاڻي ايپ ڊائون لوڊ ۽ انسٽال ڪريو.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

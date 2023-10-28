@@ -1,0 +1,201 @@
+<resources>
+
+    <string name="app_update_alert_dialog_title">La mise à jour est terminée</string>
+
+    <string name="app_update_alert_dialog_subtitle">Redémarrez l\'application pour appliquer les mises à jour…</string>
+
+    <string name="help">Aide</string>
+
+    <string name="cleaner">Nettoyeur</string>
+
+    <string name="status_saver">Économiseur d\'état</string>
+
+    <string name="settings">Paramètres</string>
+
+    <string name="saved_statuses_appear_here">Aucun état disponible !</string>
+
+    <string name="available_statuses">Disponible</string>
+
+    <string name="saved_statuses">Enregistré</string>
+
+    <string name="enter_message">Saisissez un message (facultatif)</string>
+
+    <string name="enter_phone_number">Saisissez le numéro de téléphone</string>
+
+    <string name="send_message">Envoyer le message</string>
+
+    <string name="enter_a_phone_number">Saisir un numéro de téléphone</string>
+
+    <string name="direct_link_copied_to_clipboard">Lien direct copié dans le presse-papiers</string>
+
+    <string name="premium_unlocked">Merci. Vous pouvez désormais utiliser les fonctionnalités premium</string>
+
+    <string name="settings_category_title_developer">Développeur</string>
+
+    <string name="preference_title_open_source_licenses">Bibliothèques Open Source</string>
+
+    <string name="preference_title_application_version">Version de l\'application</string>
+
+    <string name="preference_title_contact_us">Nous contacter</string>
+
+    <string name="preference_title_privacy_policy">Politique de confidentialité</string>
+
+    <string name="preference_title_terms_conditions">Termes et conditions</string>
+
+    <string name="settings_category_title_general">Généralités</string>
+
+    <string name="preference_title_dark_mode">Mode sombre</string>
+
+    <string name="how_to_use">Comment ça fonctionne ?</string>
+
+    <string name="ok">D\'accord</string>
+
+    <string name="direct_message_help_ans">Veuillez saisir le numéro de téléphone du destinataire avec votre message de texte. Une fois que vous êtes prêt à envoyer le message, cliquez simplement sur le bouton \"Envoyer\". Alternativement, vous pouvez également utiliser l\'option \"Lien direct\" pour copier le lien et le partager avec le destinataire. En cliquant sur le lien, ils peuvent discuter directement avec vous.</string>
+
+    <string name="click_here_to_grant_required_permissions">Désactiver et réactiver l\'autorisation de notification.</string>
+
+    <string name="please_grant_storage_permissions">Veuillez accorder les autorisations de stockage</string>
+
+    <string name="rate_app">Veuillez noter l\'application !</string>
+
+    <string name="rate_later">Plus tard</string>
+
+    <string name="rateUs">Veuillez noter l\'application sur Play Store</string>
+
+    <string name="send_feedback">Veuillez nous envoyer vos commentaires. On va essayer d\'y travailler !</string>
+
+    <string name="try_again">Veuillez réessayer</string>
+
+    <string name="message_copied_to_clipboard">message copié dans le presse papier</string>
+
+    <string name="system_default">Défaillance du système</string>
+
+    <string name="restart">Redémarrer</string>
+
+    <string name="light">Lumière</string>
+
+    <string name="dark">Sombre</string>
+
+    <string name="share_with">Partager avec</string>
+
+    <string name="direct_link">Copier le lien direct</string>
+
+    <string name="remove_ads">Supprimer la pub</string>
+
+    <string name="whats_web">Whats Web</string>
+
+    <string name="recover_messages">Récupérer les messages</string>
+
+    <string name="direct_message">Message direct</string>
+
+    <string name="title_refresh">Recharger</string>
+
+    <string name="whatsapp_not_installed">WhatsApp n\'est pas installé. Veuillez d\'abord installer Whatsapp pour utiliser cette fonctionnalité.</string>
+
+    <string name="toggle_keyboard">Activer/désactiver le clavier</string>
+
+    <string name="fullscreen">Plein écran</string>
+
+    <string name="dismiss">Rejeter</string>
+
+    <string name="keyboard_unblocked">Le clavier est débloqué.</string>
+
+    <string name="keyboard_blocked">Le clavier est bloqué. Appuyez sur l\'icône du clavier pour débloquer.</string>
+
+    <string name="whats_web_how_it_works">1. Ouvrez l\'application Whats Web sur votre dispositif.\n\n2. Ouvrez WhatsApp sur un autre smartphone.\n\n* Sur Android -&gt; À partir de l\'écran des chats, accédez au menu à trois points situé en haut à droite de l\'écran -&gt; Dispositifs associés.\n\n* Sur le téléphone Windows -&gt; Accédez au menu à trois points -&gt; Dispositifs associés.\n\n* Sur iPhone -&gt; Allez dans Paramètres -&gt; Dispositifs associés.\n\n3. Appuyez sur Associer un dispositif et scannez le code QR affiché sur l\'écran de cette application à partir d\'un autre téléphone.</string>
+
+    <string name="retry_sending_voice_message">Veuillez réessayer d\'envoyer un message vocal</string>
+
+    <string name="message_retry_sending_voice_message">Appuyez une fois de plus sur l\'icône du microphone. Cela devrait fonctionner comme prévu.</string>
+
+    <string name="retry_camera_capture">Veuillez réessayer l\'option de Caméra</string>
+
+    <string name="message_retry_camera_capture">Appuyez une fois de plus sur l\'icône de la caméra Cela devrait fonctionner comme prévu.</string>
+
+    <string name="audio_perm_reqd">Une autorisation audio est requise pour progresser.</string>
+
+    <string name="camera_perm_reqd">L\'autorisation de la caméra est requise pour progresser.</string>
+
+    <string name="reset_reload">Réinitialiser/Recharger</string>
+
+    <string name="reset_only">RÉINITIALISER</string>
+
+    <string name="reload_only">RECHARGER UNIQUEMENT</string>
+
+    <string name="reload_warning">Si vous rencontrez des problèmes liés à la connexion, essayez \"Réinitialiser\".\nAVERTISSEMENT : Vous devrez peut-être vous reconnecter si vous utilisez \"Réinitialiser\".</string>
+
+    <string name="download_file">Téléchargement de fichier</string>
+
+    <string name="couldnt_download_file">Le fichier n\'a pas pu être téléchargé</string>
+
+    <string name="storage_perm_reqd">Autorisation de stockage nécessaire pour télécharger le fichier</string>
+
+    <string name="purchase_item_not_found">L\'article d\'achat est introuvable</string>
+
+    <string name="error">Erreur</string>
+
+    <string name="purchase_canceled">Achat annulé</string>
+
+    <string name="pending_purchase">L\'achat est en attente. Veuillez compléter la transaction</string>
+
+    <string name="purchase_status_not_known">L\'état de l\'achat n\'est pas connu</string>
+
+    <string name="enter_file_name">Saisissez un nom de fichier</string>
+
+    <string name="downloading_file">Téléchargement du fichier</string>
+
+    <string name="enter_valid_file_name">Veuillez saisir un nom de fichier valide</string>
+
+    <string name="download_has_finished_message">Le téléchargement est terminé. Veuillez consulter le dossier Téléchargements.</string>
+
+    <string name="could_not_download_file">Impossible de télécharger le fichier</string>
+
+    <string name="loading">Chargement</string>
+
+    <string name="downloading_update">Téléchargement de la mise à jour</string>
+
+    <string name="update_downloaded_message">Une mise à jour vient d\'être téléchargée.</string>
+
+    <string name="keyboard_enable_webview_message">Appuyez sur le bouton d\'activation/désactivation du clavier en haut pour activer la saisie</string>
+
+    <string name="preference_title_bug_report">Rapport d\'erreur</string>
+
+    <string name="preference_title_report_a_issue">Signaler un problème</string>
+
+    <string name="describe_bug">Veuillez décrire le bogue ici</string>
+
+    <string name="whatsapp_directory_does_not_contain_statuses">Le répertoire WhatsApp ne contient pas d\'états. Veuillez sélectionner le bon répertoire.</string>
+
+    <string name="please_select_whatsapp_directory">Veuillez sélectionner le répertoire WhatsApp !</string>
+
+    <string name="download_cleaner">Télécharger le nettoyeur</string>
+
+    <string name="download_recover_messages_app">Télécharger l\'application de récupération de messages</string>
+
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Pour utiliser cette fonctionnalité, vous devez télécharger une autre application depuis Play Store. Cliquez sur OK pour ouvrir Play Store et télécharger l\'application.</string>
+
+    <string name="cancel">Annuler</string>
+
+    <string name="ad_space">Espace publicitaire</string>
+
+    <string name="status">État</string>
+
+    <string name="theme">Thème</string>
+
+    <string name="more_apps">Plus d\'applications</string>
+
+    <string name="share">Partager</string>
+
+    <string name="send">Envoyer</string>
+
+    <string name="select_country_code_and_number">Sélectionnez le code et le numéro du pays</string>
+
+    <string name="how_it_works">Comment ça fonctionne</string>
+
+    <string name="download_qrcodescanner">Télécharger l\'application QR Scanner</string>
+
+    <string name="share_content">Préparez-vous à découvrir le moyen le plus rapide d\'accéder au même compte WhatsApp sur deux smartphones ou tablettes différents, le tout gratuitement ! Téléchargez et installez l\'application maintenant.</string>
+
+    <string name="directly_message_anyone_without_saving_phone_as_contact" />
+
+</resources>

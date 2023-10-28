@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">การอัปเดตเสร็จสมบูรณ์</string>
+    <string name="app_update_alert_dialog_subtitle">รีสตาร์ทแอปเพื่อใช้การอัปเดต...</string>
+    <string name="help">ช่วย</string>
+    <string name="cleaner">ทำความสะอาด</string>
+    <string name="status_saver">โปรแกรมรักษาสถานะ</string>
+    <string name="settings">การตั้งค่า</string>
+    <string name="saved_statuses_appear_here">ไม่มีสถานะ!</string>
+    <string name="available_statuses">มีอยู่</string>
+    <string name="saved_statuses">บันทึกไว้</string>
+    <string name="enter_message">ป้อนข้อความ (ไม่บังคับ)</string>
+    <string name="enter_phone_number">ป้อนหมายเลขโทรศัพท์</string>
+    <string name="send_message">ส่งข้อความ</string>
+    <string name="enter_a_phone_number">ป้อนหมายเลขโทรศัพท์</string>
+    <string name="direct_link_copied_to_clipboard">คัดลอกลิงก์โดยตรงไปยังคลิปบอร์ดแล้ว</string>
+    <string name="premium_unlocked">ขอบคุณ ตอนนี้คุณสามารถใช้คุณสมบัติพิเศษได้แล้ว</string>
+    <string name="settings_category_title_developer">นักพัฒนา</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">ไลบรารีโอเพ่นซอร์ส</string>
+    <string name="preference_title_application_version">เวอร์ชันแอป</string>
+    <string name="preference_title_contact_us">ติดต่อเรา</string>
+    <string name="preference_title_privacy_policy">นโยบายความเป็นส่วนตัว</string>
+    <string name="preference_title_terms_conditions">ข้อกำหนดและเงื่อนไข</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">ทั่วไป</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">โหมดมืด</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">มันทำงานอย่างไร\?</string>
+    <string name="ok">ตกลง</string>
+    <string name="direct_message_help_ans">กรุณาใส่หมายเลขโทรศัพท์ของผู้รับพร้อมกับข้อความของคุณ เมื่อคุณพร้อมที่จะส่งข้อความ เพียงคลิกที่ปุ่ม \'ส่ง\' หรือคุณสามารถใช้ตัวเลือก \'ลิงก์โดยตรง\' เพื่อคัดลอกลิงก์และแชร์กับผู้รับ เมื่อคลิกลิงก์ พวกเขาสามารถสนทนากับคุณได้โดยตรง</string>
+    <string name="click_here_to_grant_required_permissions">ปิดใช้งานและเปิดใช้งานการอนุญาตการแจ้งเตือนอีกครั้ง</string>
+    <string name="please_grant_storage_permissions">โปรดให้สิทธิ์ในการจัดเก็บ</string>
+    <string name="rate_app">กรุณาให้คะแนนแอป!</string>
+    <string name="rate_later">ภายหลัง</string>
+    <string name="rateUs">กรุณาให้คะแนนแอปใน Play Store</string>
+    <string name="send_feedback">โปรดส่งความคิดเห็นถึงเรา เราจะพยายามทำงานให้ได้!</string>
+    <string name="try_again">กรุณาลองอีกครั้ง</string>
+    <string name="message_copied_to_clipboard">ข้อความที่คัดลอกไปยังคลิปบอร์ด</string>
+    <string name="system_default">ค่าเริ่มต้นของระบบ</string>
+    <string name="restart">เริ่มต้นใหม่</string>
+    <string name="light">แสงสว่าง</string>
+    <string name="dark">มืด</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">ร่วมกับ</string>
+    <string name="direct_link">คัดลอกลิงก์โดยตรง</string>
+    <string name="remove_ads">ลบโฆษณา</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">เว็บอะไร</string>
+    <string name="recover_messages">กู้คืนข้อความ</string>
+    <string name="direct_message">ข้อความโดยตรง</string>
+    <string name="title_refresh">โหลดใหม่</string>
+    <string name="whatsapp_not_installed">ไม่ได้ติดตั้ง Whatsapp โปรดติดตั้ง Whatsapp ก่อนเพื่อใช้คุณสมบัตินี้</string>
+    <string name="toggle_keyboard">สลับแป้นพิมพ์</string>
+    <string name="fullscreen">เต็มจอ</string>
+    <string name="dismiss">อนุญาตให้ออกไป</string>
+    <string name="keyboard_unblocked">แป้นพิมพ์ถูกปลดบล็อก</string>
+    <string name="keyboard_blocked">แป้นพิมพ์ถูกบล็อก กดไอคอนแป้นพิมพ์เพื่อเลิกบล็อก</string>
+    <string name="whats_web_how_it_works">1. เปิดแอปพลิเคชัน Whats Web บนอุปกรณ์ของคุณ\n\n2. เปิด whatsapp บนสมาร์ทโฟนเครื่องอื่น\n\n* บน Android -&gt; จากหน้าจอแชท ให้ไปที่เมนูสามจุดซึ่งอยู่ที่ด้านบนขวาของหน้าจอ -&gt; อุปกรณ์ที่เชื่อมโยง\n\n* บน Window phone -&gt; ไปที่เมนูสามจุด -&gt; อุปกรณ์ที่เชื่อมโยง\n\n* บน iPhone -&gt; ไปที่การตั้งค่า -&gt; อุปกรณ์ที่เชื่อมโยง\n\n3. แตะที่เชื่อมโยงอุปกรณ์และสแกนรหัส QR ที่แสดงบนหน้าจอแอพนี้ของคุณจากโทรศัพท์เครื่องอื่น</string>
+    <string name="retry_sending_voice_message">โปรดลองส่งข้อความเสียงอีกครั้ง</string>
+    <string name="message_retry_sending_voice_message">กดไอคอนไมโครโฟนอีกครั้ง มันควรจะทำงานตามที่คาดไว้</string>
+    <string name="retry_camera_capture">โปรดลองตัวเลือกกล้องอีกครั้ง</string>
+    <string name="message_retry_camera_capture">กดไอคอนกล้องอีกครั้ง มันควรจะทำงานตามที่คาดไว้</string>
+    <string name="audio_perm_reqd">ต้องได้รับอนุญาตเสียงเพื่อดำเนินการไปข้างหน้า</string>
+    <string name="camera_perm_reqd">ต้องได้รับอนุญาตจากกล้องเพื่อดำเนินการต่อ</string>
+    <string name="reset_reload">รีเซ็ต/โหลดซ้ำ</string>
+    <string name="reset_only">รีเซ็ต</string>
+    <string name="reload_only">โหลดซ้ำเท่านั้น</string>
+    <string name="reload_warning">หากคุณประสบปัญหาเกี่ยวกับการเข้าสู่ระบบ ให้ลอง \'รีเซ็ต\'\nคำเตือน: คุณอาจต้องเข้าสู่ระบบอีกครั้งหากคุณใช้ \'รีเซ็ต\'</string>
+    <string name="download_file">กำลังดาวน์โหลดไฟล์</string>
+    <string name="couldnt_download_file">ไม่สามารถดาวน์โหลดไฟล์ได้</string>
+    <string name="storage_perm_reqd">สิทธิ์ในการจัดเก็บข้อมูลที่จำเป็นในการดาวน์โหลดไฟล์</string>
+    <string name="purchase_item_not_found">ไม่พบรายการซื้อ</string>
+    <string name="error">ข้อผิดพลาด</string>
+    <string name="purchase_canceled">การซื้อถูกยกเลิก</string>
+    <string name="pending_purchase">การสั่งซื้ออยู่ระหว่างดำเนินการ กรุณาทำธุรกรรมให้เสร็จสมบูรณ์</string>
+    <string name="purchase_status_not_known">ไม่ทราบสถานะการซื้อ</string>
+    <string name="enter_file_name">ป้อนชื่อไฟล์</string>
+    <string name="downloading_file">กำลังดาวน์โหลดไฟล์</string>
+    <string name="enter_valid_file_name">โปรดป้อนชื่อไฟล์ที่ถูกต้อง</string>
+    <string name="download_has_finished_message">การดาวน์โหลดเสร็จสิ้น โปรดตรวจสอบโฟลเดอร์ดาวน์โหลด</string>
+    <string name="could_not_download_file">ไม่สามารถดาวน์โหลดไฟล์</string>
+    <string name="loading">กำลังโหลด</string>
+    <string name="downloading_update">กำลังดาวน์โหลดอัปเดต</string>
+    <string name="update_downloaded_message">เพิ่งดาวน์โหลดการอัปเดต</string>
+    <string name="keyboard_enable_webview_message">กดปุ่มสลับแป้นพิมพ์ด้านบนเพื่อเปิดใช้งานการพิมพ์</string>
+    <string name="preference_title_bug_report">รายงานข้อบกพร่อง</string>
+    <string name="preference_title_report_a_issue">รายงานปัญหา</string>
+    <string name="describe_bug">โปรดอธิบายจุดบกพร่องที่นี่</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">ไดเรกทอรี WhatsApp ไม่มีสถานะ โปรดเลือกไดเร็กทอรีที่ถูกต้อง</string>
+    <string name="please_select_whatsapp_directory">โปรดเลือกไดเร็กทอรี WhatsApp!</string>
+    <string name="download_cleaner">ดาวน์โหลดตัวล้าง</string>
+    <string name="download_recover_messages_app">ดาวน์โหลดแอปกู้คืนข้อความ</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">หากต้องการใช้ฟีเจอร์นี้ คุณต้องดาวน์โหลดแอปอื่นจาก play store คลิกตกลงเพื่อเปิด play store และดาวน์โหลดแอพ</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="ad_space">พื้นที่โฆษณา</string>
+    <string name="status">สถานะ</string>
+    <string name="theme">ธีม</string>
+    <string name="more_apps">แอพเพิ่มเติม</string>
+    <string name="share">แบ่งปัน</string>
+    <string name="send">ส่ง</string>
+    <string name="select_country_code_and_number">เลือกรหัสประเทศและหมายเลข</string>
+    <string name="how_it_works">มันทำงานอย่างไร</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">ดาวน์โหลดแอพ Qr Scanner</string>
+    <string name="share_content">เตรียมพบกับวิธีที่เร็วที่สุดในการเข้าถึงบัญชี WhatsApp เดียวกันบนสมาร์ทโฟนหรือแท็บเล็ตที่แตกต่างกันสองเครื่อง ทั้งหมดนี้ฟรี! ดาวน์โหลดและติดตั้งแอพทันที</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

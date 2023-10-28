@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Värskendus on lõpetatud</string>
+    <string name="app_update_alert_dialog_subtitle">Värskenduste rakendamiseks taaskäivitage rakendus…</string>
+    <string name="help">Abi</string>
+    <string name="cleaner">Koristaja</string>
+    <string name="status_saver">Olekusäästja</string>
+    <string name="settings">Seaded</string>
+    <string name="saved_statuses_appear_here">Olek pole saadaval!</string>
+    <string name="available_statuses">Saadaval</string>
+    <string name="saved_statuses">Salvestatud</string>
+    <string name="enter_message">Sisestage sõnum (valikuline)</string>
+    <string name="enter_phone_number">Sisesta telefoninumber</string>
+    <string name="send_message">Saada sõnum</string>
+    <string name="enter_a_phone_number">Sisestage telefoninumber</string>
+    <string name="direct_link_copied_to_clipboard">Otselink kopeeriti lõikelauale</string>
+    <string name="premium_unlocked">Aitäh. Nüüd saate kasutada esmaklassilisi funktsioone</string>
+    <string name="settings_category_title_developer">Arendaja</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Avatud lähtekoodiga raamatukogud</string>
+    <string name="preference_title_application_version">Rakenduse versioon</string>
+    <string name="preference_title_contact_us">Võta meiega ühendust</string>
+    <string name="preference_title_privacy_policy">Privaatsuspoliitika</string>
+    <string name="preference_title_terms_conditions">Tingimused</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Kindral</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Tume režiim</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Kuidas see töötab\?</string>
+    <string name="ok">Okei</string>
+    <string name="direct_message_help_ans">Sisestage koos tekstisõnumiga adressaadi telefoninumber. Kui olete sõnumi saatmiseks valmis, klõpsake lihtsalt nuppu \"Saada\". Teise võimalusena saate lingi kopeerimiseks ja adressaadiga jagamiseks kasutada ka valikut „Otselink”. Lingil klõpsates saavad nad teiega otse vestelda.</string>
+    <string name="click_here_to_grant_required_permissions">Teavituste lubade keelamine ja uuesti lubamine.</string>
+    <string name="please_grant_storage_permissions">Andke talletusruumi load</string>
+    <string name="rate_app">Palun hinnake rakendust!</string>
+    <string name="rate_later">Hiljem</string>
+    <string name="rateUs">Hinda rakendust Play poes</string>
+    <string name="send_feedback">Palun saatke meile tagasisidet. Püüame selle kallal töötada!</string>
+    <string name="try_again">Palun proovi uuesti</string>
+    <string name="message_copied_to_clipboard">sõnum on lõikelauale kopeeritud</string>
+    <string name="system_default">Süsteemi vaikeseade</string>
+    <string name="restart">Taaskäivita</string>
+    <string name="light">Valgus</string>
+    <string name="dark">Tume</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Jaga</string>
+    <string name="direct_link">Kopeeri otselink</string>
+    <string name="remove_ads">Eemalda reklaamid</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Mis on veeb</string>
+    <string name="recover_messages">Sõnumite taastamine</string>
+    <string name="direct_message">Otsene sõnum</string>
+    <string name="title_refresh">Laadi uuesti</string>
+    <string name="whatsapp_not_installed">Whatsapp pole installitud. Selle funktsiooni kasutamiseks installige esmalt Whatsapp.</string>
+    <string name="toggle_keyboard">Klaviatuuri sisse- ja väljalülitamine</string>
+    <string name="fullscreen">Täisekraan</string>
+    <string name="dismiss">Vabaks laskma</string>
+    <string name="keyboard_unblocked">Klaviatuur on deblokeeritud.</string>
+    <string name="keyboard_blocked">Klaviatuur on blokeeritud. Blokeeringu tühistamiseks vajutage klaviatuuri ikooni.</string>
+    <string name="whats_web_how_it_works">1. Avage oma seadmes rakendus Whats Web.\n\n2. Avage teises nutitelefonis WhatsApp.\n\n* Androidis -&gt; Vestluste ekraanil avage kolme punktiga menüü, mis asub ekraani paremas ülanurgas -&gt; Lingitud seadmed.\n\n* Aknatelefonis -&gt; Ava kolme punktiga menüü -&gt; Lingitud seadmed.\n\n* iPhone\'is -&gt; Avage Seaded -&gt; Lingitud seadmed.\n\n3. Puudutage valikut Ühendage seade ja skannige selle rakenduse ekraanil kuvatav QR-kood teisest telefonist.</string>
+    <string name="retry_sending_voice_message">Proovige uuesti häälsõnumit saata</string>
+    <string name="message_retry_sending_voice_message">Vajutage veel kord mikrofoni ikooni. See peaks töötama ootuspäraselt.</string>
+    <string name="retry_camera_capture">Proovige uuesti valikut Kaamera</string>
+    <string name="message_retry_camera_capture">Vajutage veel kord kaameraikooni. See peaks töötama ootuspäraselt.</string>
+    <string name="audio_perm_reqd">Edasiliikumiseks on vaja heliluba.</string>
+    <string name="camera_perm_reqd">Edasiliikumiseks on vaja kaamera luba.</string>
+    <string name="reset_reload">Lähtesta/Laadi uuesti</string>
+    <string name="reset_only">RESET</string>
+    <string name="reload_only">AINULT Laadige uuesti</string>
+    <string name="reload_warning">Kui teil on sisselogimisega seotud probleeme, proovige lähtestada.\nHOIATUS: Kui kasutate nuppu \"Lähtesta\", peate võib-olla uuesti sisse logima.</string>
+    <string name="download_file">Faili allalaadimine</string>
+    <string name="couldnt_download_file">Faili ei saanud alla laadida</string>
+    <string name="storage_perm_reqd">Faili allalaadimiseks on vaja salvestusluba</string>
+    <string name="purchase_item_not_found">Ostuartiklit ei leitud</string>
+    <string name="error">Viga</string>
+    <string name="purchase_canceled">Ost tühistatud</string>
+    <string name="pending_purchase">Ostmine on ootel. Palun viige tehing lõpule</string>
+    <string name="purchase_status_not_known">Ostu olek pole teada</string>
+    <string name="enter_file_name">Sisestage failinimi</string>
+    <string name="downloading_file">Faili allalaadimine</string>
+    <string name="enter_valid_file_name">Sisestage kehtiv failinimi</string>
+    <string name="download_has_finished_message">Allalaadimine on lõppenud. Kontrollige kausta Allalaadimised.</string>
+    <string name="could_not_download_file">Faili ei saanud alla laadida</string>
+    <string name="loading">Laadimine</string>
+    <string name="downloading_update">Värskenduse allalaadimine</string>
+    <string name="update_downloaded_message">Värskendus laaditi just alla.</string>
+    <string name="keyboard_enable_webview_message">Tippimise lubamiseks vajutage ülaosas olevat klaviatuuri lülitusnuppu</string>
+    <string name="preference_title_bug_report">Veateade</string>
+    <string name="preference_title_report_a_issue">Probleemist teavitamine</string>
+    <string name="describe_bug">Palun kirjeldage viga siin</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">WhatsAppi kataloog ei sisalda olekuid. Palun valige õige kataloog.</string>
+    <string name="please_select_whatsapp_directory">Valige WhatsAppi kataloog!</string>
+    <string name="download_cleaner">Laadige alla Cleaner</string>
+    <string name="download_recover_messages_app">Laadige alla rakendus Sõnumite taastamine</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Selle funktsiooni kasutamiseks peate Play poest alla laadima mõne muu rakenduse. Play poe avamiseks ja rakenduse allalaadimiseks klõpsake nuppu OK.</string>
+    <string name="cancel">Tühista</string>
+    <string name="ad_space">Reklaamiruum</string>
+    <string name="status">Olek</string>
+    <string name="theme">Teema</string>
+    <string name="more_apps">Rohkem rakendusi</string>
+    <string name="share">Jaga</string>
+    <string name="send">Saada</string>
+    <string name="select_country_code_and_number">Valige riigikood ja number</string>
+    <string name="how_it_works">Kuidas see töötab</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Laadige alla QR-skanneri rakendus</string>
+    <string name="share_content">Olge valmis kogema kiireimat viisi, kuidas pääseda samale WhatsAppi kontole kahes erinevas nutitelefonis või tahvelarvutis – seda kõike tasuta! Laadige rakendus alla ja installige kohe.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

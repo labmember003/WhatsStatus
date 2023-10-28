@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Навсозӣ анҷом ёфт</string>
+    <string name="app_update_alert_dialog_subtitle">Барои татбиқи навсозиҳо барномаро бозоғоз намоед…</string>
+    <string name="help">Кӯмак</string>
+    <string name="cleaner">Тозакунанда</string>
+    <string name="status_saver">Сарфаи ҳолати</string>
+    <string name="settings">Танзимотҳо</string>
+    <string name="saved_statuses_appear_here">Статус дастрас нест!</string>
+    <string name="available_statuses">дастрас</string>
+    <string name="saved_statuses">Захира карда шуд</string>
+    <string name="enter_message">Паёмро ворид кунед (ихтиёрӣ)</string>
+    <string name="enter_phone_number">Рақами телефонро ворид кунед</string>
+    <string name="send_message">Паём фиристед</string>
+    <string name="enter_a_phone_number">Рақами телефонро ворид кунед</string>
+    <string name="direct_link_copied_to_clipboard">Истиноди мустақим ба буфер нусхабардорӣ карда шуд</string>
+    <string name="premium_unlocked">Сипос. Шумо ҳоло метавонед хусусиятҳои премиумро истифода баред</string>
+    <string name="settings_category_title_developer">Таҳиягар</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Китобхонаҳои кушодаасос</string>
+    <string name="preference_title_application_version">Версияи барнома</string>
+    <string name="preference_title_contact_us">Бо мо тамос гиред</string>
+    <string name="preference_title_privacy_policy">Сиёсати Корбурди Маълумоти Шахсӣ</string>
+    <string name="preference_title_terms_conditions">Шарту Шароит</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Генерал</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Ҳолати торик</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Он чӣ гуна кор мекунад\?</string>
+    <string name="ok">ДУРУСТ</string>
+    <string name="direct_message_help_ans">Лутфан рақами телефони қабулкунандаро дар баробари паёми матнии худ ворид кунед. Пас аз он ки шумо барои фиристодани паём омодаед, танҳо тугмаи \"Ирсол\" -ро клик кунед. Интихобан, шумо инчунин метавонед имконоти \"Пайванди мустақим\" -ро истифода баред, то истинодро нусхабардорӣ кунед ва онро бо қабулкунанда мубодила кунед. Бо зер кардани истинод, онҳо метавонанд мустақиман бо шумо сӯҳбат кунанд.</string>
+    <string name="click_here_to_grant_required_permissions">Иҷозати огоҳиномаро ғайрифаъол ва дубора фаъол созед.</string>
+    <string name="please_grant_storage_permissions">Лутфан иҷозати нигоҳдорӣ диҳед</string>
+    <string name="rate_app">Лутфан барномаро баҳо диҳед!</string>
+    <string name="rate_later">Баъдтар</string>
+    <string name="rateUs">Лутфан барномаро дар Play Store баҳо диҳед</string>
+    <string name="send_feedback">Лутфан ба мо фикру мулоҳиза фиристед. Мо кӯшиш мекунем, ки дар он кор кунем!</string>
+    <string name="try_again">Лутфан бори дигар кӯшиш кунед</string>
+    <string name="message_copied_to_clipboard">паём ба буфер нусхабардорӣ карда шуд</string>
+    <string name="system_default">Системаи пешфарз</string>
+    <string name="restart">Оғози дубора</string>
+    <string name="light">Нур</string>
+    <string name="dark">Торик</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Мубодила бо</string>
+    <string name="direct_link">Истиноди мустақимро нусхабардорӣ кунед</string>
+    <string name="remove_ads">Рекламаҳоро нест кунед</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Веб чист</string>
+    <string name="recover_messages">Барқарор кардани паёмҳо</string>
+    <string name="direct_message">Паёми мустақим</string>
+    <string name="title_refresh">Аз нав бор кунед</string>
+    <string name="whatsapp_not_installed">Whatsapp насб карда нашудааст. Лутфан аввал Whatsapp-ро насб кунед, то ин хусусиятро истифода баред.</string>
+    <string name="toggle_keyboard">Иваз кардани клавиатура</string>
+    <string name="fullscreen">Тамомсафҳа</string>
+    <string name="dismiss">Хориҷ кардан</string>
+    <string name="keyboard_unblocked">Клавиатура боз карда шудааст.</string>
+    <string name="keyboard_blocked">Клавиатура баста шудааст. Барои кушодани блок тасвири клавиатураро пахш кунед.</string>
+    <string name="whats_web_how_it_works">1. Дар дастгоҳи худ барномаи Whats Web -ро кушоед.\n\n2. Дар смартфони дигар whatsapp-ро кушоед.\n\n* Дар Android -&gt; Аз экрани чатҳо, ба менюи се нуқтае, ки дар рости болои экран ҷойгир аст -&gt; Дастгоҳҳои пайвастшуда гузаред.\n\n* Дар телефони Тиреза -&gt; Ба менюи се нуқта -&gt; Дастгоҳҳои пайвастшуда гузаред.\n\n* Дар iPhone -&gt; Ба Танзимотҳо -&gt; Дастгоҳҳои пайвастшуда гузаред.\n\n3. Пайваст кардани дастгоҳро клик кунед ва рамзи QR-ро, ки дар экрани ин барномаатон аз телефони дигар нишон дода шудааст, скан кунед.</string>
+    <string name="retry_sending_voice_message">Лутфан фиристодани паёми овозиро дубора кӯшиш кунед</string>
+    <string name="message_retry_sending_voice_message">Боз як бори дигар тасвири микрофонро пахш кунед. Он бояд тавре ки интизор мерафт, кор кунад.</string>
+    <string name="retry_camera_capture">Лутфан имконоти Камераро дубора санҷед</string>
+    <string name="message_retry_camera_capture">Боз як бори дигар тасвири камераро пахш кунед. Он бояд тавре ки интизор мерафт, кор кунад.</string>
+    <string name="audio_perm_reqd">Иҷозати аудио барои пешрафт лозим аст.</string>
+    <string name="camera_perm_reqd">Барои пешрафт ба камера иҷозат лозим аст.</string>
+    <string name="reset_reload">Reset/Reload</string>
+    <string name="reset_only">АЗ БАРҶОМ</string>
+    <string name="reload_only">ТАНҲО аз нав бор кунед</string>
+    <string name="reload_warning">Агар шумо мушкилоти марбут ба воридшавӣ дошта бошед, \"Бозсозӣ\" -ро санҷед.\nОГОҲ: Агар шумо \'Reset\' -ро истифода баред, шояд шумо бояд дубора ворид шавед.</string>
+    <string name="download_file">Зеркашӣ кардани файл</string>
+    <string name="couldnt_download_file">Файлро зеркашӣ кардан мумкин нест</string>
+    <string name="storage_perm_reqd">Барои зеркашии файл иҷозати нигаҳдорӣ лозим аст</string>
+    <string name="purchase_item_not_found">Маҳсулоти харидашуда ёфт нашуд</string>
+    <string name="error">Хатогӣ</string>
+    <string name="purchase_canceled">Харид бекор карда шуд</string>
+    <string name="pending_purchase">Харид интизор аст. Лутфан транзаксияро анҷом диҳед</string>
+    <string name="purchase_status_not_known">Ҳолати харид маълум нест</string>
+    <string name="enter_file_name">Номи файлро ворид кунед</string>
+    <string name="downloading_file">Зеркашии Файл</string>
+    <string name="enter_valid_file_name">Лутфан номи дурусти файлро ворид кунед</string>
+    <string name="download_has_finished_message">Зеркашӣ анҷом ёфт. Лутфан папкаи Боргириҳоро санҷед.</string>
+    <string name="could_not_download_file">Файлро зеркашӣ карда натавонист</string>
+    <string name="loading">Бор карда мешавад</string>
+    <string name="downloading_update">Зеркашӣ кардани навсозӣ</string>
+    <string name="update_downloaded_message">Навсозӣ нав бор карда шуд.</string>
+    <string name="keyboard_enable_webview_message">Барои фаъол кардани чоп тугмаи клавиатураро дар боло пахш кунед</string>
+    <string name="preference_title_bug_report">Ҳисобот оид ба хатогиҳо</string>
+    <string name="preference_title_report_a_issue">Дар бораи масъала гузориш диҳед</string>
+    <string name="describe_bug">Лутфан хатогиро дар ин ҷо тавсиф кунед</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">Феҳристи WhatsApp Статусҳоро дар бар намегирад. Лутфан директорияи дурустро интихоб кунед.</string>
+    <string name="please_select_whatsapp_directory">Лутфан директорияи WhatsApp-ро интихоб кунед!</string>
+    <string name="download_cleaner">Тозакунандаро зеркашӣ кунед</string>
+    <string name="download_recover_messages_app">Барномаи барқарорсозии паёмҳоро зеркашӣ кунед</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Барои истифодаи ин хусусият, шумо бояд як барномаи дигарро аз мағозаи бозӣ зеркашӣ кунед. Барои кушодани мағозаи бозӣ ва зеркашӣ кардани барнома OK -ро клик кунед.</string>
+    <string name="cancel">Бекор кардан</string>
+    <string name="ad_space">Фазои реклама</string>
+    <string name="status">Статус</string>
+    <string name="theme">Мавзӯъ</string>
+    <string name="more_apps">Барномаҳои бештар</string>
+    <string name="share">Мубодила</string>
+    <string name="send">Ирсол</string>
+    <string name="select_country_code_and_number">Рақами кишвар ва рақамро интихоб кунед</string>
+    <string name="how_it_works">Он чӣ гуна кор мекунад</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Замимаи Qr Scanner -ро зеркашӣ кунед</string>
+    <string name="share_content">Омода шавед, ки роҳи зудтарини дастрасӣ ба як ҳисоби WhatsApp дар ду смартфон ё планшетҳои гуногунро ройгон истифода баред! Ҳоло барномаро зеркашӣ ва насб кунед.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

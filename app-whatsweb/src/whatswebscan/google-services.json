@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "63364793215",
+    "project_id": "whats-web---codekraftapps",
+    "storage_bucket": "whats-web---codekraftapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63364793215:android:ae593ba89925c8baa1904a",
+        "android_client_info": {
+          "package_name": "com.codekraftapps.whatsweb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63364793215-5b07k2fjodpvfrp9bai2el1kmucgp4dm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABsA9guqcSF9zMB5baGgWYV38-zEwQ2MY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63364793215-5b07k2fjodpvfrp9bai2el1kmucgp4dm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63364793215:android:514d2e20d0a701f1a1904a",
+        "android_client_info": {
+          "package_name": "com.codekraftapps.whatsweb.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63364793215-5b07k2fjodpvfrp9bai2el1kmucgp4dm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABsA9guqcSF9zMB5baGgWYV38-zEwQ2MY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63364793215-5b07k2fjodpvfrp9bai2el1kmucgp4dm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Yeniləmə tamamlandı</string>
+    <string name="app_update_alert_dialog_subtitle">Güncəlləmələri tətbiq etmək üçün proqramı yenidən başladın...</string>
+    <string name="help">Kömək edin</string>
+    <string name="cleaner">Təmizləyici</string>
+    <string name="status_saver">Status Saver</string>
+    <string name="settings">Parametrlər</string>
+    <string name="saved_statuses_appear_here">Status Mövcud deyil!</string>
+    <string name="available_statuses">Mövcuddur</string>
+    <string name="saved_statuses">Saxlandı</string>
+    <string name="enter_message">Mesaj daxil edin (İstəyə görə)</string>
+    <string name="enter_phone_number">Telefon nömrəsini daxil edin</string>
+    <string name="send_message">Mesaj Göndər</string>
+    <string name="enter_a_phone_number">Telefon nömrəsi daxil edin</string>
+    <string name="direct_link_copied_to_clipboard">Birbaşa keçid buferə kopyalandı</string>
+    <string name="premium_unlocked">Çox sağ ol. İndi premium funksiyalardan istifadə edə bilərsiniz</string>
+    <string name="settings_category_title_developer">İnkişaf etdirici</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Açıq Mənbəli Kitabxanalar</string>
+    <string name="preference_title_application_version">Proqram Versiyası</string>
+    <string name="preference_title_contact_us">Bizimlə əlaqə saxlayın</string>
+    <string name="preference_title_privacy_policy">Gizlilik Siyasəti</string>
+    <string name="preference_title_terms_conditions">Şərtlər və Qaydalar</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">General</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Qaranlıq rejim</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Bu necə işləyir\?</string>
+    <string name="ok">tamam</string>
+    <string name="direct_message_help_ans">Zəhmət olmasa, mətn mesajınızla birlikdə alıcının telefon nömrəsini daxil edin. Mesajı göndərməyə hazır olduqdan sonra \"Göndər\" düyməsini sıxmağınız kifayətdir. Alternativ olaraq, linki köçürmək və onu alıcı ilə paylaşmaq üçün \"Birbaşa Bağlantı\" seçimindən də istifadə edə bilərsiniz. Linkə klikləməklə, onlar sizinlə birbaşa söhbət edə bilərlər.</string>
+    <string name="click_here_to_grant_required_permissions">Bildiriş icazəsini söndürün və yenidən aktivləşdirin.</string>
+    <string name="please_grant_storage_permissions">Lütfən, Yaddaş icazələri verin</string>
+    <string name="rate_app">Zəhmət olmasa proqramı qiymətləndirin!</string>
+    <string name="rate_later">Daha sonra</string>
+    <string name="rateUs">Zəhmət olmasa tətbiqi Play Store-da qiymətləndirin</string>
+    <string name="send_feedback">Zəhmət olmasa bizə rəy göndərin. Bunun üzərində işləməyə çalışacağıq!</string>
+    <string name="try_again">Zəhmət olmasa bir daha cəhd edin</string>
+    <string name="message_copied_to_clipboard">mesaj panoya kopyalandı</string>
+    <string name="system_default">Sistem Defolt</string>
+    <string name="restart">Yenidən başlamaq</string>
+    <string name="light">İşıq</string>
+    <string name="dark">Qaranlıq</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">ilə paylaşın</string>
+    <string name="direct_link">Birbaşa Linki Kopyalayın</string>
+    <string name="remove_ads">Reklamları Sil</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Veb nədir</string>
+    <string name="recover_messages">Mesajları bərpa edin</string>
+    <string name="direct_message">Birbaşa Mesaj</string>
+    <string name="title_refresh">Yenidən yükləyin</string>
+    <string name="whatsapp_not_installed">Whatsapp quraşdırılmayıb. Bu funksiyadan istifadə etmək üçün əvvəlcə Whatsapp-ı quraşdırın.</string>
+    <string name="toggle_keyboard">Klaviaturanı dəyişin</string>
+    <string name="fullscreen">Tam Ekran</string>
+    <string name="dismiss">Rədd et</string>
+    <string name="keyboard_unblocked">Klaviatura blokdan çıxarılıb.</string>
+    <string name="keyboard_blocked">Klaviatura bloklanıb. Blokdan çıxarmaq üçün klaviatura ikonasına basın.</string>
+    <string name="whats_web_how_it_works">1. Cihazınızda Whats Web proqramını açın.\n\n2. Başqa smartfonda whatsapp-ı açın.\n\n* Android-də -&gt; Söhbətlər ekranından ekranın yuxarı sağ hissəsində yerləşən üç nöqtəli menyuya keçin -&gt; Əlaqəli cihazlar.\n\n* Pəncərə telefonunda -&gt; Üç nöqtəli menyuya keçin -&gt; Əlaqəli cihazlar.\n\n* iPhone-da -&gt; Parametrlər -&gt; Əlaqəli cihazlara keçin.\n\n3. Cihazı əlaqələndirin üzərinə klikləyin və bu proqramın ekranında göstərilən QR kodunu digər telefondan skan edin.</string>
+    <string name="retry_sending_voice_message">Səsli mesaj göndərməyə yenidən cəhd edin</string>
+    <string name="message_retry_sending_voice_message">Mikrofon işarəsinə bir daha basın. Gözlənildiyi kimi işləməlidir.</string>
+    <string name="retry_camera_capture">Kamera seçimini yenidən cəhd edin</string>
+    <string name="message_retry_camera_capture">Kamera simgesini bir daha basın. Gözlənildiyi kimi işləməlidir.</string>
+    <string name="audio_perm_reqd">İrəliləmək üçün audio icazə tələb olunur.</string>
+    <string name="camera_perm_reqd">İrəliləmək üçün kamera icazəsi tələb olunur.</string>
+    <string name="reset_reload">Sıfırlayın/Yenidən yükləyin</string>
+    <string name="reset_only">RESET</string>
+    <string name="reload_only">YALNIZ YÜKLƏ</string>
+    <string name="reload_warning">Girişlə bağlı problemlərlə üzləşirsinizsə, \"Sıfırla\"nı cəhd edin.\nXƏBƏRDARLIQ: \'Sıfırla\' istifadə etsəniz, yenidən daxil olmanız lazım ola bilər.</string>
+    <string name="download_file">Fayl Endirilir</string>
+    <string name="couldnt_download_file">Faylı endirmək mümkün olmadı</string>
+    <string name="storage_perm_reqd">Faylı endirmək üçün yaddaş icazəsi tələb olunur</string>
+    <string name="purchase_item_not_found">Satınalma Elementini Tapmaq mümkün olmadı</string>
+    <string name="error">Xəta</string>
+    <string name="purchase_canceled">Satınalma Ləğv Edildi</string>
+    <string name="pending_purchase">Satınalma Gözlənir. Tranzaksiyanı tamamlayın</string>
+    <string name="purchase_status_not_known">Satınalma statusu məlum deyil</string>
+    <string name="enter_file_name">Fayl adı daxil edin</string>
+    <string name="downloading_file">Fayl Endirilir</string>
+    <string name="enter_valid_file_name">Etibarlı fayl adı daxil edin</string>
+    <string name="download_has_finished_message">Yükləmə tamamlandı. Zəhmət olmasa Yükləmələr qovluğunu yoxlayın.</string>
+    <string name="could_not_download_file">Faylı endirmək mümkün olmadı</string>
+    <string name="loading">Yüklənir</string>
+    <string name="downloading_update">Yeniləmə endirilir</string>
+    <string name="update_downloaded_message">Güncəlləmə indicə endirilib.</string>
+    <string name="keyboard_enable_webview_message">Yazmağı aktivləşdirmək üçün yuxarıdakı keçid düyməsini basın</string>
+    <string name="preference_title_bug_report">Baq Hesabatı</string>
+    <string name="preference_title_report_a_issue">Problemi bildirin</string>
+    <string name="describe_bug">Zəhmət olmasa səhvi burada təsvir edin</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">WhatsApp kataloqunda Statuslar yoxdur. Zəhmət olmasa düzgün kataloqu seçin.</string>
+    <string name="please_select_whatsapp_directory">Zəhmət olmasa WhatsApp kataloqunu seçin!</string>
+    <string name="download_cleaner">Təmizləyicini yükləyin</string>
+    <string name="download_recover_messages_app">Recover Messages Proqramını yükləyin</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Bu funksiyadan istifadə etmək üçün play store-dan başqa proqram yükləməlisiniz. Oyun mağazasını açmaq və proqramı yükləmək üçün OK düyməsini klikləyin.</string>
+    <string name="cancel">Ləğv et</string>
+    <string name="ad_space">Reklam Məkanı</string>
+    <string name="status">Vəziyyət</string>
+    <string name="theme">Mövzu</string>
+    <string name="more_apps">Daha çox proqram</string>
+    <string name="share">Paylaşın</string>
+    <string name="send">Göndər</string>
+    <string name="select_country_code_and_number">Ölkə kodunu və nömrəsini seçin</string>
+    <string name="how_it_works">Bu necə işləyir</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Qr Scanner Proqramını yükləyin</string>
+    <string name="share_content">İki fərqli smartfon və ya planşetdə eyni WhatsApp hesabına pulsuz daxil olmağın ən sürətli yolunu yaşamağa hazır olun! Proqramı indi endirin və quraşdırın.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

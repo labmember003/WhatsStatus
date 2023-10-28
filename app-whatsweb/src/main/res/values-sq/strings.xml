@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Përditësimi ka përfunduar</string>
+    <string name="app_update_alert_dialog_subtitle">Rinis aplikacionin për të aplikuar përditësimet…</string>
+    <string name="help">Ndihmë</string>
+    <string name="cleaner">Më të pastër</string>
+    <string name="status_saver">Ruajtësi i statusit</string>
+    <string name="settings">Cilësimet</string>
+    <string name="saved_statuses_appear_here">Nuk ka status të disponueshëm!</string>
+    <string name="available_statuses">Në dispozicion</string>
+    <string name="saved_statuses">U ruajt</string>
+    <string name="enter_message">Fut mesazhin (opsionale)</string>
+    <string name="enter_phone_number">Futni numrin e telefonit</string>
+    <string name="send_message">Dërgoni mesazh</string>
+    <string name="enter_a_phone_number">Futni një numër telefoni</string>
+    <string name="direct_link_copied_to_clipboard">Lidhja direkte u kopjua në kujtesën e fragmenteve</string>
+    <string name="premium_unlocked">Faleminderit. Tani mund të përdorni veçori premium</string>
+    <string name="settings_category_title_developer">Zhvilluesi</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Bibliotekat me burim të hapur</string>
+    <string name="preference_title_application_version">Versioni i aplikacionit</string>
+    <string name="preference_title_contact_us">Na kontaktoni</string>
+    <string name="preference_title_privacy_policy">Politika e privatësisë</string>
+    <string name="preference_title_terms_conditions">Termat dhe Kushtet</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Gjeneral</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Modaliteti i errët</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Si punon\?</string>
+    <string name="ok">Ne rregull</string>
+    <string name="direct_message_help_ans">Ju lutemi futni numrin e telefonit të marrësit së bashku me mesazhin tuaj me tekst. Pasi të jeni gati për të dërguar mesazhin, thjesht klikoni në butonin \'Dërgo\'. Përndryshe, mund të përdorni gjithashtu opsionin \"Lidhja e drejtpërdrejtë\" për të kopjuar lidhjen dhe për ta ndarë atë me marrësin. Duke klikuar në lidhjen, ata mund të bisedojnë drejtpërdrejt me ju.</string>
+    <string name="click_here_to_grant_required_permissions">Çaktivizo dhe riaktivizo lejen e njoftimit.</string>
+    <string name="please_grant_storage_permissions">Jepni lejet e hapësirës ruajtëse</string>
+    <string name="rate_app">Ju lutemi vlerësoni aplikacionin!</string>
+    <string name="rate_later">Më vonë</string>
+    <string name="rateUs">Ju lutemi vlerësoni aplikacionin në Play Store</string>
+    <string name="send_feedback">Ju lutemi na dërgoni komente. Ne do të përpiqemi të punojmë në të!</string>
+    <string name="try_again">Ju lutemi provoni përsëri</string>
+    <string name="message_copied_to_clipboard">mesazhi u kopjua në kujtesën e fragmenteve</string>
+    <string name="system_default">Parazgjedhja e sistemit</string>
+    <string name="restart">Rifillo, fillo përsëri</string>
+    <string name="light">Drita</string>
+    <string name="dark">E errët</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Ndaj me</string>
+    <string name="direct_link">Kopjo lidhjen direkte</string>
+    <string name="remove_ads">Hiq reklamat</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Çfarë është Web</string>
+    <string name="recover_messages">Rikuperoni mesazhet</string>
+    <string name="direct_message">Mesazh direkt</string>
+    <string name="title_refresh">Ringarkoj</string>
+    <string name="whatsapp_not_installed">Whatsapp nuk është i instaluar. Ju lutemi së pari instaloni Whatsapp për të përdorur këtë funksion.</string>
+    <string name="toggle_keyboard">Ndrysho tastierën</string>
+    <string name="fullscreen">Ekran i plotë</string>
+    <string name="dismiss">Largoje</string>
+    <string name="keyboard_unblocked">Tastiera është zhbllokuar.</string>
+    <string name="keyboard_blocked">Tastiera është e bllokuar. Shtypni ikonën e tastierës për të zhbllokuar.</string>
+    <string name="whats_web_how_it_works">1. Hapni aplikacionin Whats Web në pajisjen tuaj.\n\n2. Hap whatsapp në smartphone tjetër.\n\n* Në Android -&gt; Nga ekrani i bisedave, shkoni te menyja me tre pika që ndodhet lart djathtas të ekranit -&gt; Pajisjet e lidhura.\n\n* Në telefon me dritare -&gt; Shko te menyja me tre pika -&gt; Pajisjet e lidhura.\n\n* Në iPhone -&gt; Shkoni te Cilësimet -&gt; Pajisjet e lidhura.\n\n3. Prekni Lidhni një pajisje dhe skanoni kodin QR të shfaqur në ekranin e këtij aplikacioni nga telefoni tjetër.</string>
+    <string name="retry_sending_voice_message">Ju lutemi riprovoni të dërgoni mesazh zanor</string>
+    <string name="message_retry_sending_voice_message">Shtypni edhe një herë ikonën e mikrofonit. Duhet të funksionojë siç pritej.</string>
+    <string name="retry_camera_capture">Ju lutemi provoni sërish opsionin e kamerës</string>
+    <string name="message_retry_camera_capture">Shtypni edhe një herë ikonën e kamerës. Duhet të funksionojë siç pritej.</string>
+    <string name="audio_perm_reqd">Kërkohet leje audio për të ecur përpara.</string>
+    <string name="camera_perm_reqd">Kërkohet leja e kamerës për të ecur përpara.</string>
+    <string name="reset_reload">Rivendos/Ringarko</string>
+    <string name="reset_only">RISET</string>
+    <string name="reload_only">RINGARKO VETËM</string>
+    <string name="reload_warning">Nëse jeni duke përjetuar probleme në lidhje me hyrjen, provoni \"Rivendosni\".\nPARALAJMËRIM: Mund t\'ju duhet të identifikoheni përsëri nëse përdorni \'Rivendosja\'.</string>
+    <string name="download_file">Shkarkimi i skedarit</string>
+    <string name="couldnt_download_file">Skedari nuk mund të shkarkohej</string>
+    <string name="storage_perm_reqd">Nevojitet leja e ruajtjes për të shkarkuar skedarin</string>
+    <string name="purchase_item_not_found">Artikulli i blerjes nuk mund të gjendej</string>
+    <string name="error">Gabim</string>
+    <string name="purchase_canceled">Blerja u anulua</string>
+    <string name="pending_purchase">Blerja është në pritje. Ju lutemi plotësoni transaksionin</string>
+    <string name="purchase_status_not_known">Statusi i blerjes nuk dihet</string>
+    <string name="enter_file_name">Futni një emër skedari</string>
+    <string name="downloading_file">Shkarkimi i Skedarit</string>
+    <string name="enter_valid_file_name">Ju lutemi shkruani një emër të vlefshëm skedari</string>
+    <string name="download_has_finished_message">Shkarkimi ka përfunduar. Ju lutemi kontrolloni dosjen Shkarkime.</string>
+    <string name="could_not_download_file">Skedari nuk mund të shkarkohej</string>
+    <string name="loading">Po ngarkohet</string>
+    <string name="downloading_update">Përditësimi po shkarkohet</string>
+    <string name="update_downloaded_message">Një përditësim sapo është shkarkuar.</string>
+    <string name="keyboard_enable_webview_message">Shtypni butonin e ndërrimit të tastierës sipër për të aktivizuar shkrimin</string>
+    <string name="preference_title_bug_report">Raporti i gabimeve</string>
+    <string name="preference_title_report_a_issue">Raportoni një problem</string>
+    <string name="describe_bug">Ju lutemi, përshkruani defektin këtu</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">Lista WhatsApp nuk përmban statuse. Ju lutemi zgjidhni drejtorinë e duhur.</string>
+    <string name="please_select_whatsapp_directory">Ju lutemi zgjidhni direktorinë WhatsApp!</string>
+    <string name="download_cleaner">Shkarkoni Cleaner</string>
+    <string name="download_recover_messages_app">Shkarkoni aplikacionin Recover Messages</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Për të përdorur këtë veçori, duhet të shkarkoni një aplikacion tjetër nga play store. Kliko OK për të hapur play store dhe shkarko aplikacionin.</string>
+    <string name="cancel">Anulo</string>
+    <string name="ad_space">Hapësira e reklamave</string>
+    <string name="status">Statusi</string>
+    <string name="theme">Tema</string>
+    <string name="more_apps">Me shume aplikacione</string>
+    <string name="share">Shpërndaje</string>
+    <string name="send">Dërgo</string>
+    <string name="select_country_code_and_number">Zgjidhni kodin dhe numrin e shtetit</string>
+    <string name="how_it_works">Si punon</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Shkarkoni aplikacionin Qr Scanner</string>
+    <string name="share_content">Bëhuni gati të përjetoni mënyrën më të shpejtë për të hyrë në të njëjtën llogari WhatsApp në dy telefona inteligjentë ose tabletë të ndryshëm, të gjitha falas! Shkarkoni dhe instaloni aplikacionin tani.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

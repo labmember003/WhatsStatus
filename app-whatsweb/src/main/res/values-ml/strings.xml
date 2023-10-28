@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">അപ്ഡേറ്റ് പൂർത്തിയായി</string>
+    <string name="app_update_alert_dialog_subtitle">അപ്‌ഡേറ്റുകൾ പ്രയോഗിക്കാൻ ആപ്പ് റീസ്‌റ്റാർട്ട് ചെയ്യുക...</string>
+    <string name="help">സഹായം</string>
+    <string name="cleaner">ക്ലീനർ</string>
+    <string name="status_saver">സ്റ്റാറ്റസ് സേവർ</string>
+    <string name="settings">ക്രമീകരണങ്ങൾ</string>
+    <string name="saved_statuses_appear_here">നിലയൊന്നും ലഭ്യമല്ല!</string>
+    <string name="available_statuses">ലഭ്യമാണ്</string>
+    <string name="saved_statuses">സംരക്ഷിച്ചു</string>
+    <string name="enter_message">സന്ദേശം നൽകുക (ഓപ്ഷണൽ)</string>
+    <string name="enter_phone_number">ഫോൺ നമ്പർ നൽകുക</string>
+    <string name="send_message">സന്ദേശം അയയ്ക്കുക</string>
+    <string name="enter_a_phone_number">ഒരു ഫോൺ നമ്പർ നൽകുക</string>
+    <string name="direct_link_copied_to_clipboard">നേരിട്ടുള്ള ലിങ്ക് ക്ലിപ്പ്ബോർഡിലേക്ക് പകർത്തി</string>
+    <string name="premium_unlocked">നന്ദി. നിങ്ങൾക്ക് ഇപ്പോൾ പ്രീമിയം ഫീച്ചറുകൾ ഉപയോഗിക്കാം</string>
+    <string name="settings_category_title_developer">ഡെവലപ്പർ</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">ഓപ്പൺ സോഴ്സ് ലൈബ്രറികൾ</string>
+    <string name="preference_title_application_version">ആപ്പ് പതിപ്പ്</string>
+    <string name="preference_title_contact_us">ഞങ്ങളെ സമീപിക്കുക</string>
+    <string name="preference_title_privacy_policy">സ്വകാര്യതാ നയം</string>
+    <string name="preference_title_terms_conditions">ഉപാധികളും നിബന്ധനകളും</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">ജനറൽ</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">ഡാർക്ക് മോഡ്</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">ഇത് എങ്ങനെ പ്രവർത്തിക്കുന്നു\?</string>
+    <string name="ok">ശരി</string>
+    <string name="direct_message_help_ans">നിങ്ങളുടെ വാചക സന്ദേശത്തോടൊപ്പം സ്വീകർത്താവിന്റെ ഫോൺ നമ്പർ നൽകുക. സന്ദേശം അയക്കാൻ തയ്യാറായിക്കഴിഞ്ഞാൽ, \'Send\' ബട്ടണിൽ ക്ലിക്ക് ചെയ്യുക. പകരമായി, ലിങ്ക് പകർത്താനും സ്വീകർത്താവുമായി പങ്കിടാനും നിങ്ങൾക്ക് \'ഡയറക്ട് ലിങ്ക്\' ഓപ്ഷൻ ഉപയോഗിക്കാം. ലിങ്കിൽ ക്ലിക്ക് ചെയ്യുന്നതിലൂടെ അവർക്ക് നിങ്ങളുമായി നേരിട്ട് ചാറ്റ് ചെയ്യാം.</string>
+    <string name="click_here_to_grant_required_permissions">അറിയിപ്പ് അനുമതി പ്രവർത്തനരഹിതമാക്കി വീണ്ടും പ്രവർത്തനക്ഷമമാക്കുക.</string>
+    <string name="please_grant_storage_permissions">ദയവായി സ്റ്റോറേജ് അനുമതികൾ നൽകുക</string>
+    <string name="rate_app">ആപ്പ് റേറ്റുചെയ്യുക!</string>
+    <string name="rate_later">പിന്നീട്</string>
+    <string name="rateUs">Play Store-ൽ ആപ്പ് റേറ്റുചെയ്യുക</string>
+    <string name="send_feedback">ദയവായി ഞങ്ങൾക്ക് ഫീഡ്‌ബാക്ക് അയയ്‌ക്കുക. ഞങ്ങൾ അതിൽ പ്രവർത്തിക്കാൻ ശ്രമിക്കും!</string>
+    <string name="try_again">ദയവായി വീണ്ടും ശ്രമിക്കുക</string>
+    <string name="message_copied_to_clipboard">സന്ദേശം ക്ലിപ്പ്ബോർഡിലേക്ക് പകർത്തി</string>
+    <string name="system_default">സിസ്റ്റം ഡിഫോൾട്ട്</string>
+    <string name="restart">പുനരാരംഭിക്കുക</string>
+    <string name="light">വെളിച്ചം</string>
+    <string name="dark">ഇരുട്ട്</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">എന്നിവരുമായി പങ്കിടുക</string>
+    <string name="direct_link">നേരിട്ടുള്ള ലിങ്ക് പകർത്തുക</string>
+    <string name="remove_ads">പരസ്യങ്ങൾ നീക്കം ചെയ്യുക</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">വാട്ട്സ് വെബ്</string>
+    <string name="recover_messages">സന്ദേശങ്ങൾ വീണ്ടെടുക്കുക</string>
+    <string name="direct_message">നേരിട്ടുള്ള സന്ദേശം</string>
+    <string name="title_refresh">വീണ്ടും ലോഡുചെയ്യുക</string>
+    <string name="whatsapp_not_installed">Whatsapp ഇൻസ്റ്റാൾ ചെയ്തിട്ടില്ല. ഈ ഫീച്ചർ ഉപയോഗിക്കുന്നതിന് ആദ്യം Whatsapp ഇൻസ്റ്റാൾ ചെയ്യുക.</string>
+    <string name="toggle_keyboard">കീബോർഡ് ടോഗിൾ ചെയ്യുക</string>
+    <string name="fullscreen">പൂർണ്ണ സ്ക്രീൻ</string>
+    <string name="dismiss">പിരിച്ചുവിടുക</string>
+    <string name="keyboard_unblocked">കീബോർഡ് അൺബ്ലോക്ക് ചെയ്തു.</string>
+    <string name="keyboard_blocked">കീബോർഡ് തടഞ്ഞു. അൺബ്ലോക്ക് ചെയ്യാൻ കീബോർഡ് ഐക്കൺ അമർത്തുക.</string>
+    <string name="whats_web_how_it_works">1. നിങ്ങളുടെ ഉപകരണത്തിൽ Whats വെബ് ആപ്ലിക്കേഷൻ തുറക്കുക.\n\n2. മറ്റ് സ്മാർട്ട്ഫോണിൽ whatsapp തുറക്കുക.\n\n* Android-ൽ -&gt; ചാറ്റ് സ്‌ക്രീനിൽ നിന്ന്, സ്‌ക്രീനിന്റെ മുകളിൽ വലതുവശത്തുള്ള മൂന്ന് ഡോട്ട് മെനുവിലേക്ക് പോകുക -&gt; ലിങ്ക് ചെയ്‌ത ഉപകരണങ്ങൾ.\n\n* വിൻഡോ ഫോണിൽ -&gt; മൂന്ന് ഡോട്ട് മെനുവിലേക്ക് പോകുക -&gt; ലിങ്ക് ചെയ്‌ത ഉപകരണങ്ങൾ.\n\n* iPhone-ൽ -&gt; ക്രമീകരണങ്ങൾ -&gt; ലിങ്ക് ചെയ്‌ത ഉപകരണങ്ങളിലേക്ക് പോകുക.\n\n3. ലിങ്ക് എ ഡിവൈസിൽ ടാപ്പുചെയ്‌ത് നിങ്ങളുടെ ഈ ആപ്പ് സ്‌ക്രീനിൽ പ്രദർശിപ്പിച്ചിരിക്കുന്ന QR കോഡ് മറ്റ് ഫോണിൽ നിന്ന് സ്‌കാൻ ചെയ്യുക.</string>
+    <string name="retry_sending_voice_message">ശബ്ദ സന്ദേശം അയയ്‌ക്കാൻ വീണ്ടും ശ്രമിക്കുക</string>
+    <string name="message_retry_sending_voice_message">ഒരിക്കൽ കൂടി മൈക്രോഫോൺ ഐക്കൺ അമർത്തുക. അത് പ്രതീക്ഷിച്ച പോലെ പ്രവർത്തിക്കണം.</string>
+    <string name="retry_camera_capture">ക്യാമറ ഓപ്ഷൻ വീണ്ടും ശ്രമിക്കുക</string>
+    <string name="message_retry_camera_capture">ക്യാമറ ഐക്കൺ ഒരിക്കൽ കൂടി അമർത്തുക. അത് പ്രതീക്ഷിച്ച പോലെ പ്രവർത്തിക്കണം.</string>
+    <string name="audio_perm_reqd">മുന്നോട്ട് പോകുന്നതിന് ഓഡിയോ അനുമതി ആവശ്യമാണ്.</string>
+    <string name="camera_perm_reqd">മുന്നോട്ട് പോകുന്നതിന് ക്യാമറ അനുമതി ആവശ്യമാണ്.</string>
+    <string name="reset_reload">റീസെറ്റ്/റീലോഡ് ചെയ്യുക</string>
+    <string name="reset_only">പുനഃസജ്ജമാക്കുക</string>
+    <string name="reload_only">വീണ്ടും ലോഡുചെയ്യുക മാത്രം</string>
+    <string name="reload_warning">ലോഗിൻ ചെയ്യുന്നതുമായി ബന്ധപ്പെട്ട പ്രശ്‌നങ്ങൾ നിങ്ങൾ നേരിടുന്നുണ്ടെങ്കിൽ, \'റീസെറ്റ്\' പരീക്ഷിക്കുക.\nമുന്നറിയിപ്പ്: നിങ്ങൾ \'റീസെറ്റ്\' ഉപയോഗിക്കുകയാണെങ്കിൽ വീണ്ടും ലോഗിൻ ചെയ്യേണ്ടി വന്നേക്കാം.</string>
+    <string name="download_file">ഫയൽ ഡൗൺലോഡ് ചെയ്യുന്നു</string>
+    <string name="couldnt_download_file">ഫയൽ ഡൗൺലോഡ് ചെയ്യാനായില്ല</string>
+    <string name="storage_perm_reqd">ഫയൽ ഡൗൺലോഡ് ചെയ്യാൻ സ്റ്റോറേജ് അനുമതി ആവശ്യമാണ്</string>
+    <string name="purchase_item_not_found">വാങ്ങിയ ഇനം കണ്ടെത്താനായില്ല</string>
+    <string name="error">പിശക്</string>
+    <string name="purchase_canceled">വാങ്ങൽ റദ്ദാക്കി</string>
+    <string name="pending_purchase">വാങ്ങൽ തീർച്ചപ്പെടുത്തിയിട്ടില്ല. ഇടപാട് പൂർത്തിയാക്കുക</string>
+    <string name="purchase_status_not_known">വാങ്ങൽ നില അറിയില്ല</string>
+    <string name="enter_file_name">ഒരു ഫയൽ നാമം നൽകുക</string>
+    <string name="downloading_file">ഫയൽ ഡൗൺലോഡ് ചെയ്യുന്നു</string>
+    <string name="enter_valid_file_name">ദയവായി ഒരു സാധുവായ ഫയലിന്റെ പേര് നൽകുക</string>
+    <string name="download_has_finished_message">ഡൗൺലോഡ് പൂർത്തിയായി. ദയവായി ഡൗൺലോഡുകൾ ഫോൾഡർ പരിശോധിക്കുക.</string>
+    <string name="could_not_download_file">ഫയൽ ഡൗൺലോഡ് ചെയ്യാനായില്ല</string>
+    <string name="loading">ലോഡിംഗ്</string>
+    <string name="downloading_update">അപ്ഡേറ്റ് ഡൗൺലോഡ് ചെയ്യുന്നു</string>
+    <string name="update_downloaded_message">ഒരു അപ്‌ഡേറ്റ് ഇപ്പോൾ ഡൗൺലോഡ് ചെയ്‌തു.</string>
+    <string name="keyboard_enable_webview_message">ടൈപ്പിംഗ് പ്രവർത്തനക്ഷമമാക്കാൻ മുകളിലുള്ള ടോഗിൾ കീബോർഡ് ബട്ടൺ അമർത്തുക</string>
+    <string name="preference_title_bug_report">ബഗ് റിപ്പോർട്ട്</string>
+    <string name="preference_title_report_a_issue">ഒരു പ്രശ്നം റിപ്പോർട്ട് ചെയ്യുക</string>
+    <string name="describe_bug">ബഗ് ഇവിടെ വിവരിക്കുക</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">WhatsApp ഡയറക്ടറിയിൽ സ്റ്റാറ്റസുകൾ അടങ്ങിയിട്ടില്ല. ദയവായി ശരിയായ ഡയറക്‌ടറി തിരഞ്ഞെടുക്കുക.</string>
+    <string name="please_select_whatsapp_directory">ദയവായി WhatsApp ഡയറക്ടറി തിരഞ്ഞെടുക്കുക!</string>
+    <string name="download_cleaner">ക്ലീനർ ഡൗൺലോഡ് ചെയ്യുക</string>
+    <string name="download_recover_messages_app">Recover Messages ആപ്പ് ഡൗൺലോഡ് ചെയ്യുക</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">ഈ ഫീച്ചർ ഉപയോഗിക്കുന്നതിന്, നിങ്ങൾ പ്ലേ സ്റ്റോറിൽ നിന്ന് മറ്റൊരു ആപ്പ് ഡൗൺലോഡ് ചെയ്യേണ്ടതുണ്ട്. പ്ലേ സ്റ്റോർ തുറന്ന് ആപ്പ് ഡൗൺലോഡ് ചെയ്യാൻ ശരി ക്ലിക്ക് ചെയ്യുക.</string>
+    <string name="cancel">റദ്ദാക്കുക</string>
+    <string name="ad_space">പരസ്യ ഇടം</string>
+    <string name="status">പദവി</string>
+    <string name="theme">തീം</string>
+    <string name="more_apps">കൂടുതൽ അപ്ലിക്കേഷനുകൾ</string>
+    <string name="share">പങ്കിടുക</string>
+    <string name="send">അയക്കുക</string>
+    <string name="select_country_code_and_number">രാജ്യത്തിന്റെ കോഡും നമ്പറും തിരഞ്ഞെടുക്കുക</string>
+    <string name="how_it_works">ഇത് എങ്ങനെ പ്രവർത്തിക്കുന്നു</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Qr സ്കാനർ ആപ്പ് ഡൗൺലോഡ് ചെയ്യുക</string>
+    <string name="share_content">രണ്ട് വ്യത്യസ്ത സ്‌മാർട്ട്‌ഫോണുകളിലോ ടാബ്‌ലെറ്റുകളിലോ ഒരേ വാട്ട്‌സ്ആപ്പ് അക്കൗണ്ട് ആക്‌സസ് ചെയ്യാനുള്ള അതിവേഗ മാർഗം അനുഭവിക്കാൻ തയ്യാറാകൂ, എല്ലാം സൗജന്യമായി! ഇപ്പോൾ ആപ്പ് ഡൗൺലോഡ് ചെയ്ത് ഇൻസ്റ്റാൾ ചെയ്യുക.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

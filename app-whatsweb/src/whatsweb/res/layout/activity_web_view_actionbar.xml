@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data/>
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:elevation="100dp"
+        app:cardCornerRadius="25dp"
+        android:layout_margin="10dp"
+        android:backgroundTint="@color/colorPrimaryNotDarkMode">
+        <LinearLayout
+            android:gravity="top"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+            <ImageView
+                android:id="@+id/iv_close"
+                android:paddingStart="5dp"
+                android:paddingEnd="0dp"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:src="@drawable/ic_arrow_left" />
+            <include
+                android:id="@+id/item_keyboard"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:layout_width="0dp"
+                app:iconText="@{@string/toggle_keyboard}"
+                app:iconDrawable="@{@drawable/ic_keyboard}"
+                app:isActive="@{false}"
+                layout="@layout/activity_web_view_actionbar_item"/>
+            <include
+                android:id="@+id/item_full_screen"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:layout_width="0dp"
+                app:iconText="@{@string/fullscreen}"
+                app:iconDrawable="@{@drawable/ic_fullscreen}"
+                app:isActive="@{false}"
+                layout="@layout/activity_web_view_actionbar_item"/>
+            <include
+                android:id="@+id/item_dark_mode"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:layout_width="0dp"
+                app:iconText="@{@string/preference_title_dark_mode}"
+                app:iconDrawable="@{@drawable/ic_toggle_dark_mode}"
+                app:isActive="@{false}"
+                layout="@layout/activity_web_view_actionbar_item"/>
+            <include
+                android:id="@+id/item_refresh"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:layout_width="0dp"
+                app:iconText="@{@string/title_refresh}"
+                app:iconDrawable="@{@drawable/ic_reload}"
+                app:isActive="@{false}"
+                layout="@layout/activity_web_view_actionbar_item"/>
+            <include
+                android:id="@+id/item_how_it_works"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:layout_width="0dp"
+                app:iconText="@{@string/how_to_use}"
+                app:iconDrawable="@{@drawable/ic_help_black_24dp}"
+                app:isActive="@{false}"
+                layout="@layout/activity_web_view_actionbar_item"/>
+        </LinearLayout>
+    </com.google.android.material.card.MaterialCardView>
+</layout>

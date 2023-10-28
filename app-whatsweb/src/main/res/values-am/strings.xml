@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">ዝማኔ ተጠናቋል</string>
+    <string name="app_update_alert_dialog_subtitle">ዝመናዎችን ለመተግበር መተግበሪያውን እንደገና ያስጀምሩ…</string>
+    <string name="help">እገዛ</string>
+    <string name="cleaner">ማጽጃ</string>
+    <string name="status_saver">የሁኔታ ቆጣቢ</string>
+    <string name="settings">ቅንብሮች</string>
+    <string name="saved_statuses_appear_here">ምንም አይነት ሁኔታ የለም!</string>
+    <string name="available_statuses">ይገኛል።</string>
+    <string name="saved_statuses">ተቀምጧል</string>
+    <string name="enter_message">መልእክት አስገባ (አማራጭ)</string>
+    <string name="enter_phone_number">ስልክ ቁጥር አስገባ</string>
+    <string name="send_message">መልዕክት ላክ</string>
+    <string name="enter_a_phone_number">ስልክ ቁጥር አስገባ</string>
+    <string name="direct_link_copied_to_clipboard">ቀጥታ ማገናኛ ወደ ቅንጥብ ሰሌዳ ተቀድቷል።</string>
+    <string name="premium_unlocked">አመሰግናለሁ. አሁን ዋና ባህሪያትን መጠቀም ይችላሉ።</string>
+    <string name="settings_category_title_developer">ገንቢ</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">ክፍት ምንጭ ቤተ-መጻሕፍት</string>
+    <string name="preference_title_application_version">የመተግበሪያ ሥሪት</string>
+    <string name="preference_title_contact_us">አግኙን</string>
+    <string name="preference_title_privacy_policy">የ ግል የሆነ</string>
+    <string name="preference_title_terms_conditions">አተገባበሩና ​​መመሪያው</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">አጠቃላይ</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">ጨለማ ሁነታ</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">እንዴት እንደሚሰራ\?</string>
+    <string name="ok">እሺ</string>
+    <string name="direct_message_help_ans">እባክዎን የተቀባዩን ስልክ ቁጥር ከጽሑፍ መልእክትዎ ጋር ያስገቡ። መልእክቱን ለመላክ ከተዘጋጁ በኋላ በቀላሉ \'ላክ\' የሚለውን ቁልፍ ይጫኑ። በአማራጭ፣ ሊንኩን ለመቅዳት እና ለተቀባዩ ለማጋራት \'Direct Link\' የሚለውን አማራጭ መጠቀም ይችላሉ። ሊንኩን ጠቅ በማድረግ በቀጥታ ከእርስዎ ጋር መወያየት ይችላሉ።</string>
+    <string name="click_here_to_grant_required_permissions">የማሳወቂያ ፍቃድ አሰናክል እና እንደገና አንቃ።</string>
+    <string name="please_grant_storage_permissions">እባክዎ የማከማቻ ፈቃዶችን ይስጡ</string>
+    <string name="rate_app">እባክዎ መተግበሪያውን ደረጃ ይስጡ!</string>
+    <string name="rate_later">በኋላ</string>
+    <string name="rateUs">እባኮትን በፕሌይ ስቶር ላይ ያለውን መተግበሪያ ደረጃ ይስጡት።</string>
+    <string name="send_feedback">እባክዎን አስተያየት ይላኩልን። በእሱ ላይ ለመስራት እንሞክራለን!</string>
+    <string name="try_again">እባክዎ ዳግም ይሞክሩ</string>
+    <string name="message_copied_to_clipboard">መልእክት ወደ ቅንጥብ ሰሌዳ ተቀድቷል።</string>
+    <string name="system_default">የስርዓት ነባሪ</string>
+    <string name="restart">እንደገና ጀምር</string>
+    <string name="light">ብርሃን</string>
+    <string name="dark">ጨለማ</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">ተካፈል</string>
+    <string name="direct_link">ቀጥታ ማገናኛን ይቅዱ</string>
+    <string name="remove_ads">ማስታወቂያዎችን ያስወግዱ</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">ምን ድር</string>
+    <string name="recover_messages">መልዕክቶችን መልሰው ያግኙ</string>
+    <string name="direct_message">ቀጥተኛ መልእክት</string>
+    <string name="title_refresh">ዳግም ጫን</string>
+    <string name="whatsapp_not_installed">ዋትሳፕ አልተጫነም። እባክዎ ይህን ባህሪ ለመጠቀም መጀመሪያ ዋትስአፕን ይጫኑ።</string>
+    <string name="toggle_keyboard">የቁልፍ ሰሌዳ ቀያይር</string>
+    <string name="fullscreen">ሙሉ ማያ</string>
+    <string name="dismiss">አሰናብት</string>
+    <string name="keyboard_unblocked">የቁልፍ ሰሌዳ ታግዷል።</string>
+    <string name="keyboard_blocked">የቁልፍ ሰሌዳ ታግዷል። እገዳውን ለማንሳት የቁልፍ ሰሌዳ አዶን ይጫኑ።</string>
+    <string name="whats_web_how_it_works">1. በመሳሪያዎ ላይ Whats Web መተግበሪያን ይክፈቱ።\n\n2. በሌላ ስማርትፎን ላይ WhatsApp ን ይክፈቱ።\n\n* በአንድሮይድ ላይ -&gt; ከቻት ስክሪኑ ወደ ሶስት ነጥብ ሜኑ በማያ ገጹ በላይኛው ቀኝ ጥግ ላይ ወዳለው -&gt; የተገናኙ መሳሪያዎች ይሂዱ።\n\n* በመስኮት ስልክ -&gt; ወደ ሶስት ነጥብ ሜኑ ይሂዱ -&gt; የተገናኙ መሣሪያዎች።\n\n* በ iPhone -&gt; ወደ ቅንብሮች ይሂዱ -&gt; የተገናኙ መሣሪያዎች።\n\n3. መሳሪያን አገናኝ ንካ እና በዚህ መተግበሪያ ስክሪን ላይ የሚታየውን የQR ኮድ ከሌላ ስልክ ይቃኙ።</string>
+    <string name="retry_sending_voice_message">እባክዎ የድምጽ መልእክት ለመላክ እንደገና ይሞክሩ</string>
+    <string name="message_retry_sending_voice_message">የማይክሮፎን አዶውን አንዴ እንደገና ይጫኑ። እንደተጠበቀው መስራት አለበት።</string>
+    <string name="retry_camera_capture">እባክዎ የካሜራ አማራጭን እንደገና ይሞክሩ</string>
+    <string name="message_retry_camera_capture">የካሜራ አዶውን አንዴ እንደገና ይጫኑ። እንደተጠበቀው መስራት አለበት።</string>
+    <string name="audio_perm_reqd">ወደፊት ለመራመድ የድምጽ ፈቃድ ያስፈልጋል።</string>
+    <string name="camera_perm_reqd">ወደፊት ለመራመድ የካሜራ ፍቃድ ያስፈልጋል።</string>
+    <string name="reset_reload">ዳግም አስጀምር/እንደገና ጫን</string>
+    <string name="reset_only">ዳግም አስጀምር</string>
+    <string name="reload_only">እንደገና ጫን ብቻ</string>
+    <string name="reload_warning">ከመግባት ጋር የተያያዙ ችግሮች እያጋጠሙዎት ከሆነ \'ዳግም አስጀምር\'ን ይሞክሩ።\nማስጠንቀቂያ፡ \'ዳግም አስጀምር\' ከተጠቀሙ እንደገና መግባት ሊኖርብዎ ይችላል።</string>
+    <string name="download_file">ፋይል በማውረድ ላይ</string>
+    <string name="couldnt_download_file">ፋይል ሊወርድ አልቻለም</string>
+    <string name="storage_perm_reqd">ፋይል ለማውረድ የማከማቻ ፍቃድ ያስፈልጋል</string>
+    <string name="purchase_item_not_found">የግዢ ንጥል ነገር ሊገኝ አልቻለም</string>
+    <string name="error">ስህተት</string>
+    <string name="purchase_canceled">ግዢ ተሰርዟል።</string>
+    <string name="pending_purchase">ግዢ በመጠባበቅ ላይ ነው። እባክዎ ግብይቱን ያጠናቅቁ</string>
+    <string name="purchase_status_not_known">የግዢ ሁኔታ አይታወቅም።</string>
+    <string name="enter_file_name">የፋይል ስም አስገባ</string>
+    <string name="downloading_file">ፋይሉን በማውረድ ላይ</string>
+    <string name="enter_valid_file_name">እባክዎ የሚሰራ የፋይል ስም ያስገቡ</string>
+    <string name="download_has_finished_message">ማውረዱ አልቋል። እባክዎ የውርዶች አቃፊን ያረጋግጡ።</string>
+    <string name="could_not_download_file">ፋይል ማውረድ አልተቻለም</string>
+    <string name="loading">በመጫን ላይ</string>
+    <string name="downloading_update">ዝመናን በማውረድ ላይ</string>
+    <string name="update_downloaded_message">አንድ ዝማኔ አሁን ወርዷል።</string>
+    <string name="keyboard_enable_webview_message">መተየብ ለማንቃት ከላይ ያለውን የመቀያየር ቁልፍ ሰሌዳ ይጫኑ</string>
+    <string name="preference_title_bug_report">የሳንካ ሪፖርት</string>
+    <string name="preference_title_report_a_issue">ጉዳይ ሪፖርት አድርግ</string>
+    <string name="describe_bug">እባክህ ስህተቱን እዚህ ግለጽ</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">የዋትስአፕ ማውጫ ሁኔታዎችን አልያዘም። እባክዎ ትክክለኛውን ማውጫ ይምረጡ።</string>
+    <string name="please_select_whatsapp_directory">እባክዎ የ WhatsApp ማውጫን ይምረጡ!</string>
+    <string name="download_cleaner">ማጽጃ አውርድ</string>
+    <string name="download_recover_messages_app">መልሶ ማግኛ መልዕክቶች መተግበሪያን ያውርዱ</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">ይህንን ባህሪ ለመጠቀም ሌላ መተግበሪያ ከፕሌይ ስቶር ማውረድ ያስፈልግዎታል። ፕሌይ ስቶርን ለመክፈት እና አፕ ለማውረድ እሺን ጠቅ ያድርጉ።</string>
+    <string name="cancel">ሰርዝ</string>
+    <string name="ad_space">የማስታወቂያ ቦታ</string>
+    <string name="status">ሁኔታ</string>
+    <string name="theme">ጭብጥ</string>
+    <string name="more_apps">ተጨማሪ መተግበሪያዎች</string>
+    <string name="share">አጋራ</string>
+    <string name="send">ላክ</string>
+    <string name="select_country_code_and_number">የአገር ኮድ እና ቁጥር ይምረጡ</string>
+    <string name="how_it_works">እንዴት እንደሚሰራ</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">የQr ስካነር መተግበሪያን ያውርዱ</string>
+    <string name="share_content">ተመሳሳዩን የዋትስአፕ አካውንት በሁለት የተለያዩ ስማርትፎኖች ወይም ታብሌቶች ለመጠቀም ፈጣኑን መንገድ ለመለማመድ ይዘጋጁ፣ ሁሉም በነጻ! መተግበሪያውን አሁን ያውርዱ እና ይጫኑት።</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

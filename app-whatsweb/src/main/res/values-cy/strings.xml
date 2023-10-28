@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Diweddariad wedi\'i gwblhau</string>
+    <string name="app_update_alert_dialog_subtitle">Ailgychwynnwch yr ap i gymhwyso diweddariadau…</string>
+    <string name="help">Help</string>
+    <string name="cleaner">Glanhawr</string>
+    <string name="status_saver">Arbedwr Statws</string>
+    <string name="settings">Gosodiadau</string>
+    <string name="saved_statuses_appear_here">Dim Statws Ar Gael!</string>
+    <string name="available_statuses">Ar gael</string>
+    <string name="saved_statuses">Cadwedig</string>
+    <string name="enter_message">Rhowch Neges (Dewisol)</string>
+    <string name="enter_phone_number">Rhowch Rhif Ffôn</string>
+    <string name="send_message">Anfon Neges</string>
+    <string name="enter_a_phone_number">Rhowch rif ffôn</string>
+    <string name="direct_link_copied_to_clipboard">Dolen uniongyrchol wedi\'i chopïo i\'r clipfwrdd</string>
+    <string name="premium_unlocked">Diolch. Gallwch nawr ddefnyddio nodweddion premiwm</string>
+    <string name="settings_category_title_developer">Datblygwr</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Llyfrgelloedd Ffynhonnell Agored</string>
+    <string name="preference_title_application_version">Fersiwn App</string>
+    <string name="preference_title_contact_us">Cysylltwch â Ni</string>
+    <string name="preference_title_privacy_policy">Polisi Preifatrwydd</string>
+    <string name="preference_title_terms_conditions">Telerau ac Amodau</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Cyffredinol</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Modd Tywyll</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Sut mae\'n gweithio\?</string>
+    <string name="ok">iawn</string>
+    <string name="direct_message_help_ans">Rhowch rif ffôn y derbynnydd ynghyd â\'ch neges destun. Unwaith y byddwch yn barod i anfon y neges, cliciwch ar y botwm \'Anfon\'. Fel arall, gallwch hefyd ddefnyddio\'r opsiwn \'Dolen Uniongyrchol\' i gopïo\'r ddolen a\'i rhannu â\'r derbynnydd. Trwy glicio ar y ddolen, gallant sgwrsio â chi\'n uniongyrchol.</string>
+    <string name="click_here_to_grant_required_permissions">Analluogi ac ail-alluogi caniatâd hysbysu.</string>
+    <string name="please_grant_storage_permissions">Rhowch ganiatâd Storio</string>
+    <string name="rate_app">Rhowch sgôr i\'r app!</string>
+    <string name="rate_later">Yn ddiweddarach</string>
+    <string name="rateUs">Rhowch sgôr i\'r app ar Play Store</string>
+    <string name="send_feedback">Anfonwch adborth atom. Byddwn yn ceisio gweithio arno!</string>
+    <string name="try_again">Trio eto os gwelwch yn dda</string>
+    <string name="message_copied_to_clipboard">neges wedi\'i chopïo i\'r clipfwrdd</string>
+    <string name="system_default">System ddiofyn</string>
+    <string name="restart">Ail-ddechrau</string>
+    <string name="light">Ysgafn</string>
+    <string name="dark">Tywyll</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Rhannwch gyda</string>
+    <string name="direct_link">Copïo Dolen Uniongyrchol</string>
+    <string name="remove_ads">Dileu Hysbysebion</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Beth sy\'n We</string>
+    <string name="recover_messages">Adfer Negeseuon</string>
+    <string name="direct_message">Neges Uniongyrchol</string>
+    <string name="title_refresh">Ail-lwytho</string>
+    <string name="whatsapp_not_installed">Nid yw Whatsapp wedi\'i osod. Gosodwch Whatsapp yn gyntaf i ddefnyddio\'r nodwedd hon.</string>
+    <string name="toggle_keyboard">Toglo Bysellfwrdd</string>
+    <string name="fullscreen">Sgrin llawn</string>
+    <string name="dismiss">Diystyru</string>
+    <string name="keyboard_unblocked">Mae\'r bysellfwrdd wedi\'i ddadrwystro.</string>
+    <string name="keyboard_blocked">Mae\'r bysellfwrdd wedi\'i rwystro. Pwyswch eicon y bysellfwrdd i ddadrwystro.</string>
+    <string name="whats_web_how_it_works">1. Agorwch raglen Whats Web ar eich dyfais.\n\n2. agored whatsapp ar ffôn clyfar eraill.\n\n* Ar Android -&gt; O\'r sgrin sgyrsiau, ewch i\'r ddewislen tri dot ar ochr dde uchaf y sgrin -&gt; Dyfeisiau cysylltiedig.\n\n* Ar Ffenestr ffôn -&gt; Ewch i ddewislen tri dot -&gt; Dyfeisiau cysylltiedig.\n\n* Ar iPhone -&gt; Ewch i Gosodiadau -&gt; Dyfeisiau cysylltiedig.\n\n3. Tap ar Cyswllt dyfais a sganio y Cod QR harddangos ar eich sgrin app hwn o ffôn eraill.</string>
+    <string name="retry_sending_voice_message">Ceisiwch anfon neges llais eto</string>
+    <string name="message_retry_sending_voice_message">Pwyswch eicon y meicroffon unwaith eto. Dylai fod yn gweithio yn ôl y disgwyl.</string>
+    <string name="retry_camera_capture">Rhowch gynnig arall ar yr opsiwn Camera</string>
+    <string name="message_retry_camera_capture">Pwyswch eicon y camera unwaith eto. Dylai fod yn gweithio yn ôl y disgwyl.</string>
+    <string name="audio_perm_reqd">Mae angen caniatâd sain i symud ymlaen.</string>
+    <string name="camera_perm_reqd">Mae angen caniatâd camera i symud ymlaen.</string>
+    <string name="reset_reload">Ailosod/Ail-lwytho</string>
+    <string name="reset_only">AIL GYCHWYN</string>
+    <string name="reload_only">AILLWYTHO YN UNIG</string>
+    <string name="reload_warning">Os ydych chi\'n cael problemau sy\'n ymwneud â mewngofnodi, rhowch gynnig ar \'Ailosod\'.\nRHYBUDD: Efallai y bydd yn rhaid i chi fewngofnodi eto os ydych yn defnyddio \'Ailosod\'.</string>
+    <string name="download_file">Lawrlwytho Ffeil</string>
+    <string name="couldnt_download_file">Ni fu modd lawrlwytho\'r ffeil</string>
+    <string name="storage_perm_reqd">Mae angen caniatâd storio i lawrlwytho ffeil</string>
+    <string name="purchase_item_not_found">Ni ellid dod o hyd i\'r Eitem Brynu</string>
+    <string name="error">Gwall</string>
+    <string name="purchase_canceled">Prynu wedi\'i Ganslo</string>
+    <string name="pending_purchase">Pryniant yn Arfaethedig. Cwblhewch y Trafodyn</string>
+    <string name="purchase_status_not_known">Nid yw Statws Prynu yn hysbys</string>
+    <string name="enter_file_name">Rhowch Enw Ffeil</string>
+    <string name="downloading_file">Lawrlwytho\'r Ffeil</string>
+    <string name="enter_valid_file_name">Rhowch enw ffeil dilys</string>
+    <string name="download_has_finished_message">Mae lawrlwytho wedi gorffen. Gwiriwch y ffolder Lawrlwythiadau.</string>
+    <string name="could_not_download_file">Methu lawrlwytho Ffeil</string>
+    <string name="loading">Llwytho</string>
+    <string name="downloading_update">Wrthi\'n lawrlwytho diweddariad</string>
+    <string name="update_downloaded_message">Mae diweddariad newydd gael ei lawrlwytho.</string>
+    <string name="keyboard_enable_webview_message">Pwyswch y botwm toggle bysellfwrdd ar ei ben i alluogi teipio</string>
+    <string name="preference_title_bug_report">Adroddiad Bug</string>
+    <string name="preference_title_report_a_issue">Rhoi gwybod am Fater</string>
+    <string name="describe_bug">Disgrifiwch y byg yma</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">Nid yw cyfeiriadur WhatsApp yn cynnwys Statws. Dewiswch y cyfeiriadur cywir.</string>
+    <string name="please_select_whatsapp_directory">Dewiswch gyfeiriadur WhatsApp!</string>
+    <string name="download_cleaner">Lawrlwythwch Glanhawr</string>
+    <string name="download_recover_messages_app">Dadlwythwch Ap Adfer Negeseuon</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">I ddefnyddio\'r nodwedd hon, mae angen i chi lawrlwytho ap arall o\'r storfa chwarae. Cliciwch OK i agor storfa chwarae a lawrlwytho ap.</string>
+    <string name="cancel">Canslo</string>
+    <string name="ad_space">Gofod Hysbysebu</string>
+    <string name="status">Statws</string>
+    <string name="theme">Thema</string>
+    <string name="more_apps">Mwy o Apiau</string>
+    <string name="share">Rhannu</string>
+    <string name="send">Anfon</string>
+    <string name="select_country_code_and_number">Dewiswch god gwlad a rhif</string>
+    <string name="how_it_works">Sut mae\'n gweithio</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Dadlwythwch Ap Sganiwr Qr</string>
+    <string name="share_content">Paratowch i brofi\'r ffordd gyflymaf o gael mynediad i\'r un cyfrif WhatsApp ar ddau ffôn clyfar neu lechen wahanol, i gyd am ddim! Dadlwythwch a gosodwch yr app nawr.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

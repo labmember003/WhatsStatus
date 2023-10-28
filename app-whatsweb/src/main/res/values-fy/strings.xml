@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Update is kompleet</string>
+    <string name="app_update_alert_dialog_subtitle">Start de app opnij om updates oan te passen ...</string>
+    <string name="help">Help</string>
+    <string name="cleaner">Cleaner</string>
+    <string name="status_saver">Status Saver</string>
+    <string name="settings">Ynstellings</string>
+    <string name="saved_statuses_appear_here">Gjin status beskikber!</string>
+    <string name="available_statuses">Beskikber</string>
+    <string name="saved_statuses">Opslein</string>
+    <string name="enter_message">Berjocht ynfiere (opsjoneel)</string>
+    <string name="enter_phone_number">Fier telefoannûmer yn</string>
+    <string name="send_message">Stjoer berjocht</string>
+    <string name="enter_a_phone_number">Fier in telefoannûmer yn</string>
+    <string name="direct_link_copied_to_clipboard">Direkte keppeling kopiearre nei klamboerd</string>
+    <string name="premium_unlocked">Dankewol. Jo kinne no premium funksjes brûke</string>
+    <string name="settings_category_title_developer">Untwikkelder</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Iepen boarne biblioteken</string>
+    <string name="preference_title_application_version">App Ferzje</string>
+    <string name="preference_title_contact_us">Kontakt mei ús opnimme</string>
+    <string name="preference_title_privacy_policy">Privacybelied</string>
+    <string name="preference_title_terms_conditions">Betingsten En Kondysjes</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Algemien</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Dark Mode</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Hoe\'t it wurket\?</string>
+    <string name="ok">OK</string>
+    <string name="direct_message_help_ans">Fier asjebleaft it telefoannûmer fan de ûntfanger yn tegearre mei jo tekstberjocht. Sadree\'t jo klear binne om it berjocht te ferstjoeren, klikje jo gewoan op de \'Stjoer\' knop. As alternatyf kinne jo ek de opsje \'Direct Link\' brûke om de keppeling te kopiearjen en te dielen mei de ûntfanger. Troch op de keppeling te klikken, kinne se direkt mei jo petearje.</string>
+    <string name="click_here_to_grant_required_permissions">Tastimming foar notifikaasje útskeakelje en opnij ynskeakelje.</string>
+    <string name="please_grant_storage_permissions">Jou asjebleaft tagongsrjochten foar opslach</string>
+    <string name="rate_app">Beoardielje asjebleaft de app!</string>
+    <string name="rate_later">Letter</string>
+    <string name="rateUs">Beoardielje asjebleaft de app op Play Store</string>
+    <string name="send_feedback">Stjoer ús asjebleaft feedback. Wy sille besykje der oan te wurkjen!</string>
+    <string name="try_again">Besykje it nochris</string>
+    <string name="message_copied_to_clipboard">berjocht kopiearre nei klamboerd</string>
+    <string name="system_default">Systeem Standert</string>
+    <string name="restart">Op \'e nij begjinne</string>
+    <string name="light">Ljocht</string>
+    <string name="dark">Tsjuster</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Diele mei</string>
+    <string name="direct_link">Direkte keppeling kopiearje</string>
+    <string name="remove_ads">Advertinsjes fuorthelje</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Wat is web</string>
+    <string name="recover_messages">Berjochten weromhelje</string>
+    <string name="direct_message">Persoanlik berjocht</string>
+    <string name="title_refresh">Reload</string>
+    <string name="whatsapp_not_installed">Whatsapp is net ynstalleare. Ynstallearje asjebleaft earst Whatsapp om dizze funksje te brûken.</string>
+    <string name="toggle_keyboard">Toetseboerd wikselje</string>
+    <string name="fullscreen">Folslein skerm</string>
+    <string name="dismiss">ôfwize</string>
+    <string name="keyboard_unblocked">Toetseboerd is deblokkearre.</string>
+    <string name="keyboard_blocked">Toetseboerd is blokkearre. Druk op it toetseboerdikoan om te ûntsluten.</string>
+    <string name="whats_web_how_it_works">1. Iepenje Whats Web applikaasje op jo apparaat.\n\n2. Iepenje whatsapp op oare smartphone.\n\n* Op Android -&gt; Gean fan it petearskerm nei it menu mei trije stippen rjochts boppe op it skerm -&gt; Keppele apparaten.\n\n* Op finstertillefoan -&gt; Gean nei trije puntmenu -&gt; Keppele apparaten.\n\n* Op iPhone -&gt; Gean nei Ynstellings -&gt; Keppele apparaten.\n\n3. Tap op Keppelje in apparaat en scan de QR Code werjûn op jo dizze app skerm fan oare telefoan.</string>
+    <string name="retry_sending_voice_message">Besykje nochris it stimberjocht te ferstjoeren</string>
+    <string name="message_retry_sending_voice_message">Druk noch ien kear op it mikrofoanpictogram. It moat wurkje lykas ferwachte.</string>
+    <string name="retry_camera_capture">Besykje de kamera-opsje nochris</string>
+    <string name="message_retry_camera_capture">Druk noch ien kear op it kamera-ikoan. It moat wurkje lykas ferwachte.</string>
+    <string name="audio_perm_reqd">Audiotastimming is nedich om foarút te gean.</string>
+    <string name="camera_perm_reqd">Kameratastimming is nedich om foarút te gean.</string>
+    <string name="reset_reload">Weromsette /opnij laden</string>
+    <string name="reset_only">RESETTE</string>
+    <string name="reload_only">RELOAD ONLY</string>
+    <string name="reload_warning">As jo ​​problemen ûnderfine yn ferbân mei oanmelding, besykje dan \'Reset\'.\nWARSKUWING: Jo moatte miskien opnij oanmelde as jo \'Reset\' brûke.</string>
+    <string name="download_file">Bestân ynladen</string>
+    <string name="couldnt_download_file">Triem koe net ynladen wurde</string>
+    <string name="storage_perm_reqd">Opslachtastimming nedich om bestân te downloaden</string>
+    <string name="purchase_item_not_found">Oankeapartikel koe net fûn wurde</string>
+    <string name="error">Fersin</string>
+    <string name="purchase_canceled">Purchase annulearre</string>
+    <string name="pending_purchase">Oankeap is yn ôfwachting. Folje asjebleaft Transaksje</string>
+    <string name="purchase_status_not_known">Purchase Status is net bekend</string>
+    <string name="enter_file_name">Fier in triemnamme yn</string>
+    <string name="downloading_file">It ynladen fan de triem</string>
+    <string name="enter_valid_file_name">Fier in jildige triemnamme yn</string>
+    <string name="download_has_finished_message">Download is klear. Kontrolearje asjebleaft Downloads map.</string>
+    <string name="could_not_download_file">Koe Triem net downloade</string>
+    <string name="loading">Loading</string>
+    <string name="downloading_update">Ynladen update</string>
+    <string name="update_downloaded_message">In update is krekt ynladen.</string>
+    <string name="keyboard_enable_webview_message">Druk op de toetseboerdknop boppe om it typen yn te skeakeljen</string>
+    <string name="preference_title_bug_report">Bug Report</string>
+    <string name="preference_title_report_a_issue">Rapportearje in probleem</string>
+    <string name="describe_bug">Beskriuw asjebleaft de brek hjir</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">WhatsApp-map befettet gjin statusen. Selektearje asjebleaft juste map.</string>
+    <string name="please_select_whatsapp_directory">Selektearje asjebleaft WhatsApp-map!</string>
+    <string name="download_cleaner">Download Cleaner</string>
+    <string name="download_recover_messages_app">Download de app foar herstel fan berjochten</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Om dizze funksje te brûken, moatte jo in oare app downloade fan \'e play store. Klikje OK om de play store te iepenjen en de app te downloaden.</string>
+    <string name="cancel">Ofbrekke</string>
+    <string name="ad_space">Ad Space</string>
+    <string name="status">Status</string>
+    <string name="theme">Tema</string>
+    <string name="more_apps">Mear apps</string>
+    <string name="share">Diele</string>
+    <string name="send">Stjoere</string>
+    <string name="select_country_code_and_number">Selektearje lânkoade en nûmer</string>
+    <string name="how_it_works">Hoe\'t it wurket</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Download de QR-scanner-app</string>
+    <string name="share_content">Meitsje jo klear om de rapste manier te belibjen om tagong te krijen ta itselde WhatsApp-akkount op twa ferskillende smartphones of tablets, allegear fergees! Download en ynstallearje de app no.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

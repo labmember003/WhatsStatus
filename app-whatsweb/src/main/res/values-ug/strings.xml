@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">يېڭىلاش تاماملاندى</string>
+    <string name="app_update_alert_dialog_subtitle">يېڭىلاشنى قوللىنىش ئۈچۈن ئەپنى قايتا قوزغىتىڭ…</string>
+    <string name="help">ياردەم</string>
+    <string name="cleaner">Cleaner</string>
+    <string name="status_saver">ھالەت ساقلىغۇچى</string>
+    <string name="settings">تەڭشەك</string>
+    <string name="saved_statuses_appear_here">ھېچقانداق ھالەت يوق!</string>
+    <string name="available_statuses">ئىشلەتكىلى بولىدۇ</string>
+    <string name="saved_statuses">ساقلاندى</string>
+    <string name="enter_message">ئۇچۇر كىرگۈزۈڭ (ئىختىيارىي)</string>
+    <string name="enter_phone_number">تېلېفون نومۇرىنى كىرگۈزۈڭ</string>
+    <string name="send_message">ئۇچۇر ئەۋەتىش</string>
+    <string name="enter_a_phone_number">تېلېفون نومۇرىنى كىرگۈزۈڭ</string>
+    <string name="direct_link_copied_to_clipboard">چاپلاش تاختىسىغا كۆچۈرۈلگەن بىۋاسىتە ئۇلىنىش</string>
+    <string name="premium_unlocked">رەھمەت سىزگە. سىز ھازىر يۇقىرى ئىقتىدارلىق ئىقتىدارلارنى ئىشلىتەلەيسىز</string>
+    <string name="settings_category_title_developer">Developer</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">ئوچۇق مەنبەلىك كۈتۈپخانىلار</string>
+    <string name="preference_title_application_version">ئەپ نۇسخىسى</string>
+    <string name="preference_title_contact_us">بىز بىلەن ئالاقىلىشىڭ</string>
+    <string name="preference_title_privacy_policy">مەخپىيەتلىك تۈزۈمى</string>
+    <string name="preference_title_terms_conditions">شەرت ۋە شەرت</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">General</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">قاراڭغۇ ھالەت</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">ئۇ قانداق ئىشلەيدۇ؟</string>
+    <string name="ok">ماقۇل</string>
+    <string name="direct_message_help_ans">تاپشۇرۇۋالغۇچىنىڭ تېلېفون نومۇرىنى قىسقا ئۇچۇر بىلەن بىللە كىرگۈزۈڭ. ئۇچۇر ئەۋەتىشكە تەييارلانغاندىن كېيىن ، «ئەۋەتىش» كۇنۇپكىسىنى بېسىڭ. ئۇنىڭدىن باشقا ، سىز يەنە «بىۋاسىتە ئۇلىنىش» تاللانمىسىنى ئىشلىتىپ ئۇلىنىشنى كۆچۈرۈپ تاپشۇرۇۋالغۇچى بىلەن ئورتاقلىشالايسىز. ئۇلانمىنى چېكىش ئارقىلىق ئۇلار سىز بىلەن بىۋاسىتە پاراڭلىشالايدۇ.</string>
+    <string name="click_here_to_grant_required_permissions">ئۇقتۇرۇش ئىجازىتىنى چەكلەڭ ۋە قايتا قوزغىتىڭ.</string>
+    <string name="please_grant_storage_permissions">ساقلاش ئىجازەتنامىسىنى بېرىڭ</string>
+    <string name="rate_app">ئەپكە باھا بېرىڭ!</string>
+    <string name="rate_later">كېيىنچە</string>
+    <string name="rateUs">ئەپ دۇكىنىدىكى ئەپنى باھالاپ بېقىڭ</string>
+    <string name="send_feedback">بىزگە تەكلىپ-پىكىر ئەۋەتىڭ. بىز ئۇنىڭ ئۈستىدە ئىشلەشكە تىرىشىمىز!</string>
+    <string name="try_again">قايتا سىناڭ</string>
+    <string name="message_copied_to_clipboard">چاپلاش تاختىسىغا كۆچۈرۈلگەن ئۇچۇر</string>
+    <string name="system_default">سىستېما كۆڭۈلدىكى قىممىتى</string>
+    <string name="restart">قايتا قوزغىتىڭ</string>
+    <string name="light">نۇر</string>
+    <string name="dark">قاراڭغۇ</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">بىلەن ئورتاقلىشىش</string>
+    <string name="direct_link">بىۋاسىتە ئۇلىنىشنى كۆچۈرۈڭ</string>
+    <string name="remove_ads">ئېلاننى ئۆچۈرۈڭ</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Whats Web</string>
+    <string name="recover_messages">ئۇچۇرلارنى ئەسلىگە كەلتۈرۈش</string>
+    <string name="direct_message">بىۋاسىتە ئۇچۇر</string>
+    <string name="title_refresh">قايتا يۈكلەڭ</string>
+    <string name="whatsapp_not_installed">Whatsapp قاچىلانمىغان. بۇ ئىقتىدارنى ئىشلىتىش ئۈچۈن ئالدى بىلەن Whatsapp نى قاچىلاڭ.</string>
+    <string name="toggle_keyboard">كۇنۇپكا تاختىسىنى ئالماشتۇرۇڭ</string>
+    <string name="fullscreen">تولۇق ئېكران</string>
+    <string name="dismiss">خىزمەتتىن ھەيدەش</string>
+    <string name="keyboard_unblocked">كۇنۇپكا تاختىسى چەكلەنگەن.</string>
+    <string name="keyboard_blocked">كۇنۇپكا تاختىسى چەكلەنگەن. چەكلەش ئۈچۈن كۇنۇپكا تاختىسى سىنبەلگىسىنى بېسىڭ.</string>
+    <string name="whats_web_how_it_works">1. ئۈسكۈنىڭىزدە Whats تور قوللىنىشچان پروگراممىسىنى ئېچىڭ.\n\n2. باشقا ئەقلىي ئىقتىدارلىق تېلېفونلاردا whatsapp نى ئېچىڭ.\n\n* ئاندىرويىد -&gt; پاراڭلىشىش ئېكرانىدىن ئېكراننىڭ ئوڭ ئۈستى تەرىپىگە جايلاشقان ئۈچ چېكىتلىك تىزىملىككە كىرىڭ -&gt; ئۇلانغان ئۈسكۈنىلەر.\n\n* كۆزنەك تېلېفونىدا -&gt; ئۈچ چېكىتلىك تىزىملىككە كىرىڭ -&gt; ئۇلانغان ئۈسكۈنىلەر.\n\n* ئايفوندا -&gt; تەڭشەكلەرگە -&gt; ئۇلانغان ئۈسكۈنىلەرگە بېرىڭ.\n\n3. ئۈسكۈنىنى ئۇلاشنى چېكىپ ، باشقا ئەپلەردىن بۇ ئەپ ئېكرانىدا كۆرسىتىلگەن QR كودىنى سايىلەڭ.</string>
+    <string name="retry_sending_voice_message">ئاۋازلىق ئۇچۇر ئەۋەتىشنى قايتا سىناڭ</string>
+    <string name="message_retry_sending_voice_message">مىكروفون سىنبەلگىسىنى يەنە بىر قېتىم بېسىڭ. ئۇ ئويلىغاندەك ئىشلىشى كېرەك.</string>
+    <string name="retry_camera_capture">كامېرا تاللانمىسىنى قايتا سىناڭ</string>
+    <string name="message_retry_camera_capture">كامېرا سىنبەلگىسىنى يەنە بىر قېتىم بېسىڭ. ئۇ ئويلىغاندەك ئىشلىشى كېرەك.</string>
+    <string name="audio_perm_reqd">ئىلگىرىلەش ئۈچۈن ئاۋاز ئىجازىتى تەلەپ قىلىنىدۇ.</string>
+    <string name="camera_perm_reqd">ئىلگىرىلەش ئۈچۈن كامېرا ئىجازىتى تەلەپ قىلىنىدۇ.</string>
+    <string name="reset_reload">ئەسلىگە قايتۇرۇش /قايتا يۈكلەش</string>
+    <string name="reset_only">RESET</string>
+    <string name="reload_only">RELOAD ONLY</string>
+    <string name="reload_warning">ئەگەر كىرىشكە مۇناسىۋەتلىك مەسىلىلەرگە يولۇقسىڭىز ، «ئەسلىگە قايتۇرۇش» نى سىناڭ.\nئاگاھلاندۇرۇش: «ئەسلىگە كەلتۈرۈش» نى ئىشلەتسىڭىز قايتا كىرىشىڭىز مۇمكىن.</string>
+    <string name="download_file">ھۆججەت چۈشۈرۈش</string>
+    <string name="couldnt_download_file">ھۆججەتنى چۈشۈرگىلى بولمىدى</string>
+    <string name="storage_perm_reqd">ھۆججەت چۈشۈرۈش ئۈچۈن ساقلاش ئىجازىتى لازىم</string>
+    <string name="purchase_item_not_found">سېتىۋېلىش تۈرى تېپىلمىدى</string>
+    <string name="error">خاتالىق</string>
+    <string name="purchase_canceled">سېتىۋېلىش ئەمەلدىن قالدۇرۇلدى</string>
+    <string name="pending_purchase">سېتىۋېلىش كۈتۈلمەكتە. سودىڭىزنى تاماملاڭ</string>
+    <string name="purchase_status_not_known">سېتىۋېلىش ئەھۋالى ئېنىق ئەمەس</string>
+    <string name="enter_file_name">ھۆججەت نامىنى كىرگۈزۈڭ</string>
+    <string name="downloading_file">ھۆججەتنى چۈشۈرۈش</string>
+    <string name="enter_valid_file_name">ئىناۋەتلىك ھۆججەت نامىنى كىرگۈزۈڭ</string>
+    <string name="download_has_finished_message">چۈشۈرۈش تاماملاندى. چۈشۈرۈش قىسقۇچىنى تەكشۈرۈپ بېقىڭ.</string>
+    <string name="could_not_download_file">ھۆججەتنى چۈشۈرەلمىدى</string>
+    <string name="loading">يۈكلەۋاتىدۇ</string>
+    <string name="downloading_update">يېڭىلاشنى چۈشۈرۈش</string>
+    <string name="update_downloaded_message">يېڭىلاش يېڭىلاندى.</string>
+    <string name="keyboard_enable_webview_message">خەتكۈچنى قوزغىتىش ئۈچۈن ئۈستىدىكى كۇنۇپكا تاختىسىنى بېسىڭ</string>
+    <string name="preference_title_bug_report">Bug Report</string>
+    <string name="preference_title_report_a_issue">مەلۇم بىر مەسىلىنى دوكلات قىلىڭ</string>
+    <string name="describe_bug">بۇ يەردىكى كەمتۈكنى تەسۋىرلەپ بېرىڭ</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">WhatsApp مۇندەرىجىسىدە ھالەت يوق. توغرا مۇندەرىجىنى تاللاڭ.</string>
+    <string name="please_select_whatsapp_directory">WhatsApp مۇندەرىجىسىنى تاللاڭ!</string>
+    <string name="download_cleaner">تازىلاش ماشىنىسىنى چۈشۈرۈڭ</string>
+    <string name="download_recover_messages_app">ئەسلىگە كەلتۈرۈش ئۇچۇر ئەپىنى چۈشۈرۈڭ</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">بۇ ئىقتىدارنى ئىشلىتىش ئۈچۈن ئويۇن دۇكىنىدىن باشقا بىر ئەپنى چۈشۈرۈشىڭىز كېرەك. ئويۇن دۇكىنىنى ئېچىش ۋە چۈشۈرۈش دېتالىنى ئېچىش ئۈچۈن «جەزملە» نى چېكىڭ.</string>
+    <string name="cancel">بىكار قىلىش</string>
+    <string name="ad_space">ئېلان بوشلۇقى</string>
+    <string name="status">ھالەت</string>
+    <string name="theme">باشتېما</string>
+    <string name="more_apps">تېخىمۇ كۆپ ئەپلەر</string>
+    <string name="share">ھەمبەھىرلەش</string>
+    <string name="send">ئەۋەتىڭ</string>
+    <string name="select_country_code_and_number">دۆلەت كودى ۋە نومۇرىنى تاللاڭ</string>
+    <string name="how_it_works">قانداق ئىشلەيدۇ</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Qr سايىلىغۇچ دېتالىنى چۈشۈرۈڭ</string>
+    <string name="share_content">ئوخشاش بولمىغان ئىككى خىل ئەقلىي ئىقتىدارلىق تېلېفون ياكى تاختا كومپيۇتېردا ئوخشاش WhatsApp ھېساباتىغا ئېرىشىشنىڭ ئەڭ تېز ئۇسۇلىنى ھېس قىلىشقا تەييارلىق قىلىڭ ، ھەممىسى ھەقسىز! بۇ دېتالنى ھازىر چۈشۈرۈپ قاچىلاڭ.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

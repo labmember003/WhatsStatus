@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Uppfærslu er lokið</string>
+    <string name="app_update_alert_dialog_subtitle">Endurræstu forritið til að nota uppfærslur...</string>
+    <string name="help">Hjálp</string>
+    <string name="cleaner">Hreinari</string>
+    <string name="status_saver">Stöðusparnaður</string>
+    <string name="settings">Stillingar</string>
+    <string name="saved_statuses_appear_here">Engin staða í boði!</string>
+    <string name="available_statuses">Laus</string>
+    <string name="saved_statuses">Vistað</string>
+    <string name="enter_message">Sláðu inn skilaboð (valfrjálst)</string>
+    <string name="enter_phone_number">Sláðu inn símanúmer</string>
+    <string name="send_message">Senda skilaboð</string>
+    <string name="enter_a_phone_number">Sláðu inn símanúmer</string>
+    <string name="direct_link_copied_to_clipboard">Beinn hlekkur afritaður á klemmuspjald</string>
+    <string name="premium_unlocked">Þakka þér fyrir. Þú getur nú notað úrvals eiginleika</string>
+    <string name="settings_category_title_developer">Hönnuður</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Open Source bókasöfn</string>
+    <string name="preference_title_application_version">App útgáfa</string>
+    <string name="preference_title_contact_us">Hafðu samband við okkur</string>
+    <string name="preference_title_privacy_policy">Friðhelgisstefna</string>
+    <string name="preference_title_terms_conditions">Skilmálar og skilyrði</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Almennt</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Dark Mode</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Hvernig það virkar\?</string>
+    <string name="ok">Allt í lagi</string>
+    <string name="direct_message_help_ans">Vinsamlega sláðu inn símanúmer viðtakandans ásamt textaskilaboðum þínum. Þegar þú ert tilbúinn til að senda skilaboðin skaltu einfaldlega smella á \'Senda\' hnappinn. Að öðrum kosti geturðu líka notað valkostinn \'Beinn hlekkur\' til að afrita tengilinn og deila honum með viðtakandanum. Með því að smella á hlekkinn geta þeir spjallað beint við þig.</string>
+    <string name="click_here_to_grant_required_permissions">Slökktu á og virkjaðu aftur tilkynningaheimild.</string>
+    <string name="please_grant_storage_permissions">Vinsamlegast veittu geymsluheimildir</string>
+    <string name="rate_app">Vinsamlegast gefðu appinu einkunn!</string>
+    <string name="rate_later">Seinna</string>
+    <string name="rateUs">Gefðu appinu einkunn í Play Store</string>
+    <string name="send_feedback">Vinsamlegast sendu okkur álit. Við reynum að vinna í því!</string>
+    <string name="try_again">Vinsamlegast reyndu aftur</string>
+    <string name="message_copied_to_clipboard">skilaboð afrituð á klippiborð</string>
+    <string name="system_default">Kerfi Sjálfgefið</string>
+    <string name="restart">Endurræsa</string>
+    <string name="light">Ljós</string>
+    <string name="dark">Myrkur</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Deila með</string>
+    <string name="direct_link">Afritaðu beinan hlekk</string>
+    <string name="remove_ads">Fjarlægja auglýsingar</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Hvað er vefur</string>
+    <string name="recover_messages">Endurheimta skilaboð</string>
+    <string name="direct_message">Bein skilaboð</string>
+    <string name="title_refresh">Endurhlaða</string>
+    <string name="whatsapp_not_installed">Whatsapp er ekki uppsett. Vinsamlegast settu fyrst upp Whatsapp til að nota þennan eiginleika.</string>
+    <string name="toggle_keyboard">Skiptu um lyklaborð</string>
+    <string name="fullscreen">Fullur skjár</string>
+    <string name="dismiss">Segja frá</string>
+    <string name="keyboard_unblocked">Lyklaborð er opnað fyrir.</string>
+    <string name="keyboard_blocked">Lyklaborð er læst. Ýttu á lyklaborðstáknið til að opna fyrir.</string>
+    <string name="whats_web_how_it_works">1. Opnaðu Whats Web forritið í tækinu þínu.\n\n2. Opnaðu whatsapp á öðrum snjallsíma.\n\n* Á Android -&gt; Frá spjallskjánum, farðu í þriggja punkta valmyndina efst til hægri á skjánum -&gt; Tengd tæki.\n\n* Á gluggasíma -&gt; Farðu í þriggja punkta valmynd -&gt; Tengd tæki.\n\n* Á iPhone -&gt; Farðu í Stillingar -&gt; Tengd tæki.\n\n3. Pikkaðu á Tengdu tæki og skannaðu QR kóðann sem birtist á þessu forritaskjánum þínum úr öðrum síma.</string>
+    <string name="retry_sending_voice_message">Vinsamlegast reyndu aftur að senda talskilaboð</string>
+    <string name="message_retry_sending_voice_message">Ýttu á hljóðnematáknið einu sinni enn. Það ætti að virka eins og búist var við.</string>
+    <string name="retry_camera_capture">Vinsamlegast reyndu aftur myndavélarmöguleikann</string>
+    <string name="message_retry_camera_capture">Ýttu á myndavélartáknið einu sinni enn. Það ætti að virka eins og búist var við.</string>
+    <string name="audio_perm_reqd">Hljóðheimild er nauðsynleg til að komast áfram.</string>
+    <string name="camera_perm_reqd">Leyfi myndavélar þarf til að komast áfram.</string>
+    <string name="reset_reload">Endurstilla/endurhlaða</string>
+    <string name="reset_only">ENDURSTILLA</string>
+    <string name="reload_only">AÐEINS endurhlaða</string>
+    <string name="reload_warning">Ef þú lendir í vandræðum sem tengjast innskráningu skaltu prófa \'Endurstilla\'.\nVIÐVÖRUN: Þú gætir þurft að skrá þig inn aftur ef þú notar \'Endurstilla\'.</string>
+    <string name="download_file">Að sækja skrá</string>
+    <string name="couldnt_download_file">Ekki var hægt að hlaða niður skrá</string>
+    <string name="storage_perm_reqd">Geymsluleyfi þarf til að hlaða niður skrá</string>
+    <string name="purchase_item_not_found">Kauphlutur fannst ekki</string>
+    <string name="error">Villa</string>
+    <string name="purchase_canceled">Hætt við kaup</string>
+    <string name="pending_purchase">Kaup eru í bið. Vinsamlegast ljúktu við færslu</string>
+    <string name="purchase_status_not_known">Staða kaups er ekki þekkt</string>
+    <string name="enter_file_name">Sláðu inn skráarnafn</string>
+    <string name="downloading_file">Að sækja skrána</string>
+    <string name="enter_valid_file_name">Vinsamlegast sláðu inn gilt skráarnafn</string>
+    <string name="download_has_finished_message">Niðurhali er lokið. Vinsamlegast athugaðu niðurhalsmöppuna.</string>
+    <string name="could_not_download_file">Gat ekki hlaðið niður skrá</string>
+    <string name="loading">Hleðsla</string>
+    <string name="downloading_update">Er að sækja uppfærslu</string>
+    <string name="update_downloaded_message">Nýlega hefur verið hlaðið niður uppfærslu.</string>
+    <string name="keyboard_enable_webview_message">Ýttu á skiptalyklaborðshnappinn efst til að virkja innslátt</string>
+    <string name="preference_title_bug_report">Villuskýrsla</string>
+    <string name="preference_title_report_a_issue">Tilkynna mál</string>
+    <string name="describe_bug">Vinsamlegast lýstu villunni hér</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">WhatsApp skráin inniheldur ekki stöður. Vinsamlegast veldu rétta möppu.</string>
+    <string name="please_select_whatsapp_directory">Vinsamlegast veldu WhatsApp möppu!</string>
+    <string name="download_cleaner">Sækja hreinsiefni</string>
+    <string name="download_recover_messages_app">Sæktu forrit til að endurheimta skilaboð</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Til að nota þennan eiginleika þarftu að hlaða niður öðru forriti frá Play Store. Smelltu á OK til að opna Play Store og hlaða niður appi.</string>
+    <string name="cancel">Hætta við</string>
+    <string name="ad_space">Auglýsingarými</string>
+    <string name="status">Staða</string>
+    <string name="theme">Þema</string>
+    <string name="more_apps">Fleiri forrit</string>
+    <string name="share">Deila</string>
+    <string name="send">Senda</string>
+    <string name="select_country_code_and_number">Veldu landsnúmer og númer</string>
+    <string name="how_it_works">Hvernig það virkar</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Sæktu QR Scanner app</string>
+    <string name="share_content">Vertu tilbúinn til að upplifa fljótlegasta leiðin til að fá aðgang að sama WhatsApp reikningnum á tveimur mismunandi snjallsímum eða spjaldtölvum, allt ókeypis! Sæktu og settu upp appið núna.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

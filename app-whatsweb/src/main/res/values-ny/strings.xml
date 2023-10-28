@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Kusintha kwatha</string>
+    <string name="app_update_alert_dialog_subtitle">Yambitsaninso pulogalamuyi kuti mugwiritse ntchito zosintha…</string>
+    <string name="help">Thandizeni</string>
+    <string name="cleaner">Woyeretsa</string>
+    <string name="status_saver">Status Saver</string>
+    <string name="settings">Zokonda</string>
+    <string name="saved_statuses_appear_here">Palibe Momwe Mulipo!</string>
+    <string name="available_statuses">Likupezeka</string>
+    <string name="saved_statuses">Zosungidwa</string>
+    <string name="enter_message">Lowetsani Uthenga (Mwasankha)</string>
+    <string name="enter_phone_number">Lowetsani Nambala Yafoni</string>
+    <string name="send_message">Tumizani Uthenga</string>
+    <string name="enter_a_phone_number">Lowetsani nambala yafoni</string>
+    <string name="direct_link_copied_to_clipboard">Ulalo wachindunji wakopereredwa ku bolodi lojambula</string>
+    <string name="premium_unlocked">Zikomo. Tsopano mutha kugwiritsa ntchito mawonekedwe apamwamba</string>
+    <string name="settings_category_title_developer">Wopanga Mapulogalamu</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Open Source Library</string>
+    <string name="preference_title_application_version">Mtundu wa App</string>
+    <string name="preference_title_contact_us">Lumikizanani nafe</string>
+    <string name="preference_title_privacy_policy">mfundo zazinsinsi</string>
+    <string name="preference_title_terms_conditions">Migwirizano ndi zokwaniritsa</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">General</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Mdima Wamdima</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Zimagwira ntchito bwanji\?</string>
+    <string name="ok">Chabwino</string>
+    <string name="direct_message_help_ans">Chonde lowetsani nambala yafoni ya wolandirayo pamodzi ndi meseji yanu. Mukakhala okonzeka kutumiza uthenga, kungodinanso pa \'Send\' batani. Kapenanso, mutha kugwiritsanso ntchito njira ya \'Direct Link\' kukopera ulalo ndikugawana ndi wolandira. Mwa kuwonekera pa ulalo, akhoza kucheza nanu mwachindunji.</string>
+    <string name="click_here_to_grant_required_permissions">Letsani ndi kuyatsanso chilolezo chazidziwitso.</string>
+    <string name="please_grant_storage_permissions">Chonde perekani zilolezo Zosungira</string>
+    <string name="rate_app">Chonde voterani pulogalamuyi!</string>
+    <string name="rate_later">Kenako</string>
+    <string name="rateUs">Chonde Voterani pulogalamuyi pa Play Store</string>
+    <string name="send_feedback">Chonde titumizireni ndemanga. Tiyesetsa kuyesetsa!</string>
+    <string name="try_again">Chonde yesaninso</string>
+    <string name="message_copied_to_clipboard">uthenga wakopedwa pa bolodi</string>
+    <string name="system_default">Zosasintha Zadongosolo</string>
+    <string name="restart">Yambitsaninso</string>
+    <string name="light">Kuwala</string>
+    <string name="dark">Chakuda</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Gawani nawo</string>
+    <string name="direct_link">Copy Direct Link</string>
+    <string name="remove_ads">Chotsani Zotsatsa</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Kodi Web</string>
+    <string name="recover_messages">Bwezerani Mauthenga</string>
+    <string name="direct_message">Uthenga Wachindunji</string>
+    <string name="title_refresh">Kwezaninso</string>
+    <string name="whatsapp_not_installed">Whatsapp sinayikidwe. Chonde yambitsani Whatsapp kuti mugwiritse ntchito izi.</string>
+    <string name="toggle_keyboard">Sinthani Kiyibodi</string>
+    <string name="fullscreen">Kudzaza zenera lonse</string>
+    <string name="dismiss">Chotsani</string>
+    <string name="keyboard_unblocked">Kiyibodi ndiyoletsedwa.</string>
+    <string name="keyboard_blocked">Kiyibodi yatsekedwa. Dinani chizindikiro cha kiyibodi kuti mutsegule.</string>
+    <string name="whats_web_how_it_works">1. Tsegulani pulogalamu ya Whats Web pa chipangizo chanu.\n\n2. Tsegulani whatsapp pa foni yamakono.\n\n* Pa Android -&gt; Kuchokera pazenera zochezera, pitani ku menyu ya madontho atatu omwe ali kumanja kwa zenera -&gt; Zida zolumikizidwa.\n\n* Pa Window foni -&gt; Pitani ku menyu ya madontho atatu -&gt; Zida zolumikizidwa.\n\n* Pa iPhone -&gt; Pitani ku Zikhazikiko -&gt; Zida zolumikizidwa.\n\n3. Dinani pa Lumikizani chipangizo ndi jambulani Khodi ya QR yowonetsedwa pa pulogalamu yanu iyi kuchokera pafoni ina.</string>
+    <string name="retry_sending_voice_message">Chonde yesaninso kutumiza uthenga wamawu</string>
+    <string name="message_retry_sending_voice_message">Dinani chizindikiro cha maikolofoni kamodzinso. Iyenera kugwira ntchito momwe ikuyembekezeredwa.</string>
+    <string name="retry_camera_capture">Chonde yesaninso njira ya Kamera</string>
+    <string name="message_retry_camera_capture">Dinani chizindikiro cha kamera kamodzinso. Iyenera kugwira ntchito momwe ikuyembekezeredwa.</string>
+    <string name="audio_perm_reqd">Chilolezo cha Audio chikufunika kuti mupite patsogolo.</string>
+    <string name="camera_perm_reqd">Chilolezo cha kamera chikufunika kuti mupite patsogolo.</string>
+    <string name="reset_reload">Bwezerani/Mutsenso</string>
+    <string name="reset_only">Bwezeraninso</string>
+    <string name="reload_only">BWERANI POKHA</string>
+    <string name="reload_warning">Ngati mukukumana ndi zovuta zokhudzana ndi kulowa, yesani \'Bwezerani\'.\nCHENJEZO: Mutha kulowanso ngati mutagwiritsa ntchito \'Bwezerani\'.</string>
+    <string name="download_file">Kutsitsa Fayilo</string>
+    <string name="couldnt_download_file">Fayilo sinathe kutsitsa</string>
+    <string name="storage_perm_reqd">Chilolezo chosungira chikufunika kuti mutsitse fayilo</string>
+    <string name="purchase_item_not_found">Chogula sichinapezeke</string>
+    <string name="error">Cholakwika</string>
+    <string name="purchase_canceled">Kugula Kwaletsedwa</string>
+    <string name="pending_purchase">Kugula Kukuyembekezera. Chonde malizitsani Transaction</string>
+    <string name="purchase_status_not_known">Kugula Sikudziwika</string>
+    <string name="enter_file_name">Lowetsani Dzina Lafayilo</string>
+    <string name="downloading_file">Kutsitsa Fayilo</string>
+    <string name="enter_valid_file_name">Chonde lowetsani dzina lolondola la fayilo</string>
+    <string name="download_has_finished_message">Kutsitsa kwatha. Chonde onani chikwatu Chotsitsa.</string>
+    <string name="could_not_download_file">Sitinathe kutsitsa Fayilo</string>
+    <string name="loading">Kutsegula</string>
+    <string name="downloading_update">Kutsitsa zosintha</string>
+    <string name="update_downloaded_message">Kusintha kwatsitsidwa kumene.</string>
+    <string name="keyboard_enable_webview_message">Dinani batani la toggle kiyibodi pamwamba kuti mutsegule</string>
+    <string name="preference_title_bug_report">Ripoti la Bug</string>
+    <string name="preference_title_report_a_issue">Nenani Nkhani</string>
+    <string name="describe_bug">Chonde fotokozani cholakwikacho</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">Chikwatu cha WhatsApp chilibe Ma Status. Chonde sankhani chikwatu cholondola.</string>
+    <string name="please_select_whatsapp_directory">Chonde sankhani chikwatu cha WhatsApp!</string>
+    <string name="download_cleaner">Tsitsani Zoyeretsa</string>
+    <string name="download_recover_messages_app">Tsitsani Yambirani Mauthenga App</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Kuti mugwiritse ntchito izi, muyenera kutsitsa pulogalamu ina kuchokera ku sitolo yamasewera. Dinani Chabwino kuti mutsegule play store ndikutsitsa pulogalamu.</string>
+    <string name="cancel">Letsani</string>
+    <string name="ad_space">Malo Otsatsa</string>
+    <string name="status">Mkhalidwe</string>
+    <string name="theme">Mutu</string>
+    <string name="more_apps">Mapulogalamu Ena</string>
+    <string name="share">Gawani</string>
+    <string name="send">Tumizani</string>
+    <string name="select_country_code_and_number">Sankhani khodi ya dziko ndi nambala</string>
+    <string name="how_it_works">Momwe zimagwirira ntchito</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Tsitsani pulogalamu ya Qr Scanner</string>
+    <string name="share_content">Konzekerani kukhala ndi njira yachangu kwambiri yopezera akaunti ya WhatsApp yomweyi pama foni awiri kapena mapiritsi, zonse zaulere! Koperani ndi kukhazikitsa pulogalamu tsopano.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

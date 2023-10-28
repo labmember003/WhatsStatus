@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Mizajou fini</string>
+    <string name="app_update_alert_dialog_subtitle">Rekòmanse aplikasyon an pou aplike mizajou...</string>
+    <string name="help">Ede</string>
+    <string name="cleaner">Cleaner</string>
+    <string name="status_saver">Sovè Estati</string>
+    <string name="settings">Anviwònman</string>
+    <string name="saved_statuses_appear_here">Pa gen estati ki disponib!</string>
+    <string name="available_statuses">Disponib</string>
+    <string name="saved_statuses">Sove</string>
+    <string name="enter_message">Antre mesaj (Si ou vle)</string>
+    <string name="enter_phone_number">Antre Nimewo Telefòn</string>
+    <string name="send_message">Voye mesaj</string>
+    <string name="enter_a_phone_number">Antre yon nimewo telefòn</string>
+    <string name="direct_link_copied_to_clipboard">Lyen dirèk kopye nan clipboard</string>
+    <string name="premium_unlocked">Mèsi. Kounye a ou ka itilize karakteristik prim yo</string>
+    <string name="settings_category_title_developer">Devlopè</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Bibliyotèk Open Source</string>
+    <string name="preference_title_application_version">Vèsyon aplikasyon an</string>
+    <string name="preference_title_contact_us">Kontakte nou</string>
+    <string name="preference_title_privacy_policy">Règleman sou enfòmasyon prive</string>
+    <string name="preference_title_terms_conditions">Tèm ak Kondisyon yo</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Jeneral</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Mòd nwa</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Ki jan li fonksyone\?</string>
+    <string name="ok">OK</string>
+    <string name="direct_message_help_ans">Tanpri antre nimewo telefòn moun k ap resevwa a ansanm ak mesaj tèks ou a. Yon fwa ou pare pou voye mesaj la, tou senpleman klike sou bouton \'Voye\' la. Altènativman, ou kapab tou itilize opsyon \'Direct Link\' pou kopye lyen an epi pataje li ak moun k ap resevwa a. Lè yo klike sou lyen an, yo ka chat avèk ou dirèkteman.</string>
+    <string name="click_here_to_grant_required_permissions">Enfim ak re-pèmèt pèmisyon notifikasyon.</string>
+    <string name="please_grant_storage_permissions">Tanpri bay otorizasyon Depo</string>
+    <string name="rate_app">Tanpri evalye app a!</string>
+    <string name="rate_later">Pita</string>
+    <string name="rateUs">Tanpri evalye app a sou Play Store</string>
+    <string name="send_feedback">Tanpri voye nou fidbak. Nou pral eseye travay sou li!</string>
+    <string name="try_again">Tanpri eseye ankò</string>
+    <string name="message_copied_to_clipboard">mesaj kopye nan clipboard</string>
+    <string name="system_default">Sistèm Default</string>
+    <string name="restart">Rekòmanse</string>
+    <string name="light">Limyè</string>
+    <string name="dark">Fè nwa</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Pataje ak</string>
+    <string name="direct_link">Kopi lyen dirèk</string>
+    <string name="remove_ads">Retire Ajoute yo</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Ki sa ki Web</string>
+    <string name="recover_messages">Refè mesaj yo</string>
+    <string name="direct_message">Mesaj dirèk</string>
+    <string name="title_refresh">Rechaje</string>
+    <string name="whatsapp_not_installed">Whatsapp pa enstale. Tanpri enstale Whatsapp dabò pou itilize karakteristik sa a.</string>
+    <string name="toggle_keyboard">Aktivite klavye</string>
+    <string name="fullscreen">Ekran konplè</string>
+    <string name="dismiss">Ranvwaye</string>
+    <string name="keyboard_unblocked">Klavye debloke.</string>
+    <string name="keyboard_blocked">Klavye bloke. Peze ikòn klavye pou debloke.</string>
+    <string name="whats_web_how_it_works">1. Louvri aplikasyon Whats Web sou aparèy ou an.\n\n2. Louvri whatsapp sou lòt smartphone.\n\n* Sou Android -&gt; Soti nan ekran chat la, ale nan meni twa pwen ki sitiye nan tèt dwat nan ekran -&gt; Aparèy ki lye.\n\n* Sou telefòn fenèt -&gt; Ale nan meni twa pwen -&gt; Aparèy ki lye yo.\n\n* Sou iPhone -&gt; Ale nan Anviwònman -&gt; Aparèy ki lye.\n\n3. Tape sou Link yon aparèy epi eskane kòd QR ki parèt sou ekran aplikasyon w la nan lòt telefòn.</string>
+    <string name="retry_sending_voice_message">Tanpri eseye voye mesaj vwa ankò</string>
+    <string name="message_retry_sending_voice_message">Peze ikon mikwofòn la yon lòt fwa ankò. Li ta dwe travay jan yo espere.</string>
+    <string name="retry_camera_capture">Tanpri eseye opsyon Kamera ankò</string>
+    <string name="message_retry_camera_capture">Peze ikòn kamera a yon lòt fwa ankò. Li ta dwe travay jan yo espere.</string>
+    <string name="audio_perm_reqd">Pèmisyon odyo nesesè pou avanse pou pi devan.</string>
+    <string name="camera_perm_reqd">Yo mande pèmisyon kamera pou avanse pou pi devan.</string>
+    <string name="reset_reload">Reyajiste/Rechaje</string>
+    <string name="reset_only">RESET</string>
+    <string name="reload_only">RECHARGE SÈLMAN</string>
+    <string name="reload_warning">Si w ap fè eksperyans pwoblèm ki gen rapò ak konekte, eseye \'Reset\'.\nAVÈTISMAN: Ou ka oblije konekte ankò si ou itilize \'Reset\'.</string>
+    <string name="download_file">Telechaje File</string>
+    <string name="couldnt_download_file">Fichye pa t \'kapab telechaje</string>
+    <string name="storage_perm_reqd">Pèmisyon depo nesesè pou telechaje fichye a</string>
+    <string name="purchase_item_not_found">Achte atik pa t \'kapab jwenn</string>
+    <string name="error">Erè</string>
+    <string name="purchase_canceled">Achte Anile</string>
+    <string name="pending_purchase">Acha se annatant. Tanpri ranpli Tranzaksyon</string>
+    <string name="purchase_status_not_known">Estati acha yo pa konnen</string>
+    <string name="enter_file_name">Antre yon non dosye</string>
+    <string name="downloading_file">Telechaje dosye a</string>
+    <string name="enter_valid_file_name">Tanpri antre yon non dosye ki valab</string>
+    <string name="download_has_finished_message">Telechajman an fini. Tanpri tcheke dosye Downloads.</string>
+    <string name="could_not_download_file">Pa t \'kapab telechaje File</string>
+    <string name="loading">Chaje</string>
+    <string name="downloading_update">Telechaje aktyalizasyon</string>
+    <string name="update_downloaded_message">Gen yon aktyalizasyon jis telechaje.</string>
+    <string name="keyboard_enable_webview_message">Peze bouton an aktive klavye anlè a pou pèmèt sezisman</string>
+    <string name="preference_title_bug_report">Rapò ensèk</string>
+    <string name="preference_title_report_a_issue">Rapòte yon Pwoblèm</string>
+    <string name="describe_bug">Tanpri dekri ensèk la isit la</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">Anyè WhatsApp pa genyen estati. Tanpri chwazi anyè ki kòrèk la.</string>
+    <string name="please_select_whatsapp_directory">Tanpri chwazi anyè WhatsApp!</string>
+    <string name="download_cleaner">Telechaje Cleaner</string>
+    <string name="download_recover_messages_app">Telechaje Recover Messages App</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Pou itilize karakteristik sa a, ou bezwen telechaje yon lòt aplikasyon nan magazen jwe. Klike sou OK pou louvri magazen jwe ak telechaje aplikasyon an.</string>
+    <string name="cancel">Anile</string>
+    <string name="ad_space">Espas piblisite</string>
+    <string name="status">Estati</string>
+    <string name="theme">Tèm</string>
+    <string name="more_apps">Plis Aplikasyon</string>
+    <string name="share">Pataje</string>
+    <string name="send">Voye</string>
+    <string name="select_country_code_and_number">Chwazi kòd peyi ak nimewo</string>
+    <string name="how_it_works">Ki jan li fonksyone</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Telechaje aplikasyon Qr Scanner</string>
+    <string name="share_content">Pare w pou w fè eksperyans fason ki pi rapid pou w jwenn aksè nan menm kont WhatsApp la sou de diferan smartphone oswa tablèt, tout gratis! Telechaje epi enstale aplikasyon an kounye a.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

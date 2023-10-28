@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Update ass komplett</string>
+    <string name="app_update_alert_dialog_subtitle">Restart d\'App fir Updates z\'applizéieren ...</string>
+    <string name="help">Hëllef</string>
+    <string name="cleaner">Propper</string>
+    <string name="status_saver">Status Saver</string>
+    <string name="settings">Astellungen</string>
+    <string name="saved_statuses_appear_here">Kee Status verfügbar!</string>
+    <string name="available_statuses">Verfügbar</string>
+    <string name="saved_statuses">Gespäichert</string>
+    <string name="enter_message">Gitt Message (optional)</string>
+    <string name="enter_phone_number">Gitt Telefonsnummer</string>
+    <string name="send_message">Schécken Message</string>
+    <string name="enter_a_phone_number">Gitt eng Telefonsnummer</string>
+    <string name="direct_link_copied_to_clipboard">Direkte Link op Clipboard kopéiert</string>
+    <string name="premium_unlocked">Merci. Dir kënnt elo Premium Fonctiounen benotzen</string>
+    <string name="settings_category_title_developer">Entwéckler</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Open Source Bibliothéiken</string>
+    <string name="preference_title_application_version">App Versioun</string>
+    <string name="preference_title_contact_us">Kontaktéiert eis</string>
+    <string name="preference_title_privacy_policy">Privatsphär Politik</string>
+    <string name="preference_title_terms_conditions">Konditioune</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Général</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Däischter Modus</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Wéi funktionéiert et\?</string>
+    <string name="ok">ok</string>
+    <string name="direct_message_help_ans">Gitt w.e.g. d\'Telefonsnummer vum Empfänger mat Ärer SMS. Wann Dir bereet sidd de Message ze schécken, klickt einfach op de \"Schécken\" Knäppchen. Alternativ kënnt Dir och d\'Optioun \'Direkte Link\' benotzen fir de Link ze kopéieren an et mam Empfänger ze deelen. Andeems Dir op de Link klickt, kënne se direkt mat Iech chatten.</string>
+    <string name="click_here_to_grant_required_permissions">Auszeschalten an nei aktivéieren Notifikatioun Erlaabnis.</string>
+    <string name="please_grant_storage_permissions">Gitt w.e.g. Storage Permissiounen</string>
+    <string name="rate_app">Bewäert w.e.g. d\'App!</string>
+    <string name="rate_later">Méi spéit</string>
+    <string name="rateUs">Bewäert w.e.g. d\'App am Play Store</string>
+    <string name="send_feedback">Weg schéckt eis Feedback. Mir probéieren drun ze schaffen!</string>
+    <string name="try_again">Probéiert w.e.g. nach eng Kéier</string>
+    <string name="message_copied_to_clipboard">Message op Clipboard kopéiert</string>
+    <string name="system_default">System Standard</string>
+    <string name="restart">Neistart</string>
+    <string name="light">Liicht</string>
+    <string name="dark">Däischter</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Deelen mat</string>
+    <string name="direct_link">Direkte Link kopéieren</string>
+    <string name="remove_ads">Ewechzehuelen Annoncen</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Wat ass Web</string>
+    <string name="recover_messages">Recuperéieren Messagen</string>
+    <string name="direct_message">Direkt Message</string>
+    <string name="title_refresh">Reload</string>
+    <string name="whatsapp_not_installed">Whatsapp ass net installéiert. Installéiert w.e.g. éischt Whatsapp fir dës Feature ze benotzen.</string>
+    <string name="toggle_keyboard">Toggle Keyboard</string>
+    <string name="fullscreen">Voll Écran</string>
+    <string name="dismiss">Entlooss</string>
+    <string name="keyboard_unblocked">Keyboard ass deblockéiert.</string>
+    <string name="keyboard_blocked">Keyboard ass blockéiert. Dréckt d\'Tastatur Ikon fir ze spären.</string>
+    <string name="whats_web_how_it_works">1. Open Whats Web Applikatioun op Ärem Apparat.\n\n2. Open WhatsApp op anere Smartphone.\n\n* Op Android -&gt; Vum Chatbildschierm, gitt op d\'Drei Punktmenü uewe riets um Écran -&gt; Verlinkt Geräter.\n\n* Op Windows Telefon -&gt; Gitt op dräi Punkte Menü -&gt; Verknëppelt Geräter.\n\n* Op iPhone -&gt; Gitt op Astellungen -&gt; Verknëppelt Geräter.\n\n3. Tippen op Link en Apparat a scannt den QR Code deen op Ärem App Écran vun engem aneren Telefon ugewise gëtt.</string>
+    <string name="retry_sending_voice_message">Probéiert w.e.g. d\'Stëmmmeldung ze schécken</string>
+    <string name="message_retry_sending_voice_message">Dréckt nach eng Kéier op de Mikrofon Ikon. Et soll funktionnéieren wéi erwaart.</string>
+    <string name="retry_camera_capture">Probéiert w.e.g. d\'Kamera Optioun</string>
+    <string name="message_retry_camera_capture">Press d\'Kamera Ikon nach eng Kéier. Et soll funktionnéieren wéi erwaart.</string>
+    <string name="audio_perm_reqd">Audio Erlaabnis ass erfuerderlech fir virzegoen.</string>
+    <string name="camera_perm_reqd">Kamera Erlaabnis ass erfuerderlech fir virzegoen.</string>
+    <string name="reset_reload">Reset /Reload</string>
+    <string name="reset_only">RESETTEN</string>
+    <string name="reload_only">NËMMEN RELOAD</string>
+    <string name="reload_warning">Wann Dir Problemer am Zesummenhang mam Login erliewt, probéiert \'Reset\'.\nOPGEPASST: Dir musst vläicht nach eng Kéier aloggen wann Dir \'Reset\' benotzt.</string>
+    <string name="download_file">Datei eroflueden</string>
+    <string name="couldnt_download_file">De Fichier konnt net erofgeluede ginn</string>
+    <string name="storage_perm_reqd">Späicheren Erlaabnis néideg fir Datei erofzelueden</string>
+    <string name="purchase_item_not_found">Kafen Artikel konnt net fonnt ginn</string>
+    <string name="error">Feeler</string>
+    <string name="purchase_canceled">Kaf annuléiert</string>
+    <string name="pending_purchase">De Kaf ass ofhängeg. Weg komplett Transaktioun</string>
+    <string name="purchase_status_not_known">Kaf Status ass net bekannt</string>
+    <string name="enter_file_name">Gitt e Dateinumm un</string>
+    <string name="downloading_file">De Fichier eroflueden</string>
+    <string name="enter_valid_file_name">Gitt w.e.g. e gültege Dateinumm un</string>
+    <string name="download_has_finished_message">Den Download ass fäerdeg. Kuckt w.e.g. Downloads Dossier.</string>
+    <string name="could_not_download_file">Konnt de Fichier net eroflueden</string>
+    <string name="loading">Lueden</string>
+    <string name="downloading_update">Update eroflueden</string>
+    <string name="update_downloaded_message">En Update gouf just erofgelueden.</string>
+    <string name="keyboard_enable_webview_message">Dréckt den Toggle Tastatur Knäppchen uewen fir d\'Typen z\'aktivéieren</string>
+    <string name="preference_title_bug_report">Bug Bericht</string>
+    <string name="preference_title_report_a_issue">Bericht e Problem</string>
+    <string name="describe_bug">Beschreift w.e.g. de Feeler hei</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">WhatsApp Verzeechnes enthält keng Statusen. Wielt w.e.g. richteg Verzeechnes.</string>
+    <string name="please_select_whatsapp_directory">Wielt w.e.g. WhatsApp Verzeichnis!</string>
+    <string name="download_cleaner">Download Cleaner</string>
+    <string name="download_recover_messages_app">Download Recuperéieren Messagen App</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Fir dës Fonktioun ze benotzen, musst Dir eng aner App vum Play Store eroflueden. Klickt OK fir de Play Store opzemaachen an d\'App erofzelueden.</string>
+    <string name="cancel">Ofbriechen</string>
+    <string name="ad_space">Annonce Plaz</string>
+    <string name="status">Status</string>
+    <string name="theme">Thema</string>
+    <string name="more_apps">Méi Apps</string>
+    <string name="share">Deelen</string>
+    <string name="send">Schécken</string>
+    <string name="select_country_code_and_number">Wielt Land Code an Zuel</string>
+    <string name="how_it_works">Wéi et funktionnéiert</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Download QR Scanner App</string>
+    <string name="share_content">Maacht Iech prett fir de séierste Wee ze erliewen fir dee selwechte WhatsApp Kont op zwee verschiddene Smartphones oder Pëllen ze kréien, alles gratis! Luet d\'App erof an installéiert elo.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

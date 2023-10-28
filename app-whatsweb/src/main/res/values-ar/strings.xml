@@ -1,0 +1,201 @@
+<resources>
+
+    <string name="app_update_alert_dialog_title">اكتمل التحديث</string>
+
+    <string name="app_update_alert_dialog_subtitle">أعد تشغيل التطبيق لتطبيق التحديثات ...</string>
+
+    <string name="help">مساعدة</string>
+
+    <string name="cleaner">منظف</string>
+
+    <string name="status_saver">حافظ الحالة</string>
+
+    <string name="settings">إعدادات</string>
+
+    <string name="saved_statuses_appear_here">لا توجد حالة متاحة!</string>
+
+    <string name="available_statuses">متاح</string>
+
+    <string name="saved_statuses">تم الحفظ</string>
+
+    <string name="enter_message">أدخل الرسالة (اختياري)</string>
+
+    <string name="enter_phone_number">أدخل رقم الهاتف</string>
+
+    <string name="send_message">أرسل رسالة</string>
+
+    <string name="enter_a_phone_number">أدخل رقم الهاتف</string>
+
+    <string name="direct_link_copied_to_clipboard">تم نسخ الرابط المباشر إلى الحافظة</string>
+
+    <string name="premium_unlocked">شكرًا لك. يمكنك الآن استخدام ميزات premium</string>
+
+    <string name="settings_category_title_developer">مطور</string>
+
+    <string name="preference_title_open_source_licenses">مكتبات مفتوحة المصدر</string>
+
+    <string name="preference_title_application_version">إصدار التطبيق</string>
+
+    <string name="preference_title_contact_us">اتصل بنا</string>
+
+    <string name="preference_title_privacy_policy">سياسة الخصوصية</string>
+
+    <string name="preference_title_terms_conditions">الشروط والأحكام</string>
+
+    <string name="settings_category_title_general">عام</string>
+
+    <string name="preference_title_dark_mode">الوضع الداكن</string>
+
+    <string name="how_to_use">كيف يعمل؟</string>
+
+    <string name="ok">موافق</string>
+
+    <string name="direct_message_help_ans">يرجى إدخال رقم هاتف المستلم مع رسالتك النصية. بمجرد أن تكون جاهزًا لإرسال الرسالة، ما عليك سوى النقر فوق الزر \"إرسال\". بدلاً من ذلك، يمكنك أيضًا استخدام خيار \"الرابط المباشر\" لنسخ الرابط ومشاركته مع المستلم. من خلال النقر على الرابط، يمكنهم الدردشة معك مباشرة.</string>
+
+    <string name="click_here_to_grant_required_permissions">تعطيل وإعادة تمكين إذن الإشعار.</string>
+
+    <string name="please_grant_storage_permissions">يُرجى منح أذونات التخزين</string>
+
+    <string name="rate_app">يرجى تقييم التطبيق!</string>
+
+    <string name="rate_later">لاحقاً</string>
+
+    <string name="rateUs">يرجى تقييم التطبيق على متجر Play Store</string>
+
+    <string name="send_feedback">يرجى إرسال تعليقاتك إلينا. سنحاول العمل على ذلك!</string>
+
+    <string name="try_again">حاول مرة أخرى</string>
+
+    <string name="message_copied_to_clipboard">تم نسخ الرسالة إلى الحافظة</string>
+
+    <string name="system_default">النظام الافتراضي\n</string>
+
+    <string name="restart">إعادة تشغيل</string>
+
+    <string name="light">فاتح</string>
+
+    <string name="dark">مظلم</string>
+
+    <string name="share_with">مشاركة باستخدام</string>
+
+    <string name="direct_link">انسخ الرابط المباشر</string>
+
+    <string name="remove_ads">إزالة الإعلانات</string>
+
+    <string name="whats_web">Whats Web</string>
+
+    <string name="recover_messages">استعادة الرسائل</string>
+
+    <string name="direct_message">رسالة مباشرة</string>
+
+    <string name="title_refresh">إعادة تحميل</string>
+
+    <string name="whatsapp_not_installed">Whatsapp غير مثبت. يرجى أولاً تثبيت Whatsapp لاستخدام هذه الميزة.</string>
+
+    <string name="toggle_keyboard">تبديل لوحة المفاتيح</string>
+
+    <string name="fullscreen">شاشة كاملة</string>
+
+    <string name="dismiss">رفض</string>
+
+    <string name="keyboard_unblocked">لوحة المفاتيح غير محظورة.</string>
+
+    <string name="keyboard_blocked">لوحة المفاتيح محظورة. اضغط على أيقونة لوحة المفاتيح لإلغاء الحظر.</string>
+
+    <string name="whats_web_how_it_works">1. افتح تطبيق Whats Web على جهازك.\n\n2. افتح تطبيق whatsapp على هاتف ذكي آخر.\n\n* في Android -&gt; من شاشة الدردشات، انتقل إلى قائمة النقاط الثلاث الموجودة في أعلى يمين الشاشة -&gt; الأجهزة المرتبطة.\n\n* في هاتف Window -&gt; انتقل إلى قائمة النقاط الثلاث -&gt; الأجهزة المرتبطة.\n\n* على iPhone -&gt; انتقل إلى الإعدادات -&gt; الأجهزة المرتبطة.\n\n3. اضغط على ربط جهاز ومسح رمز الاستجابة السريعة المعروض على شاشة التطبيق هذه من هاتف آخر.</string>
+
+    <string name="retry_sending_voice_message">يرجى إعادة محاولة إرسال رسالة صوتية</string>
+
+    <string name="message_retry_sending_voice_message">اضغط على أيقونة الميكروفون مرة أخرى. يجب أن تعمل كما هو متوقع.</string>
+
+    <string name="retry_camera_capture">يرجى إعادة محاولة خيار الكاميرا</string>
+
+    <string name="message_retry_camera_capture">اضغط على أيقونة الكاميرا مرة أخرى. يجب أن تعمل كما هو متوقع.</string>
+
+    <string name="audio_perm_reqd">مطلوب إذن الصوت للتقدم.</string>
+
+    <string name="camera_perm_reqd">مطلوب إذن الكاميرا للتقدم.</string>
+
+    <string name="reset_reload">إعادة تعيين/إعادة تحميل</string>
+
+    <string name="reset_only">إعادة ضبط</string>
+
+    <string name="reload_only">إعادة التحميل فقط</string>
+
+    <string name="reload_warning">إذا كنت تواجه مشكلات تتعلق بتسجيل الدخول، فحاول \"إعادة التعيين\".\nتحذير: قد تضطر إلى تسجيل الدخول مرة أخرى إذا كنت تستخدم \"إعادة تعيين\".</string>
+
+    <string name="download_file">تحميل الملف</string>
+
+    <string name="couldnt_download_file">تعذر تنزيل الملف</string>
+
+    <string name="storage_perm_reqd">مطلوب إذن التخزين لتنزيل الملف</string>
+
+    <string name="purchase_item_not_found">تعذر العثور على عنصر الشراء</string>
+
+    <string name="error">خطأ</string>
+
+    <string name="purchase_canceled">إلغاء الشراء</string>
+
+    <string name="pending_purchase">الشراء معلق. يرجى إكمال المعاملة</string>
+
+    <string name="purchase_status_not_known">حالة الشراء غير معروفة</string>
+
+    <string name="enter_file_name">أدخل اسم ملف</string>
+
+    <string name="downloading_file">تنزيل الملف</string>
+
+    <string name="enter_valid_file_name">يُرجى إدخال اسم ملف صالح</string>
+
+    <string name="download_has_finished_message">انتهى التنزيل. يرجى التحقق من مجلد التنزيلات.</string>
+
+    <string name="could_not_download_file">تعذر تنزيل الملف</string>
+
+    <string name="loading">تحميل</string>
+
+    <string name="downloading_update">تحميل التحديث</string>
+
+    <string name="update_downloaded_message">تم تحميل التحديث للتو.</string>
+
+    <string name="keyboard_enable_webview_message">اضغط على زر تبديل لوحة المفاتيح في الأعلى لتمكين الكتابة</string>
+
+    <string name="preference_title_bug_report">تقرير الخطأ</string>
+
+    <string name="preference_title_report_a_issue">الإبلاغ عن خطأ</string>
+
+    <string name="describe_bug">يرجى وصف الخطأ هنا</string>
+
+    <string name="whatsapp_directory_does_not_contain_statuses">لا يحتوي دليل WhatsApp على الحالات. يُرجى تحديد الدليل الصحيح.</string>
+
+    <string name="please_select_whatsapp_directory">يُرجى تحديد دليل WhatsApp!</string>
+
+    <string name="download_cleaner">تنزيل Cleaner</string>
+
+    <string name="download_recover_messages_app">قم بتنزيل تطبيق Recover Messages</string>
+
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">لاستخدام هذه الميزة، تحتاج إلى تنزيل تطبيق آخر من متجر play. انقر فوق \"موافق\" لفتح متجر Play وتنزيل التطبيق.</string>
+
+    <string name="cancel">إلغاء</string>
+
+    <string name="ad_space">مساحة إعلانية</string>
+
+    <string name="status">حالة</string>
+
+    <string name="theme">سمة</string>
+
+    <string name="more_apps">المزيد من التطبيقات</string>
+
+    <string name="share">مشاركة</string>
+
+    <string name="send">إرسال</string>
+
+    <string name="select_country_code_and_number">حدد رمز البلد والرقم</string>
+
+    <string name="how_it_works">كيف يعمل</string>
+
+    <string name="download_qrcodescanner">قم بتنزيل تطبيق Qr Scanner</string>
+
+    <string name="share_content">استعد لتجربة أسرع طريقة للوصول إلى نفس حساب WhatsApp على هاتفين ذكيين أو جهازين لوحيين مختلفين، كل ذلك مجانًا! قم بتنزيل التطبيق وتثبيته الآن.</string>
+
+    <string name="directly_message_anyone_without_saving_phone_as_contact" />
+
+</resources>

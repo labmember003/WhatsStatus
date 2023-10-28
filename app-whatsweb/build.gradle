@@ -1,0 +1,143 @@
+apply plugin: 'com.android.application'
+
+apply plugin: 'kotlin-android'
+
+apply plugin: "kotlin-kapt"
+
+apply plugin: 'com.google.android.gms.oss-licenses-plugin'
+
+apply plugin: 'com.google.firebase.crashlytics'
+
+apply plugin: 'com.google.gms.google-services'
+
+apply plugin: 'kotlinx-serialization'
+
+android {
+    compileSdkVersion 33
+    defaultConfig {
+        applicationId "com.whatsweb.droid"
+        minSdkVersion 22
+        targetSdkVersion 33
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+
+        compileOptions {
+            sourceCompatibility = 1.8
+            targetCompatibility = 1.8
+        }
+
+        kotlinOptions {
+            jvmTarget = "1.8"
+            freeCompilerArgs += ["-Xopt-in=kotlin.RequiresOptIn"]
+        }
+
+        lintOptions {
+            baseline file("lint-baseline.xml")
+        }
+        buildFeatures {
+            dataBinding true
+        }
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+        debug {
+            minifyEnabled false
+            applicationIdSuffix ".debug"
+            versionNameSuffix "-debug"
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    flavorDimensions "default"
+
+    productFlavors {
+        whatsweb {
+            dimension "default"
+            applicationId "com.codekraftapps1.whatsweb"
+            versionCode 100000000
+            // 1 (versioning scheme)
+            // 00 (major version)
+            // 02 (minor version)
+            // 05 (patch version)
+            // 00 spare for betas/RCs
+            versionName "1.0.0"
+        }
+        whatswebscan {
+            dimension "default"
+            applicationId "com.codekraftapps.whatsweb"
+            versionCode 100007000
+            // 1 (versioning scheme)
+            // 00 (major version)
+            // 02 (minor version)
+            // 05 (patch version)
+            // 00 spare for betas/RCs
+            versionName "1.0.7"
+        }
+    }
+    sourceSets {
+        whatsweb {
+            java {
+                srcDirs 'src/whatsweb/java'
+            }
+            res {
+                srcDirs 'src/whatsweb/res'
+            }
+        }
+        whatswebscan {
+            java {
+                srcDirs 'src/whatswebscan/java'
+            }
+            res {
+                srcDirs 'src/whatswebscan/res'
+            }
+        }
+    }
+    namespace 'com.geeksoftapps.whatsweb.app'
+}
+
+dependencies {
+    implementation project(':status')
+    implementation project(':commons')
+    implementation project(':ratingdialog')
+
+    implementation 'androidx.annotation:annotation:1.2.0'
+
+    implementation "com.hbb20:ccp:$ccp_version"
+
+    implementation "androidx.appcompat:appcompat:$appcompat_version"
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
+
+    implementation "com.squareup.okhttp3:okhttp:4.9.3"
+
+    implementation "org.jetbrains.kotlinx:kotlinx-serialization-json:1.1.0"
+
+    implementation platform("com.google.firebase:firebase-bom:$firebase_bom_version")
+
+    implementation 'com.google.firebase:firebase-crashlytics-ktx'
+    implementation 'com.google.firebase:firebase-analytics-ktx'
+    implementation 'com.google.firebase:firebase-config-ktx'
+
+    implementation 'androidx.gridlayout:gridlayout:1.0.0'
+
+    implementation "com.github.permissions-dispatcher:permissionsdispatcher:$permissionsdispatcher_version"
+    kapt "com.github.permissions-dispatcher:permissionsdispatcher-processor:$permissionsdispatcher_version"
+
+    kapt "com.android.databinding:compiler:$gradle_version"
+
+    kapt "com.github.bumptech.glide:compiler:$glide_version"
+
+    implementation "com.airbnb.android:lottie:$lottie_version"
+
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.2'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+
+    kapt "com.github.bumptech.glide:compiler:$glide_version"
+}

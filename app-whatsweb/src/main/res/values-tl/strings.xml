@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Kumpleto na ang pag-update</string>
+    <string name="app_update_alert_dialog_subtitle">I-restart ang app para maglapat ng mga update...</string>
+    <string name="help">Tulong</string>
+    <string name="cleaner">Mas malinis</string>
+    <string name="status_saver">Status Saver</string>
+    <string name="settings">Mga setting</string>
+    <string name="saved_statuses_appear_here">Walang Magagamit na Status!</string>
+    <string name="available_statuses">Available</string>
+    <string name="saved_statuses">Nai-save</string>
+    <string name="enter_message">Ipasok ang Mensahe (Opsyonal)</string>
+    <string name="enter_phone_number">Ilagay ang Numero ng telepono</string>
+    <string name="send_message">Magpadala ng Mensahe</string>
+    <string name="enter_a_phone_number">Maglagay ng numero ng telepono</string>
+    <string name="direct_link_copied_to_clipboard">Nakopya ang direktang link sa clipboard</string>
+    <string name="premium_unlocked">Salamat. Maaari mo na ngayong gamitin ang mga premium na feature</string>
+    <string name="settings_category_title_developer">Developer</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Mga Open Source na Aklatan</string>
+    <string name="preference_title_application_version">Bersyon ng App</string>
+    <string name="preference_title_contact_us">Makipag-ugnayan sa amin</string>
+    <string name="preference_title_privacy_policy">Patakaran sa Privacy</string>
+    <string name="preference_title_terms_conditions">Mga Tuntunin at Kundisyon</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Heneral</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Dark Mode</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Paano ito gumagana\?</string>
+    <string name="ok">OK</string>
+    <string name="direct_message_help_ans">Mangyaring ipasok ang numero ng telepono ng tatanggap kasama ng iyong text message. Kapag handa ka nang ipadala ang mensahe, i-click lamang ang \'Ipadala\' na buton. Bilang kahalili, maaari mo ring gamitin ang opsyong \'Direktang Link\' upang kopyahin ang link at ibahagi ito sa tatanggap. Sa pamamagitan ng pag-click sa link, maaari silang makipag-chat sa iyo nang direkta.</string>
+    <string name="click_here_to_grant_required_permissions">Huwag paganahin at muling paganahin ang pahintulot sa pag-abiso.</string>
+    <string name="please_grant_storage_permissions">Mangyaring magbigay ng mga pahintulot sa Storage</string>
+    <string name="rate_app">Paki-rate ang app!</string>
+    <string name="rate_later">Mamaya</string>
+    <string name="rateUs">Paki-rate ang app sa Play Store</string>
+    <string name="send_feedback">Mangyaring magpadala sa amin ng feedback. Susubukan naming gawin ito!</string>
+    <string name="try_again">Pakisubukang muli</string>
+    <string name="message_copied_to_clipboard">mensahe na kinopya sa clipboard</string>
+    <string name="system_default">Default ng System</string>
+    <string name="restart">I-restart</string>
+    <string name="light">Liwanag</string>
+    <string name="dark">Madilim</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Ibahagi sa</string>
+    <string name="direct_link">Kopyahin ang Direktang Link</string>
+    <string name="remove_ads">Alisin ang Mga Ad</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Ano ang Web</string>
+    <string name="recover_messages">I-recover ang Mga Mensahe</string>
+    <string name="direct_message">Direktang mensahe</string>
+    <string name="title_refresh">Reload</string>
+    <string name="whatsapp_not_installed">Hindi naka-install ang Whatsapp. Paki-install muna ang Whatsapp para magamit ang feature na ito.</string>
+    <string name="toggle_keyboard">I-toggle ang Keyboard</string>
+    <string name="fullscreen">Buong Screen</string>
+    <string name="dismiss">I-dismiss</string>
+    <string name="keyboard_unblocked">Na-unblock ang keyboard.</string>
+    <string name="keyboard_blocked">Naka-block ang keyboard. Pindutin ang icon ng keyboard upang i-unblock.</string>
+    <string name="whats_web_how_it_works">1. Buksan ang Whats Web application sa iyong device.\n\n2. Buksan ang whatsapp sa ibang smartphone.\n\n* Sa Android -&gt; Mula sa screen ng mga chat, pumunta sa tatlong tuldok na menu na matatagpuan sa kanang tuktok ng screen -&gt; Mga naka-link na device.\n\n* Sa Window phone -&gt; Pumunta sa tatlong tuldok na menu -&gt; Mga naka-link na device.\n\n* Sa iPhone -&gt; Pumunta sa Mga Setting -&gt; Mga naka-link na device.\n\n3. I-tap ang I-link ang isang device at i-scan ang QR Code na ipinapakita sa iyong screen ng app na ito mula sa ibang telepono.</string>
+    <string name="retry_sending_voice_message">Pakisubukang muli ang pagpapadala ng voice message</string>
+    <string name="message_retry_sending_voice_message">Pindutin muli ang icon ng mikropono. Dapat itong gumana tulad ng inaasahan.</string>
+    <string name="retry_camera_capture">Pakisubukang muli ang opsyon sa Camera</string>
+    <string name="message_retry_camera_capture">Pindutin muli ang icon ng camera. Dapat itong gumana tulad ng inaasahan.</string>
+    <string name="audio_perm_reqd">Kinakailangan ang pahintulot sa audio para magpatuloy.</string>
+    <string name="camera_perm_reqd">Kinakailangan ang pahintulot sa camera para magpatuloy.</string>
+    <string name="reset_reload">I-reset/I-reload</string>
+    <string name="reset_only">I-RESET</string>
+    <string name="reload_only">RELOAD LANG</string>
+    <string name="reload_warning">Kung nakakaranas ka ng mga isyu na nauugnay sa pag-login, subukan ang \'I-reset\'.\nBABALA: Maaaring kailanganin mong mag-log in muli kung gagamitin mo ang \'I-reset\'.</string>
+    <string name="download_file">Nagda-download ng File</string>
+    <string name="couldnt_download_file">Hindi ma-download ang file</string>
+    <string name="storage_perm_reqd">Kailangan ng pahintulot sa storage para mag-download ng file</string>
+    <string name="purchase_item_not_found">Hindi mahanap ang Binili na Item</string>
+    <string name="error">Error</string>
+    <string name="purchase_canceled">Kinansela ang Pagbili</string>
+    <string name="pending_purchase">Nakabinbin ang pagbili. Mangyaring kumpletuhin ang Transaksyon</string>
+    <string name="purchase_status_not_known">Hindi alam ang Katayuan ng Pagbili</string>
+    <string name="enter_file_name">Maglagay ng File Name</string>
+    <string name="downloading_file">Dina-download ang File</string>
+    <string name="enter_valid_file_name">Mangyaring magpasok ng wastong pangalan ng file</string>
+    <string name="download_has_finished_message">Tapos na ang pag-download. Pakitingnan ang folder ng Downloads.</string>
+    <string name="could_not_download_file">Hindi ma-download ang File</string>
+    <string name="loading">Naglo-load</string>
+    <string name="downloading_update">Nagda-download ng update</string>
+    <string name="update_downloaded_message">Kaka-download lang ng update.</string>
+    <string name="keyboard_enable_webview_message">Pindutin ang toggle keyboard button sa itaas para paganahin ang pag-type</string>
+    <string name="preference_title_bug_report">Ulat ng Bug</string>
+    <string name="preference_title_report_a_issue">Mag-ulat ng Isyu</string>
+    <string name="describe_bug">Pakilarawan ang bug dito</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">Ang direktoryo ng WhatsApp ay hindi naglalaman ng Mga Katayuan. Mangyaring pumili ng tamang direktoryo.</string>
+    <string name="please_select_whatsapp_directory">Mangyaring piliin ang direktoryo ng WhatsApp!</string>
+    <string name="download_cleaner">I-download ang Cleaner</string>
+    <string name="download_recover_messages_app">I-download ang Recover Messages App</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Para magamit ang feature na ito, kailangan mong mag-download ng isa pang app mula sa play store. I-click ang OK para buksan ang play store at mag-download ng app.</string>
+    <string name="cancel">Kanselahin</string>
+    <string name="ad_space">Ad Space</string>
+    <string name="status">Katayuan</string>
+    <string name="theme">Tema</string>
+    <string name="more_apps">Higit pang Apps</string>
+    <string name="share">Ibahagi</string>
+    <string name="send">Ipadala</string>
+    <string name="select_country_code_and_number">Pumili ng country code at numero</string>
+    <string name="how_it_works">Paano ito gumagana</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">I-download ang Qr Scanner App</string>
+    <string name="share_content">Humanda upang maranasan ang pinakamabilis na paraan upang ma-access ang parehong WhatsApp account sa dalawang magkaibang smartphone o tablet, lahat ay libre! I-download at i-install ang app ngayon.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

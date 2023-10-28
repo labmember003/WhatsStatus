@@ -1,0 +1,201 @@
+<resources>
+
+    <string name="app_update_alert_dialog_title">Güncelleme tamamlandı</string>
+
+    <string name="app_update_alert_dialog_subtitle">Güncellemelerin geçerli olması için uygulamayı yeniden başlatın…</string>
+
+    <string name="help">Yardım</string>
+
+    <string name="cleaner">Temizleyici</string>
+
+    <string name="status_saver">Durum Koruyucu</string>
+
+    <string name="settings">Ayarlar</string>
+
+    <string name="saved_statuses_appear_here">Kullanılabilir Durum Yok!</string>
+
+    <string name="available_statuses">Kullanılabilir</string>
+
+    <string name="saved_statuses">Kaydedildi</string>
+
+    <string name="enter_message">Mesaj Girin (İsteğe Bağlı)</string>
+
+    <string name="enter_phone_number">Telefon Numarası Girin</string>
+
+    <string name="send_message">Mesaj Gönder</string>
+
+    <string name="enter_a_phone_number">Telefon numarası girin</string>
+
+    <string name="direct_link_copied_to_clipboard">Doğrudan bağlantı panoya kopyalandı</string>
+
+    <string name="premium_unlocked">Teşekkür ederim. Artık premium özellikleri kullanabilirsiniz</string>
+
+    <string name="settings_category_title_developer">Geliştirici</string>
+
+    <string name="preference_title_open_source_licenses">Açık Kaynak Kütüphaneleri</string>
+
+    <string name="preference_title_application_version">Uygulama Sürümü</string>
+
+    <string name="preference_title_contact_us">Bize Ulaşın</string>
+
+    <string name="preference_title_privacy_policy">Gizlilik Politikası</string>
+
+    <string name="preference_title_terms_conditions">Şartlar ve Koşullar</string>
+
+    <string name="settings_category_title_general">Genel</string>
+
+    <string name="preference_title_dark_mode">Koyu Mod</string>
+
+    <string name="how_to_use">Nasıl çalışır?</string>
+
+    <string name="ok">TAMAM</string>
+
+    <string name="direct_message_help_ans">Lütfen kısa mesajınızla birlikte alıcının telefon numarasını da girin. Mesajı göndermeye hazır olduğunuzda, \'Gönder\' düğmesine tıklamanız yeterlidir. Alternatif olarak, bağlantıyı kopyalayıp alıcıyla paylaşmak için \'Doğrudan Bağlantı\' seçeneğini de kullanabilirsiniz. Bağlantıya tıklayarak sizinle doğrudan sohbet edebilirler.</string>
+
+    <string name="click_here_to_grant_required_permissions">Bildirim iznini devre dışı bırakın ve yeniden etkinleştirin.</string>
+
+    <string name="please_grant_storage_permissions">Lütfen Depolama izinleri verin</string>
+
+    <string name="rate_app">Lütfen uygulamayı değerlendirin!</string>
+
+    <string name="rate_later">Daha sonra</string>
+
+    <string name="rateUs">Lütfen uygulamayı Play Store\'da değerlendirin</string>
+
+    <string name="send_feedback">Lütfen bize geri bildirim gönderin. Üzerinde çalışmaya uğraşacağız!</string>
+
+    <string name="try_again">Lütfen tekrar deneyin</string>
+
+    <string name="message_copied_to_clipboard">mesaj panoya kopyalandı</string>
+
+    <string name="system_default">Sistem Varsayılanı</string>
+
+    <string name="restart">Yeniden Başlat</string>
+
+    <string name="light">Aydınlık</string>
+
+    <string name="dark">Koyu</string>
+
+    <string name="share_with">Şununla paylaş:</string>
+
+    <string name="direct_link">Doğrudan Bağlantıyı Kopyala</string>
+
+    <string name="remove_ads">Reklamları Kaldırın</string>
+
+    <string name="whats_web">Web Nedir?</string>
+
+    <string name="recover_messages">Mesajları Kurtar</string>
+
+    <string name="direct_message">Doğrudan Mesaj</string>
+
+    <string name="title_refresh">Tekrar Yükle</string>
+
+    <string name="whatsapp_not_installed">Whatsapp yüklü değil. Bu özelliği kullanmak için lütfen önce Whatsapp\'ı yükleyin.</string>
+
+    <string name="toggle_keyboard">Klavyeyi Değiştir</string>
+
+    <string name="fullscreen">Tam Ekran</string>
+
+    <string name="dismiss">Reddet</string>
+
+    <string name="keyboard_unblocked">Klavye kilidi kaldırıldı.</string>
+
+    <string name="keyboard_blocked">Klavye engellendi. Engellemeyi kaldırmak için klavye simgesine basın.</string>
+
+    <string name="whats_web_how_it_works">1. Cihazınızda Whats Web uygulamasını açın.\n\n2. Diğer akıllı telefonda whatsapp\'ı açın.\n\n* Android\'de -&gt; Sohbetler ekranından, ekranın sağ üst köşesinde bulunan üç noktalı menüye gidin -&gt; Bağlı cihazlar.\n\n* Windows telefonunda -&gt; Üç noktalı menüye gidin -&gt; Bağlı cihazlar.\n\n* iPhone\'da -&gt; Ayarlar -&gt; Bağlı cihazlar bölümüne gidin.\n\n3. Bir cihaz bağla seçeneğine dokunun ve bu uygulama ekranınızda görüntülenen QR Kodunu diğer telefondan tarayın.</string>
+
+    <string name="retry_sending_voice_message">Lütfen sesli mesaj göndermeyi tekrar deneyin</string>
+
+    <string name="message_retry_sending_voice_message">Mikrofon simgesine bir kez daha basın. Beklendiği gibi çalışıyor olmalı.</string>
+
+    <string name="retry_camera_capture">Lütfen Kamera seçeneğini tekrar deneyin</string>
+
+    <string name="message_retry_camera_capture">Kamera simgesine bir kez daha basın. Beklendiği gibi çalışıyor olmalı.</string>
+
+    <string name="audio_perm_reqd">İlerlemek için ses izni gerekiyor.</string>
+
+    <string name="camera_perm_reqd">İlerlemek için kamera izni gerekiyor.</string>
+
+    <string name="reset_reload">Sıfırla/Yeniden Yükle</string>
+
+    <string name="reset_only">SIFIRLA</string>
+
+    <string name="reload_only">SADECE YENİDEN YÜKLE</string>
+
+    <string name="reload_warning">Oturum açmayla ilgili sorun yaşıyorsanız, \'Sıfırla\'yı deneyin.\nUYARI: \'Sıfırla\'yı kullanırsanız tekrar oturum açmanız gerekebilir.</string>
+
+    <string name="download_file">Dosya İndiriliyor</string>
+
+    <string name="couldnt_download_file">Dosya indirilemedi</string>
+
+    <string name="storage_perm_reqd">Dosyayı indirmek için depolama izni gerekiyor</string>
+
+    <string name="purchase_item_not_found">Satın Alma Ögesi Bulunamadı</string>
+
+    <string name="error">Hata</string>
+
+    <string name="purchase_canceled">Satın Alma İptal Edildi</string>
+
+    <string name="pending_purchase">Satın Alma Beklemede. Lütfen İşlemi tamamlayın</string>
+
+    <string name="purchase_status_not_known">Satın Alma Durumu bilinmiyor</string>
+
+    <string name="enter_file_name">Bir Dosya Adı Girin</string>
+
+    <string name="downloading_file">Dosyayı İndiriliyor</string>
+
+    <string name="enter_valid_file_name">Lütfen geçerli bir dosya adı girin</string>
+
+    <string name="download_has_finished_message">İndirme tamamlandı. Lütfen İndirilenler klasörünü kontrol edin.</string>
+
+    <string name="could_not_download_file">Dosya indirilemedi</string>
+
+    <string name="loading">Yükleniyor</string>
+
+    <string name="downloading_update">Güncelleme indiriliyor</string>
+
+    <string name="update_downloaded_message">Az önce bir güncelleme indirildi.</string>
+
+    <string name="keyboard_enable_webview_message">Yazmayı etkinleştirmek için üstteki klavye geçiş düğmesine basın</string>
+
+    <string name="preference_title_bug_report">Hata Raporu</string>
+
+    <string name="preference_title_report_a_issue">Sorun Bildir</string>
+
+    <string name="describe_bug">Lütfen hatayı burada anlatın</string>
+
+    <string name="whatsapp_directory_does_not_contain_statuses">WhatsApp dizini Durumları içermiyor. Lütfen doğru dizini seçin.</string>
+
+    <string name="please_select_whatsapp_directory">Lütfen WhatsApp dizinini seçin!</string>
+
+    <string name="download_cleaner">Temizleyiciyi İndir</string>
+
+    <string name="download_recover_messages_app">Mesajları Kurtar Uygulamasını İndir</string>
+
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Bu özelliği kullanmak için Play Store\'dan başka bir uygulama indirmeniz gerekiyor. Play Store\'u açmak ve uygulamayı indirmek için Tamam\'a tıklayın.</string>
+
+    <string name="cancel">İptal Et</string>
+
+    <string name="ad_space">Reklam Alanı</string>
+
+    <string name="status">Durum</string>
+
+    <string name="theme">Tema</string>
+
+    <string name="more_apps">Daha Fazla Uygulama</string>
+
+    <string name="share">Paylaş</string>
+
+    <string name="send">Gönder</string>
+
+    <string name="select_country_code_and_number">Ülke kodunu ve numarasını seçin</string>
+
+    <string name="how_it_works">Nasıl çalışır?</string>
+
+    <string name="download_qrcodescanner">Qr Tarayıcı Uygulamasını İndirin</string>
+
+    <string name="share_content">İki farklı akıllı telefon veya tablette aynı WhatsApp hesabına erişmenin en hızlı yolunu ücretsiz olarak deneyimlemeye hazır olun! Uygulamayı şimdi indirin ve yükleyin.</string>
+
+    <string name="directly_message_anyone_without_saving_phone_as_contact"/>
+
+</resources>

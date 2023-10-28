@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Ажурирање је завршено</string>
+    <string name="app_update_alert_dialog_subtitle">Поново покрените апликацију да бисте применили ажурирања…</string>
+    <string name="help">Помоћ</string>
+    <string name="cleaner">Чистач</string>
+    <string name="status_saver">Статус Савер</string>
+    <string name="settings">Подешавања</string>
+    <string name="saved_statuses_appear_here">Нема доступног статуса!</string>
+    <string name="available_statuses">Доступан</string>
+    <string name="saved_statuses">Сачувано</string>
+    <string name="enter_message">Унесите поруку (опционо)</string>
+    <string name="enter_phone_number">Унесите број телефона</string>
+    <string name="send_message">Пошаљи поруку</string>
+    <string name="enter_a_phone_number">Унесите број телефона</string>
+    <string name="direct_link_copied_to_clipboard">Директна веза је копирана у међуспремник</string>
+    <string name="premium_unlocked">Хвала вам. Сада можете да користите премиум функције</string>
+    <string name="settings_category_title_developer">Девелопер</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Библиотеке отвореног кода</string>
+    <string name="preference_title_application_version">Верзија апликације</string>
+    <string name="preference_title_contact_us">Контактирајте нас</string>
+    <string name="preference_title_privacy_policy">Правила о приватности</string>
+    <string name="preference_title_terms_conditions">Услови</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Генерал</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Дарк Моде</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Како то ради\?</string>
+    <string name="ok">У реду</string>
+    <string name="direct_message_help_ans">Унесите број телефона примаоца заједно са текстуалном поруком. Када будете спремни да пошаљете поруку, једноставно кликните на дугме \'Пошаљи\'. Алтернативно, можете користити и опцију „Директна веза“ да копирате везу и поделите је са примаоцем. Кликом на везу, они могу директно да разговарају са вама.</string>
+    <string name="click_here_to_grant_required_permissions">Онемогућите и поново омогућите дозволу за обавештења.</string>
+    <string name="please_grant_storage_permissions">Дајте дозволе за складиштење</string>
+    <string name="rate_app">Молимо оцените апликацију!</string>
+    <string name="rate_later">Касније</string>
+    <string name="rateUs">Молимо оцените апликацију у Плаи продавници</string>
+    <string name="send_feedback">Пошаљите нам повратне информације. Покушаћемо да радимо на томе!</string>
+    <string name="try_again">Молим вас, покушајте поново</string>
+    <string name="message_copied_to_clipboard">порука је копирана у међуспремник</string>
+    <string name="system_default">Систем подразумевани</string>
+    <string name="restart">Поново покренути</string>
+    <string name="light">Светлост</string>
+    <string name="dark">Дарк</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Учешће у</string>
+    <string name="direct_link">Копирај директну везу</string>
+    <string name="remove_ads">Уклони огласе</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Вхатс Веб</string>
+    <string name="recover_messages">Опорави поруке</string>
+    <string name="direct_message">Директну поруку</string>
+    <string name="title_refresh">Освежи</string>
+    <string name="whatsapp_not_installed">Вхатсапп није инсталиран. Прво инсталирајте Вхатсапп да бисте користили ову функцију.</string>
+    <string name="toggle_keyboard">Пребаци тастатуру</string>
+    <string name="fullscreen">Цео екран</string>
+    <string name="dismiss">Одбаци</string>
+    <string name="keyboard_unblocked">Тастатура је деблокирана.</string>
+    <string name="keyboard_blocked">Тастатура је блокирана. Притисните икону тастатуре да бисте деблокирали.</string>
+    <string name="whats_web_how_it_works">1. Отворите апликацију Вхатс Веб на свом уређају.\n\n2. Отворите ВхатсАпп на другом паметном телефону.\n\n* На Андроид-у -&gt; Са екрана за ћаскање идите на мени са три тачке који се налази у горњем десном углу екрана -&gt; Повезани уређаји.\n\n* На Виндовс телефону -&gt; Идите на мени са три тачке -&gt; Повезани уређаји.\n\n* На иПхоне-у -&gt; Идите на Подешавања -&gt; Повезани уређаји.\n\n3. Додирните Повежи уређај и скенирајте КР код приказан на екрану ове апликације са другог телефона.</string>
+    <string name="retry_sending_voice_message">Покушајте поново да пошаљете гласовну поруку</string>
+    <string name="message_retry_sending_voice_message">Притисните још једном икону микрофона. Требало би да ради како се очекује.</string>
+    <string name="retry_camera_capture">Покушајте поново опцију камере</string>
+    <string name="message_retry_camera_capture">Притисните још једном икону камере. Требало би да ради како се очекује.</string>
+    <string name="audio_perm_reqd">За напредовање је потребна аудио дозвола.</string>
+    <string name="camera_perm_reqd">За напредовање је потребна дозвола камере.</string>
+    <string name="reset_reload">Ресетуј/Поново учитај</string>
+    <string name="reset_only">РЕСЕТОВАЊЕ</string>
+    <string name="reload_only">САМО РЕЛОАД</string>
+    <string name="reload_warning">Ако имате проблема у вези са пријављивањем, покушајте са „Ресетуј“.\nУПОЗОРЕЊЕ: Можда ћете морати поново да се пријавите ако користите \'Ресет\'.</string>
+    <string name="download_file">Преузимање датотеке</string>
+    <string name="couldnt_download_file">Није могуће преузети датотеку</string>
+    <string name="storage_perm_reqd">За преузимање датотеке потребна је дозвола за складиштење</string>
+    <string name="purchase_item_not_found">Ставка куповине није пронађена</string>
+    <string name="error">Грешка</string>
+    <string name="purchase_canceled">Куповина је отказана</string>
+    <string name="pending_purchase">Куповина је на чекању. Молимо довршите трансакцију</string>
+    <string name="purchase_status_not_known">Статус куповине није познат</string>
+    <string name="enter_file_name">Унесите назив датотеке</string>
+    <string name="downloading_file">Преузимање датотеке</string>
+    <string name="enter_valid_file_name">Унесите важећи назив датотеке</string>
+    <string name="download_has_finished_message">Преузимање је завршено. Проверите фасциклу Преузимања.</string>
+    <string name="could_not_download_file">Није могуће преузети датотеку</string>
+    <string name="loading">Лоадинг</string>
+    <string name="downloading_update">Преузимање ажурирања</string>
+    <string name="update_downloaded_message">Ажурирање је управо преузето.</string>
+    <string name="keyboard_enable_webview_message">Притисните дугме за пребацивање тастатуре на врху да бисте омогућили куцање</string>
+    <string name="preference_title_bug_report">Извештај о грешци</string>
+    <string name="preference_title_report_a_issue">Пријавите проблем</string>
+    <string name="describe_bug">Опишите грешку овде</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">ВхатсАпп директоријум не садржи статусе. Молимо изаберите тачан директоријум.</string>
+    <string name="please_select_whatsapp_directory">Молимо изаберите ВхатсАпп директориј!</string>
+    <string name="download_cleaner">Преузмите Цлеанер</string>
+    <string name="download_recover_messages_app">Преузмите апликацију Рецовер Мессагес</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Да бисте користили ову функцију, морате да преузмете другу апликацију из Плаи продавнице. Кликните на ОК да отворите Плаи продавницу и преузмете апликацију.</string>
+    <string name="cancel">Поништити, отказати</string>
+    <string name="ad_space">Огласни простор</string>
+    <string name="status">Статус</string>
+    <string name="theme">Тема</string>
+    <string name="more_apps">Више апликација</string>
+    <string name="share">Објави</string>
+    <string name="send">Пошаљи</string>
+    <string name="select_country_code_and_number">Изаберите позивни број и број земље</string>
+    <string name="how_it_works">Како то ради</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Преузмите апликацију Кр Сцаннер</string>
+    <string name="share_content">Спремите се да доживите најбржи начин да приступите истом ВхатсАпп налогу на два различита паметна телефона или таблета, све бесплатно! Преузмите и инсталирајте апликацију сада.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

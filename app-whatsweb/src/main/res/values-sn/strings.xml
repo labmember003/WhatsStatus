@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Kugadziridza kwapera</string>
+    <string name="app_update_alert_dialog_subtitle">Tangazve app kuti uise zvigadziriso…</string>
+    <string name="help">Help</string>
+    <string name="cleaner">Cleaner</string>
+    <string name="status_saver">Status Saver</string>
+    <string name="settings">Settings</string>
+    <string name="saved_statuses_appear_here">Hapana Chimiro Chinowanikwa!</string>
+    <string name="available_statuses">Available</string>
+    <string name="saved_statuses">Saved</string>
+    <string name="enter_message">Pinda Mharidzo (Sarudzo)</string>
+    <string name="enter_phone_number">Isa Nhamba Yenhare</string>
+    <string name="send_message">Send Message</string>
+    <string name="enter_a_phone_number">Isa nhamba yefoni</string>
+    <string name="direct_link_copied_to_clipboard">Yakananga link yakakopwa kuclipboard</string>
+    <string name="premium_unlocked">Ndatenda. Iwe unogona ikozvino kushandisa premium maficha</string>
+    <string name="settings_category_title_developer">Developer</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Open Source Libraries</string>
+    <string name="preference_title_application_version">App Version</string>
+    <string name="preference_title_contact_us">Taura nesu</string>
+    <string name="preference_title_privacy_policy">Privacy Policy</string>
+    <string name="preference_title_terms_conditions">Terms And Conditions</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">General</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Rima Mode</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Inoshanda sei\?</string>
+    <string name="ok">OK</string>
+    <string name="direct_message_help_ans">Ndokumbira uise nhamba dzerunhare dzemugamuchiri pamwe nemeseji yako. Kana wagadzirira kutumira meseji, ingobaya pakanzi \'Send\'. Neimwe nzira, iwe unogona zvakare kushandisa iyo \'Direct Link\' sarudzo kukopa chinongedzo uye kugovera kune anogamuchira. Nekudzvanya pane chinongedzo, vanogona kutaura newe zvakananga.</string>
+    <string name="click_here_to_grant_required_permissions">Dzima uye wogonesazve mvumo yekuzivisa.</string>
+    <string name="please_grant_storage_permissions">Ndokumbira upe mvumo yekuchengeta</string>
+    <string name="rate_app">Ndokumbirawo muyere iyo app!</string>
+    <string name="rate_later">Gare gare</string>
+    <string name="rateUs">Ndokumbirawo Reresa iyo app paPlay Store</string>
+    <string name="send_feedback">Ndapota titumirei mhinduro. Tichaedza kushanda pazviri!</string>
+    <string name="try_again">Ndapota edza zvakare</string>
+    <string name="message_copied_to_clipboard">meseji yakopwa kuclipboard</string>
+    <string name="system_default">System Default</string>
+    <string name="restart">Restart</string>
+    <string name="light">Chiedza</string>
+    <string name="dark">Rima</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Share with</string>
+    <string name="direct_link">Kopa Direct Link</string>
+    <string name="remove_ads">Bvisa Ads</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Chii Web</string>
+    <string name="recover_messages">Dzorera maMessage</string>
+    <string name="direct_message">Mharidzo yakananga</string>
+    <string name="title_refresh">Reload</string>
+    <string name="whatsapp_not_installed">Whatsapp haina kuiswa. Ndokumbira utange waisa Whatsapp kushandisa chinhu ichi.</string>
+    <string name="toggle_keyboard">Toggle Keyboard</string>
+    <string name="fullscreen">Full Screen</string>
+    <string name="dismiss">Dzinga</string>
+    <string name="keyboard_unblocked">Kiyibhodhi haina kuvharwa.</string>
+    <string name="keyboard_blocked">Kiyibhodhi yakavharwa. Dzvanya kiyibhodhi icon kuti usunungure.</string>
+    <string name="whats_web_how_it_works">1. Vhura Whats Web application pamudziyo wako.\n\n2. Vhura whatsapp pane imwe smartphone.\n\n* Pa Android -&gt; Kubva pachiratidziro chechats, enda kune matatu dot menyu iri kumusoro kurudyi kwescreen -&gt; Yakabatana zvishandiso.\n\n* PaWindow foni -&gt; Enda kune matatu dot menyu -&gt; Yakabatana zvishandiso.\n\n* Pa iPhone -&gt; Enda kune Zvirongwa -&gt; Zvishandiso zvakabatana.\n\n3. Tinya paBatanidza mudziyo uye tarisisa iyo QR Code inoratidzwa pane yako iyi app skrini kubva kune imwe foni.</string>
+    <string name="retry_sending_voice_message">Edza zvakare kutumira meseji yezwi</string>
+    <string name="message_retry_sending_voice_message">Dzvanya maikorofoni icon zvakare. Inofanira kunge ichishanda sezvaitarisirwa.</string>
+    <string name="retry_camera_capture">Ndapota edza zvakare Kamera sarudzo</string>
+    <string name="message_retry_camera_capture">Dzvanya chiratidzo chekamera zvakare. Inofanira kunge ichishanda sezvaitarisirwa.</string>
+    <string name="audio_perm_reqd">Mvumo yeaudio inodiwa kuti ufambire mberi.</string>
+    <string name="camera_perm_reqd">Mvumo yekamera inodiwa kuti ufambire mberi.</string>
+    <string name="reset_reload">Reset/Reload</string>
+    <string name="reset_only">RESET</string>
+    <string name="reload_only">REload CHETE</string>
+    <string name="reload_warning">Kana uri kusangana nenyaya dzine chekuita nekupinda, edza \'Reset\'.\nYAmbiro: Ungangofanira kupinda zvakare kana ukashandisa \'Reset\'.</string>
+    <string name="download_file">Kudhaunirodha File</string>
+    <string name="couldnt_download_file">Faira yatadza kudhaunirodwa</string>
+    <string name="storage_perm_reqd">Mvumo yekuchengeta inodiwa kudhawunirodha faira</string>
+    <string name="purchase_item_not_found">Zvatengwa zvashaikwa</string>
+    <string name="error">Error</string>
+    <string name="purchase_canceled">Kutenga Kwakanzurwa</string>
+    <string name="pending_purchase">Kutenga Kwakamirira. Ndokumbira upedze Transaction</string>
+    <string name="purchase_status_not_known">Purchase Status haizivikanwe</string>
+    <string name="enter_file_name">Isa Zita reFaira</string>
+    <string name="downloading_file">Kurodha faira</string>
+    <string name="enter_valid_file_name">Ndapota isa zita refaira rinoshanda</string>
+    <string name="download_has_finished_message">Kudhaunirodha kwapera. Tapota tarisa Dhaunirodha folda.</string>
+    <string name="could_not_download_file">Hatina kukwanisa kudhaunirodha File</string>
+    <string name="loading">Loading</string>
+    <string name="downloading_update">Kudhaunirodha update</string>
+    <string name="update_downloaded_message">Chigadziriso chichangobva kudhaunirodwa.</string>
+    <string name="keyboard_enable_webview_message">Dzvanya bhatani rekuchinja kiibhodhi kumusoro kuti ugone kutaipa</string>
+    <string name="preference_title_bug_report">Bug Report</string>
+    <string name="preference_title_report_a_issue">Mhan\'ara Imwe Nyaya</string>
+    <string name="describe_bug">Ndokumbira utsanangure tsikidzi pano</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">WhatsApp directory haina Status. Ndapota sarudza dhairekitori rechokwadi.</string>
+    <string name="please_select_whatsapp_directory">Ndokumbira usarudze dhairekitori reWhatsApp!</string>
+    <string name="download_cleaner">Download Cleaner</string>
+    <string name="download_recover_messages_app">Dhawunirodha Dzorera Mameseji App</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Kuti ushandise chinhu ichi, unofanirwa kudhawunirodha imwe app kubva play store. Dzvanya OK kuti uvhure play store uye download app.</string>
+    <string name="cancel">Kanzura</string>
+    <string name="ad_space">Ad Space</string>
+    <string name="status">Status</string>
+    <string name="theme">Theme</string>
+    <string name="more_apps">More Apps</string>
+    <string name="share">Share</string>
+    <string name="send">Send</string>
+    <string name="select_country_code_and_number">Sarudza kodhi yenyika uye nhamba</string>
+    <string name="how_it_works">Zvinoshanda sei</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Dhawunirodha Qr Scanner App</string>
+    <string name="share_content">Gadzirira kuona iyo inokurumidza nzira yekuwana iyo yakafanana WhatsApp account pane maviri akasiyana mafoni kana mahwendefa, zvese zvemahara! Dhawunirodha uye isa iyo app izvozvi.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

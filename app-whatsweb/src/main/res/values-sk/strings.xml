@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Aktualizácia je dokončená</string>
+    <string name="app_update_alert_dialog_subtitle">Ak chcete použiť aktualizácie, reštartujte aplikáciu…</string>
+    <string name="help">Pomoc</string>
+    <string name="cleaner">Čistič</string>
+    <string name="status_saver">Šetrič stavu</string>
+    <string name="settings">nastavenie</string>
+    <string name="saved_statuses_appear_here">Nie je k dispozícii žiadny stav!</string>
+    <string name="available_statuses">Dostupné</string>
+    <string name="saved_statuses">Uložené</string>
+    <string name="enter_message">Zadajte správu (voliteľné)</string>
+    <string name="enter_phone_number">Zadajte telefónne číslo</string>
+    <string name="send_message">Poslať správu</string>
+    <string name="enter_a_phone_number">Zadajte telefónne číslo</string>
+    <string name="direct_link_copied_to_clipboard">Priamy odkaz bol skopírovaný do schránky</string>
+    <string name="premium_unlocked">Ďakujem. Teraz môžete využívať prémiové funkcie</string>
+    <string name="settings_category_title_developer">Vývojár</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Knižnice s otvoreným zdrojom</string>
+    <string name="preference_title_application_version">Verzia aplikácie</string>
+    <string name="preference_title_contact_us">Kontaktuj nás</string>
+    <string name="preference_title_privacy_policy">Zásady ochrany osobných údajov</string>
+    <string name="preference_title_terms_conditions">Podmienky</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">generál</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Tmavý režim</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Ako to funguje\?</string>
+    <string name="ok">OK</string>
+    <string name="direct_message_help_ans">Spolu s textovou správou zadajte telefónne číslo príjemcu. Keď ste pripravení odoslať správu, jednoducho kliknite na tlačidlo \'Odoslať\'. Prípadne môžete použiť aj možnosť „Priamy odkaz“ na skopírovanie odkazu a zdieľanie s príjemcom. Kliknutím na odkaz s vami môžu priamo chatovať.</string>
+    <string name="click_here_to_grant_required_permissions">Zakázať a znova povoliť povolenie na upozornenia.</string>
+    <string name="please_grant_storage_permissions">Udeľte povolenia na úložisko</string>
+    <string name="rate_app">Ohodnoťte aplikáciu!</string>
+    <string name="rate_later">Neskôr</string>
+    <string name="rateUs">Ohodnoťte aplikáciu v Obchode Play</string>
+    <string name="send_feedback">Pošlite nám spätnú väzbu. Pokúsime sa na tom popracovať!</string>
+    <string name="try_again">Prosím skúste znova</string>
+    <string name="message_copied_to_clipboard">správa bola skopírovaná do schránky</string>
+    <string name="system_default">Predvolený systém</string>
+    <string name="restart">Reštart</string>
+    <string name="light">Svetlo</string>
+    <string name="dark">Tmavý</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Zdieľať s</string>
+    <string name="direct_link">Kopírovať priamy odkaz</string>
+    <string name="remove_ads">Odstrániť reklamy</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Čo je web</string>
+    <string name="recover_messages">Obnoviť správy</string>
+    <string name="direct_message">Priama správa</string>
+    <string name="title_refresh">Znovu načítať</string>
+    <string name="whatsapp_not_installed">Whatsapp nie je nainštalovaný. Ak chcete používať túto funkciu, najprv si nainštalujte Whatsapp.</string>
+    <string name="toggle_keyboard">Prepnúť klávesnicu</string>
+    <string name="fullscreen">Celá obrazovka</string>
+    <string name="dismiss">Odmietnuť</string>
+    <string name="keyboard_unblocked">Klávesnica je odblokovaná.</string>
+    <string name="keyboard_blocked">Klávesnica je zablokovaná. Pre odblokovanie stlačte ikonu klávesnice.</string>
+    <string name="whats_web_how_it_works">1. Otvorte na svojom zariadení aplikáciu Whats Web.\n\n2. Otvorte Whatsapp na inom smartfóne.\n\n* V systéme Android -&gt; Na obrazovke chatov prejdite do ponuky s tromi bodkami v pravom hornom rohu obrazovky -&gt; Prepojené zariadenia.\n\n* V telefóne Windows -&gt; Prejdite do ponuky s tromi bodkami -&gt; Prepojené zariadenia.\n\n* Na iPhone -&gt; Prejdite do Nastavenia -&gt; Prepojené zariadenia.\n\n3. Klepnite na Prepojiť zariadenie a naskenujte QR kód zobrazený na obrazovke tejto aplikácie z iného telefónu.</string>
+    <string name="retry_sending_voice_message">Skúste odoslať hlasovú správu znova</string>
+    <string name="message_retry_sending_voice_message">Stlačte ešte raz ikonu mikrofónu. Malo by to fungovať podľa očakávania.</string>
+    <string name="retry_camera_capture">Skúste znova možnosť Fotoaparát</string>
+    <string name="message_retry_camera_capture">Stlačte ikonu fotoaparátu ešte raz. Malo by to fungovať podľa očakávania.</string>
+    <string name="audio_perm_reqd">Na postup vpred je potrebné povolenie na zvuk.</string>
+    <string name="camera_perm_reqd">Na postup vpred je potrebné povolenie fotoaparátu.</string>
+    <string name="reset_reload">Reset/Reload</string>
+    <string name="reset_only">RESETOVAŤ</string>
+    <string name="reload_only">LEN ZNOVU NAČÍTAJTE</string>
+    <string name="reload_warning">Ak máte problémy s prihlásením, skúste „Resetovať“.\nUPOZORNENIE: Ak použijete „Reset“, možno sa budete musieť znova prihlásiť.</string>
+    <string name="download_file">Sťahuje sa súbor</string>
+    <string name="couldnt_download_file">Súbor sa nepodarilo stiahnuť</string>
+    <string name="storage_perm_reqd">Na stiahnutie súboru je potrebné povolenie na ukladanie</string>
+    <string name="purchase_item_not_found">Položku nákupu sa nepodarilo nájsť</string>
+    <string name="error">Chyba</string>
+    <string name="purchase_canceled">Nákup bol zrušený</string>
+    <string name="pending_purchase">Nákup čaká na spracovanie. Dokončite transakciu</string>
+    <string name="purchase_status_not_known">Stav nákupu nie je známy</string>
+    <string name="enter_file_name">Zadajte Názov súboru</string>
+    <string name="downloading_file">Sťahovanie súboru</string>
+    <string name="enter_valid_file_name">Zadajte platný názov súboru</string>
+    <string name="download_has_finished_message">Sťahovanie sa skončilo. Skontrolujte priečinok Stiahnuté súbory.</string>
+    <string name="could_not_download_file">Súbor sa nepodarilo stiahnuť</string>
+    <string name="loading">Načítava</string>
+    <string name="downloading_update">Sťahuje sa aktualizácia</string>
+    <string name="update_downloaded_message">Práve bola stiahnutá aktualizácia.</string>
+    <string name="keyboard_enable_webview_message">Stlačením prepínacieho tlačidla klávesnice v hornej časti povolíte písanie</string>
+    <string name="preference_title_bug_report">Hlásenie o chybe</string>
+    <string name="preference_title_report_a_issue">Nahlásiť problém</string>
+    <string name="describe_bug">Popíšte tu chybu</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">Adresár WhatsApp neobsahuje stavy. Vyberte správny adresár.</string>
+    <string name="please_select_whatsapp_directory">Vyberte adresár WhatsApp!</string>
+    <string name="download_cleaner">Stiahnite si Cleaner</string>
+    <string name="download_recover_messages_app">Stiahnite si aplikáciu Recover Messages</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Ak chcete použiť túto funkciu, musíte si stiahnuť inú aplikáciu z obchodu Play. Kliknutím na tlačidlo OK otvorte obchod Play a stiahnite si aplikáciu.</string>
+    <string name="cancel">Zrušiť</string>
+    <string name="ad_space">Reklamný priestor</string>
+    <string name="status">Postavenie</string>
+    <string name="theme">Téma</string>
+    <string name="more_apps">Ďalšie aplikácie</string>
+    <string name="share">zdieľam</string>
+    <string name="send">Odoslať</string>
+    <string name="select_country_code_and_number">Vyberte kód krajiny a číslo</string>
+    <string name="how_it_works">Ako to funguje</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Stiahnite si aplikáciu Qr Scanner</string>
+    <string name="share_content">Pripravte sa zažiť najrýchlejší spôsob prístupu k rovnakému účtu WhatsApp na dvoch rôznych smartfónoch alebo tabletoch, a to všetko zadarmo! Stiahnite si a nainštalujte aplikáciu teraz.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

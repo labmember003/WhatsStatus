@@ -1,0 +1,201 @@
+<resources>
+
+    <string name="app_update_alert_dialog_title">Обновление завершено</string>
+
+    <string name="app_update_alert_dialog_subtitle">Перезапустите приложение, чтобы применить обновления…</string>
+
+    <string name="help">Помощь</string>
+
+    <string name="cleaner">Очиститель</string>
+
+    <string name="status_saver">Сохранение статуса</string>
+
+    <string name="settings">Настройки</string>
+
+    <string name="saved_statuses_appear_here">Статус недоступен!</string>
+
+    <string name="available_statuses">Доступно</string>
+
+    <string name="saved_statuses">Сохранено</string>
+
+    <string name="enter_message">Введите сообщение (необязательно)</string>
+
+    <string name="enter_phone_number">Введите номер телефона</string>
+
+    <string name="send_message">Отправить сообщение</string>
+
+    <string name="enter_a_phone_number">Введите номер телефона</string>
+
+    <string name="direct_link_copied_to_clipboard">Прямая ссылка скопирована в буфер обмена</string>
+
+    <string name="premium_unlocked">Спасибо. Теперь вы можете использовать премиум-функции</string>
+
+    <string name="settings_category_title_developer">Разработчик</string>
+
+    <string name="preference_title_open_source_licenses">Библиотеки с открытым исходным кодом</string>
+
+    <string name="preference_title_application_version">Версия приложения</string>
+
+    <string name="preference_title_contact_us">Связаться с нами</string>
+
+    <string name="preference_title_privacy_policy">Политика конфиденциальности</string>
+
+    <string name="preference_title_terms_conditions">Условия и положения</string>
+
+    <string name="settings_category_title_general">Общее</string>
+
+    <string name="preference_title_dark_mode">Темный режим</string>
+
+    <string name="how_to_use">Как это работает?</string>
+
+    <string name="ok">OK</string>
+
+    <string name="direct_message_help_ans">Пожалуйста, введите номер телефона получателя вместе с вашим текстовым сообщением. Когда вы будете готовы отправить сообщение, просто нажмите кнопку «Отправить». Кроме того, вы также можете использовать опцию «Прямая ссылка», чтобы скопировать ссылку и поделиться ею с получателем. Когда вы нажмете на ссылку, получатель сможет общаться с вами напрямую.</string>
+
+    <string name="click_here_to_grant_required_permissions">Отключите и снова включите разрешение на показ уведомлений.</string>
+
+    <string name="please_grant_storage_permissions">Предоставьте разрешения на хранение</string>
+
+    <string name="rate_app">Пожалуйста, оцените приложение!</string>
+
+    <string name="rate_later">Позже</string>
+
+    <string name="rateUs">Пожалуйста, оцените приложение в Play Store</string>
+
+    <string name="send_feedback">Пожалуйста, отправьте нам отзыв. Мы постараемся над ним поработать!</string>
+
+    <string name="try_again">Пожалуйста, попробуйте еще раз</string>
+
+    <string name="message_copied_to_clipboard">Сообщение скопировано в буфер обмена</string>
+
+    <string name="system_default">Системные установки по умолчанию</string>
+
+    <string name="restart">Перезапуск</string>
+
+    <string name="light">Светлая</string>
+
+    <string name="dark">Темная</string>
+
+    <string name="share_with">Поделиться с</string>
+
+    <string name="direct_link">Скопировать прямую ссылку</string>
+
+    <string name="remove_ads">Убрать рекламу</string>
+
+    <string name="whats_web">Whats Web</string>
+
+    <string name="recover_messages">Восстановить сообщения</string>
+
+    <string name="direct_message">Личное сообщение</string>
+
+    <string name="title_refresh">Перезагрузить</string>
+
+    <string name="whatsapp_not_installed">WhatsApp не установлен. Пожалуйста, сначала установите WhatsApp, чтобы использовать эту функцию.</string>
+
+    <string name="toggle_keyboard">Переключить клавиатуру</string>
+
+    <string name="fullscreen">Полноэкранный</string>
+
+    <string name="dismiss">Отмена</string>
+
+    <string name="keyboard_unblocked">Клавиатура разблокирована.</string>
+
+    <string name="keyboard_blocked">Клавиатура заблокирована. Нажмите значок клавиатуры, чтобы разблокировать.</string>
+
+    <string name="whats_web_how_it_works">1. Откройте приложение Whats Web на своем устройстве.\n\n2. Откройте WhatsApp на другом смартфоне.\n\n* На Android -&gt; На экране чатов перейдите в меню из трех точек, расположенное в правом верхнем углу экрана -&gt; Связанные устройства.\n\n* На телефоне с Windows -&gt; Перейдите в меню из трех точек -&gt; Связанные устройства.\n\n* На iPhone -&gt; Перейдите в «Настройки» -&gt; «Связанные устройства».\n\n3. Нажмите «Привязать устройство» и  с другого телефона отсканируйте QR-код, отображаемый на экране этого приложения.</string>
+
+    <string name="retry_sending_voice_message">Повторите попытку отправки голосового сообщения</string>
+
+    <string name="message_retry_sending_voice_message">Нажмите значок микрофона еще раз. Он должен работать, как ожидалось.</string>
+
+    <string name="retry_camera_capture">Повторите попытку с камерой.</string>
+
+    <string name="message_retry_camera_capture">Нажмите значок камеры еще раз. Она должна работать, как ожидалось.</string>
+
+    <string name="audio_perm_reqd">Для продолжения требуется разрешение на аудио.</string>
+
+    <string name="camera_perm_reqd">Для продолжения требуется разрешение на камеру.</string>
+
+    <string name="reset_reload">Сброс/перезагрузка</string>
+
+    <string name="reset_only">ПЕРЕЗАГРУЗКА</string>
+
+    <string name="reload_only">ТОЛЬКО ПЕРЕЗАГРУЗКА</string>
+
+    <string name="reload_warning">Если у вас возникли проблемы, связанные со входом в систему, попробуйте «Сброс».\nПРЕДУПРЕЖДЕНИЕ. Возможно, вам придется снова войти в систему, если вы используете «Сброс».</string>
+
+    <string name="download_file">Скачивание файла</string>
+
+    <string name="couldnt_download_file">Не удалось скачать файл</string>
+
+    <string name="storage_perm_reqd">Разрешение на хранение необходимо для скачивания файла</string>
+
+    <string name="purchase_item_not_found">Предмет покупки не может быть найден</string>
+
+    <string name="error">Ошибка</string>
+
+    <string name="purchase_canceled">Покупка отменена</string>
+
+    <string name="pending_purchase">Покупка находится на рассмотрении. Пожалуйста, завершите транзакцию</string>
+
+    <string name="purchase_status_not_known">Статус покупки неизвестен</string>
+
+    <string name="enter_file_name">Введите имя файла</string>
+
+    <string name="downloading_file">Загрузка файла</string>
+
+    <string name="enter_valid_file_name">Пожалуйста, введите допустимое имя файла</string>
+
+    <string name="download_has_finished_message">Скачивание завершено. Пожалуйста, проверьте папку «Загрузки».</string>
+
+    <string name="could_not_download_file">Не удалось скачать файл</string>
+
+    <string name="loading">Загрузка</string>
+
+    <string name="downloading_update">Скачивание обновления</string>
+
+    <string name="update_downloaded_message">Только что было скачано обновление.</string>
+
+    <string name="keyboard_enable_webview_message">Нажмите кнопку переключения клавиатуры вверху, чтобы включить ввод текста.</string>
+
+    <string name="preference_title_bug_report">Отчет об ошибке</string>
+
+    <string name="preference_title_report_a_issue">Сообщить о проблеме</string>
+
+    <string name="describe_bug">Пожалуйста, опишите ошибку здесь</string>
+
+    <string name="whatsapp_directory_does_not_contain_statuses">Каталог WhatsApp не содержит статусов. Пожалуйста, выберите правильный каталог.</string>
+
+    <string name="please_select_whatsapp_directory">Пожалуйста, выберите каталог WhatsApp!</string>
+
+    <string name="download_cleaner">Скачать очиститель</string>
+
+    <string name="download_recover_messages_app">Скачать приложение для восстановления сообщений</string>
+
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Чтобы использовать эту функцию, вам нужно скачать другое приложение из Play Store. Нажмите OK, чтобы открыть Play Store и загрузить приложение.</string>
+
+    <string name="cancel">Отмена</string>
+
+    <string name="ad_space">Рекламное место</string>
+
+    <string name="status">Статус</string>
+
+    <string name="theme">Тема</string>
+
+    <string name="more_apps">Больше приложений</string>
+
+    <string name="share">Поделиться</string>
+
+    <string name="send">Отправить</string>
+
+    <string name="select_country_code_and_number">Выберите код страны и номер</string>
+
+    <string name="how_it_works">Как это работает</string>
+
+    <string name="download_qrcodescanner">Скачать приложение QR-сканер</string>
+
+    <string name="share_content">Приготовьтесь к самому быстрому бесплатному доступу к одной и той же учетной записи WhatsApp на двух разных смартфонах или планшетах! Скачайте и установите приложение прямо сейчас.</string>
+
+    <string name="directly_message_anyone_without_saving_phone_as_contact"/>
+
+</resources>

@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">דער דערהייַנטיקן איז גאַנץ</string>
+    <string name="app_update_alert_dialog_subtitle">ריסטאַרט די אַפּ צו צולייגן דערהייַנטיקונגען ...</string>
+    <string name="help">הילף</string>
+    <string name="cleaner">קלינער</string>
+    <string name="status_saver">סטאַטוס סאַווער</string>
+    <string name="settings">סעטטינגס</string>
+    <string name="saved_statuses_appear_here">קיין סטאַטוס בנימצא!</string>
+    <string name="available_statuses">בנימצא</string>
+    <string name="saved_statuses">געראטעוועט</string>
+    <string name="enter_message">אַרייַן אָנזאָג (אַפּשאַנאַל)</string>
+    <string name="enter_phone_number">אַרייַן טעלעפאָן נומער</string>
+    <string name="send_message">שיק א מעסעדזש</string>
+    <string name="enter_a_phone_number">אַרייַן אַ טעלעפאָן נומער</string>
+    <string name="direct_link_copied_to_clipboard">דירעקט לינק קאַפּיד צו קליפּבאָרד</string>
+    <string name="premium_unlocked">אדאנק. איר קענט איצט נוצן פּרעמיע פֿעיִקייטן</string>
+    <string name="settings_category_title_developer">דעוועלאָפּער</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">עפֿן מקור ליבראַריעס</string>
+    <string name="preference_title_application_version">אַפּ ווערסיע</string>
+    <string name="preference_title_contact_us">רוף אונז</string>
+    <string name="preference_title_privacy_policy">פּריוואַטקייט פּאָליטיק</string>
+    <string name="preference_title_terms_conditions">טערמינען און באדינגונגען</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">אַלגעמיינע</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">טונקל מאָדע</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">וויאזוי עס ארבעט\?</string>
+    <string name="ok">אקעי</string>
+    <string name="direct_message_help_ans">ביטע אַרייַן די באַקומער ס טעלעפאָן נומער צוזאמען מיט דיין טעקסט אָנזאָג. אַמאָל איר זענט גרייט צו שיקן דעם אָנזאָג, פשוט גיט אויף די \'שיקן\' קנעפּל. אַלטערנאַטיוועלי, איר קענט אויך נוצן די \'דירעקט לינק\' אָפּציע צו נאָכמאַכן די לינק און טיילן עס מיט די באַקומער. דורך געבן אַ קליק אויף דעם לינק, זיי קענען שמועסן מיט איר גלייַך.</string>
+    <string name="click_here_to_grant_required_permissions">דיסייבאַל און שייַעך-געבן אָנזאָג דערלויבעניש.</string>
+    <string name="please_grant_storage_permissions">ביטע געבן סטאָרידזש פּערמישאַנז</string>
+    <string name="rate_app">ביטע אָפּשאַצן די אַפּ!</string>
+    <string name="rate_later">שפּעטער</string>
+    <string name="rateUs">ביטע אָפּשאַצן די אַפּ אין פּלייַ סטאָר</string>
+    <string name="send_feedback">ביטע שיקן אונדז באַמערקונגען. מיר וועלן פּרובירן צו אַרבעטן אויף אים!</string>
+    <string name="try_again">ביטע פּרובירן ווידער</string>
+    <string name="message_copied_to_clipboard">אָנזאָג קאַפּיד צו קליפּבאָרד</string>
+    <string name="system_default">סיסטעם פעליקייַט</string>
+    <string name="restart">הייב אן נאכאמאל</string>
+    <string name="light">ליכט</string>
+    <string name="dark">טונקל</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">ייַנטיילן מיט</string>
+    <string name="direct_link">קאָפּי די דירעקט לינק</string>
+    <string name="remove_ads">אַראָפּנעמען אַדס</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">וואָס איז וועב</string>
+    <string name="recover_messages">צוריקקריגן אַרטיקלען</string>
+    <string name="direct_message">דירעקט אָנזאָג</string>
+    <string name="title_refresh">רילאָוד</string>
+    <string name="whatsapp_not_installed">ווהאַצאַפּפּ איז נישט אינסטאַלירן. ערשטער ינסטאַלירן ווהאַצאַפּפּ צו נוצן דעם שטריך.</string>
+    <string name="toggle_keyboard">טאַגאַל קיבאָרד</string>
+    <string name="fullscreen">גאנצע סקרין</string>
+    <string name="dismiss">אָפּזאָגן</string>
+    <string name="keyboard_unblocked">קלאַוויאַטור איז ונבלאָקקעד.</string>
+    <string name="keyboard_blocked">קלאַוויאַטור איז אפגעשטעלט. דרוק קלאַוויאַטור ייקאַן צו ופשליסן.</string>
+    <string name="whats_web_how_it_works">1. עפֿן ווהאַץ וועב אַפּלאַקיישאַן אויף דיין מיטל.\n\n2. עפֿענען ווהאַצאַפּפּ אויף אנדערע סמאַרטפאָנע.\n\n* אויף אַנדרויד -&gt; פֿון די טשאַץ פאַרשטעלן, גיין צו די דריי פּונקט מעניו אין שפּיץ רעכט פון דעם עקראַן -&gt; לינגקט דעוויסעס.\n\n* אויף פֿענצטער טעלעפאָן -&gt; גיין צו די דריי פּונקט מעניו -&gt; לינגקט דעוויסעס.\n\n* אויף iPhone -&gt; גיין צו סעטטינגס -&gt; לינגקט דעוויסעס.\n\n3. צאַפּן אויף לינק אַ מיטל און יבערקוקן די QR קאָד געוויזן אויף דיין דעם אַפּ פאַרשטעלן פון אנדערע טעלעפאָן.</string>
+    <string name="retry_sending_voice_message">ביטע פרובירט צו שיקן קול אָנזאָג</string>
+    <string name="message_retry_sending_voice_message">דרוק דעם מיקראָפאָן בילדל אַמאָל מער. עס זאָל אַרבעטן ווי דערוואַרט.</string>
+    <string name="retry_camera_capture">פּרוּווט ווידער די אַפּאַראַט אָפּציע</string>
+    <string name="message_retry_camera_capture">דרוק דעם אַפּאַראַט בילדל אַמאָל מער. עס זאָל אַרבעטן ווי דערוואַרט.</string>
+    <string name="audio_perm_reqd">אַודיאָ דערלויבעניש איז פארלאנגט צו פאָרויס פאָרויס.</string>
+    <string name="camera_perm_reqd">אַפּאַראַט דערלויבעניש איז פארלאנגט צו פאָרויס פאָרויס.</string>
+    <string name="reset_reload">באַשטעטיק /רילאָוד</string>
+    <string name="reset_only">באַשטעטיק</string>
+    <string name="reload_only">רילאָוד בלויז</string>
+    <string name="reload_warning">אויב איר האָבן פּראָבלעמס מיט לאָגין, פּרוּווט \'באַשטעטיק\'.\nווארענונג: איר קען האָבן צו לאָגין ווידער אויב איר נוצן \'באַשטעטיק\'.</string>
+    <string name="download_file">דאַונלאָודינג טעקע</string>
+    <string name="couldnt_download_file">טעקע קען ניט זיין דאַונלאָודיד</string>
+    <string name="storage_perm_reqd">סטאָרידזש דערלויבעניש דארף צו אָפּלאָדירן טעקע</string>
+    <string name="purchase_item_not_found">קויפן נומער קען ניט זיין געפֿונען</string>
+    <string name="error">טעות</string>
+    <string name="purchase_canceled">קויפן קאַנסאַלד</string>
+    <string name="pending_purchase">קויפן איז פּענדינג. ביטע פאַרענדיקן טראַנסאַקטיאָן</string>
+    <string name="purchase_status_not_known">קויפן סטאַטוס איז ניט באַוווסט</string>
+    <string name="enter_file_name">אַרייַן אַ טעקע נאָמען</string>
+    <string name="downloading_file">דאַונלאָודינג די טעקע</string>
+    <string name="enter_valid_file_name">ביטע אַרייַן אַ גילטיק טעקע נאָמען</string>
+    <string name="download_has_finished_message">אראפקאפיע איז פאַרטיק. ביטע טשעק די דאַונלאָודז טעקע.</string>
+    <string name="could_not_download_file">קען נישט אראפקאפיע טעקע</string>
+    <string name="loading">Loading</string>
+    <string name="downloading_update">דאַונלאָודינג דערהייַנטיקן</string>
+    <string name="update_downloaded_message">אַ דערהייַנטיקן איז פּונקט דאַונלאָודיד.</string>
+    <string name="keyboard_enable_webview_message">דריקן די טאַגאַל קלאַוויאַטור קנעפּל אויף שפּיץ צו געבן טייפּינג</string>
+    <string name="preference_title_bug_report">זשוק באריכט</string>
+    <string name="preference_title_report_a_issue">באריכט אַן אַרויסגעבן</string>
+    <string name="describe_bug">ביטע באַשרייַבן דעם זשוק דאָ</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">ווהאַצאַפּפּ וועגווייַזער טוט נישט אַנטהאַלטן סטאַטוסעס. ביטע אויסקלייַבן ריכטיק וועגווייַזער.</string>
+    <string name="please_select_whatsapp_directory">ביטע אויסקלייַבן ווהאַצאַפּפּ וועגווייַזער!</string>
+    <string name="download_cleaner">אראפקאפיע קלינער</string>
+    <string name="download_recover_messages_app">דאַונלאָוד צוריקקריגן אַרטיקלען אַפּ</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">צו נוצן דעם שטריך, איר דאַרפֿן צו אָפּלאָדירן אן אנדער אַפּ פון די שפּיל קראָם. דריקט OK צו עפֿענען די שפּיל קראָם און אראפקאפיע די אַפּלאַקיישאַן.</string>
+    <string name="cancel">באָטל מאַכן</string>
+    <string name="ad_space">אַד ספעיס</string>
+    <string name="status">סטאַטוס</string>
+    <string name="theme">טעמע</string>
+    <string name="more_apps">מער אַפּפּס</string>
+    <string name="share">ייַנטיילן</string>
+    <string name="send">שיקן</string>
+    <string name="select_country_code_and_number">אויסקלייַבן לאַנד קאָד און נומער</string>
+    <string name="how_it_works">וויאזוי עס ארבעט</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">אראפקאפיע די QR סקאַננער אַפּ</string>
+    <string name="share_content">גרייט זיך צו דערפאַרונג די פאַסטאַסט וועג צו אַקסעס דער זעלביקער ווהאַצאַפּפּ חשבון אויף צוויי פאַרשידענע סמאַרטפאָנעס אָדער טאַבלאַץ, אַלע פֿאַר פריי! אראפקאפיע און ינסטאַלירן די אַפּ איצט.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

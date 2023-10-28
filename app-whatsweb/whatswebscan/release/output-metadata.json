@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.codekraftapps.whatsweb",
+  "variantName": "whatswebscanRelease",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 100007000,
+      "versionName": "1.0.7",
+      "outputFile": "app-whatsweb-whatswebscan-release.apk"
+    }
+  ],
+  "elementType": "File"
+}

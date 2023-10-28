@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application>
+        <activity
+            android:exported="true"
+            android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:theme="@style/DirectChatActivityTheme"
+            android:exported="false"
+            android:name=".ui.AppSettingsActivity"
+            android:label="@string/settings" />
+        <activity
+            android:theme="@style/DirectChatActivityTheme"
+            android:exported="false"
+            android:name=".ui.customwebview.CustomWebViewActivity"
+            android:configChanges="orientation|keyboard|keyboardHidden|screenLayout|screenSize"/>
+        <activity android:name=".ui.ChatActivity"
+            android:windowSoftInputMode="adjustPan"
+            android:exported="false"
+            android:theme="@style/DirectChatActivityTheme"
+            />
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="${applicationId}.provider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths" />
+        </provider>
+
+        <meta-data android:name="applovin.sdk.key"
+            android:value="V8yk2TXk7Piqr5HQ0vXMoQrTn35I9BreXAzHu3OQAFOqu0bA9InVk4MkCq2zC8vQhPzDFd0OCTL2U30KsaBD7i"/>
+    </application>
+</manifest>

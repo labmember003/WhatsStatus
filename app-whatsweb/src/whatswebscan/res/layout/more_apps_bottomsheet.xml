@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:id="@+id/cross_button_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/iv_close"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="16dp"
+            android:src="@drawable/ic_clear"
+            android:background="@drawable/circle_background"
+            android:backgroundTint="@color/black"
+            android:paddingHorizontal="8dp"
+            android:paddingVertical="8dp"
+            app:tint="@color/white" />
+
+    </FrameLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/container"
+        android:background="@color/direct_message_background_color"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/tv_header"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:fontFamily="@font/euclid_font_medium"
+            android:text="@string/more_apps"
+            android:textColor="@color/textColorHeading"
+            android:textSize="@dimen/text_size_header"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.gridlayout.widget.GridLayout
+            android:id="@+id/grid"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            app:alignmentMode="alignMargins"
+            app:columnCount="3"
+            app:columnOrderPreserved="false"
+            app:layout_constraintTop_toBottomOf="@id/tv_header"
+            app:rowCount="1"
+            app:useDefaultMargins="true">
+
+            <!-- Row 1 -->
+
+            <!-- Column 1 -->
+            <include
+                android:id="@+id/item_qr_code"
+                layout="@layout/list_item_more_apps"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="12dp"
+                android:layout_marginBottom="20dp"
+                app:layout_columnWeight="1" />
+
+            <!-- Column 2 -->
+            <include
+                android:id="@+id/item_cleaner"
+                layout="@layout/list_item_more_apps"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:layout_marginBottom="20dp"
+                app:layout_columnWeight="1" />
+
+
+            <!-- Column 3 -->
+            <include
+                android:id="@+id/item_recover_messages"
+                layout="@layout/list_item_more_apps"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="12dp"
+                android:layout_marginBottom="20dp"
+                app:layout_columnWeight="1" />
+        </androidx.gridlayout.widget.GridLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>

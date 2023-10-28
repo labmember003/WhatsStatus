@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Nûvekirin qediya</string>
+    <string name="app_update_alert_dialog_subtitle">Ji bo sepandina nûvekirinan sepanê ji nû ve bidin destpêkirin…</string>
+    <string name="help">Alîkarî</string>
+    <string name="cleaner">Dermanê paqijîyê</string>
+    <string name="status_saver">Saver Status</string>
+    <string name="settings">Settings</string>
+    <string name="saved_statuses_appear_here">No Statû Berdest e!</string>
+    <string name="available_statuses">Berdeste</string>
+    <string name="saved_statuses">Saved</string>
+    <string name="enter_message">Peyama Têkeve (Bijarte)</string>
+    <string name="enter_phone_number">Hejmara Telefonê binivîse</string>
+    <string name="send_message">Peyam bişîne</string>
+    <string name="enter_a_phone_number">Hejmarek têlefonê binivîse</string>
+    <string name="direct_link_copied_to_clipboard">Zencîreya rasterast li clipboard hate kopî kirin</string>
+    <string name="premium_unlocked">Sipas ji were. Naha hûn dikarin taybetmendiyên premium bikar bînin</string>
+    <string name="settings_category_title_developer">Developer</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Pirtûkxaneyên Çavkaniya Vekirî</string>
+    <string name="preference_title_application_version">Versiyon ji App</string>
+    <string name="preference_title_contact_us">Paqij bûn</string>
+    <string name="preference_title_privacy_policy">Privacy Policy</string>
+    <string name="preference_title_terms_conditions">Şert Û Şert</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Giştî</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Moda Dark</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Çawa dixebite\?</string>
+    <string name="ok">OK</string>
+    <string name="direct_message_help_ans">Ji kerema xwe nimreya têlefonê ya wergir bi peyama xweya nivîsê re têkevin. Dema ku hûn amade ne ku peyamê bişînin, bi tenê li ser bişkoka \'Send\' bikirtînin. Wekî din, hûn dikarin vebijarka \'Girêdana Rasterast\' jî bikar bînin da ku lînkê kopî bikin û bi wergir re parve bikin. Bi tikandina li ser lînkê, ew dikarin rasterast bi we re sohbet bikin.</string>
+    <string name="click_here_to_grant_required_permissions">Destûra ragihandinê neçalak bike û ji nû ve çalak bike.</string>
+    <string name="please_grant_storage_permissions">Ji kerema xwe destûrên hilanînê bidin</string>
+    <string name="rate_app">Ji kerema xwe sepanê binirxînin!</string>
+    <string name="rate_later">Paşan</string>
+    <string name="rateUs">Ji kerema xwe sepanê li ser Play Store binirxînin</string>
+    <string name="send_feedback">Ji kerema xwe ji me re şîrove bişînin. Em ê hewl bidin ku li ser wê bixebitin!</string>
+    <string name="try_again">Ji kerema xwe dîsa biceribîne</string>
+    <string name="message_copied_to_clipboard">peyam li clipboard hate kopî kirin</string>
+    <string name="system_default">System Default</string>
+    <string name="restart">Restart</string>
+    <string name="light">Sivik</string>
+    <string name="dark">Tarî</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Parve dikin li gel</string>
+    <string name="direct_link">Girêdana rasterast kopî bikin</string>
+    <string name="remove_ads">Reklaman rakin</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Whats Web</string>
+    <string name="recover_messages">Recover Messages</string>
+    <string name="direct_message">Peyama rasterast</string>
+    <string name="title_refresh">Ji nû ve barkirin</string>
+    <string name="whatsapp_not_installed">Whatsapp nayê saz kirin. Ji kerema xwe pêşî Whatsapp saz bikin da ku vê taybetmendiyê bikar bînin.</string>
+    <string name="toggle_keyboard">Veguheztina Klavyeyê</string>
+    <string name="fullscreen">Full Screen</string>
+    <string name="dismiss">Berdan</string>
+    <string name="keyboard_unblocked">Klavyeya astengkirî ye.</string>
+    <string name="keyboard_blocked">Klavyeya tê asteng kirin. Ji bo rakirina blokê îkona klavyeyê bikirtînin.</string>
+    <string name="whats_web_how_it_works">1. Serlêdana Whats Web-ê li ser cîhaza xwe vekin.\n\n2. Whatsapp-ê li ser smartphone din vekin.\n\n* Li ser Android -&gt; Ji ekrana sohbetê, biçin menuya sê xalî ya ku li jorê rastê ya ekranê ye -&gt; Amûrên girêdayî.\n\n* Li ser têlefona pencereyê -&gt; Biçe menuya sê xalî -&gt; Amûrên girêdayî.\n\n* Li ser iPhone -&gt; Herin Mîhengan -&gt; Amûrên girêdayî.\n\n3. Li ser Girêdana amûrek bikirtînin û koda QR ya ku li ser ekrana vê sepana we hatî xuyang kirin ji têlefonek din bişopînin.</string>
+    <string name="retry_sending_voice_message">Ji kerema xwe ji nû ve şandina peyama dengî biceribîne</string>
+    <string name="message_retry_sending_voice_message">Ikona mîkrofonê careke din bikirtînin. Divê wekî ku tê hêvî kirin bixebite.</string>
+    <string name="retry_camera_capture">Ji kerema xwe vebijarka Kamera ji nû ve biceribîne</string>
+    <string name="message_retry_camera_capture">Ikona kamerayê careke din bikirtînin. Divê wekî ku tê hêvî kirin bixebite.</string>
+    <string name="audio_perm_reqd">Destûra dengî hewce ye ku pêşde pêşve biçin.</string>
+    <string name="camera_perm_reqd">Destûra kamerayê hewce ye ku pêşde biçin.</string>
+    <string name="reset_reload">Vesazkirin /Ji nû ve barkirin</string>
+    <string name="reset_only">RESET</string>
+    <string name="reload_only">TENÊ RELOAD</string>
+    <string name="reload_warning">Heke hûn bi pirsgirêkên têketinê re têkildar in, \'Reset\' biceribînin.\nHIŞYARÎ: Ger hûn \'Reset\' bikar bînin dibe ku hûn dîsa têkevinê.</string>
+    <string name="download_file">Daxistina Pelê</string>
+    <string name="couldnt_download_file">Pelê nehat daxistin</string>
+    <string name="storage_perm_reqd">Destûra hilanînê ji bo daxistina pelê hewce ye</string>
+    <string name="purchase_item_not_found">Tişta kirînê nehat dîtin</string>
+    <string name="error">Şaşî</string>
+    <string name="purchase_canceled">Kirîn Betal kirin</string>
+    <string name="pending_purchase">Kirîn li bendê ye. Ji kerema xwe Danûstendinê temam bikin</string>
+    <string name="purchase_status_not_known">Rewşa Kirînê nayê zanîn</string>
+    <string name="enter_file_name">Navekî Pelê binivîse</string>
+    <string name="downloading_file">Daxistina Pelê</string>
+    <string name="enter_valid_file_name">Ji kerema xwe navekî pelê derbasdar binivîse</string>
+    <string name="download_has_finished_message">Daxistin qediya. Ji kerema xwe peldanka Dakêşan kontrol bikin.</string>
+    <string name="could_not_download_file">Pelê nehat daxistin</string>
+    <string name="loading">Barkirin</string>
+    <string name="downloading_update">Daxistina nûvekirinê</string>
+    <string name="update_downloaded_message">Nûvekirinek nû hat daxistin.</string>
+    <string name="keyboard_enable_webview_message">Bişkojka guheztina klavyeyê ya li jorê bikirtînin da ku nivîsandinê çalak bikin</string>
+    <string name="preference_title_bug_report">Rapora Bug</string>
+    <string name="preference_title_report_a_issue">Pirsgirêkek rapor bikin</string>
+    <string name="describe_bug">Ji kerema xwe xeletiyê li vir şirove bikin</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">pelrêça WhatsApp statûyan nahewîne. Ji kerema xwe pelrêça rast hilbijêrin.</string>
+    <string name="please_select_whatsapp_directory">Ji kerema xwe pelrêça WhatsApp hilbijêrin!</string>
+    <string name="download_cleaner">Daxistina Cleaner</string>
+    <string name="download_recover_messages_app">Daxistina Recover Messages App</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Ji bo ku hûn vê taybetmendiyê bikar bînin, hûn hewce ne ku sepanek din ji dikana lîstikê dakêşin. OK bikirtînin da ku firoşgeha lîstikê vekin û sepanê dakêşin.</string>
+    <string name="cancel">Bişûndekirin</string>
+    <string name="ad_space">Cihê reklamê</string>
+    <string name="status">Cî</string>
+    <string name="theme">Mijad</string>
+    <string name="more_apps">Zêdetir Serlêdan</string>
+    <string name="share">Par</string>
+    <string name="send">Şandin</string>
+    <string name="select_country_code_and_number">Koda welat û hejmara hilbijêre</string>
+    <string name="how_it_works">Çawa dixebite</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">App Qr Scanner dakêşin</string>
+    <string name="share_content">Amade bibin ku hûn riya herî bilez biceribînin ku hûn bigihîjin heman hesabê WhatsApp-ê li ser du têlefon an tabletên cûda, hemî belaş! Niha sepanê dakêşin û saz bikin.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

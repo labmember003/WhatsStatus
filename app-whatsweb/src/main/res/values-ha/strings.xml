@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">An kammala sabuntawa</string>
+    <string name="app_update_alert_dialog_subtitle">Sake kunna app ɗin don amfani da sabuntawa…</string>
+    <string name="help">Taimako</string>
+    <string name="cleaner">Mai tsaftacewa</string>
+    <string name="status_saver">Matsayi mai tanadi</string>
+    <string name="settings">Saituna</string>
+    <string name="saved_statuses_appear_here">Babu Matsayi Akwai!</string>
+    <string name="available_statuses">Akwai</string>
+    <string name="saved_statuses">Ajiye</string>
+    <string name="enter_message">Shigar da Saƙo (Na zaɓi)</string>
+    <string name="enter_phone_number">Shigar da Lambar Waya</string>
+    <string name="send_message">Aika Saƙo</string>
+    <string name="enter_a_phone_number">Shigar da lambar waya</string>
+    <string name="direct_link_copied_to_clipboard">An kwafi hanyar haɗin kai kai tsaye zuwa allo</string>
+    <string name="premium_unlocked">Na gode. Yanzu zaku iya amfani da fasalulluka masu ƙima</string>
+    <string name="settings_category_title_developer">Mai haɓakawa</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Buɗe Laburaren Madogararsa</string>
+    <string name="preference_title_application_version">Shafin App</string>
+    <string name="preference_title_contact_us">Tuntube Mu</string>
+    <string name="preference_title_privacy_policy">takardar kebantawa</string>
+    <string name="preference_title_terms_conditions">Sharuɗɗa Da Sharuɗɗa</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Gabaɗaya</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Yanayin duhu</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Ta yaya yake aiki\?</string>
+    <string name="ok">KO</string>
+    <string name="direct_message_help_ans">Da fatan za a shigar da lambar wayar mai karɓa tare da saƙon rubutu. Da zarar kun shirya don aika saƙon, kawai danna maɓallin \'Aika\'. A madadin, zaku iya amfani da zaɓin \'Direct Link\' don kwafi hanyar haɗin kuma raba shi tare da mai karɓa. Ta danna mahaɗin, za su iya yin magana da kai kai tsaye.</string>
+    <string name="click_here_to_grant_required_permissions">Kashe kuma sake kunna izinin sanarwar.</string>
+    <string name="please_grant_storage_permissions">Da fatan za a ba da izinin Ma\'aji</string>
+    <string name="rate_app">Da fatan za a kimanta app!</string>
+    <string name="rate_later">Daga baya</string>
+    <string name="rateUs">Da fatan za a yi rating ɗin app akan Play Store</string>
+    <string name="send_feedback">Da fatan za a aiko mana da ra\'ayi. Za mu yi ƙoƙarin yin aiki a kai!</string>
+    <string name="try_again">Da fatan za a sake gwadawa</string>
+    <string name="message_copied_to_clipboard">an kwafe sako zuwa allo</string>
+    <string name="system_default">Tsoffin tsarin</string>
+    <string name="restart">Sake kunnawa</string>
+    <string name="light">Haske</string>
+    <string name="dark">Duhu</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Raba tare da</string>
+    <string name="direct_link">Kwafi hanyar haɗin kai tsaye</string>
+    <string name="remove_ads">Cire Talla</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Menene Yanar Gizo</string>
+    <string name="recover_messages">Mai da Saƙonni</string>
+    <string name="direct_message">Saƙon Kai tsaye</string>
+    <string name="title_refresh">Sake kaya</string>
+    <string name="whatsapp_not_installed">Ba a shigar da Whatsapp ba. Da fatan za a fara shigar da Whatsapp don amfani da wannan fasalin.</string>
+    <string name="toggle_keyboard">Juya Allon madannai</string>
+    <string name="fullscreen">Cikakken kariya</string>
+    <string name="dismiss">Korar</string>
+    <string name="keyboard_unblocked">An cire katanga allon madannai.</string>
+    <string name="keyboard_blocked">An katange allon madannai. Danna gunkin madannai don buɗewa.</string>
+    <string name="whats_web_how_it_works">1. Bude Whats Web Application akan na\'urarka.\n\n2. Bude whatsapp akan sauran wayoyin hannu.\n\n* A kan Android -&gt; Daga allon tattaunawa, je zuwa menu na dige guda uku da ke saman dama na allo -&gt; Na\'urorin haɗi.\n\n* A wayar Taga -&gt; Je zuwa menu na digo uku -&gt; Na\'urorin haɗi.\n\n* A kan iPhone -&gt; Je zuwa Saituna -&gt; Na\'urorin haɗi.\n\n3. Danna Link a na\'ura kuma duba lambar QR da ke nunawa akan wannan allon app daga wata wayar.</string>
+    <string name="retry_sending_voice_message">Da fatan za a sake gwada aika saƙon murya</string>
+    <string name="message_retry_sending_voice_message">Danna gunkin makirufo sau ɗaya. Ya kamata a yi aiki kamar yadda aka zata.</string>
+    <string name="retry_camera_capture">Da fatan za a sake gwada zaɓin kyamara</string>
+    <string name="message_retry_camera_capture">Latsa alamar kamara sau ɗaya. Ya kamata a yi aiki kamar yadda aka zata.</string>
+    <string name="audio_perm_reqd">Ana buƙatar izinin odiyo don ci gaba gaba.</string>
+    <string name="camera_perm_reqd">Ana buƙatar izinin kyamara don ci gaba gaba.</string>
+    <string name="reset_reload">Sake saiti/Sake kaya</string>
+    <string name="reset_only">Sake saitin</string>
+    <string name="reload_only">SAKE SAUKI KAWAI</string>
+    <string name="reload_warning">Idan kuna fuskantar al\'amurran da suka shafi shiga, gwada \'Sake saitin\'.\nGARGADI: Maiyuwa ka sake shiga idan kayi amfani da \'Sake saitin\'.</string>
+    <string name="download_file">Zazzage Fayil</string>
+    <string name="couldnt_download_file">Ba a iya sauke fayil ɗin ba</string>
+    <string name="storage_perm_reqd">Ana buƙatar izinin ajiya don zazzage fayil</string>
+    <string name="purchase_item_not_found">Ba a iya Samun Abun Siya ba</string>
+    <string name="error">Kuskure</string>
+    <string name="purchase_canceled">An soke siyayya</string>
+    <string name="pending_purchase">Ana jiran sayayya. Da fatan za a kammala Ma\'amala</string>
+    <string name="purchase_status_not_known">Ba a san Matsayin Siyan ba</string>
+    <string name="enter_file_name">Shigar da Sunan Fayil</string>
+    <string name="downloading_file">Zazzage Fayil</string>
+    <string name="enter_valid_file_name">Da fatan za a shigar da ingantaccen sunan fayil</string>
+    <string name="download_has_finished_message">An gama saukewa. Da fatan za a duba babban fayil ɗin Zazzagewa.</string>
+    <string name="could_not_download_file">Ba za a iya sauke fayil ba</string>
+    <string name="loading">Ana lodawa</string>
+    <string name="downloading_update">Ana saukewa</string>
+    <string name="update_downloaded_message">An sauke sabuntawa yanzu.</string>
+    <string name="keyboard_enable_webview_message">Latsa maɓallin maɓallin kewayawa a saman don kunna bugawa</string>
+    <string name="preference_title_bug_report">Rahoton Bug</string>
+    <string name="preference_title_report_a_issue">Bayar da Batu</string>
+    <string name="describe_bug">Da fatan za a kwatanta kwaro a nan</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">Littafin adireshin WhatsApp bai ƙunshi Halaye ba. Da fatan za a zaɓa daidai kundin adireshi.</string>
+    <string name="please_select_whatsapp_directory">Da fatan za a zaɓi kundin adireshi na WhatsApp!</string>
+    <string name="download_cleaner">Zazzage Mai Tsabtatawa</string>
+    <string name="download_recover_messages_app">Zazzage App ɗin Mai da Saƙonni</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Don amfani da wannan fasalin, kuna buƙatar saukar da wani app daga playstore. Danna Ok don buɗe playstore da saukar da app.</string>
+    <string name="cancel">Soke</string>
+    <string name="ad_space">Space Ad</string>
+    <string name="status">Matsayi</string>
+    <string name="theme">Jigo</string>
+    <string name="more_apps">Ƙarin Apps</string>
+    <string name="share">Raba</string>
+    <string name="send">Aika</string>
+    <string name="select_country_code_and_number">Zaɓi lambar ƙasa da lamba</string>
+    <string name="how_it_works">Yadda yake aiki</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Zazzage App na Scanner na Qr</string>
+    <string name="share_content">Yi shiri don sanin hanya mafi sauri don samun damar shiga asusun WhatsApp iri ɗaya akan wayoyi ko kwamfutar hannu daban-daban guda biyu, duk kyauta! Zazzage kuma shigar da app yanzu.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

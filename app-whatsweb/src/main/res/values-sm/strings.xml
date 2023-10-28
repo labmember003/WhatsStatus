@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Ua mae\'a le fa\'afouga</string>
+    <string name="app_update_alert_dialog_subtitle">Toe amata le app e fa\'aoga fa\'afouga...</string>
+    <string name="help">Fesoasoani</string>
+    <string name="cleaner">Fa\'amama</string>
+    <string name="status_saver">Fa\'asao Tulaga</string>
+    <string name="settings">Fa\'atonu</string>
+    <string name="saved_statuses_appear_here">Leai se Tulaga Avanoa!</string>
+    <string name="available_statuses">Avanoa</string>
+    <string name="saved_statuses">Faasaoina</string>
+    <string name="enter_message">Ulufale Feau (Filifili)</string>
+    <string name="enter_phone_number">Ulufale Numera Telefoni</string>
+    <string name="send_message">Auina atu le Feau</string>
+    <string name="enter_a_phone_number">Ulufale se numera telefoni</string>
+    <string name="direct_link_copied_to_clipboard">So\'oga sa\'o kopi i le laupapa kilipa</string>
+    <string name="premium_unlocked">Fa\'afetai. E mafai nei ona e fa\'aogaina mea fa\'apitoa</string>
+    <string name="settings_category_title_developer">Atina\'e</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Open Source Libraries</string>
+    <string name="preference_title_application_version">App Version</string>
+    <string name="preference_title_contact_us">Faafesootai matou</string>
+    <string name="preference_title_privacy_policy">Faiga Fa\'alilolilo</string>
+    <string name="preference_title_terms_conditions">Tulaga ma Tulaga</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">lautele</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Faiga Pogisa</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">E faapefea ona aoga\?</string>
+    <string name="ok">Ua lelei</string>
+    <string name="direct_message_help_ans">Fa\'amolemole fa\'aofi le numera telefoni a le tagata e mauaina fa\'atasi ma lau fe\'au tusitusia. A e sauni loa e lafo le fe\'au, na\'o le kiliki i le \'Send\' button. I le isi itu, e mafai foi ona e fa\'aogaina le \'Direct Link\' filifiliga e kopi ai le so\'otaga ma fa\'asoa atu i le tagata e mauaina. O le kiliki i luga o le so\'oga, e mafai ona latou talanoa sa\'o ma oe.</string>
+    <string name="click_here_to_grant_required_permissions">Fa\'agata ma toe fa\'aaga le fa\'atagaga fa\'ailoa.</string>
+    <string name="please_grant_storage_permissions">Fa\'amolemole tu\'u mai fa\'atagaga mo le teuina</string>
+    <string name="rate_app">Fa\'amolemole fua le app!</string>
+    <string name="rate_later">Mulimuli ane</string>
+    <string name="rateUs">Fa\'amolemole Fa\'ailoga le app ile Play Store</string>
+    <string name="send_feedback">Fa\'amolemole lafo mai ni fa\'amatalaga. O le a matou taumafai e galue i ai!</string>
+    <string name="try_again">Fa\'amolemole toe taumafai</string>
+    <string name="message_copied_to_clipboard">fe\'au na kopi ile laupapa kilipa</string>
+    <string name="system_default">System Default</string>
+    <string name="restart">Toe amata</string>
+    <string name="light">Malamalama</string>
+    <string name="dark">Pogisa</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Faasoa atu i</string>
+    <string name="direct_link">Kopi So\'oga Tu\'usa\'o</string>
+    <string name="remove_ads">Aveese Faasalalauga</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">O le a le Upega Tafa\'ilagi</string>
+    <string name="recover_messages">Toe Laveai Feau</string>
+    <string name="direct_message">Feau tuusao</string>
+    <string name="title_refresh">Toe utaina</string>
+    <string name="whatsapp_not_installed">E leʻi faʻapipiʻiina Whatsapp. Fa\'amolemole fa\'apipi\'i muamua le Whatsapp e fa\'aoga ai lea vaega.</string>
+    <string name="toggle_keyboard">Su\'e le Keyboard</string>
+    <string name="fullscreen">Ata atoa</string>
+    <string name="dismiss">Fa\'ate\'a</string>
+    <string name="keyboard_unblocked">Ua tatalaina le papa keyboard.</string>
+    <string name="keyboard_blocked">Ua poloka le keyboard. Oomi le icon keyboard e tatala ai le poloka.</string>
+    <string name="whats_web_how_it_works">1. Tatala Whats Web application i lau masini.\n\n2. Tatala whatsapp i luga o isi telefonipoto.\n\n* I luga o le Android -&gt; Mai le mata o talatalanoaga, alu i le lisi togi tolu o loʻo i le pito i luga taumatau o le mata -&gt; Mea faʻapipiʻi.\n\n* I luga ole Telefoni Fa\'amalama -&gt; Alu ile lisi fa\'ailoga tolu -&gt; Masini feso\'ota\'i.\n\n* I luga o le iPhone -&gt; Alu ile Faʻatonu -&gt; Faʻafesoʻotaʻi masini.\n\n3. Oomi i luga Feso\'ota\'i se masini ma su\'esu\'e le QR Code o lo\'o fa\'aalia i luga o lau lau app lea mai isi telefoni.</string>
+    <string name="retry_sending_voice_message">Fa\'amolemole toe taumafai e lafo le fe\'au leo</string>
+    <string name="message_retry_sending_voice_message">Toe oomi tasi le ata faaleotele leo. E tatau ona galue e pei ona faamoemoeina.</string>
+    <string name="retry_camera_capture">Fa\'amolemole toe taumafai mea pu\'eata</string>
+    <string name="message_retry_camera_capture">Toe oomi tasi le meapueata. E tatau ona galue e pei ona faamoemoeina.</string>
+    <string name="audio_perm_reqd">E mana\'omia le fa\'atagaga o leo e aga\'i ai i luma.</string>
+    <string name="camera_perm_reqd">E mana\'omia le fa\'atagaga o meapueata e aga\'i ai i luma.</string>
+    <string name="reset_reload">Toe seti/Toe uta</string>
+    <string name="reset_only">TOE FAI</string>
+    <string name="reload_only">NA\'O LE TOE FA\'ATUA</string>
+    <string name="reload_warning">Afai o lo\'o e feagai ma fa\'afitauli e feso\'ota\'i ma le saini, taumafai \'Reset\'.\nLAPATA\'IGA: Atonu e te toe saini pe a e fa\'aogaina le \'Reset\'.</string>
+    <string name="download_file">La\'uina faila</string>
+    <string name="couldnt_download_file">Ua le mafai ona la\'uina i lalo le faila</string>
+    <string name="storage_perm_reqd">Manaomia le faatagaga e teu ai e la\'u mai ai le faila</string>
+    <string name="purchase_item_not_found">Le Fa\'atauga Mea e le mafai ona Maua</string>
+    <string name="error">Sese</string>
+    <string name="purchase_canceled">Fa\'atauga Fa\'aleaogaina</string>
+    <string name="pending_purchase">Fa\'atauga o lo\'o fa\'atali. Fa\'amolemole fa\'auma le Fefa\'ataua\'iga</string>
+    <string name="purchase_status_not_known">E le o iloa le Tulaga Fa\'atau</string>
+    <string name="enter_file_name">Ulufale i se igoa faila</string>
+    <string name="downloading_file">La\'uina o le faila</string>
+    <string name="enter_valid_file_name">Fa\'amolemole tu\'u se igoa faila aoga</string>
+    <string name="download_has_finished_message">Ua uma le download. Fa\'amolemole siaki le faila o le Downloads.</string>
+    <string name="could_not_download_file">Le mafai ona la\'u mai le faila</string>
+    <string name="loading">utaina</string>
+    <string name="downloading_update">La\'uina fa\'afouga</string>
+    <string name="update_downloaded_message">Fa\'atoa la\'uina mai se fa\'afouga.</string>
+    <string name="keyboard_enable_webview_message">Oomi le ki kiki ki keyboard i luga e mafai ai ona taina</string>
+    <string name="preference_title_bug_report">Lipoti o Bug</string>
+    <string name="preference_title_report_a_issue">Lipoti se Mataupu</string>
+    <string name="describe_bug">Fa\'amolemole fa\'amatala le bug iinei</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">WhatsApp directory e le o iai ni Tulaga. Fa\'amolemole filifili le lisi sa\'o.</string>
+    <string name="please_select_whatsapp_directory">Fa\'amolemole filifili WhatsApp directory!</string>
+    <string name="download_cleaner">Download Cleaner</string>
+    <string name="download_recover_messages_app">La\'u mai le Recover Messages App</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Ina ia faʻaogaina lenei faʻaoga, e tatau ona e sii maia se isi app mai le faleoloa taʻaloga. Kiliki OK e tatala ai le faletaalo ma la\'u mai ai le app.</string>
+    <string name="cancel">Fa\'aleaogaina</string>
+    <string name="ad_space">Avanoa Fa\'asalalauga</string>
+    <string name="status">Tulaga</string>
+    <string name="theme">Autu</string>
+    <string name="more_apps">Tele Apps</string>
+    <string name="share">Faasoa</string>
+    <string name="send">Auina atu</string>
+    <string name="select_country_code_and_number">Filifili le numera o le atunuu ma le numera</string>
+    <string name="how_it_works">E faapefea ona galue</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">La\'u mai le Qr Scanner App</string>
+    <string name="share_content">Sauni e iloa le auala sili ona vave e maua ai le tala WhatsApp tutusa i luga o telefoni feaveaʻi e lua poʻo papa, e leai se totogi! La\'u mai ma fa\'apipi\'i le app nei.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

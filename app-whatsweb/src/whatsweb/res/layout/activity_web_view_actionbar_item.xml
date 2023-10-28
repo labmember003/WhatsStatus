@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+        <data>
+                <variable name="iconText" type="java.lang.String"/>
+                <variable name="iconDrawable" type="android.graphics.drawable.Drawable"/>
+                <variable name="isActive" type="java.lang.Boolean"/>
+        </data>
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/cvWhatsWeb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            tools:background="@color/colorPrimary">
+
+                <FrameLayout
+                    android:id="@+id/circle"
+                    style="@style/AppTheme.ItemSelector"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    android:backgroundTint="@color/colorPrimaryDarkNotDarkMode"
+                    android:foreground="@{isActive ? @drawable/circular_item_background_selector_active : @drawable/circular_item_background_selector}"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"/>
+
+                <ImageView
+                    android:id="@+id/ivWhatsWeb"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    app:layout_constraintEnd_toEndOf="@id/circle"
+                    app:layout_constraintStart_toStartOf="@id/circle"
+                    app:layout_constraintTop_toTopOf="@id/circle"
+                    app:layout_constraintBottom_toBottomOf="@id/circle"
+                    android:padding="10dp"
+                    android:src="@{iconDrawable}"
+                    tools:src="@drawable/ic_reload"
+                    app:tint="@color/white"
+                    android:backgroundTint="@color/colorPrimaryDark"
+                    android:clickable="false"/>
+
+                <TextView
+                    android:id="@+id/tvWhatsWeb"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="6dp"
+                    android:layout_marginBottom="6dp"
+                    android:fontFamily="sans-serif-medium"
+                    android:gravity="center"
+                    android:text="@{iconText}"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/text_size_small"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/ivWhatsWeb"
+                    tools:text="sdf" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

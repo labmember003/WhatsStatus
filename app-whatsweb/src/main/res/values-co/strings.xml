@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">L\'aghjurnamentu hè cumpletu</string>
+    <string name="app_update_alert_dialog_subtitle">Riavvia l\'app per applicà l\'aghjurnamenti...</string>
+    <string name="help">Aiutu</string>
+    <string name="cleaner">Cleaner</string>
+    <string name="status_saver">Status Saver</string>
+    <string name="settings">Settings</string>
+    <string name="saved_statuses_appear_here">Nisun Status Disponibile!</string>
+    <string name="available_statuses">Disponibile</string>
+    <string name="saved_statuses">Salvatu</string>
+    <string name="enter_message">Entre u messagiu (opcional)</string>
+    <string name="enter_phone_number">Inserite u numeru di telefunu</string>
+    <string name="send_message">Mandate Missaghju</string>
+    <string name="enter_a_phone_number">Inserite un numeru di telefunu</string>
+    <string name="direct_link_copied_to_clipboard">Ligame direttu copiatu in u clipboard</string>
+    <string name="premium_unlocked">Grazie. Pudete avà aduprà funzioni premium</string>
+    <string name="settings_category_title_developer">Sviluppatore</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Biblioteche Open Source</string>
+    <string name="preference_title_application_version">Versione di l\'app</string>
+    <string name="preference_title_contact_us">Cuntatta ci</string>
+    <string name="preference_title_privacy_policy">Pulitica di privacy</string>
+    <string name="preference_title_terms_conditions">Termini è Cundizioni</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Generale</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Modu scuru</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Cumu funziona\?</string>
+    <string name="ok">OK</string>
+    <string name="direct_message_help_ans">Per piacè inserite u numeru di telefunu di u destinatariu cù u vostru missaghju di testu. Una volta vi sò pronti à mandà u missaghju, simpricimenti cliccate nant\'à u buttone \'Send\'. In alternativa, pudete puru aduprà l\'opzione \"Ligame direttu\" per copià u ligame è sparte cù u destinatariu. Cliccà nant\'à u ligame, ponu chatte cun voi direttamente.</string>
+    <string name="click_here_to_grant_required_permissions">Disattivate è riattivate u permessu di notificazione.</string>
+    <string name="please_grant_storage_permissions">Per piacè cuncede permessi di Storage</string>
+    <string name="rate_app">Per piacè valutate l\'app!</string>
+    <string name="rate_later">Più tardi</string>
+    <string name="rateUs">Per piacè valutate l\'app in Play Store</string>
+    <string name="send_feedback">Per piacè mandateci feedback. Pruvaremu di travaglià nantu à questu !</string>
+    <string name="try_again">Per piacè pruvate di novu</string>
+    <string name="message_copied_to_clipboard">messagiu copiatu in u clipboard</string>
+    <string name="system_default">Sistema Default</string>
+    <string name="restart">Riavvia</string>
+    <string name="light">Luce</string>
+    <string name="dark">Scuru</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Condividi cun</string>
+    <string name="direct_link">Copia u ligame direttu</string>
+    <string name="remove_ads">Eliminate l\'annunzii</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Cosa hè Web</string>
+    <string name="recover_messages">Recupera missaghji</string>
+    <string name="direct_message">Missaghju direttu</string>
+    <string name="title_refresh">Ricaricate</string>
+    <string name="whatsapp_not_installed">Whatsapp ùn hè micca stallatu. Per piacè prima installate Whatsapp per aduprà sta funzione.</string>
+    <string name="toggle_keyboard">Toggle Tastiera</string>
+    <string name="fullscreen">Pantalla piena</string>
+    <string name="dismiss">Licenziate</string>
+    <string name="keyboard_unblocked">A tastiera hè sbloccata.</string>
+    <string name="keyboard_blocked">U teclatu hè bluccatu. Pulse l\'icona di u teclatu per sbloccare.</string>
+    <string name="whats_web_how_it_works">1. Open Whats dumanda Web nant\'à u vostru dispusitivu.\n\n2. Open whatsapp nant\'à un altru smartphone.\n\n* In Android -&gt; Da a pantalla di chat, vai à u menu di trè punti situatu in cima à a destra di u screnu -&gt; Dispositivi cunnessi.\n\n* In u telefuninu Windows -&gt; Vai à u menu di trè punti -&gt; Dispositivi cunnessi.\n\n* In iPhone -&gt; Vai à Settings -&gt; Dispositivi ligate.\n\n3. Tap nant\'à Link un dispusitivu è scanning u codice QR mustratu nant\'à u vostru schermu stu \'app da altru telefonu.</string>
+    <string name="retry_sending_voice_message">Per piacè riprova à mandà un missaghju vocale</string>
+    <string name="message_retry_sending_voice_message">Pulse l\'icona di u microfonu una volta di più. Si deve esse travagliatu cum\'è previstu.</string>
+    <string name="retry_camera_capture">Per piacè riprova l\'opzione Camera</string>
+    <string name="message_retry_camera_capture">Premete l\'icona di a camera una volta di più. Si deve esse travagliatu cum\'è previstu.</string>
+    <string name="audio_perm_reqd">L\'autorizazione audio hè necessaria per avanzà avanti.</string>
+    <string name="camera_perm_reqd">U permessu di a camera hè necessariu per avanzà.</string>
+    <string name="reset_reload">Reset /Reload</string>
+    <string name="reset_only">RESET</string>
+    <string name="reload_only">RELOAD SOLAMENTE</string>
+    <string name="reload_warning">Sè vo avete prublemi ligati à u login, pruvate \"Reset\".\nATTENZIONE: Puderete avè da login di novu se utilizate \'Reset\'.</string>
+    <string name="download_file">Scaricamentu di u File</string>
+    <string name="couldnt_download_file">U schedariu ùn pò esse scaricatu</string>
+    <string name="storage_perm_reqd">Permissione di almacenamiento necessaria per scaricà u schedariu</string>
+    <string name="purchase_item_not_found">L\'articulu di compra ùn si pò truvà</string>
+    <string name="error">Errore</string>
+    <string name="purchase_canceled">Acquistu annullatu</string>
+    <string name="pending_purchase">A compra hè in attesa. Per piacè compie a transazzione</string>
+    <string name="purchase_status_not_known">U Status di Compra ùn hè micca cunnisciutu</string>
+    <string name="enter_file_name">Inserite un Nome di File</string>
+    <string name="downloading_file">Scaricatu u File</string>
+    <string name="enter_valid_file_name">Per piacè inserite un nome di file validu</string>
+    <string name="download_has_finished_message">U scaricamentu hè finitu. Per piacè verificate u cartulare Downloads.</string>
+    <string name="could_not_download_file">Ùn pudia micca scaricà File</string>
+    <string name="loading">Carica</string>
+    <string name="downloading_update">Scaricamentu di l\'aghjurnamentu</string>
+    <string name="update_downloaded_message">Una aghjurnazione hè stata appena scaricata.</string>
+    <string name="keyboard_enable_webview_message">Pulsà u buttone di basculazione di u teclatu in cima per attivà a scrittura</string>
+    <string name="preference_title_bug_report">Rapportu di bug</string>
+    <string name="preference_title_report_a_issue">Segnala un prublema</string>
+    <string name="describe_bug">Per piacè descrivi u bug quì</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">L\'annuariu WhatsApp ùn cuntene micca Status. Per piacè selezziunate u cartulare currettu.</string>
+    <string name="please_select_whatsapp_directory">Per piacè selezziunate l\'annuariu WhatsApp!</string>
+    <string name="download_cleaner">Scaricate Cleaner</string>
+    <string name="download_recover_messages_app">Scaricate l\'app Recover Messages</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Per utilizà sta funzione, avete bisognu di scaricà un\'altra app da Play Store. Cliccate OK per apre u Play Store è scaricate l\'app.</string>
+    <string name="cancel">Cancella</string>
+    <string name="ad_space">Ad Space</string>
+    <string name="status">Status</string>
+    <string name="theme">Tema</string>
+    <string name="more_apps">Più Apps</string>
+    <string name="share">sparte</string>
+    <string name="send">Mandate</string>
+    <string name="select_country_code_and_number">Sceglie u codice di u paese è u numeru</string>
+    <string name="how_it_works">Cumu travaglia</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Scaricate l\'app Qr Scanner</string>
+    <string name="share_content">Preparate à sperimentà u modu più veloce per accede à u stessu contu WhatsApp nantu à dui smartphones o tablette sfarenti, tuttu gratuitamente! Scaricate è installate l\'app avà.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

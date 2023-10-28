@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">ਅੱਪਡੇਟ ਪੂਰਾ ਹੋ ਗਿਆ ਹੈ</string>
+    <string name="app_update_alert_dialog_subtitle">ਅੱਪਡੇਟ ਲਾਗੂ ਕਰਨ ਲਈ ਐਪ ਨੂੰ ਰੀਸਟਾਰਟ ਕਰੋ...</string>
+    <string name="help">ਮਦਦ ਕਰੋ</string>
+    <string name="cleaner">ਕਲੀਨਰ</string>
+    <string name="status_saver">ਸਥਿਤੀ ਸੇਵਰ</string>
+    <string name="settings">ਸੈਟਿੰਗਾਂ</string>
+    <string name="saved_statuses_appear_here">ਕੋਈ ਸਥਿਤੀ ਉਪਲਬਧ ਨਹੀਂ ਹੈ!</string>
+    <string name="available_statuses">ਉਪਲੱਬਧ</string>
+    <string name="saved_statuses">ਸੰਭਾਲੀ ਗਈ</string>
+    <string name="enter_message">ਸੁਨੇਹਾ ਦਾਖਲ ਕਰੋ (ਵਿਕਲਪਿਕ)</string>
+    <string name="enter_phone_number">ਫ਼ੋਨ ਨੰਬਰ ਦਰਜ ਕਰੋ</string>
+    <string name="send_message">ਸੁਨੇਹਾ ਭੇਜੋ</string>
+    <string name="enter_a_phone_number">ਇੱਕ ਫ਼ੋਨ ਨੰਬਰ ਦਾਖਲ ਕਰੋ</string>
+    <string name="direct_link_copied_to_clipboard">ਸਿੱਧਾ ਲਿੰਕ ਕਲਿੱਪਬੋਰਡ \'ਤੇ ਕਾਪੀ ਕੀਤਾ ਗਿਆ</string>
+    <string name="premium_unlocked">ਤੁਹਾਡਾ ਧੰਨਵਾਦ. ਤੁਸੀਂ ਹੁਣ ਪ੍ਰੀਮੀਅਮ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਦੀ ਵਰਤੋਂ ਕਰ ਸਕਦੇ ਹੋ</string>
+    <string name="settings_category_title_developer">ਵਿਕਾਸਕਾਰ</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">ਓਪਨ ਸੋਰਸ ਲਾਇਬ੍ਰੇਰੀਆਂ</string>
+    <string name="preference_title_application_version">ਐਪ ਸੰਸਕਰਣ</string>
+    <string name="preference_title_contact_us">ਸਾਡੇ ਨਾਲ ਸੰਪਰਕ ਕਰੋ</string>
+    <string name="preference_title_privacy_policy">ਪਰਾਈਵੇਟ ਨੀਤੀ</string>
+    <string name="preference_title_terms_conditions">ਨਿਬੰਧਨ ਅਤੇ ਸ਼ਰਤਾਂ</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">ਜਨਰਲ</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">ਡਾਰਕ ਮੋਡ</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">ਕਿਦਾ ਚਲਦਾ\?</string>
+    <string name="ok">ਠੀਕ ਹੈ</string>
+    <string name="direct_message_help_ans">ਕਿਰਪਾ ਕਰਕੇ ਆਪਣੇ ਟੈਕਸਟ ਸੁਨੇਹੇ ਦੇ ਨਾਲ ਪ੍ਰਾਪਤਕਰਤਾ ਦਾ ਫ਼ੋਨ ਨੰਬਰ ਇਨਪੁਟ ਕਰੋ। ਇੱਕ ਵਾਰ ਜਦੋਂ ਤੁਸੀਂ ਸੁਨੇਹਾ ਭੇਜਣ ਲਈ ਤਿਆਰ ਹੋ ਜਾਂਦੇ ਹੋ, ਤਾਂ ਬਸ \'ਭੇਜੋ\' ਬਟਨ \'ਤੇ ਕਲਿੱਕ ਕਰੋ। ਵਿਕਲਪਕ ਤੌਰ \'ਤੇ, ਤੁਸੀਂ ਲਿੰਕ ਨੂੰ ਕਾਪੀ ਕਰਨ ਅਤੇ ਪ੍ਰਾਪਤਕਰਤਾ ਨਾਲ ਸਾਂਝਾ ਕਰਨ ਲਈ \'ਡਾਇਰੈਕਟ ਲਿੰਕ\' ਵਿਕਲਪ ਦੀ ਵਰਤੋਂ ਵੀ ਕਰ ਸਕਦੇ ਹੋ। ਲਿੰਕ \'ਤੇ ਕਲਿੱਕ ਕਰਕੇ, ਉਹ ਸਿੱਧੇ ਤੁਹਾਡੇ ਨਾਲ ਗੱਲਬਾਤ ਕਰ ਸਕਦੇ ਹਨ।</string>
+    <string name="click_here_to_grant_required_permissions">ਸੂਚਨਾ ਅਨੁਮਤੀ ਨੂੰ ਅਸਮਰੱਥ ਅਤੇ ਮੁੜ-ਯੋਗ ਬਣਾਓ।</string>
+    <string name="please_grant_storage_permissions">ਕਿਰਪਾ ਕਰਕੇ ਸਟੋਰੇਜ ਅਨੁਮਤੀਆਂ ਦਿਓ</string>
+    <string name="rate_app">ਕਿਰਪਾ ਕਰਕੇ ਐਪ ਨੂੰ ਦਰਜਾ ਦਿਓ!</string>
+    <string name="rate_later">ਬਾਅਦ ਵਿੱਚ</string>
+    <string name="rateUs">ਕਿਰਪਾ ਕਰਕੇ ਪਲੇ ਸਟੋਰ \'ਤੇ ਐਪ ਨੂੰ ਰੇਟ ਕਰੋ</string>
+    <string name="send_feedback">ਕਿਰਪਾ ਕਰਕੇ ਸਾਨੂੰ ਫੀਡਬੈਕ ਭੇਜੋ। ਅਸੀਂ ਇਸ \'ਤੇ ਕੰਮ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਾਂਗੇ!</string>
+    <string name="try_again">ਮੁੜ ਕੋਸ਼ਿਸ ਕਰੋ ਜੀ</string>
+    <string name="message_copied_to_clipboard">ਸੁਨੇਹਾ ਕਲਿੱਪਬੋਰਡ \'ਤੇ ਕਾਪੀ ਕੀਤਾ ਗਿਆ</string>
+    <string name="system_default">ਸਿਸਟਮ ਡਿਫੌਲਟ</string>
+    <string name="restart">ਰੀਸਟਾਰਟ ਕਰੋ</string>
+    <string name="light">ਚਾਨਣ</string>
+    <string name="dark">ਹਨੇਰ</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">ਨਾਲ ਸਾਂਝਾ ਕਰੋ</string>
+    <string name="direct_link">ਡਾਇਰੈਕਟ ਲਿੰਕ ਕਾਪੀ ਕਰੋ</string>
+    <string name="remove_ads">ਵਿਗਿਆਪਨ ਹਟਾਓ</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">ਕੀ ਵੈੱਬ</string>
+    <string name="recover_messages">ਸੁਨੇਹੇ ਮੁੜ ਪ੍ਰਾਪਤ ਕਰੋ</string>
+    <string name="direct_message">ਸਿੱਧਾ ਸੁਨੇਹਾ</string>
+    <string name="title_refresh">ਰੀਲੋਡ ਕਰੋ</string>
+    <string name="whatsapp_not_installed">Whatsapp ਇੰਸਟਾਲ ਨਹੀਂ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਇਸ ਫੀਚਰ ਦੀ ਵਰਤੋਂ ਕਰਨ ਲਈ ਪਹਿਲਾਂ Whatsapp ਨੂੰ ਇੰਸਟਾਲ ਕਰੋ।</string>
+    <string name="toggle_keyboard">ਕੀਬੋਰਡ ਟੌਗਲ ਕਰੋ</string>
+    <string name="fullscreen">ਪੂਰਾ ਸਕਰੀਨ</string>
+    <string name="dismiss">ਖਾਰਜ ਕਰੋ</string>
+    <string name="keyboard_unblocked">ਕੀਬੋਰਡ ਅਨਬਲੌਕ ਕੀਤਾ ਗਿਆ ਹੈ।</string>
+    <string name="keyboard_blocked">ਕੀਬੋਰਡ ਬਲੌਕ ਹੈ। ਅਨਬਲੌਕ ਕਰਨ ਲਈ ਕੀਬੋਰਡ ਆਈਕਨ ਦਬਾਓ।</string>
+    <string name="whats_web_how_it_works">1. ਆਪਣੀ ਡਿਵਾਈਸ \'ਤੇ Whats ਵੈੱਬ ਐਪਲੀਕੇਸ਼ਨ ਖੋਲ੍ਹੋ।\n\n2. ਦੂਜੇ ਸਮਾਰਟਫੋਨ \'ਤੇ whatsapp ਖੋਲ੍ਹੋ।\n\n* ਐਂਡਰੌਇਡ \'ਤੇ -&gt; ਚੈਟਸ ਸਕ੍ਰੀਨ ਤੋਂ, ਸਕ੍ਰੀਨ ਦੇ ਉੱਪਰ ਸੱਜੇ ਪਾਸੇ ਸਥਿਤ ਤਿੰਨ ਬਿੰਦੂ ਮੀਨੂ -&gt; ਲਿੰਕਡ ਡਿਵਾਈਸਾਂ \'ਤੇ ਜਾਓ।\n\n* ਵਿੰਡੋ ਫੋਨ \'ਤੇ -&gt; ਥ੍ਰੀ ਡਾਟ ਮੀਨੂ -&gt; ਲਿੰਕਡ ਡਿਵਾਈਸਾਂ \'ਤੇ ਜਾਓ।\n\n* ਆਈਫੋਨ \'ਤੇ -&gt; ਸੈਟਿੰਗਾਂ -&gt; ਲਿੰਕਡ ਡਿਵਾਈਸਾਂ \'ਤੇ ਜਾਓ।\n\n3. ਕਿਸੇ ਡਿਵਾਈਸ ਨੂੰ ਲਿੰਕ ਕਰੋ \'ਤੇ ਟੈਪ ਕਰੋ ਅਤੇ ਦੂਜੇ ਫੋਨ ਤੋਂ ਤੁਹਾਡੀ ਇਸ ਐਪ ਸਕ੍ਰੀਨ \'ਤੇ ਪ੍ਰਦਰਸ਼ਿਤ QR ਕੋਡ ਨੂੰ ਸਕੈਨ ਕਰੋ।</string>
+    <string name="retry_sending_voice_message">ਕਿਰਪਾ ਕਰਕੇ ਵੌਇਸ ਸੁਨੇਹਾ ਭੇਜਣ ਦੀ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
+    <string name="message_retry_sending_voice_message">ਮਾਈਕ੍ਰੋਫ਼ੋਨ ਆਈਕਨ ਨੂੰ ਇੱਕ ਵਾਰ ਫਿਰ ਦਬਾਓ। ਇਹ ਉਮੀਦ ਅਨੁਸਾਰ ਕੰਮ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ.</string>
+    <string name="retry_camera_capture">ਕਿਰਪਾ ਕਰਕੇ ਕੈਮਰਾ ਵਿਕਲਪ ਦੀ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
+    <string name="message_retry_camera_capture">ਕੈਮਰਾ ਆਈਕਨ ਨੂੰ ਇੱਕ ਵਾਰ ਫਿਰ ਦਬਾਓ। ਇਹ ਉਮੀਦ ਅਨੁਸਾਰ ਕੰਮ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ.</string>
+    <string name="audio_perm_reqd">ਅੱਗੇ ਵਧਣ ਲਈ ਆਡੀਓ ਅਨੁਮਤੀ ਦੀ ਲੋੜ ਹੈ।</string>
+    <string name="camera_perm_reqd">ਅੱਗੇ ਵਧਣ ਲਈ ਕੈਮਰੇ ਦੀ ਇਜਾਜ਼ਤ ਦੀ ਲੋੜ ਹੈ।</string>
+    <string name="reset_reload">ਰੀਸੈਟ/ਰੀਲੋਡ ਕਰੋ</string>
+    <string name="reset_only">ਰੀਸੈਟ ਕਰੋ</string>
+    <string name="reload_only">ਸਿਰਫ਼ ਰੀਲੋਡ ਕਰੋ</string>
+    <string name="reload_warning">ਜੇਕਰ ਤੁਸੀਂ ਲੌਗਇਨ ਨਾਲ ਸਬੰਧਤ ਸਮੱਸਿਆਵਾਂ ਦਾ ਸਾਹਮਣਾ ਕਰ ਰਹੇ ਹੋ, ਤਾਂ \'ਰੀਸੈੱਟ\' ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।\nਚੇਤਾਵਨੀ: ਜੇਕਰ ਤੁਸੀਂ \'ਰੀਸੈਟ\' ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਹੋ ਤਾਂ ਤੁਹਾਨੂੰ ਦੁਬਾਰਾ ਲੌਗਇਨ ਕਰਨਾ ਪੈ ਸਕਦਾ ਹੈ।</string>
+    <string name="download_file">ਫ਼ਾਈਲ ਡਾਊਨਲੋਡ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ</string>
+    <string name="couldnt_download_file">ਫ਼ਾਈਲ ਡਾਊਨਲੋਡ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕੀ</string>
+    <string name="storage_perm_reqd">ਫ਼ਾਈਲ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰਨ ਲਈ ਸਟੋਰੇਜ ਇਜਾਜ਼ਤ ਦੀ ਲੋੜ ਹੈ</string>
+    <string name="purchase_item_not_found">ਖਰੀਦ ਆਈਟਮ ਨਹੀਂ ਲੱਭੀ ਜਾ ਸਕੀ</string>
+    <string name="error">ਗਲਤੀ</string>
+    <string name="purchase_canceled">ਖਰੀਦ ਰੱਦ ਕੀਤੀ ਗਈ</string>
+    <string name="pending_purchase">ਖਰੀਦ ਬਾਕੀ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਲੈਣ-ਦੇਣ ਨੂੰ ਪੂਰਾ ਕਰੋ</string>
+    <string name="purchase_status_not_known">ਖਰੀਦ ਸਥਿਤੀ ਦਾ ਪਤਾ ਨਹੀਂ ਹੈ</string>
+    <string name="enter_file_name">ਇੱਕ ਫਾਈਲ ਨਾਮ ਦਰਜ ਕਰੋ</string>
+    <string name="downloading_file">ਫਾਈਲ ਡਾਊਨਲੋਡ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ</string>
+    <string name="enter_valid_file_name">ਕਿਰਪਾ ਕਰਕੇ ਇੱਕ ਵੈਧ ਫਾਈਲ ਨਾਮ ਦਾਖਲ ਕਰੋ</string>
+    <string name="download_has_finished_message">ਡਾਊਨਲੋਡ ਪੂਰਾ ਹੋ ਗਿਆ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਡਾਊਨਲੋਡ ਫੋਲਡਰ ਦੀ ਜਾਂਚ ਕਰੋ।</string>
+    <string name="could_not_download_file">ਫ਼ਾਈਲ ਡਾਊਨਲੋਡ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕੀ</string>
+    <string name="loading">ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ</string>
+    <string name="downloading_update">ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ</string>
+    <string name="update_downloaded_message">ਇੱਕ ਅੱਪਡੇਟ ਹੁਣੇ ਡਾਊਨਲੋਡ ਕੀਤਾ ਗਿਆ ਹੈ।</string>
+    <string name="keyboard_enable_webview_message">ਟਾਈਪਿੰਗ ਨੂੰ ਸਮਰੱਥ ਬਣਾਉਣ ਲਈ ਸਿਖਰ \'ਤੇ ਟੌਗਲ ਕੀਬੋਰਡ ਬਟਨ ਨੂੰ ਦਬਾਓ</string>
+    <string name="preference_title_bug_report">ਬੱਗ ਰਿਪੋਰਟ</string>
+    <string name="preference_title_report_a_issue">ਕਿਸੇ ਮੁੱਦੇ ਦੀ ਰਿਪੋਰਟ ਕਰੋ</string>
+    <string name="describe_bug">ਕਿਰਪਾ ਕਰਕੇ ਇੱਥੇ ਬੱਗ ਦਾ ਵਰਣਨ ਕਰੋ</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">WhatsApp ਡਾਇਰੈਕਟਰੀ ਵਿੱਚ ਸਟੇਟਸ ਸ਼ਾਮਲ ਨਹੀਂ ਹਨ। ਕਿਰਪਾ ਕਰਕੇ ਸਹੀ ਡਾਇਰੈਕਟਰੀ ਚੁਣੋ।</string>
+    <string name="please_select_whatsapp_directory">ਕਿਰਪਾ ਕਰਕੇ WhatsApp ਡਾਇਰੈਕਟਰੀ ਚੁਣੋ!</string>
+    <string name="download_cleaner">ਕਲੀਨਰ ਡਾਊਨਲੋਡ ਕਰੋ</string>
+    <string name="download_recover_messages_app">ਰਿਕਵਰ ਮੈਸੇਜ ਐਪ ਡਾਊਨਲੋਡ ਕਰੋ</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">ਇਸ ਵਿਸ਼ੇਸ਼ਤਾ ਦੀ ਵਰਤੋਂ ਕਰਨ ਲਈ, ਤੁਹਾਨੂੰ ਪਲੇ ਸਟੋਰ ਤੋਂ ਕੋਈ ਹੋਰ ਐਪ ਡਾਊਨਲੋਡ ਕਰਨ ਦੀ ਲੋੜ ਹੈ। ਪਲੇ ਸਟੋਰ ਖੋਲ੍ਹਣ ਅਤੇ ਐਪ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰਨ ਲਈ ਓਕੇ \'ਤੇ ਕਲਿੱਕ ਕਰੋ।</string>
+    <string name="cancel">ਰੱਦ ਕਰੋ</string>
+    <string name="ad_space">ਵਿਗਿਆਪਨ ਸਪੇਸ</string>
+    <string name="status">ਸਥਿਤੀ</string>
+    <string name="theme">ਥੀਮ</string>
+    <string name="more_apps">ਹੋਰ ਐਪਾਂ</string>
+    <string name="share">ਸ਼ੇਅਰ ਕਰੋ</string>
+    <string name="send">ਭੇਜੋ</string>
+    <string name="select_country_code_and_number">ਦੇਸ਼ ਦਾ ਕੋਡ ਅਤੇ ਨੰਬਰ ਚੁਣੋ</string>
+    <string name="how_it_works">ਕਿਦਾ ਚਲਦਾ</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Qr ਸਕੈਨਰ ਐਪ ਡਾਊਨਲੋਡ ਕਰੋ</string>
+    <string name="share_content">ਦੋ ਵੱਖ-ਵੱਖ ਸਮਾਰਟਫ਼ੋਨਾਂ ਜਾਂ ਟੈਬਲੇਟਾਂ \'ਤੇ ਇੱਕੋ WhatsApp ਖਾਤੇ ਤੱਕ ਪਹੁੰਚ ਕਰਨ ਦੇ ਸਭ ਤੋਂ ਤੇਜ਼ ਤਰੀਕੇ ਦਾ ਅਨੁਭਵ ਕਰਨ ਲਈ ਤਿਆਰ ਹੋ ਜਾਓ, ਇਹ ਸਭ ਮੁਫ਼ਤ ਵਿੱਚ! ਹੁਣੇ ਐਪ ਨੂੰ ਡਾਊਨਲੋਡ ਅਤੇ ਸਥਾਪਿਤ ਕਰੋ।</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

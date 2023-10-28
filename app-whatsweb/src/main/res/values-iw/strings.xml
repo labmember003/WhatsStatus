@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">העדכון הושלם</string>
+    <string name="app_update_alert_dialog_subtitle">הפעל מחדש את האפליקציה כדי להחיל עדכונים...</string>
+    <string name="help">עֶזרָה</string>
+    <string name="cleaner">מְנַקֶה</string>
+    <string name="status_saver">שומר מצב</string>
+    <string name="settings">הגדרות</string>
+    <string name="saved_statuses_appear_here">אין סטטוס זמין!</string>
+    <string name="available_statuses">זמין</string>
+    <string name="saved_statuses">שמור</string>
+    <string name="enter_message">הזן הודעה (אופציונלי)</string>
+    <string name="enter_phone_number">הכנס מספר טלפון</string>
+    <string name="send_message">לשלוח הודעה</string>
+    <string name="enter_a_phone_number">הזן מספר טלפון</string>
+    <string name="direct_link_copied_to_clipboard">קישור ישיר הועתק ללוח</string>
+    <string name="premium_unlocked">תודה. כעת תוכל להשתמש בתכונות פרימיום</string>
+    <string name="settings_category_title_developer">מפתח</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">ספריות קוד פתוח</string>
+    <string name="preference_title_application_version">גרסת האפליקציה</string>
+    <string name="preference_title_contact_us">צור קשר</string>
+    <string name="preference_title_privacy_policy">מדיניות הפרטיות</string>
+    <string name="preference_title_terms_conditions">תנאים</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">כללי</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">מצב כהה</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">איך זה עובד\?</string>
+    <string name="ok">בסדר</string>
+    <string name="direct_message_help_ans">אנא הזן את מספר הטלפון של הנמען יחד עם הודעת הטקסט שלך. ברגע שאתה מוכן לשלוח את ההודעה, פשוט לחץ על כפתור \'שלח\'. לחלופין, תוכל גם להשתמש באפשרות \'קישור ישיר\' כדי להעתיק את הקישור ולשתף אותו עם הנמען. על ידי לחיצה על הקישור, הם יכולים לשוחח איתך ישירות.</string>
+    <string name="click_here_to_grant_required_permissions">השבת והפעל מחדש את הרשאת ההתראה.</string>
+    <string name="please_grant_storage_permissions">אנא הענק הרשאות אחסון</string>
+    <string name="rate_app">אנא דרג את האפליקציה!</string>
+    <string name="rate_later">יותר מאוחר</string>
+    <string name="rateUs">אנא דרג את האפליקציה בחנות Play</string>
+    <string name="send_feedback">אנא שלח לנו משוב. ננסה לעבוד על זה!</string>
+    <string name="try_again">בבקשה נסה שוב</string>
+    <string name="message_copied_to_clipboard">ההודעה הועתקה ללוח</string>
+    <string name="system_default">ברירת מחדל של המערכת</string>
+    <string name="restart">איתחול</string>
+    <string name="light">אוֹר</string>
+    <string name="dark">אפל</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">שתף עם</string>
+    <string name="direct_link">העתק קישור ישיר</string>
+    <string name="remove_ads">הסר פרסומות</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">מה אינטרנט</string>
+    <string name="recover_messages">שחזור הודעות</string>
+    <string name="direct_message">הודעה ישירה</string>
+    <string name="title_refresh">לִטעוֹן מִחָדָשׁ</string>
+    <string name="whatsapp_not_installed">וואטסאפ לא מותקן. אנא התקן תחילה Whatsapp כדי להשתמש בתכונה זו.</string>
+    <string name="toggle_keyboard">החלף מקלדת</string>
+    <string name="fullscreen">מסך מלא</string>
+    <string name="dismiss">לשחרר</string>
+    <string name="keyboard_unblocked">חסימת המקלדת בוטלה.</string>
+    <string name="keyboard_blocked">המקלדת חסומה. לחץ על סמל המקלדת כדי לבטל את החסימה.</string>
+    <string name="whats_web_how_it_works">1. פתח את אפליקציית Whats Web במכשיר שלך.\n\n2. פתחו וואטסאפ בסמארטפון אחר.\n\n* באנדרואיד -&gt; ממסך הצ\'אטים, עבור לתפריט שלוש הנקודות הממוקם בפינה השמאלית העליונה של המסך -&gt; מכשירים מקושרים.\n\n* בטלפון Windows -&gt; עבור לתפריט שלוש נקודות -&gt; מכשירים מקושרים.\n\n* באייפון -&gt; עבור להגדרות -&gt; מכשירים מקושרים.\n\n3. הקש על קישור מכשיר וסרוק את קוד ה-QR המוצג על מסך האפליקציה הזו שלך מטלפון אחר.</string>
+    <string name="retry_sending_voice_message">אנא נסה שוב לשלוח הודעה קולית</string>
+    <string name="message_retry_sending_voice_message">לחץ על סמל המיקרופון פעם נוספת. זה אמור לעבוד כמצופה.</string>
+    <string name="retry_camera_capture">אנא נסה שוב את אפשרות המצלמה</string>
+    <string name="message_retry_camera_capture">לחץ פעם נוספת על סמל המצלמה. זה אמור לעבוד כמצופה.</string>
+    <string name="audio_perm_reqd">נדרשת הרשאת שמע כדי להתקדם.</string>
+    <string name="camera_perm_reqd">נדרשת הרשאת מצלמה כדי להתקדם.</string>
+    <string name="reset_reload">איפוס/טען מחדש</string>
+    <string name="reset_only">אִתחוּל</string>
+    <string name="reload_only">טען מחדש בלבד</string>
+    <string name="reload_warning">אם אתה נתקל בבעיות הקשורות לכניסה, נסה \'איפוס\'.\nאזהרה: ייתכן שתצטרך להתחבר שוב אם אתה משתמש ב\'איפוס\'.</string>
+    <string name="download_file">מוריד קובץ</string>
+    <string name="couldnt_download_file">לא ניתן היה להוריד את הקובץ</string>
+    <string name="storage_perm_reqd">נדרשת הרשאת אחסון כדי להוריד קובץ</string>
+    <string name="purchase_item_not_found">לא ניתן למצוא פריט לרכישה</string>
+    <string name="error">שְׁגִיאָה</string>
+    <string name="purchase_canceled">הרכישה בוטלה</string>
+    <string name="pending_purchase">הרכישה בהמתנה. נא להשלים את העסקה</string>
+    <string name="purchase_status_not_known">סטטוס הרכישה אינו ידוע</string>
+    <string name="enter_file_name">הזן שם קובץ</string>
+    <string name="downloading_file">הורדת הקובץ</string>
+    <string name="enter_valid_file_name">נא להזין שם קובץ חוקי</string>
+    <string name="download_has_finished_message">ההורדה הסתיימה. אנא בדוק את תיקיית ההורדות.</string>
+    <string name="could_not_download_file">לא ניתן היה להוריד את הקובץ</string>
+    <string name="loading">טוען</string>
+    <string name="downloading_update">מוריד עדכון</string>
+    <string name="update_downloaded_message">זה עתה הורד עדכון.</string>
+    <string name="keyboard_enable_webview_message">לחץ על לחצן המקלדת בחלק העליון כדי לאפשר הקלדה</string>
+    <string name="preference_title_bug_report">דוח שגיאות</string>
+    <string name="preference_title_report_a_issue">דווח על בעיה</string>
+    <string name="describe_bug">נא לתאר את הבאג כאן</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">ספריית WhatsApp אינה מכילה סטטוסים. אנא בחר את הספרייה הנכונה.</string>
+    <string name="please_select_whatsapp_directory">אנא בחר בספריית WhatsApp!</string>
+    <string name="download_cleaner">הורד את מנקה</string>
+    <string name="download_recover_messages_app">הורד את אפליקציית שחזור הודעות</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">כדי להשתמש בתכונה זו, עליך להוריד אפליקציה אחרת מחנות Play. לחץ על אישור כדי לפתוח את חנות Play ולהוריד אפליקציה.</string>
+    <string name="cancel">לְבַטֵל</string>
+    <string name="ad_space">שטח מודעות</string>
+    <string name="status">סטָטוּס</string>
+    <string name="theme">נושא</string>
+    <string name="more_apps">עוד אפליקציות</string>
+    <string name="share">לַחֲלוֹק</string>
+    <string name="send">לִשְׁלוֹחַ</string>
+    <string name="select_country_code_and_number">בחר קוד מדינה ומספר</string>
+    <string name="how_it_works">איך זה עובד</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">הורד את אפליקציית QR Scanner</string>
+    <string name="share_content">התכוננו לחוות את הדרך המהירה ביותר לגשת לאותו חשבון WhatsApp בשני סמארטפונים או טאבלטים שונים, הכל בחינם! הורד והתקן את האפליקציה כעת.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

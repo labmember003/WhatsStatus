@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">ଅଦ୍ୟତନ ସମ୍ପୂର୍ଣ୍ଣ ହୋଇଛି |</string>
+    <string name="app_update_alert_dialog_subtitle">ଅଦ୍ୟତନଗୁଡିକ ପ୍ରୟୋଗ କରିବାକୁ ଆପ୍ ପୁନ Rest ଆରମ୍ଭ କରନ୍ତୁ…</string>
+    <string name="help">ସାହାଯ୍ୟ</string>
+    <string name="cleaner">କ୍ଲିନର୍</string>
+    <string name="status_saver">ସ୍ଥିତି ସଞ୍ଚୟକାରୀ |</string>
+    <string name="settings">ସେଟିଂସମୂହ</string>
+    <string name="saved_statuses_appear_here">କ Stat ଣସି ସ୍ଥିତି ଉପଲବ୍ଧ ନାହିଁ!</string>
+    <string name="available_statuses">ଉପଲବ୍ଧ |</string>
+    <string name="saved_statuses">ସଞ୍ଚୟ ହୋଇଛି |</string>
+    <string name="enter_message">ବାର୍ତ୍ତା ପ୍ରବେଶ କରନ୍ତୁ (ବ al କଳ୍ପିକ)</string>
+    <string name="enter_phone_number">ଫୋନ୍ ନମ୍ବର ପ୍ରବେଶ କରନ୍ତୁ |</string>
+    <string name="send_message">ବାର୍ତ୍ତା ପଠାନ୍ତୁ |</string>
+    <string name="enter_a_phone_number">ଏକ ଫୋନ୍ ନମ୍ବର ପ୍ରବେଶ କରନ୍ତୁ |</string>
+    <string name="direct_link_copied_to_clipboard">ସିଧାସଳଖ ଲିଙ୍କ୍ କ୍ଲିପବୋର୍ଡରେ କପି ହୋଇଛି |</string>
+    <string name="premium_unlocked">ଧନ୍ୟବାଦ। ଆପଣ ବର୍ତ୍ତମାନ ପ୍ରିମିୟମ୍ ବ features ଶିଷ୍ଟ୍ୟଗୁଡିକ ବ୍ୟବହାର କରିପାରିବେ |</string>
+    <string name="settings_category_title_developer">ବିକାଶକାରୀ</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">ମୁକ୍ତ ଉତ୍ସ ଲାଇବ୍ରେରୀଗୁଡ଼ିକ |</string>
+    <string name="preference_title_application_version">ଆପ୍ ସଂସ୍କରଣ |</string>
+    <string name="preference_title_contact_us">ଆମ ସହିତ ଯୋଗାଯୋଗ କରନ୍ତୁ |</string>
+    <string name="preference_title_privacy_policy">ଗୋପନୀୟତା ନୀତି</string>
+    <string name="preference_title_terms_conditions">ସର୍ତ୍ତାବଳୀ</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">ଜେନେରାଲ୍ |</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">ଗା ark ମୋଡ୍ |</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">ଏହା କିପରି କାମ କରେ\?</string>
+    <string name="ok">ଠିକ୍ ଅଛି</string>
+    <string name="direct_message_help_ans">ଦୟାକରି ଆପଣଙ୍କର ପାଠ୍ୟ ବାର୍ତ୍ତା ସହିତ ପ୍ରାପ୍ତକର୍ତ୍ତାଙ୍କ ଫୋନ୍ ନମ୍ବର ଇନପୁଟ୍ କରନ୍ତୁ | ଥରେ ଆପଣ ବାର୍ତ୍ତା ପଠାଇବାକୁ ପ୍ରସ୍ତୁତ ହୋଇଗଲେ, କେବଳ \'ପଠାନ୍ତୁ\' ବଟନ୍ ଉପରେ କ୍ଲିକ୍ କରନ୍ତୁ | ବ ly କଳ୍ପିକ ଭାବରେ, ଆପଣ ଲିଙ୍କ୍ କପି କରିବାକୁ ଏବଂ ଏହାକୁ ପ୍ରାପ୍ତକର୍ତ୍ତାଙ୍କ ସହ ଅଂଶୀଦାର କରିବାକୁ \'ସିଧାସଳଖ ଲିଙ୍କ୍\' ବିକଳ୍ପ ମଧ୍ୟ ବ୍ୟବହାର କରିପାରିବେ | ଲିଙ୍କରେ କ୍ଲିକ୍ କରି, ସେମାନେ ସିଧାସଳଖ ଆପଣଙ୍କ ସହିତ ଚାଟ୍ କରିପାରିବେ |</string>
+    <string name="click_here_to_grant_required_permissions">ବିଜ୍ଞପ୍ତି ଅନୁମତି ଅକ୍ଷମ ଏବଂ ପୁନ enable- ସକ୍ଷମ କରନ୍ତୁ |</string>
+    <string name="please_grant_storage_permissions">ଦୟାକରି ସଂରକ୍ଷଣ ଅନୁମତି ଦିଅନ୍ତୁ |</string>
+    <string name="rate_app">ଦୟାକରି ଆପ୍ ରେଟ୍ କରନ୍ତୁ!</string>
+    <string name="rate_later">ପରେ</string>
+    <string name="rateUs">ଦୟାକରି ପ୍ଲେ ଷ୍ଟୋରରେ ଆପ୍ ରେଟ୍ କରନ୍ତୁ |</string>
+    <string name="send_feedback">ଦୟାକରି ଆମକୁ ମତାମତ ପଠାନ୍ତୁ | ଆମେ ଏହା ଉପରେ କାମ କରିବାକୁ ଚେଷ୍ଟା କରିବୁ!</string>
+    <string name="try_again">ଦୟାକରି ପୁଣିଥରେ ଚେଷ୍ଟା କରନ୍ତୁ</string>
+    <string name="message_copied_to_clipboard">ବାର୍ତ୍ତା କ୍ଲିପବୋର୍ଡରେ କପି ହୋଇଛି |</string>
+    <string name="system_default">ସିଷ୍ଟମ୍ ଡିଫଲ୍ଟ |</string>
+    <string name="restart">ପୁନଃପ୍ରାରମ୍ଭ</string>
+    <string name="light">ଆଲୋକ</string>
+    <string name="dark">ଅନ୍ଧାର</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">ସହିତ ଅଂଶୀଦାର କରନ୍ତୁ |</string>
+    <string name="direct_link">ସିଧାସଳଖ ଲିଙ୍କ୍ କପି କରନ୍ତୁ |</string>
+    <string name="remove_ads">ବିଜ୍ଞାପନଗୁଡିକ ଅପସାରଣ କରନ୍ତୁ |</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">ହ୍ ats ାଟସ୍ ୱେବ୍</string>
+    <string name="recover_messages">ବାର୍ତ୍ତାଗୁଡିକ ପୁନରୁଦ୍ଧାର କରନ୍ତୁ |</string>
+    <string name="direct_message">ପ୍ରତ୍ୟକ୍ଷ ବାର୍ତ୍ତା |</string>
+    <string name="title_refresh">ପୁନ elo ଲୋଡ୍ କରନ୍ତୁ |</string>
+    <string name="whatsapp_not_installed">ହ୍ ats ାଟସ୍ ଆପ୍ ସଂସ୍ଥାପିତ ହୋଇନାହିଁ | ଏହି ବ feature ଶିଷ୍ଟ୍ୟ ବ୍ୟବହାର କରିବାକୁ ଦୟାକରି ପ୍ରଥମେ ହ୍ ats ାଟସ୍ ଆପ୍ ସଂସ୍ଥାପନ କରନ୍ତୁ |</string>
+    <string name="toggle_keyboard">କୀବୋର୍ଡ୍ ଟୋଗଲ୍ କରନ୍ତୁ |</string>
+    <string name="fullscreen">ଫୁଲ୍ ସ୍କ୍ରିନ୍ |</string>
+    <string name="dismiss">ବରଖାସ୍ତ</string>
+    <string name="keyboard_unblocked">କୀବୋର୍ଡ୍ ଅନଲକ୍ ହୋଇଛି |</string>
+    <string name="keyboard_blocked">କୀବୋର୍ଡ୍ ଅବରୋଧିତ ହୋଇଛି | ଅନାବରଣ କରିବାକୁ କୀବୋର୍ଡ୍ ଆଇକନ୍ ଦବାନ୍ତୁ |</string>
+    <string name="whats_web_how_it_works">1. ଆପଣଙ୍କ ଡିଭାଇସରେ ହ୍ ats ାଟସ୍ ୱେବ୍ ଆପ୍ଲିକେସନ୍ ଖୋଲନ୍ତୁ |\n\n2. ଅନ୍ୟ ସ୍ମାର୍ଟଫୋନରେ ହ୍ s ାଟସଆପ୍ ଖୋଲନ୍ତୁ |\n\n* ଆଣ୍ଡ୍ରଏଡରେ -&gt; ଚାଟ୍ ସ୍କ୍ରିନରୁ, ସ୍କ୍ରିନର ଉପର ଡାହାଣରେ ଅବସ୍ଥିତ ତିନୋଟି ଡଟ୍ ମେନୁକୁ ଯାଆନ୍ତୁ -&gt; ଲିଙ୍କ୍ ହୋଇଥିବା ଡିଭାଇସ୍ |\n\n* ୱିଣ୍ଡୋ ଫୋନରେ -&gt; ତିନୋଟି ଡଟ୍ ମେନୁକୁ ଯାଆନ୍ତୁ -&gt; ଲିଙ୍କ୍ ହୋଇଥିବା ଡିଭାଇସ୍ |\n\n* ଆଇଫୋନ୍ ରେ -&gt; ସେଟିଂସମୂହକୁ ଯାଆନ୍ତୁ -&gt; ଲିଙ୍କ୍ ହୋଇଥିବା ଡିଭାଇସ୍ |\n\n3. ଏକ ଡିଭାଇସ୍ ଲିଙ୍କ୍ ଉପରେ ଟ୍ୟାପ୍ କରନ୍ତୁ ଏବଂ ଏହି ଆପ୍ ସ୍କ୍ରିନରେ ପ୍ରଦର୍ଶିତ QR କୋଡ୍ ଅନ୍ୟ ଫୋନରୁ ସ୍କାନ୍ କରନ୍ତୁ |</string>
+    <string name="retry_sending_voice_message">ଦୟାକରି ଭଏସ୍ ମେସେଜ୍ ପଠାଇବାକୁ ଚେଷ୍ଟା କରନ୍ତୁ |</string>
+    <string name="message_retry_sending_voice_message">ମାଇକ୍ରୋଫୋନ୍ ଆଇକନ୍ କୁ ଆଉ ଥରେ ଦବାନ୍ତୁ | ଏହା ଆଶା କରାଯାଉଥିବା ପରି କାର୍ଯ୍ୟ କରିବା ଉଚିତ୍ |</string>
+    <string name="retry_camera_capture">ଦୟାକରି କ୍ୟାମେରା ବିକଳ୍ପକୁ ପୁନ ry ଚେଷ୍ଟା କରନ୍ତୁ |</string>
+    <string name="message_retry_camera_capture">କ୍ୟାମେରା ଆଇକନ୍ କୁ ପୁଣି ଥରେ ଦବାନ୍ତୁ | ଏହା ଆଶା କରାଯାଉଥିବା ପରି କାର୍ଯ୍ୟ କରିବା ଉଚିତ୍ |</string>
+    <string name="audio_perm_reqd">ଆଗକୁ ଅଗ୍ରଗତି କରିବାକୁ ଅଡିଓ ଅନୁମତି ଆବଶ୍ୟକ |</string>
+    <string name="camera_perm_reqd">ଆଗକୁ ଅଗ୍ରଗତି କରିବାକୁ କ୍ୟାମେରା ଅନୁମତି ଆବଶ୍ୟକ |</string>
+    <string name="reset_reload">ପୁନ et ସେଟ୍ /ପୁନ elo ଲୋଡ୍ କରନ୍ତୁ |</string>
+    <string name="reset_only">ପୁନ ES ସେଟ୍ କରନ୍ତୁ |</string>
+    <string name="reload_only">କେବଳ RELOAD କରନ୍ତୁ |</string>
+    <string name="reload_warning">ଯଦି ଆପଣ ଲଗଇନ୍ ସମ୍ବନ୍ଧୀୟ ସମସ୍ୟାଗୁଡିକ ଅନୁଭବ କରୁଛନ୍ତି, \'ପୁନ et ସେଟ୍\' ଚେଷ୍ଟା କରନ୍ତୁ |\nଚେତାବନୀ: ଯଦି ଆପଣ \'ପୁନ et ସେଟ୍\' ବ୍ୟବହାର କରନ୍ତି ତେବେ ଆପଣଙ୍କୁ ପୁନର୍ବାର ଲଗଇନ୍ କରିବାକୁ ପଡିବ |</string>
+    <string name="download_file">ଫାଇଲ୍ ଡାଉନଲୋଡ୍ କରୁଛି |</string>
+    <string name="couldnt_download_file">ଫାଇଲ୍ ଡାଉନଲୋଡ୍ ହୋଇପାରିବ ନାହିଁ |</string>
+    <string name="storage_perm_reqd">ଫାଇଲ୍ ଡାଉନଲୋଡ୍ କରିବାକୁ ଷ୍ଟୋରେଜ୍ ଅନୁମତି ଆବଶ୍ୟକ |</string>
+    <string name="purchase_item_not_found">କ୍ରୟ ଆଇଟମ୍ ମିଳିଲା ନାହିଁ |</string>
+    <string name="error">ତ୍ରୁଟି |</string>
+    <string name="purchase_canceled">କ୍ରୟ ବାତିଲ |</string>
+    <string name="pending_purchase">କ୍ରୟ ବିଚାରାଧୀନ ଅଛି | ଦୟାକରି କାରବାର ସଂପୂର୍ଣ୍ଣ କରନ୍ତୁ |</string>
+    <string name="purchase_status_not_known">କ୍ରୟ ସ୍ଥିତି ଜଣା ନାହିଁ |</string>
+    <string name="enter_file_name">ଏକ ଫାଇଲ୍ ନାମ ପ୍ରବେଶ କରନ୍ତୁ |</string>
+    <string name="downloading_file">ଫାଇଲ୍ ଡାଉନଲୋଡ୍ କରୁଛି |</string>
+    <string name="enter_valid_file_name">ଦୟାକରି ଏକ ବ valid ଧ ଫାଇଲ୍ ନାମ ପ୍ରବେଶ କରନ୍ତୁ |</string>
+    <string name="download_has_finished_message">ଡାଉନଲୋଡ୍ ସମାପ୍ତ ହୋଇଛି | ଦୟାକରି ଡାଉନଲୋଡ୍ ଫୋଲ୍ଡର୍ ଯାଞ୍ଚ କରନ୍ତୁ |</string>
+    <string name="could_not_download_file">ଫାଇଲ୍ ଡାଉନଲୋଡ୍ କରିପାରିଲା ନାହିଁ |</string>
+    <string name="loading">ଲୋଡିଂ</string>
+    <string name="downloading_update">ଅଦ୍ୟତନ ଡାଉନଲୋଡ୍ କରୁଛି |</string>
+    <string name="update_downloaded_message">ଏକ ଅଦ୍ୟତନ ବର୍ତ୍ତମାନ ଡାଉନଲୋଡ୍ ହୋଇଛି |</string>
+    <string name="keyboard_enable_webview_message">ଟାଇପିଂ ସକ୍ଷମ କରିବାକୁ ଉପରେ ଟୋଗଲ୍ କୀବୋର୍ଡ୍ ବଟନ୍ ଦବାନ୍ତୁ |</string>
+    <string name="preference_title_bug_report">ତ୍ରୁଟି ରିପୋର୍ଟ</string>
+    <string name="preference_title_report_a_issue">ଏକ ଇସୁ ରିପୋର୍ଟ କରନ୍ତୁ |</string>
+    <string name="describe_bug">ଦୟାକରି ଏଠାରେ ତ୍ରୁଟି ବର୍ଣ୍ଣନା କରନ୍ତୁ |</string>
+    <string name="_2">୨</string>
+    <string name="_3">3</string>
+    <string name="_1">୧</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">ହ୍ ats ାଟସ୍ ଆପ୍ ଡିରେକ୍ଟୋରୀରେ ଷ୍ଟାଟସ୍ ନାହିଁ | ଦୟାକରି ସଠିକ୍ ଡିରେକ୍ଟୋରୀ ଚୟନ କରନ୍ତୁ |</string>
+    <string name="please_select_whatsapp_directory">ଦୟାକରି ହ୍ ats ାଟସ୍ ଆପ୍ ଡିରେକ୍ଟୋରୀ ଚୟନ କରନ୍ତୁ!</string>
+    <string name="download_cleaner">କ୍ଲିନର୍ ଡାଉନଲୋଡ୍ କରନ୍ତୁ |</string>
+    <string name="download_recover_messages_app">ପୁନରୁଦ୍ଧାର ମେସେଜ୍ ଆପ୍ ଡାଉନଲୋଡ୍ କରନ୍ତୁ |</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">ଏହି ବ feature ଶିଷ୍ଟ୍ୟ ବ୍ୟବହାର କରିବାକୁ, ଆପଣଙ୍କୁ ପ୍ଲେ ଷ୍ଟୋରରୁ ଅନ୍ୟ ଏକ ଆପ୍ ଡାଉନଲୋଡ୍ କରିବାକୁ ପଡିବ | ପ୍ଲେ ଷ୍ଟୋର ଖୋଲିବା ଏବଂ ଆପ୍ ଡାଉନଲୋଡ୍ କରିବାକୁ ଓକେ କ୍ଲିକ୍ କରନ୍ତୁ |</string>
+    <string name="cancel">ବାତିଲ୍ କରନ୍ତୁ |</string>
+    <string name="ad_space">ବିଜ୍ଞାପନ ସ୍ଥାନ |</string>
+    <string name="status">ସ୍ଥିତି</string>
+    <string name="theme">ଥିମ୍</string>
+    <string name="more_apps">ଅଧିକ ଆପ୍ସ |</string>
+    <string name="share">ଅଂଶୀଦାର କରନ୍ତୁ |</string>
+    <string name="send">ପଠାନ୍ତୁ |</string>
+    <string name="select_country_code_and_number">ଦେଶ କୋଡ୍ ଏବଂ ସଂଖ୍ୟା ଚୟନ କରନ୍ତୁ |</string>
+    <string name="how_it_works">ଏହା କିପରି କାମ କରେ |</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Qr ସ୍କାନର୍ ଆପ୍ ଡାଉନଲୋଡ୍ କରନ୍ତୁ |</string>
+    <string name="share_content">ଦୁଇଟି ଭିନ୍ନ ସ୍ମାର୍ଟଫୋନ୍ କିମ୍ବା ଟାବଲେଟରେ ସମାନ ହ୍ ats ାଟସ୍ ଆପ୍ ଆକାଉଣ୍ଟକୁ ପ୍ରବେଶ କରିବାର ଦ୍ରୁତତମ ଉପାୟ ଅନୁଭବ କରିବାକୁ ପ୍ରସ୍ତୁତ ହୁଅ, ସମସ୍ତେ ମାଗଣାରେ! ବର୍ତ୍ତମାନ ଆପ୍ ଡାଉନଲୋଡ୍ ଏବଂ ଇନଷ୍ଟଲ୍ କରନ୍ତୁ |</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

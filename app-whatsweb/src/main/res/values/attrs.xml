@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="threeDotMenuIconColor" format="color"/>
+    <attr name="btn_bg_color" format="color"/>
+    <attr name="chip_text_color" format="color"/>
+    <attr name="appBarTitleColor" format="reference" />
+    <attr name="directMessageBackgroundColor" format="color|reference" />
+    <attr name="materialTextFieldStyle" format="reference" />
+
+    <attr name="navViewTextColor" format="color|reference" />
+</resources>

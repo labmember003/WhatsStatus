@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Vita ny fanavaozana</string>
+    <string name="app_update_alert_dialog_subtitle">Avereno indray ny fampiharana hampiharana fanavaozana…</string>
+    <string name="help">Vonjeo</string>
+    <string name="cleaner">Cleaner</string>
+    <string name="status_saver">Saver Status</string>
+    <string name="settings">Fikirana</string>
+    <string name="saved_statuses_appear_here">Tsy misy sata misy!</string>
+    <string name="available_statuses">Available</string>
+    <string name="saved_statuses">voavonjy</string>
+    <string name="enter_message">Ampidiro ny hafatra (tsy voatery)</string>
+    <string name="enter_phone_number">Ampidiro ny laharana finday</string>
+    <string name="send_message">Alefaso hafatra</string>
+    <string name="enter_a_phone_number">Ampidiro laharan-telefaona</string>
+    <string name="direct_link_copied_to_clipboard">Rohy mivantana nadika amin\'ny solaitrabe</string>
+    <string name="premium_unlocked">Misaotra anao. Afaka mampiasa endri-javatra premium ianao izao</string>
+    <string name="settings_category_title_developer">Developer</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Open Source Libraries</string>
+    <string name="preference_title_application_version">App Version</string>
+    <string name="preference_title_contact_us">Mifandraisa aminay</string>
+    <string name="preference_title_privacy_policy">politika fiarovana fiainan\'olona</string>
+    <string name="preference_title_terms_conditions">Fepetra</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">General</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Dark Mode</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Ahoana ny fandehany\?</string>
+    <string name="ok">OK</string>
+    <string name="direct_message_help_ans">Ampidiro azafady ny nomeraon-telefaonin\'ilay mpandray miaraka amin\'ny hafatrao. Rehefa vonona handefa ny hafatra ianao dia tsindrio fotsiny ny bokotra \'Alefaso\'. Raha tsy izany, azonao atao koa ny mampiasa ny safidy \'Rohy mivantana\' handikana ny rohy ary hizara izany amin\'ny mpandray. Amin\'ny fipihana ny rohy dia afaka miresaka aminao mivantana izy ireo.</string>
+    <string name="click_here_to_grant_required_permissions">Atsaharo ary avereno atao ny fahazoan-dàlana fampahafantarana.</string>
+    <string name="please_grant_storage_permissions">Omeo alalana Storage azafady</string>
+    <string name="rate_app">Omeo naoty ny app!</string>
+    <string name="rate_later">TATỲ AORIANA</string>
+    <string name="rateUs">Azafady, omeo naoty ny fampiharana amin\'ny Play Store</string>
+    <string name="send_feedback">Mba andefaso hevitra izahay. Hiezaka izahay hiasa amin\'izany!</string>
+    <string name="try_again">Andramo indray azafady</string>
+    <string name="message_copied_to_clipboard">hafatra voadika amin\'ny solaitrabe</string>
+    <string name="system_default">System Default</string>
+    <string name="restart">Haverina velomina</string>
+    <string name="light">fahazavana</string>
+    <string name="dark">Maizina</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Zarao amin\'ny</string>
+    <string name="direct_link">Adikao ny rohy mivantana</string>
+    <string name="remove_ads">Esory ny doka</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Whats Web</string>
+    <string name="recover_messages">Avereno Messages</string>
+    <string name="direct_message">Hafatra mivantana</string>
+    <string name="title_refresh">Avereno</string>
+    <string name="whatsapp_not_installed">Tsy napetraka ny Whatsapp. Ampidiro aloha ny Whatsapp raha te hampiasa an\'io endri-javatra io.</string>
+    <string name="toggle_keyboard">Toggle Keyboard</string>
+    <string name="fullscreen">Mameno efijery</string>
+    <string name="dismiss">handroaka</string>
+    <string name="keyboard_unblocked">Tsy voasakana ny klavier.</string>
+    <string name="keyboard_blocked">Voasakana ny klavier. Tsindrio ny kisary fitendry hanesorana ny sakana.</string>
+    <string name="whats_web_how_it_works">1. Sokafy ny fampiharana Whats Web amin\'ny fitaovanao.\n\n2. Sokafy ny whatsapp amin\'ny finday hafa.\n\n* Ao amin\'ny Android -&gt; Avy amin\'ny efijery chat, mandehana amin\'ny menio teboka telo hita eo an-tampony havanana amin\'ny efijery -&gt; fitaovana mifandray.\n\n* Ao amin\'ny telefaona varavarankely -&gt; Mandehana any amin\'ny menio teboka telo -&gt; fitaovana mifandray.\n\n* Amin\'ny iPhone -&gt; Mandehana any amin\'ny Settings -&gt; fitaovana mifandray.\n\n3. Tsindrio Ampifandraiso amin\'ny fitaovana iray ary diniho ny kaody QR aseho amin\'ity efijery fampiharana ity amin\'ny telefaona hafa.</string>
+    <string name="retry_sending_voice_message">Andramo indray ny mandefa hafatra am-peo</string>
+    <string name="message_retry_sending_voice_message">Tsindrio indray ny kisary mikrô. Tokony hiasa araka ny efa nampoizina izany.</string>
+    <string name="retry_camera_capture">Andramo indray ny safidy Camera</string>
+    <string name="message_retry_camera_capture">Tsindrio indray ny kisary fakan-tsary. Tokony hiasa araka ny efa nampoizina izany.</string>
+    <string name="audio_perm_reqd">Mila alalana amin\'ny feo mba handrosoana.</string>
+    <string name="camera_perm_reqd">Ilaina ny fahazoan-dàlana fakan-tsary mba handrosoana.</string>
+    <string name="reset_reload">Avereno /Avereno</string>
+    <string name="reset_only">MAMERINA</string>
+    <string name="reload_only">AVERINA IHANY</string>
+    <string name="reload_warning">Raha sendra olana mifandraika amin\'ny fidirana ianao dia andramo ny \'Reset\'.\nFAMPITANDREMANA: Mety tsy maintsy miditra indray ianao raha mampiasa \'Reset\'.</string>
+    <string name="download_file">Misintona rakitra</string>
+    <string name="couldnt_download_file">Tsy azo alaina ny rakitra</string>
+    <string name="storage_perm_reqd">Mila alalana fitahirizana mba hisintonana rakitra</string>
+    <string name="purchase_item_not_found">Fividianana entana tsy hita</string>
+    <string name="error">fahadisoana</string>
+    <string name="purchase_canceled">Nofoanana ny fividianana</string>
+    <string name="pending_purchase">Miandry ny fividianana. Fenoy ny Transaction azafady</string>
+    <string name="purchase_status_not_known">Tsy fantatra ny satan\'ny fividianana</string>
+    <string name="enter_file_name">Ampidiro anarana rakitra</string>
+    <string name="downloading_file">Misintona ny rakitra</string>
+    <string name="enter_valid_file_name">Ampidiro anarana rakitra manan-kery azafady</string>
+    <string name="download_has_finished_message">Vita ny fampidinana. Jereo azafady ny lahatahiry Downloads.</string>
+    <string name="could_not_download_file">Tsy afaka misintona File</string>
+    <string name="loading">Loading</string>
+    <string name="downloading_update">Misintona fanavaozana</string>
+    <string name="update_downloaded_message">Vao avy nampidinina ny fanavaozana.</string>
+    <string name="keyboard_enable_webview_message">Tsindrio ny bokotra fitendry toggle eo ambony mba ahafahana manoratra</string>
+    <string name="preference_title_bug_report">Tatitra momba ny bug</string>
+    <string name="preference_title_report_a_issue">Mitatitra olana</string>
+    <string name="describe_bug">Lazao eto azafady ny bug</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">Tsy misy Statuses ny lahatahiry WhatsApp. Mifidiana lahatahiry marina azafady.</string>
+    <string name="please_select_whatsapp_directory">Safidio ny lahatahiry WhatsApp azafady!</string>
+    <string name="download_cleaner">Download Cleaner</string>
+    <string name="download_recover_messages_app">Ampidino ny App Recover Messages</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Raha hampiasa an\'io endri-javatra io ianao dia mila misintona fampiharana hafa avy amin\'ny fivarotana play. Tsindrio OK hanokatra fivarotana play sy hisintona fampiharana.</string>
+    <string name="cancel">hanafoana</string>
+    <string name="ad_space">Espace doka</string>
+    <string name="status">sata</string>
+    <string name="theme">FOTO-KEVITRA</string>
+    <string name="more_apps">Apps bebe kokoa</string>
+    <string name="share">anjara</string>
+    <string name="send">Alefaso</string>
+    <string name="select_country_code_and_number">Safidio ny kaodim-pirenena sy ny laharana</string>
+    <string name="how_it_works">Ny fomba fiasa</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Ampidino ny fampiharana Qr Scanner</string>
+    <string name="share_content">Miomàna hiaina ny fomba haingana indrindra hidirana amin\'ny kaonty WhatsApp mitovy amin\'ny finday na takelaka roa samy hafa, maimaim-poana avokoa! Ampidino ary apetraho izao ny fampiharana.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

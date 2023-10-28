@@ -1,0 +1,201 @@
+<resources>
+
+    <string name="app_update_alert_dialog_title">अपडेट पूरा हो गया है</string>
+
+    <string name="app_update_alert_dialog_subtitle">अपडेट लागू करने के लिए ऐप को रीस्टार्ट करें…</string>
+
+    <string name="help">मदद</string>
+
+    <string name="cleaner">क्लीनर</string>
+
+    <string name="status_saver">स्थिति सेवर</string>
+
+    <string name="settings">समायोजन</string>
+
+    <string name="saved_statuses_appear_here">कोई स्थिति उपलब्ध नहीं!</string>
+
+    <string name="available_statuses">उपलब्ध</string>
+
+    <string name="saved_statuses">सहेजा</string>
+
+    <string name="enter_message">संदेश दर्ज करें (वैकल्पिक)</string>
+
+    <string name="enter_phone_number">फोन नंबर दर्ज</string>
+
+    <string name="send_message">मेसेज भेजें</string>
+
+    <string name="enter_a_phone_number">एक फोन नंबर दर्ज करें</string>
+
+    <string name="direct_link_copied_to_clipboard">सीधा लिंक क्लिपबोर्ड पर कॉपी किया गया</string>
+
+    <string name="premium_unlocked">धन्यवाद. अब आप प्रीमियम सुविधाओं का उपयोग कर सकते हैं</string>
+
+    <string name="settings_category_title_developer">डेवलपर</string>
+
+    <string name="preference_title_open_source_licenses">ओपन सोर्स लाइब्रेरी</string>
+
+    <string name="preference_title_application_version">एप्लिकेशन संस्करण</string>
+
+    <string name="preference_title_contact_us">संपर्क करें</string>
+
+    <string name="preference_title_privacy_policy">गोपनीयता नीति</string>
+
+    <string name="preference_title_terms_conditions">नियम और शर्तें</string>
+
+    <string name="settings_category_title_general">आम</string>
+
+    <string name="preference_title_dark_mode">डार्क मोड</string>
+
+    <string name="how_to_use">यह काम किस प्रकार करता है?</string>
+
+    <string name="ok">ठीक</string>
+
+    <string name="direct_message_help_ans">कृपया अपने पाठ संदेश के साथ प्राप्तकर्ता का फ़ोन नंबर दर्ज करें. एक बार जब आप संदेश भेजने के लिए तैयार हों, तो बस \'भेजें\' बटन पर क्लिक करें. वैकल्पिक रूप से, आप लिंक को कॉपी करने और प्राप्तकर्ता के साथ साझा करने के लिए \'डायरेक्ट लिंक\' विकल्प का भी उपयोग कर सकते हैं. लिंक पर क्लिक करके वे आपसे सीधे चैट कर सकते हैं.</string>
+
+    <string name="click_here_to_grant_required_permissions">अधिसूचना अनुमति को अक्षम और पुनः सक्षम करें.</string>
+
+    <string name="please_grant_storage_permissions">कृपया संग्रहण अनुमति दें</string>
+
+    <string name="rate_app">कृपया ऐप को रेट करें!</string>
+
+    <string name="rate_later">बाद में</string>
+
+    <string name="rateUs">कृपया Play Store पर ऐप को रेट करें</string>
+
+    <string name="send_feedback">कृपया हमें प्रतिक्रिया भेजें. हम इस पर काम करने की कोशिश करेंगे!</string>
+
+    <string name="try_again">कृपया पुन: प्रयास करें</string>
+
+    <string name="message_copied_to_clipboard">संदेश को क्लिपबोर्ड पर कॉपी किया गया</string>
+
+    <string name="system_default">प्रणालीगत चूक</string>
+
+    <string name="restart">पुनः आरंभ करें</string>
+
+    <string name="light">हल्का</string>
+
+    <string name="dark">गहरा</string>
+
+    <string name="share_with">के साथ शेयर करें</string>
+
+    <string name="direct_link">डायरेक्ट लिंक कॉपी करें</string>
+
+    <string name="remove_ads">विज्ञापन हटाएँ</string>
+
+    <string name="whats_web">व्हाट्स वेब</string>
+
+    <string name="recover_messages">संदेश पुनर्प्राप्त करें</string>
+
+    <string name="direct_message">सीधा संदेश</string>
+
+    <string name="title_refresh">पुनः लोड करें</string>
+
+    <string name="whatsapp_not_installed">व्हाट्सएप इंस्टॉल नहीं है. इस सुविधा का उपयोग करने के लिए कृपया पहले Whatsapp इंस्टॉल करें.</string>
+
+    <string name="toggle_keyboard">कीबोर्ड टॉगल करें</string>
+
+    <string name="fullscreen">पूर्ण स्क्रीन</string>
+
+    <string name="dismiss">नकार देना</string>
+
+    <string name="keyboard_unblocked">कीबोर्ड अनब्लॉक है.</string>
+
+    <string name="keyboard_blocked">कीबोर्ड अवरोधित है. अनब्लॉक करने के लिए कीबोर्ड आइकन दबाएं.</string>
+
+    <string name="whats_web_how_it_works">1. अपने डिवाइस पर व्हाट्स वेब एप्लिकेशन खोलें.\n\n2. दूसरे स्मार्टफोन पर व्हाट्सएप खोलें.\n\n* एंड्रॉइड पर -&gt; चैट स्क्रीन से, स्क्रीन के शीर्ष दाईं ओर स्थित तीन डॉट मेनू पर जाएं -&gt; लिंक्ड डिवाइस.\n\n* विंडो फोन पर -&gt; तीन डॉट मेनू पर जाएं -&gt; लिंक्ड डिवाइस.\n\n* आईफोन पर -&gt; सेटिंग्स पर जाएं -&gt; लिंक्ड डिवाइस.\n\n3. लिंक ए डिवाइस पर टैप करें और अपने इस ऐप स्क्रीन पर प्रदर्शित क्यूआर कोड को दूसरे फोन से स्कैन करें.</string>
+
+    <string name="retry_sending_voice_message">कृपया ध्वनि संदेश भेजने का पुनः प्रयास करें</string>
+
+    <string name="message_retry_sending_voice_message">माइक्रोफ़ोन आइकन को एक बार और दबाएं. यह उम्मीद के मुताबिक काम करना चाहिए.</string>
+
+    <string name="retry_camera_capture">कृपया कैमरा विकल्प का पुनः प्रयास करें</string>
+
+    <string name="message_retry_camera_capture">कैमरा आइकन को एक बार और दबाएं. यह उम्मीद के मुताबिक काम करना चाहिए.</string>
+
+    <string name="audio_perm_reqd">आगे बढ़ने के लिए ऑडियो अनुमति आवश्यक है.</string>
+
+    <string name="camera_perm_reqd">आगे बढ़ने के लिए कैमरे की अनुमति आवश्यक है.</string>
+
+    <string name="reset_reload">रीसेट/पुनः लोड करें</string>
+
+    <string name="reset_only">रीसेट करें</string>
+
+    <string name="reload_only">केवल पुनः लोड करें</string>
+
+    <string name="reload_warning">यदि आप लॉगिन से संबंधित समस्याओं का सामना कर रहे हैं, तो \'रीसेट\' का प्रयास करें.\nचेतावनी: यदि आप \'रीसेट\' का उपयोग करते हैं तो आपको फिर से लॉगिन करना पड़ सकता है.</string>
+
+    <string name="download_file">फ़ाइल डाउनलोड हो रही है</string>
+
+    <string name="couldnt_download_file">फ़ाइल डाउनलोड नहीं की जा सकी</string>
+
+    <string name="storage_perm_reqd">फ़ाइल डाउनलोड करने के लिए संग्रहण अनुमति की आवश्यकता है</string>
+
+    <string name="purchase_item_not_found">खरीद आइटम नहीं मिला</string>
+
+    <string name="error">गलती</string>
+
+    <string name="purchase_canceled">खरीदारी रद्द की गई</string>
+
+    <string name="pending_purchase">खरीदारी लंबित है. कृपया लेन-देन पूरा करें</string>
+
+    <string name="purchase_status_not_known">खरीद स्थिति ज्ञात नहीं है</string>
+
+    <string name="enter_file_name">एक फ़ाइल नाम दर्ज करें</string>
+
+    <string name="downloading_file">फ़ाइल डाउनलोड कर रहा है</string>
+
+    <string name="enter_valid_file_name">कृपया एक वैध फ़ाइल नाम दर्ज करें</string>
+
+    <string name="download_has_finished_message">डाउनलोड समाप्त हो गया है. कृपया डाउनलोड फ़ोल्डर जांचें.</string>
+
+    <string name="could_not_download_file">फ़ाइल डाउनलोड नहीं की जा सकी</string>
+
+    <string name="loading">लोड हो रहा है</string>
+
+    <string name="downloading_update">अद्यतन स्थिति डाउनलोड हो रही है</string>
+
+    <string name="update_downloaded_message">एक अद्यतन अभी डाउनलोड किया गया है.</string>
+
+    <string name="keyboard_enable_webview_message">टाइपिंग सक्षम करने के लिए शीर्ष पर टॉगल कीबोर्ड बटन दबाएं</string>
+
+    <string name="preference_title_bug_report">बग रिपोर्ट</string>
+
+    <string name="preference_title_report_a_issue">मामले की रिपोर्ट करें</string>
+
+    <string name="describe_bug">कृपया यहाँ बग का वर्णन करें</string>
+
+    <string name="whatsapp_directory_does_not_contain_statuses">WhatsApp निर्देशिका में स्थितियाँ नहीं हैं. कृपया सही निर्देशिका का चयन करें.</string>
+
+    <string name="please_select_whatsapp_directory">कृपया व्हाट्सएप निर्देशिका का चयन करें!</string>
+
+    <string name="download_cleaner">क्लीनर डाउनलोड करें</string>
+
+    <string name="download_recover_messages_app">पुनर्प्राप्त संदेश ऐप डाउनलोड करें</string>
+
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">इस फीचर का इस्तेमाल करने के लिए आपको प्ले स्टोर से एक और ऐप डाउनलोड करना होगा. प्ले स्टोर खोलने और ऐप डाउनलोड करने के लिए ओके पर क्लिक करें.</string>
+
+    <string name="cancel">रद्द करें</string>
+
+    <string name="ad_space">विज्ञापन स्थान</string>
+
+    <string name="status">दर्जा</string>
+
+    <string name="theme">थीम</string>
+
+    <string name="more_apps">और ऐप</string>
+
+    <string name="share">शेयर करें</string>
+
+    <string name="send">भेजें</string>
+
+    <string name="select_country_code_and_number">देश कोड और नंबर चुनें</string>
+
+    <string name="how_it_works">यह काम किस प्रकार करता है</string>
+
+    <string name="download_qrcodescanner">क्यूआर स्कैनर ऐप डाउनलोड करें</string>
+
+    <string name="share_content">दो अलग-अलग स्मार्टफोन या टैबलेट पर एक ही व्हाट्सएप अकाउंट को एक्सेस करने का सबसे तेज़ तरीका मुफ्त में अनुभव करने के लिए तैयार हो जाइए! ऐप को अभी डाउनलोड और इंस्टॉल करें.</string>
+
+    <string name="directly_message_anyone_without_saving_phone_as_contact" />
+
+</resources>

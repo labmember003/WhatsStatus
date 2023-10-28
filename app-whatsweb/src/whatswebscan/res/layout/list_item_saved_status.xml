@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:bind="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        <variable
+            name="savedStatusDocumentFileUri"
+            type="android.net.Uri" />
+    </data>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="8dp"
+        android:layout_margin="6dp"
+        app:cardElevation="20dp">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/mConstraintLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/ivSavedStatus"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:scaleType="centerCrop"
+                app:layout_constraintDimensionRatio="1:1"
+                tools:tint="@color/colorPrimary"
+                tools:src="@drawable/ic_settings"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:savedStatusImage="@{savedStatusDocumentFileUri}" />
+
+            <ImageView
+                android:id="@+id/ivPlay"
+                android:layout_height="72dp"
+                android:layout_width="0dp"
+                app:layout_constraintDimensionRatio="1:1"
+                android:src="@drawable/ic_video_play"
+                app:layout_constraintBottom_toBottomOf="@id/ivSavedStatus"
+                app:layout_constraintEnd_toEndOf="@id/ivSavedStatus"
+                app:layout_constraintStart_toStartOf="@id/ivSavedStatus"
+                app:layout_constraintTop_toTopOf="@id/ivSavedStatus" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.cardview.widget.CardView>
+</layout>

@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Päivitys on valmis</string>
+    <string name="app_update_alert_dialog_subtitle">Käynnistä sovellus uudelleen ottaaksesi päivitykset käyttöön…</string>
+    <string name="help">auta</string>
+    <string name="cleaner">Siivooja</string>
+    <string name="status_saver">Status Saver</string>
+    <string name="settings">asetukset</string>
+    <string name="saved_statuses_appear_here">Tilaa ei ole saatavilla!</string>
+    <string name="available_statuses">Saatavilla</string>
+    <string name="saved_statuses">Tallennettu</string>
+    <string name="enter_message">Kirjoita viesti (valinnainen)</string>
+    <string name="enter_phone_number">Anna puhelinnumero</string>
+    <string name="send_message">Lähetä viesti</string>
+    <string name="enter_a_phone_number">Lisää puhelinnumero</string>
+    <string name="direct_link_copied_to_clipboard">Suora linkki kopioitu leikepöydälle</string>
+    <string name="premium_unlocked">Kiitos. Voit nyt käyttää premium-ominaisuuksia</string>
+    <string name="settings_category_title_developer">Kehittäjä</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Avoimen lähdekoodin kirjastot</string>
+    <string name="preference_title_application_version">Sovelluksen versio</string>
+    <string name="preference_title_contact_us">Ota meihin yhteyttä</string>
+    <string name="preference_title_privacy_policy">Tietosuojakäytäntö</string>
+    <string name="preference_title_terms_conditions">Käyttöehdot</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Kenraali</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Tumma tila</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Kuinka se toimii\?</string>
+    <string name="ok">OK</string>
+    <string name="direct_message_help_ans">Syötä tekstiviestin mukana vastaanottajan puhelinnumero. Kun olet valmis lähettämään viestin, napsauta \'Lähetä\'-painiketta. Vaihtoehtoisesti voit myös kopioida linkin ja jakaa sen vastaanottajalle käyttämällä \"Suora linkki\" -vaihtoehtoa. Klikkaamalla linkkiä he voivat keskustella kanssasi suoraan.</string>
+    <string name="click_here_to_grant_required_permissions">Poista ilmoituslupa käytöstä ja ota se uudelleen käyttöön.</string>
+    <string name="please_grant_storage_permissions">Anna tallennustilan käyttöoikeudet</string>
+    <string name="rate_app">Ole hyvä ja arvioi sovellus!</string>
+    <string name="rate_later">Myöhemmin</string>
+    <string name="rateUs">Arvioi sovellus Play Kaupassa</string>
+    <string name="send_feedback">Lähetä meille palautetta. Yritämme työstää sitä!</string>
+    <string name="try_again">Yritä uudelleen</string>
+    <string name="message_copied_to_clipboard">viesti kopioitu leikepöydälle</string>
+    <string name="system_default">Järjestelmän oletusarvo</string>
+    <string name="restart">Uudelleenkäynnistää</string>
+    <string name="light">Kevyt</string>
+    <string name="dark">Tumma</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Jakaa</string>
+    <string name="direct_link">Kopioi suora linkki</string>
+    <string name="remove_ads">Poista mainokset</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Mikä Web</string>
+    <string name="recover_messages">Palauta viestit</string>
+    <string name="direct_message">Suora viesti</string>
+    <string name="title_refresh">Lataa uudelleen</string>
+    <string name="whatsapp_not_installed">Whatsapp ei ole asennettu. Asenna ensin Whatsapp käyttääksesi tätä ominaisuutta.</string>
+    <string name="toggle_keyboard">Näppäimistö päälle/pois</string>
+    <string name="fullscreen">Koko näyttö</string>
+    <string name="dismiss">Hylkää</string>
+    <string name="keyboard_unblocked">Näppäimistön esto on poistettu.</string>
+    <string name="keyboard_blocked">Näppäimistö on tukossa. Poista esto painamalla näppäimistökuvaketta.</string>
+    <string name="whats_web_how_it_works">1. Avaa Whats Web -sovellus laitteessasi.\n\n2. Avaa whatsapp toisessa älypuhelimessa.\n\n* Android -&gt; Siirry keskustelunäytöstä kolmen pisteen valikkoon näytön oikeassa yläkulmassa -&gt; Linkitetyt laitteet.\n\n* Ikkunapuhelimessa -&gt; Siirry kolmen pisteen valikkoon -&gt; Linkitetyt laitteet.\n\n* iPhonessa -&gt; Siirry kohtaan Asetukset -&gt; Linkitetyt laitteet.\n\n3. Napauta Linkitä laite ja skannaa tämän sovelluksen näytöllä näkyvä QR-koodi toisesta puhelimesta.</string>
+    <string name="retry_sending_voice_message">Yritä lähettää ääniviesti uudelleen</string>
+    <string name="message_retry_sending_voice_message">Paina mikrofonikuvaketta vielä kerran. Sen pitäisi toimia odotetusti.</string>
+    <string name="retry_camera_capture">Yritä kameravaihtoehtoa uudelleen</string>
+    <string name="message_retry_camera_capture">Paina kamerakuvaketta vielä kerran. Sen pitäisi toimia odotetusti.</string>
+    <string name="audio_perm_reqd">Edistymiseen tarvitaan äänilupa.</string>
+    <string name="camera_perm_reqd">Edistymiseen tarvitaan kameran lupa.</string>
+    <string name="reset_reload">Nollaa/Lataa uudelleen</string>
+    <string name="reset_only">RESET</string>
+    <string name="reload_only">VAIN LATAA UUDELLEEN</string>
+    <string name="reload_warning">Jos sinulla on kirjautumisongelmia, kokeile \"Palauta\".\nVAROITUS: Saatat joutua kirjautumaan uudelleen, jos käytät \'Nollaa\'.</string>
+    <string name="download_file">Ladataan tiedostoa</string>
+    <string name="couldnt_download_file">Tiedostoa ei voitu ladata</string>
+    <string name="storage_perm_reqd">Tiedoston lataamiseen tarvitaan tallennuslupa</string>
+    <string name="purchase_item_not_found">Ostokohdetta ei löytynyt</string>
+    <string name="error">Virhe</string>
+    <string name="purchase_canceled">Ostos peruutettu</string>
+    <string name="pending_purchase">Osto odottaa. Suorita tapahtuma loppuun</string>
+    <string name="purchase_status_not_known">Ostoksen tila ei ole tiedossa</string>
+    <string name="enter_file_name">Anna Tiedostonimi</string>
+    <string name="downloading_file">Tiedoston lataaminen</string>
+    <string name="enter_valid_file_name">Anna kelvollinen tiedostonimi</string>
+    <string name="download_has_finished_message">Lataus on valmis. Tarkista Lataukset-kansio.</string>
+    <string name="could_not_download_file">Tiedostoa ei voitu ladata</string>
+    <string name="loading">Ladataan</string>
+    <string name="downloading_update">Ladataan päivitystä</string>
+    <string name="update_downloaded_message">Päivitys on juuri ladattu.</string>
+    <string name="keyboard_enable_webview_message">Ota kirjoittaminen käyttöön painamalla yläosassa olevaa näppäimistön vaihtopainiketta</string>
+    <string name="preference_title_bug_report">Virhe raportti</string>
+    <string name="preference_title_report_a_issue">Ilmoita ongelma</string>
+    <string name="describe_bug">Kuvaile vika tässä</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">WhatsApp-hakemisto ei sisällä tiloja. Valitse oikea hakemisto.</string>
+    <string name="please_select_whatsapp_directory">Valitse WhatsApp-hakemisto!</string>
+    <string name="download_cleaner">Lataa Cleaner</string>
+    <string name="download_recover_messages_app">Lataa Recover Messages -sovellus</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Jotta voit käyttää tätä ominaisuutta, sinun on ladattava toinen sovellus Play Kaupasta. Avaa Play Store ja lataa sovellus napsauttamalla OK.</string>
+    <string name="cancel">Peruuttaa</string>
+    <string name="ad_space">Mainostila</string>
+    <string name="status">Tila</string>
+    <string name="theme">Teema</string>
+    <string name="more_apps">Lisää sovelluksia</string>
+    <string name="share">Jaa</string>
+    <string name="send">Lähettää</string>
+    <string name="select_country_code_and_number">Valitse maakoodi ja numero</string>
+    <string name="how_it_works">Kuinka se toimii</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Lataa QR-skannerisovellus</string>
+    <string name="share_content">Valmistaudu kokemaan nopein tapa käyttää samaa WhatsApp-tiliä kahdella eri älypuhelimella tai tabletilla, kaikki ilmaiseksi! Lataa ja asenna sovellus nyt.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

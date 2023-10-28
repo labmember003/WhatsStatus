@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Η ενημέρωση ολοκληρώθηκε</string>
+    <string name="app_update_alert_dialog_subtitle">Επανεκκινήστε την εφαρμογή για να εφαρμόσετε ενημερώσεις…</string>
+    <string name="help">Βοήθεια</string>
+    <string name="cleaner">Καθαριστής</string>
+    <string name="status_saver">Εξοικονόμηση κατάστασης</string>
+    <string name="settings">Ρυθμίσεις</string>
+    <string name="saved_statuses_appear_here">Δεν υπάρχει διαθέσιμη κατάσταση!</string>
+    <string name="available_statuses">Διαθέσιμος</string>
+    <string name="saved_statuses">Αποθηκεύτηκε</string>
+    <string name="enter_message">Εισαγωγή μηνύματος (Προαιρετικό)</string>
+    <string name="enter_phone_number">Εισάγετε τον αριθμό τηλεφώνου</string>
+    <string name="send_message">Να στείλετε μήνυμα</string>
+    <string name="enter_a_phone_number">Εισάγετε αριθμό τηλεφώνου</string>
+    <string name="direct_link_copied_to_clipboard">Ο απευθείας σύνδεσμος αντιγράφηκε στο πρόχειρο</string>
+    <string name="premium_unlocked">Ευχαριστώ. Τώρα μπορείτε να χρησιμοποιήσετε premium λειτουργίες</string>
+    <string name="settings_category_title_developer">Προγραμματιστής</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Βιβλιοθήκες Ανοιχτού Κώδικα</string>
+    <string name="preference_title_application_version">Έκδοση εφαρμογής</string>
+    <string name="preference_title_contact_us">Επικοινωνήστε μαζί μας</string>
+    <string name="preference_title_privacy_policy">Πολιτική Απορρήτου</string>
+    <string name="preference_title_terms_conditions">Οροι και Προϋποθέσεις</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Γενικός</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Σκοτεινή λειτουργία</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Πως δουλεύει\?</string>
+    <string name="ok">Εντάξει</string>
+    <string name="direct_message_help_ans">Εισαγάγετε τον αριθμό τηλεφώνου του παραλήπτη μαζί με το μήνυμα κειμένου σας. Μόλις είστε έτοιμοι να στείλετε το μήνυμα, απλώς κάντε κλικ στο κουμπί «Αποστολή». Εναλλακτικά, μπορείτε επίσης να χρησιμοποιήσετε την επιλογή «Άμεσος σύνδεσμος» για να αντιγράψετε τον σύνδεσμο και να τον μοιραστείτε με τον παραλήπτη. Κάνοντας κλικ στον σύνδεσμο, μπορούν να συνομιλήσουν απευθείας μαζί σας.</string>
+    <string name="click_here_to_grant_required_permissions">Απενεργοποιήστε και ενεργοποιήστε ξανά την άδεια ειδοποίησης.</string>
+    <string name="please_grant_storage_permissions">Παρακαλούμε εκχωρήστε άδειες αποθήκευσης</string>
+    <string name="rate_app">Παρακαλούμε αξιολογήστε την εφαρμογή!</string>
+    <string name="rate_later">Αργότερα</string>
+    <string name="rateUs">Αξιολογήστε την εφαρμογή στο Play Store</string>
+    <string name="send_feedback">Στείλτε μας σχόλια. Θα προσπαθήσουμε να το δουλέψουμε!</string>
+    <string name="try_again">ΠΑΡΑΚΑΛΩ προσπαθησε ξανα</string>
+    <string name="message_copied_to_clipboard">το μήνυμα αντιγράφηκε στο πρόχειρο</string>
+    <string name="system_default">Προεπιλογή συστήματος</string>
+    <string name="restart">Επανεκκίνηση</string>
+    <string name="light">Φως</string>
+    <string name="dark">Σκοτάδι</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Μοιραστείτε το με</string>
+    <string name="direct_link">Αντιγραφή άμεσου συνδέσμου</string>
+    <string name="remove_ads">Αφαίρεσε τις διαφημίσεις</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Τι είναι Web</string>
+    <string name="recover_messages">Ανάκτηση μηνυμάτων</string>
+    <string name="direct_message">Αμεσο μήνυμα</string>
+    <string name="title_refresh">Γεμίζω πάλι</string>
+    <string name="whatsapp_not_installed">Το Whatsapp δεν είναι εγκατεστημένο. Εγκαταστήστε πρώτα το Whatsapp για να χρησιμοποιήσετε αυτήν τη δυνατότητα.</string>
+    <string name="toggle_keyboard">Εναλλαγή πληκτρολογίου</string>
+    <string name="fullscreen">ΠΛΗΡΗΣ ΟΘΟΝΗ</string>
+    <string name="dismiss">Απολύω</string>
+    <string name="keyboard_unblocked">Το πληκτρολόγιο είναι ξεμπλοκαρισμένο.</string>
+    <string name="keyboard_blocked">Το πληκτρολόγιο είναι μπλοκαρισμένο. Πατήστε το εικονίδιο πληκτρολογίου για ξεμπλοκάρισμα.</string>
+    <string name="whats_web_how_it_works">1. Ανοίξτε την εφαρμογή Whats Web στη συσκευή σας.\n\n2. Ανοίξτε το whatsapp σε άλλο smartphone.\n\n* Σε Android -&gt; Από την οθόνη συνομιλιών, μεταβείτε στο μενού με τρεις κουκκίδες που βρίσκεται πάνω δεξιά στην οθόνη -&gt; Συνδεδεμένες συσκευές.\n\n* Στο παράθυρο τηλεφώνου -&gt; Μετάβαση στο μενού με τρεις κουκκίδες -&gt; Συνδεδεμένες συσκευές.\n\n* Στο iPhone -&gt; Μεταβείτε στις Ρυθμίσεις -&gt; Συνδεδεμένες συσκευές.\n\n3. Πατήστε Σύνδεση συσκευής και σαρώστε τον κωδικό QR που εμφανίζεται στην οθόνη αυτής της εφαρμογής σας από άλλο τηλέφωνο.</string>
+    <string name="retry_sending_voice_message">Δοκιμάστε ξανά να στείλετε φωνητικό μήνυμα</string>
+    <string name="message_retry_sending_voice_message">Πατήστε το εικονίδιο του μικροφώνου άλλη μια φορά. Θα πρέπει να λειτουργεί όπως αναμένεται.</string>
+    <string name="retry_camera_capture">Δοκιμάστε ξανά την επιλογή κάμερας</string>
+    <string name="message_retry_camera_capture">Πατήστε το εικονίδιο της κάμερας άλλη μια φορά. Θα πρέπει να λειτουργεί όπως αναμένεται.</string>
+    <string name="audio_perm_reqd">Απαιτείται άδεια ήχου για να προχωρήσετε.</string>
+    <string name="camera_perm_reqd">Απαιτείται άδεια κάμερας για να προχωρήσετε.</string>
+    <string name="reset_reload">Επαναφορά/Επαναφόρτωση</string>
+    <string name="reset_only">ΕΠΑΝΑΦΟΡΑ</string>
+    <string name="reload_only">ΜΟΝΟ ΕΠΑΝΑΦΟΡΤΩΣΗ</string>
+    <string name="reload_warning">Εάν αντιμετωπίζετε προβλήματα που σχετίζονται με τη σύνδεση, δοκιμάστε την \"Επαναφορά\".\nΠΡΟΕΙΔΟΠΟΙΗΣΗ: Ίσως χρειαστεί να συνδεθείτε ξανά εάν χρησιμοποιήσετε την επιλογή \"Επαναφορά\".</string>
+    <string name="download_file">Λήψη αρχείου</string>
+    <string name="couldnt_download_file">Δεν ήταν δυνατή η λήψη του αρχείου</string>
+    <string name="storage_perm_reqd">Απαιτείται άδεια αποθήκευσης για τη λήψη του αρχείου</string>
+    <string name="purchase_item_not_found">Δεν ήταν δυνατή η εύρεση του προϊόντος αγοράς</string>
+    <string name="error">Λάθος</string>
+    <string name="purchase_canceled">Η αγορά ακυρώθηκε</string>
+    <string name="pending_purchase">Η αγορά εκκρεμεί. Παρακαλώ ολοκληρώστε τη συναλλαγή</string>
+    <string name="purchase_status_not_known">Η κατάσταση αγοράς δεν είναι γνωστή</string>
+    <string name="enter_file_name">Εισαγάγετε ένα Όνομα αρχείου</string>
+    <string name="downloading_file">Λήψη του Αρχείου</string>
+    <string name="enter_valid_file_name">Εισαγάγετε ένα έγκυρο όνομα αρχείου</string>
+    <string name="download_has_finished_message">Η λήψη ολοκληρώθηκε. Ελέγξτε τον φάκελο \"Λήψεις\".</string>
+    <string name="could_not_download_file">Δεν ήταν δυνατή η λήψη του αρχείου</string>
+    <string name="loading">Φόρτωση</string>
+    <string name="downloading_update">Λήψη ενημέρωσης</string>
+    <string name="update_downloaded_message">Μόλις έγινε λήψη μιας ενημέρωσης.</string>
+    <string name="keyboard_enable_webview_message">Πατήστε το κουμπί εναλλαγής πληκτρολογίου στο επάνω μέρος για να ενεργοποιήσετε την πληκτρολόγηση</string>
+    <string name="preference_title_bug_report">Αναφορά σφάλματος</string>
+    <string name="preference_title_report_a_issue">Αναφέρετε ένα πρόβλημα</string>
+    <string name="describe_bug">Περιγράψτε το σφάλμα εδώ</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">Ο κατάλογος WhatsApp δεν περιέχει καταστάσεις. Επιλέξτε τον σωστό κατάλογο.</string>
+    <string name="please_select_whatsapp_directory">Επιλέξτε τον κατάλογο WhatsApp!</string>
+    <string name="download_cleaner">Κατεβάστε το Cleaner</string>
+    <string name="download_recover_messages_app">Κατεβάστε την εφαρμογή Ανάκτηση μηνυμάτων</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Για να χρησιμοποιήσετε αυτήν τη δυνατότητα, πρέπει να κάνετε λήψη άλλης εφαρμογής από το play store. Κάντε κλικ στο OK για να ανοίξετε το play store και να κατεβάσετε την εφαρμογή.</string>
+    <string name="cancel">Ματαίωση</string>
+    <string name="ad_space">Διαφημιστικός Χώρος</string>
+    <string name="status">Κατάσταση</string>
+    <string name="theme">Θέμα</string>
+    <string name="more_apps">Περισσότερες εφαρμογές</string>
+    <string name="share">Μερίδιο</string>
+    <string name="send">Στείλετε</string>
+    <string name="select_country_code_and_number">Επιλέξτε κωδικό χώρας και αριθμό</string>
+    <string name="how_it_works">Πως δουλεύει</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Κατεβάστε την εφαρμογή Qr Scanner</string>
+    <string name="share_content">Ετοιμαστείτε να ζήσετε τον πιο γρήγορο τρόπο πρόσβασης στον ίδιο λογαριασμό WhatsApp σε δύο διαφορετικά smartphone ή tablet, όλα δωρεάν! Κατεβάστε και εγκαταστήστε την εφαρμογή τώρα.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

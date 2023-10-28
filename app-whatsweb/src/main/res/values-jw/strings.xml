@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Nganyari wis rampung</string>
+    <string name="app_update_alert_dialog_subtitle">Wiwiti maneh app kanggo aplikasi nganyari…</string>
+    <string name="help">Pitulung</string>
+    <string name="cleaner">luwih resik</string>
+    <string name="status_saver">Status Saver</string>
+    <string name="settings">Setelan</string>
+    <string name="saved_statuses_appear_here">Ora Ana Status sing kasedhiya!</string>
+    <string name="available_statuses">kasedhiya</string>
+    <string name="saved_statuses">Disimpen</string>
+    <string name="enter_message">Ketik Pesen (Opsional)</string>
+    <string name="enter_phone_number">Ketik Nomer Telpon</string>
+    <string name="send_message">Kirimi Pesen</string>
+    <string name="enter_a_phone_number">Ketik nomer telpon</string>
+    <string name="direct_link_copied_to_clipboard">Link langsung disalin menyang clipboard</string>
+    <string name="premium_unlocked">matur nuwun. Sampeyan saiki bisa nggunakake fitur premium</string>
+    <string name="settings_category_title_developer">pangembang</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Pustaka Open Source</string>
+    <string name="preference_title_application_version">Versi App</string>
+    <string name="preference_title_contact_us">Hubungi Kita</string>
+    <string name="preference_title_privacy_policy">Kebijakan Privasi</string>
+    <string name="preference_title_terms_conditions">Syarat-syarat lan kahanan</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Umum</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Mode peteng</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Cara kerjane\?</string>
+    <string name="ok">OK</string>
+    <string name="direct_message_help_ans">Mangga ketik nomer telpon panampa bebarengan karo pesen teks. Yen wis siyap ngirim pesen, mung klik tombol \'Kirim\'. Utawa, sampeyan uga bisa nggunakake pilihan \'Link Langsung\' kanggo nyalin link lan nuduhake karo panampa. Kanthi ngeklik link kasebut, dheweke bisa ngobrol langsung karo sampeyan.</string>
+    <string name="click_here_to_grant_required_permissions">Pateni lan aktifake maneh ijin kabar.</string>
+    <string name="please_grant_storage_permissions">Mangga wenehi ijin Panyimpenan</string>
+    <string name="rate_app">Mangga menehi rating app!</string>
+    <string name="rate_later">mengko</string>
+    <string name="rateUs">Mangga Rate app ing Play Store</string>
+    <string name="send_feedback">Mangga ngirim kita saran. Kita bakal nyoba kanggo nggarap!</string>
+    <string name="try_again">Mangga nyoba maneh</string>
+    <string name="message_copied_to_clipboard">pesen disalin menyang clipboard</string>
+    <string name="system_default">Sistem Default</string>
+    <string name="restart">Baleni meneh</string>
+    <string name="light">cahya</string>
+    <string name="dark">peteng</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Nuduhake karo</string>
+    <string name="direct_link">Nyalin Link Langsung</string>
+    <string name="remove_ads">Mbusak Iklan</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Apa Web</string>
+    <string name="recover_messages">Waras Pesen</string>
+    <string name="direct_message">Pesen Langsung</string>
+    <string name="title_refresh">Muat maneh</string>
+    <string name="whatsapp_not_installed">Whatsapp ora diinstal. Mangga instal Whatsapp dhisik kanggo nggunakake fitur iki.</string>
+    <string name="toggle_keyboard">Ngalih Keyboard</string>
+    <string name="fullscreen">Layar Lengkap</string>
+    <string name="dismiss">Ngilangi</string>
+    <string name="keyboard_unblocked">Papan tombol ora diblokir.</string>
+    <string name="keyboard_blocked">Papan tombol diblokir. Pencet lambang keyboard kanggo mbukak blokir.</string>
+    <string name="whats_web_how_it_works">1. Bukak aplikasi Whats Web ing piranti sampeyan.\n\n2. Bukak whatsapp ing smartphone liyane.\n\n* Ing Android -&gt; Saka layar obrolan, pindhah menyang menu telung titik sing ana ing sisih tengen ndhuwur layar -&gt; Piranti sing gegandhengan.\n\n* Ing telpon Window -&gt; Menyang menu telung titik -&gt; Piranti sing disambung.\n\n* Ing iPhone -&gt; Pindhah menyang Setelan -&gt; Piranti sing disambung.\n\n3. Tutul Link piranti lan pindai Kode QR sing ditampilake ing layar aplikasi iki saka telpon liya.</string>
+    <string name="retry_sending_voice_message">Coba maneh ngirim pesen swara</string>
+    <string name="message_retry_sending_voice_message">Pencet lambang mikropon maneh. Mesthine bisa digunakake kaya sing dikarepake.</string>
+    <string name="retry_camera_capture">Coba maneh opsi Kamera</string>
+    <string name="message_retry_camera_capture">Pencet lambang kamera maneh. Mesthine bisa digunakake kaya sing dikarepake.</string>
+    <string name="audio_perm_reqd">Ijin audio dibutuhake kanggo maju.</string>
+    <string name="camera_perm_reqd">Ijin kamera dibutuhake kanggo maju.</string>
+    <string name="reset_reload">Reset/Muat maneh</string>
+    <string name="reset_only">RESET</string>
+    <string name="reload_only">RELOAD ONLY</string>
+    <string name="reload_warning">Yen sampeyan ngalami masalah sing ana gandhengane karo login, coba \'Reset\'.\nPÈNGET: Sampeyan bisa uga kudu mlebet maneh yen sampeyan nggunakake \'Reset\'.</string>
+    <string name="download_file">Ngundhuh File</string>
+    <string name="couldnt_download_file">File ora bisa diundhuh</string>
+    <string name="storage_perm_reqd">Ijin panyimpenan dibutuhake kanggo ndownload file</string>
+    <string name="purchase_item_not_found">Item Tuku ora bisa ditemokake</string>
+    <string name="error">Kesalahan</string>
+    <string name="purchase_canceled">Tuku dibatalake</string>
+    <string name="pending_purchase">Tuku ditundha. Mangga ngrampungake Transaksi</string>
+    <string name="purchase_status_not_known">Status Tuku ora dingerteni</string>
+    <string name="enter_file_name">Ketik Jeneng File</string>
+    <string name="downloading_file">Ngundhuh File</string>
+    <string name="enter_valid_file_name">Mangga ketik jeneng berkas sing bener</string>
+    <string name="download_has_finished_message">Download wis rampung. Mangga dipriksa folder Downloads.</string>
+    <string name="could_not_download_file">Ora bisa ngundhuh File</string>
+    <string name="loading">Loading</string>
+    <string name="downloading_update">Ngundhuh nganyari</string>
+    <string name="update_downloaded_message">Nganyari lagi wae diundhuh.</string>
+    <string name="keyboard_enable_webview_message">Pencet tombol toggle keyboard ing ndhuwur kanggo ngaktifake ngetik</string>
+    <string name="preference_title_bug_report">Laporan bug</string>
+    <string name="preference_title_report_a_issue">Laporan Masalah</string>
+    <string name="describe_bug">Mangga njlèntrèhaké bug ing kene</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">Direktori WhatsApp ora ngemot Status. Mangga pilih direktori sing bener.</string>
+    <string name="please_select_whatsapp_directory">Mangga pilih direktori WhatsApp!</string>
+    <string name="download_cleaner">Unduh Cleaner</string>
+    <string name="download_recover_messages_app">Unduh Aplikasi Pesen Waras</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Kanggo nggunakake fitur iki, sampeyan kudu ndownload app liyane saka play store. Klik OK kanggo mbukak play store lan ndownload app.</string>
+    <string name="cancel">Batal</string>
+    <string name="ad_space">Spasi Iklan</string>
+    <string name="status">Status</string>
+    <string name="theme">Tema</string>
+    <string name="more_apps">Aplikasi liyane</string>
+    <string name="share">Nuduhake</string>
+    <string name="send">Ngirim</string>
+    <string name="select_country_code_and_number">Pilih kode negara lan nomer</string>
+    <string name="how_it_works">Cara kerjane</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Unduh aplikasi Qr Scanner</string>
+    <string name="share_content">Siapke nemu cara paling cepet kanggo ngakses akun WhatsApp sing padha ing rong smartphone utawa tablet sing beda, kabeh gratis! Ngundhuh lan nginstal app saiki.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">ການອັບເດດສຳເລັດແລ້ວ</string>
+    <string name="app_update_alert_dialog_subtitle">ຣີສະຕາດແອັບເພື່ອນຳໃຊ້ການອັບເດດ...</string>
+    <string name="help">ຊ່ວຍເຫຼືອ</string>
+    <string name="cleaner">ສະອາດ</string>
+    <string name="status_saver">ຕົວປະຢັດສະຖານະ</string>
+    <string name="settings">ການຕັ້ງຄ່າ</string>
+    <string name="saved_statuses_appear_here">ບໍ່ມີສະຖານະ!</string>
+    <string name="available_statuses">ມີໃຫ້</string>
+    <string name="saved_statuses">ບັນທຶກແລ້ວ</string>
+    <string name="enter_message">ປ້ອນຂໍ້ຄວາມ (ທາງເລືອກ)</string>
+    <string name="enter_phone_number">ໃສ່ເບີໂທລະສັບ</string>
+    <string name="send_message">ສົ່ງ​ຂໍ້​ຄວາມ</string>
+    <string name="enter_a_phone_number">ໃສ່ເບີໂທລະສັບ</string>
+    <string name="direct_link_copied_to_clipboard">ສຳເນົາລິ້ງໂດຍກົງໃສ່ຄລິບບອດແລ້ວ</string>
+    <string name="premium_unlocked">ຂອບ​ໃຈ. ຕອນນີ້ທ່ານສາມາດໃຊ້ຄຸນສົມບັດພຣີມຽມໄດ້ແລ້ວ</string>
+    <string name="settings_category_title_developer">ນັກພັດທະນາ</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Open Source Libraries</string>
+    <string name="preference_title_application_version">ເວີຊັນແອັບ</string>
+    <string name="preference_title_contact_us">ຕິດ​ຕໍ່​ພວກ​ເຮົາ</string>
+    <string name="preference_title_privacy_policy">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ</string>
+    <string name="preference_title_terms_conditions">ເງື່ອນໄຂແລະເງື່ອນໄຂ</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">ທົ່ວໄປ</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">ໂໝດມືດ</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">ມັນເຮັດວຽກແນວໃດ\?</string>
+    <string name="ok">ຕົກ​ລົງ</string>
+    <string name="direct_message_help_ans">ກະລຸນາໃສ່ເບີໂທລະສັບຂອງຜູ້ຮັບພ້ອມກັບຂໍ້ຄວາມຂອງທ່ານ. ເມື່ອທ່ານພ້ອມທີ່ຈະສົ່ງຂໍ້ຄວາມ, ພຽງແຕ່ຄລິກໃສ່ປຸ່ມ \'ສົ່ງ\'. ອີກທາງເລືອກ, ທ່ານຍັງສາມາດໃຊ້ທາງເລືອກ \'Direct Link\' ເພື່ອຄັດລອກລິ້ງແລະແບ່ງປັນກັບຜູ້ຮັບ. ໂດຍການຄລິກໃສ່ການເຊື່ອມຕໍ່, ເຂົາເຈົ້າສາມາດສົນທະນາກັບທ່ານໂດຍກົງ.</string>
+    <string name="click_here_to_grant_required_permissions">ປິດການໃຊ້ງານ ແລະເປີດການອະນຸຍາດການແຈ້ງເຕືອນຄືນໃໝ່.</string>
+    <string name="please_grant_storage_permissions">ກະລຸນາໃຫ້ການອະນຸຍາດບ່ອນເກັບຂໍ້ມູນ</string>
+    <string name="rate_app">ກະລຸນາໃຫ້ຄະແນນ app!</string>
+    <string name="rate_later">ຕໍ່ມາ</string>
+    <string name="rateUs">ກະລຸນາໃຫ້ຄະແນນແອັບໃນ Play Store</string>
+    <string name="send_feedback">ກະລຸນາສົ່ງຄຳຕິຊົມໃຫ້ພວກເຮົາ. ພວກເຮົາຈະພະຍາຍາມເຮັດວຽກກັບມັນ!</string>
+    <string name="try_again">ກະລຸນາລອງອີກຄັ້ງ</string>
+    <string name="message_copied_to_clipboard">ສຳເນົາຂໍ້ຄວາມໃສ່ຄລິບບອດແລ້ວ</string>
+    <string name="system_default">ຄ່າເລີ່ມຕົ້ນຂອງລະບົບ</string>
+    <string name="restart">ເລີ່ມ​ຕົ້ນ​ໃຫມ່</string>
+    <string name="light">ແສງສະຫວ່າງ</string>
+    <string name="dark">ມືດ</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">ແບ່ງປັນກັບ</string>
+    <string name="direct_link">ສຳເນົາລິ້ງໂດຍກົງ</string>
+    <string name="remove_ads">ເອົາໂຄສະນາອອກ</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">ແມ່ນຫຍັງເວັບ</string>
+    <string name="recover_messages">ກູ້ຄືນຂໍ້ຄວາມ</string>
+    <string name="direct_message">ຂໍ້ຄວາມໂດຍກົງ</string>
+    <string name="title_refresh">ໂຫຼດໃໝ່</string>
+    <string name="whatsapp_not_installed">Whatsapp ບໍ່ໄດ້ຕິດຕັ້ງ. ກະລຸນາຕິດຕັ້ງ Whatsapp ເພື່ອໃຊ້ຄຸນສົມບັດນີ້ກ່ອນ.</string>
+    <string name="toggle_keyboard">ສະຫຼັບແປ້ນພິມ</string>
+    <string name="fullscreen">ເຕັມ​ຈໍ</string>
+    <string name="dismiss">ປິດ</string>
+    <string name="keyboard_unblocked">ແປ້ນພິມຖືກປົດບລັອກ.</string>
+    <string name="keyboard_blocked">ແປ້ນພິມຖືກບລັອກ. ກົດໄອຄອນແປ້ນພິມເພື່ອປົດບລັອກ.</string>
+    <string name="whats_web_how_it_works">1. ເປີດແອັບພລິເຄຊັນ Whats Web ໃນອຸປະກອນຂອງທ່ານ.\n\n2. ເປີດ whatsapp ໃນໂທລະສັບສະຫຼາດອື່ນ.\n\n* ໃນ Android -&gt; ຈາກ​ຫນ້າ​ຈໍ​ສົນ​ທະ​ນາ​, ໄປ​ທີ່​ເມ​ນູ​ສາມ​ຈຸດ​ຕັ້ງ​ຢູ່​ໃນ​ດ້ານ​ຂວາ​ເທິງ​ຂອງ​ຫນ້າ​ຈໍ -​&gt; ອຸ​ປະ​ກອນ​ເຊື່ອມ​ຕໍ່​.\n\n* ໃນ​ໂທລະ​ສັບ Window -​&gt; ໄປ​ທີ່​ເມ​ນູ​ສາມ​ຈຸດ -​&gt; ອຸ​ປະ​ກອນ​ທີ່​ເຊື່ອມ​ຕໍ່​.\n\n* ໃນ iPhone -&gt; ໄປທີ່ Settings -&gt; ອຸປະກອນເຊື່ອມຕໍ່.\n\n3. ແຕະທີ່ເຊື່ອມຕໍ່ອຸປະກອນໃດໜຶ່ງ ແລະສະແກນລະຫັດ QR ທີ່ສະແດງຢູ່ໃນໜ້າຈໍແອັບນີ້ຂອງເຈົ້າຈາກໂທລະສັບເຄື່ອງອື່ນ.</string>
+    <string name="retry_sending_voice_message">ກະລຸນາລອງສົ່ງຂໍ້ຄວາມສຽງອີກຄັ້ງ</string>
+    <string name="message_retry_sending_voice_message">ກົດໄອຄອນໄມໂຄຣໂຟນອີກຄັ້ງ. ມັນຄວນຈະເຮັດວຽກຕາມທີ່ຄາດໄວ້.</string>
+    <string name="retry_camera_capture">ກະລຸນາລອງຕົວເລືອກກ້ອງຖ່າຍຮູບຄືນໃໝ່</string>
+    <string name="message_retry_camera_capture">ກົດໄອຄອນກ້ອງຖ່າຍຮູບອີກຄັ້ງ. ມັນຄວນຈະເຮັດວຽກຕາມທີ່ຄາດໄວ້.</string>
+    <string name="audio_perm_reqd">ຕ້ອງມີການອະນຸຍາດສຽງເພື່ອກ້າວໄປຂ້າງໜ້າ.</string>
+    <string name="camera_perm_reqd">ຕ້ອງມີການອະນຸຍາດກ້ອງຖ່າຍຮູບເພື່ອກ້າວໄປຂ້າງໜ້າ.</string>
+    <string name="reset_reload">ຣີເຊັດ/ໂຫຼດໃໝ່</string>
+    <string name="reset_only">ຣີເຊັດ</string>
+    <string name="reload_only">ໂຫຼດໃໝ່ເທົ່ານັ້ນ</string>
+    <string name="reload_warning">ຖ້າທ່ານກໍາລັງປະສົບບັນຫາທີ່ກ່ຽວຂ້ອງກັບການເຂົ້າສູ່ລະບົບ, ໃຫ້ລອງ \'ຣີເຊັດ\'.\nຄໍາເຕືອນ: ທ່ານອາດຈະຕ້ອງເຂົ້າສູ່ລະບົບອີກຄັ້ງຖ້າທ່ານໃຊ້ \'Reset\'.</string>
+    <string name="download_file">ກຳລັງດາວໂຫຼດໄຟລ໌</string>
+    <string name="couldnt_download_file">ບໍ່ສາມາດດາວໂຫຼດໄຟລ໌ໄດ້</string>
+    <string name="storage_perm_reqd">ການ​ອະ​ນຸ​ຍາດ​ການ​ເກັບ​ຮັກ​ສາ​ທີ່​ຈໍາ​ເປັນ​ເພື່ອ​ດາວ​ໂຫລດ​ໄຟລ​໌​</string>
+    <string name="purchase_item_not_found">ບໍ່ພົບລາຍການຊື້</string>
+    <string name="error">ຜິດພາດ</string>
+    <string name="purchase_canceled">ຍົກເລີກການຊື້</string>
+    <string name="pending_purchase">ການຊື້ແມ່ນລໍຖ້າຢູ່. ກະລຸນາເຮັດທຸລະກໍາ</string>
+    <string name="purchase_status_not_known">ສະຖານະການຊື້ແມ່ນບໍ່ຮູ້ຈັກ</string>
+    <string name="enter_file_name">ໃສ່ຊື່ໄຟລ໌</string>
+    <string name="downloading_file">ກຳລັງດາວໂຫຼດໄຟລ໌</string>
+    <string name="enter_valid_file_name">ກະລຸນາໃສ່ຊື່ໄຟລ໌ທີ່ຖືກຕ້ອງ</string>
+    <string name="download_has_finished_message">ການດາວໂຫຼດສຳເລັດແລ້ວ. ກະລຸນາກວດເບິ່ງໂຟນເດີດາວໂຫຼດ.</string>
+    <string name="could_not_download_file">ບໍ່ສາມາດດາວໂຫຼດ File ໄດ້</string>
+    <string name="loading">ກຳລັງໂຫຼດ</string>
+    <string name="downloading_update">ກຳລັງດາວໂຫລດອັບເດດ</string>
+    <string name="update_downloaded_message">ການອັບເດດຫາກໍ່ຖືກດາວໂຫຼດ.</string>
+    <string name="keyboard_enable_webview_message">ກົດປຸ່ມສະຫຼັບແປ້ນພິມຢູ່ເທິງສຸດເພື່ອເປີດໃຊ້ການພິມ</string>
+    <string name="preference_title_bug_report">ລາຍງານຂໍ້ຜິດພາດ</string>
+    <string name="preference_title_report_a_issue">ລາຍງານບັນຫາ</string>
+    <string name="describe_bug">ກະລຸນາອະທິບາຍຂໍ້ບົກພ່ອງທີ່ນີ້</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">ໄດເລກະທໍລີ WhatsApp ບໍ່ມີສະຖານະພາບ. ກະລຸນາເລືອກລາຍການທີ່ຖືກຕ້ອງ.</string>
+    <string name="please_select_whatsapp_directory">ກະລຸນາເລືອກລາຍການ WhatsApp!</string>
+    <string name="download_cleaner">ດາວໂຫລດ Cleaner</string>
+    <string name="download_recover_messages_app">ດາວໂຫຼດແອັບ Recover Messages</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">ເພື່ອໃຊ້ຄຸນສົມບັດນີ້, ທ່ານຈໍາເປັນຕ້ອງໄດ້ດາວໂຫລດແອັບຯອື່ນຈາກ play store. ຄລິກຕົກລົງເພື່ອເປີດຮ້ານຫຼິ້ນ ແລະດາວໂຫຼດແອັບ.</string>
+    <string name="cancel">ຍົກເລີກ</string>
+    <string name="ad_space">ຊ່ອງໂຄສະນາ</string>
+    <string name="status">ສະຖານະ</string>
+    <string name="theme">ຫົວຂໍ້</string>
+    <string name="more_apps">ແອັບເພີ່ມເຕີມ</string>
+    <string name="share">ແບ່ງປັນ</string>
+    <string name="send">ສົ່ງ</string>
+    <string name="select_country_code_and_number">ເລືອກລະຫັດປະເທດ ແລະຕົວເລກ</string>
+    <string name="how_it_works">ມັນເຮັດວຽກແນວໃດ</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">ດາວໂຫລດແອັບ Qr Scanner</string>
+    <string name="share_content">ກຽມພ້ອມທີ່ຈະປະສົບກັບວິທີທີ່ໄວທີ່ສຸດໃນການເຂົ້າເຖິງບັນຊີ WhatsApp ດຽວກັນໃນສອງໂທລະສັບສະຫຼາດຫຼືແທັບເລັດທີ່ແຕກຕ່າງກັນ, ທັງຫມົດຟຣີ! ດາວ​ນ​໌​ໂຫລດ​ແລະ​ຕິດ​ຕັ້ງ app ໃນ​ປັດ​ຈຸ​ບັນ​.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

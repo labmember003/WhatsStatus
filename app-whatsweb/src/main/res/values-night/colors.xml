@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#0B8E7F</color>
+    <color name="colorPrimaryDark">#087F70</color>
+
+    <color name="navViewTextColor">@color/grey_400</color>
+    <color name="textColorHeading">@android:color/primary_text_dark</color>
+    <color name="backgroundColorDefault">@color/black</color>
+    <color name="backgroundTintDefault">@color/white</color>
+    <color name="direct_message_background_color">@color/grey_900</color>
+
+    <color name="direct_chat_cardview_background_color">@color/grey_900</color>
+    <color name="direct_chat_background_color">#075e54</color>
+</resources>

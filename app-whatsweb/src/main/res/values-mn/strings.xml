@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Шинэчлэлт дууслаа</string>
+    <string name="app_update_alert_dialog_subtitle">Шинэчлэлтүүдийг хэрэгжүүлэхийн тулд програмыг дахин эхлүүлнэ үү...</string>
+    <string name="help">Туслаач</string>
+    <string name="cleaner">Цэвэрлэгч</string>
+    <string name="status_saver">Статус хэмнэгч</string>
+    <string name="settings">Тохиргоо</string>
+    <string name="saved_statuses_appear_here">Статус байхгүй!</string>
+    <string name="available_statuses">Боломжтой</string>
+    <string name="saved_statuses">Хадгалсан</string>
+    <string name="enter_message">Мессеж оруулна уу (заавал биш)</string>
+    <string name="enter_phone_number">Утасны дугаар оруулна уу</string>
+    <string name="send_message">Зурвас илгээх</string>
+    <string name="enter_a_phone_number">Утасны дугаар оруулна уу</string>
+    <string name="direct_link_copied_to_clipboard">Шууд холбоосыг санах ой руу хуулсан</string>
+    <string name="premium_unlocked">Баярлалаа. Та одоо дээд зэрэглэлийн функцуудыг ашиглах боломжтой</string>
+    <string name="settings_category_title_developer">Хөгжүүлэгч</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Нээлттэй эхийн номын сангууд</string>
+    <string name="preference_title_application_version">Програмын хувилбар</string>
+    <string name="preference_title_contact_us">Бидэнтэй холбоо барина уу</string>
+    <string name="preference_title_privacy_policy">Нууцлалын бодлого</string>
+    <string name="preference_title_terms_conditions">Нөхцөл ба нөхцөл</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Генерал</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Харанхуй горим</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Хэрхэн ажилладаг\?</string>
+    <string name="ok">БОЛЖ БАЙНА УУ</string>
+    <string name="direct_message_help_ans">Хүлээн авагчийн утасны дугаарыг мессежийн хамт оруулна уу. Та мессеж илгээхэд бэлэн болсны дараа \"Илгээх\" товчийг дарна уу. Мөн та холбоосыг хуулж, хүлээн авагчтай хуваалцахын тулд \"Шууд холбоос\" сонголтыг ашиглаж болно. Холбоос дээр дарснаар тэд тантай шууд чатлах боломжтой.</string>
+    <string name="click_here_to_grant_required_permissions">Мэдэгдлийн зөвшөөрлийг идэвхгүй болгож, дахин идэвхжүүлнэ үү.</string>
+    <string name="please_grant_storage_permissions">Хадгалах зөвшөөрлийг өгнө үү</string>
+    <string name="rate_app">Аппликешныг үнэлнэ үү!</string>
+    <string name="rate_later">Дараа нь</string>
+    <string name="rateUs">Play Store дээрх програмыг үнэлнэ үү</string>
+    <string name="send_feedback">Бидэнд санал хүсэлтээ илгээнэ үү. Бид үүн дээр ажиллахыг хичээх болно!</string>
+    <string name="try_again">Дахин оролдоно уу</string>
+    <string name="message_copied_to_clipboard">мессежийг санах ой руу хуулсан</string>
+    <string name="system_default">Системийн өгөгдмөл</string>
+    <string name="restart">Дахин ачааллах</string>
+    <string name="light">Гэрэл</string>
+    <string name="dark">Харанхуй</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Хуваалц</string>
+    <string name="direct_link">Шууд холбоосыг хуулах</string>
+    <string name="remove_ads">Зарыг устгах</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Вэб юу вэ</string>
+    <string name="recover_messages">Мессежийг сэргээх</string>
+    <string name="direct_message">Шууд мессеж</string>
+    <string name="title_refresh">Дахин ачаалах</string>
+    <string name="whatsapp_not_installed">Whatsapp суулгаагүй байна. Энэ функцийг ашиглахын тулд эхлээд Whatsapp суулгана уу.</string>
+    <string name="toggle_keyboard">Гарыг асаах/унтраах</string>
+    <string name="fullscreen">Дэлгэц дүүрэн</string>
+    <string name="dismiss">Өгүүлэх</string>
+    <string name="keyboard_unblocked">Гарны блокыг тайлсан.</string>
+    <string name="keyboard_blocked">Гар блоклогдсон байна. Түгжээг тайлахын тулд гарын дүрсийг дарна уу.</string>
+    <string name="whats_web_how_it_works">1. Төхөөрөмж дээрээ Whats Web програмыг нээнэ үү.\n\n2. Өөр ухаалаг утсан дээр whatsapp-ыг нээнэ үү.\n\n* Android дээр -&gt; Чатын дэлгэцээс дэлгэцийн баруун дээд хэсэгт байрлах гурван цэгийн цэс -&gt; Холбогдсон төхөөрөмжүүд рүү очно уу.\n\n* Цонхны утсан дээр -&gt; Гурван цэгийн цэс рүү очих -&gt; Холбогдсон төхөөрөмжүүд.\n\n* iPhone дээр -&gt; Тохиргоо -&gt; Холбогдсон төхөөрөмжүүд рүү очно уу.\n\n3. \"Төхөөрөмжийг холбох\" дээр товшоод, энэ програмын дэлгэц дээр гарч буй QR кодыг өөр утаснаас уншина уу.</string>
+    <string name="retry_sending_voice_message">Дуут мессеж илгээж дахин оролдоно уу</string>
+    <string name="message_retry_sending_voice_message">Микрофоны дүрсийг дахин нэг удаа дар. Энэ нь хүлээгдэж буй байдлаар ажиллах ёстой.</string>
+    <string name="retry_camera_capture">Камерын сонголтыг дахин оролдоно уу</string>
+    <string name="message_retry_camera_capture">Камерын дүрсийг дахин нэг удаа дар. Энэ нь хүлээгдэж буй байдлаар ажиллах ёстой.</string>
+    <string name="audio_perm_reqd">Үргэлжлүүлэхийн тулд аудио зөвшөөрөл шаардлагатай.</string>
+    <string name="camera_perm_reqd">Үргэлжлүүлэхийн тулд камерын зөвшөөрөл шаардлагатай.</string>
+    <string name="reset_reload">Дахин тохируулах/дахин ачаалах</string>
+    <string name="reset_only">RESET</string>
+    <string name="reload_only">ЗӨВХӨН ДАХИН АЧААРАЙ</string>
+    <string name="reload_warning">Хэрэв танд нэвтрэхтэй холбоотой асуудал гарвал \"Дахин тохируулах\"-г оролдоно уу.\nАНХААРУУЛГА: Хэрэв та \"Дахин тохируулах\"-ыг ашиглавал дахин нэвтрэх шаардлагатай болно.</string>
+    <string name="download_file">Файл татаж байна</string>
+    <string name="couldnt_download_file">Файлыг татаж чадсангүй</string>
+    <string name="storage_perm_reqd">Файлыг татаж авахад хадгалах зөвшөөрөл шаардлагатай</string>
+    <string name="purchase_item_not_found">Худалдан авсан зүйл олдсонгүй</string>
+    <string name="error">Алдаа</string>
+    <string name="purchase_canceled">Худалдан авалтыг цуцалсан</string>
+    <string name="pending_purchase">Худалдан авалт хүлээгдэж байна. Гүйлгээг дуусгана уу</string>
+    <string name="purchase_status_not_known">Худалдан авалтын статус тодорхойгүй байна</string>
+    <string name="enter_file_name">Файлын нэр оруулна уу</string>
+    <string name="downloading_file">Файлыг татаж авч байна</string>
+    <string name="enter_valid_file_name">Хүчинтэй файлын нэрийг оруулна уу</string>
+    <string name="download_has_finished_message">Татаж дууссан. Татаж авсан файлын хавтсыг шалгана уу.</string>
+    <string name="could_not_download_file">Файлыг татаж чадсангүй</string>
+    <string name="loading">Ачааж байна</string>
+    <string name="downloading_update">Шинэчлэлтийг татаж байна</string>
+    <string name="update_downloaded_message">Шинэчлэлтийг саяхан татаж авлаа.</string>
+    <string name="keyboard_enable_webview_message">Бичихийг идэвхжүүлэхийн тулд дээд талын товчлуурыг дарна уу</string>
+    <string name="preference_title_bug_report">Алдааны тайлан</string>
+    <string name="preference_title_report_a_issue">Асуудлыг мэдээлэх</string>
+    <string name="describe_bug">Алдааг энд тайлбарлана уу</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">WhatsApp лавлах нь Статус агуулдаггүй. Зөв лавлахыг сонгоно уу.</string>
+    <string name="please_select_whatsapp_directory">WhatsApp лавлахыг сонгоно уу!</string>
+    <string name="download_cleaner">Цэвэрлэгч татаж авах</string>
+    <string name="download_recover_messages_app">Мессеж сэргээх програмыг татаж аваарай</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Энэ функцийг ашиглахын тулд та play store-оос өөр програм татаж авах хэрэгтэй. OK товчийг дарж, тоглоомын дэлгүүрийг нээж, програмыг татаж авна уу.</string>
+    <string name="cancel">Цуцлах</string>
+    <string name="ad_space">Зар сурталчилгааны орон зай</string>
+    <string name="status">Статус</string>
+    <string name="theme">Сэдэв</string>
+    <string name="more_apps">Илүү их апп-ууд</string>
+    <string name="share">Хуваалцах</string>
+    <string name="send">Илгээх</string>
+    <string name="select_country_code_and_number">Улсын код болон дугаарыг сонгоно уу</string>
+    <string name="how_it_works">Хэрхэн ажилладаг</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Qr Scanner програмыг татаж авах</string>
+    <string name="share_content">Хоёр өөр ухаалаг гар утас эсвэл таблет дээр нэг WhatsApp данс руу нэвтрэх хамгийн хурдан аргыг ашиглахад бэлэн байгаарай! Одоо програмыг татаж аваад суулгана уу.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

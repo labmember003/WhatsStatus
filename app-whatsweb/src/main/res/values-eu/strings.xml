@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Eguneraketa osatu da</string>
+    <string name="app_update_alert_dialog_subtitle">Berrabiarazi aplikazioa eguneraketak aplikatzeko...</string>
+    <string name="help">Laguntza</string>
+    <string name="cleaner">Garbitzailea</string>
+    <string name="status_saver">Egoera-aurrezlea</string>
+    <string name="settings">Ezarpenak</string>
+    <string name="saved_statuses_appear_here">Ez dago egoerarik eskuragarri!</string>
+    <string name="available_statuses">Eskuragarri</string>
+    <string name="saved_statuses">Gordeta</string>
+    <string name="enter_message">Sartu mezua (aukerakoa)</string>
+    <string name="enter_phone_number">Sartu telefono zenbakia</string>
+    <string name="send_message">Mezua bidali</string>
+    <string name="enter_a_phone_number">Sartu telefono-zenbaki bat</string>
+    <string name="direct_link_copied_to_clipboard">Esteka zuzena arbelean kopiatu da</string>
+    <string name="premium_unlocked">Eskerrik asko. Orain premium funtzioak erabil ditzakezu</string>
+    <string name="settings_category_title_developer">Garatzailea</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Kode irekiko liburutegiak</string>
+    <string name="preference_title_application_version">Aplikazioaren bertsioa</string>
+    <string name="preference_title_contact_us">Jarri gurekin harremanetan</string>
+    <string name="preference_title_privacy_policy">Pribatutasun politika</string>
+    <string name="preference_title_terms_conditions">Baldintzak eta Baldintzak</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Orokorra</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Modu iluna</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Nola dabil\?</string>
+    <string name="ok">Ados</string>
+    <string name="direct_message_help_ans">Mesedez, idatzi hartzailearen telefono-zenbakia zure testu-mezuarekin batera. Mezua bidaltzeko prest zaudenean, egin klik \'Bidali\' botoian. Bestela, \'Lotura zuzena\' aukera ere erabil dezakezu esteka kopiatzeko eta hartzailearekin partekatzeko. Estekan klik eginez, zuzenean txateatu ahal izango dute zurekin.</string>
+    <string name="click_here_to_grant_required_permissions">Desgaitu eta berriro gaitu jakinarazpen-baimena.</string>
+    <string name="please_grant_storage_permissions">Mesedez, eman Biltegiratze-baimenak</string>
+    <string name="rate_app">Mesedez, baloratu aplikazioa!</string>
+    <string name="rate_later">Beranduago</string>
+    <string name="rateUs">Mesedez, baloratu aplikazioa Play Store-n</string>
+    <string name="send_feedback">Mesedez, bidal iezaguzu iritzia. Lantzen saiatuko gara!</string>
+    <string name="try_again">Saiatu berriro mesedez</string>
+    <string name="message_copied_to_clipboard">mezua arbelean kopiatu da</string>
+    <string name="system_default">Sistema lehenetsia</string>
+    <string name="restart">Berriro hasi</string>
+    <string name="light">Argia</string>
+    <string name="dark">Iluna</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Partekatu honekin</string>
+    <string name="direct_link">Kopiatu Zuzeneko Esteka</string>
+    <string name="remove_ads">Kendu iragarkiak</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Zer da Weba</string>
+    <string name="recover_messages">Berreskuratu mezuak</string>
+    <string name="direct_message">Zuzeneko mezua</string>
+    <string name="title_refresh">Berriz kargatu</string>
+    <string name="whatsapp_not_installed">Whatsapp ez dago instalatuta. Mesedez, instalatu Whatsapp funtzio hau erabiltzeko.</string>
+    <string name="toggle_keyboard">Aldatu teklatua</string>
+    <string name="fullscreen">Pantaila osoa</string>
+    <string name="dismiss">Baztertu</string>
+    <string name="keyboard_unblocked">Teklatua desblokeatuta dago.</string>
+    <string name="keyboard_blocked">Teklatua blokeatuta dago. Sakatu teklatuaren ikonoa desblokeatzeko.</string>
+    <string name="whats_web_how_it_works">1. Ireki Whats Web aplikazioa zure gailuan.\n\n2. Ireki whatsapp beste smartphone batean.\n\n* Android-en -&gt; Txat-pantailatik, joan pantailaren goiko eskuinaldean dagoen hiru puntuko menura -&gt; Lotutako gailuak.\n\n* Window telefonoan -&gt; Joan hiru puntuko menura -&gt; Lotutako gailuak.\n\n* iPhonean -&gt; Joan Ezarpenak -&gt; Lotutako gailuak.\n\n3. Ukitu Lotu gailu bat eta eskaneatu zure aplikazioaren pantailan bistaratzen den QR kodea beste telefono batetik.</string>
+    <string name="retry_sending_voice_message">Mesedez, saiatu berriro ahots-mezua bidaltzen</string>
+    <string name="message_retry_sending_voice_message">Sakatu mikrofonoaren ikonoa beste behin. Espero bezala funtzionatu beharko luke.</string>
+    <string name="retry_camera_capture">Saiatu berriro Kamera aukera</string>
+    <string name="message_retry_camera_capture">Sakatu kameraren ikonoa beste behin. Espero bezala funtzionatu beharko luke.</string>
+    <string name="audio_perm_reqd">Audio-baimena behar da aurrera egiteko.</string>
+    <string name="camera_perm_reqd">Kameraren baimena behar da aurrera egiteko.</string>
+    <string name="reset_reload">Berrezarri/Berrkargatu</string>
+    <string name="reset_only">Berrezarri</string>
+    <string name="reload_only">BERRIKARGATU BAKARRIK</string>
+    <string name="reload_warning">Saioa hasteko arazoak badituzu, saiatu \'Berrezarri\'.\nOHARRA: Baliteke berriro saioa hasi behar izatea \'Berrezarri\' erabiltzen baduzu.</string>
+    <string name="download_file">Fitxategia deskargatzen</string>
+    <string name="couldnt_download_file">Ezin izan da deskargatu fitxategia</string>
+    <string name="storage_perm_reqd">Fitxategia deskargatzeko biltegiratze-baimena behar da</string>
+    <string name="purchase_item_not_found">Ezin izan da erosketa-elementua aurkitu</string>
+    <string name="error">Errorea</string>
+    <string name="purchase_canceled">Erosketa bertan behera utzi da</string>
+    <string name="pending_purchase">Erosketa Zain dago. Mesedez, osatu transakzioa</string>
+    <string name="purchase_status_not_known">Erosketaren egoera ez da ezagutzen</string>
+    <string name="enter_file_name">Sartu fitxategi-izen bat</string>
+    <string name="downloading_file">Fitxategia deskargatzen</string>
+    <string name="enter_valid_file_name">Mesedez, idatzi baliozko fitxategi-izen bat</string>
+    <string name="download_has_finished_message">Deskarga amaitu da. Mesedez, egiaztatu Deskargak karpeta.</string>
+    <string name="could_not_download_file">Ezin izan da fitxategia deskargatu</string>
+    <string name="loading">Kargatzen</string>
+    <string name="downloading_update">Eguneraketa deskargatzen</string>
+    <string name="update_downloaded_message">Eguneratze bat deskargatu berri da.</string>
+    <string name="keyboard_enable_webview_message">Idazketa gaitzeko, sakatu goiko teklatuaren botoia</string>
+    <string name="preference_title_bug_report">Akatsen txostena</string>
+    <string name="preference_title_report_a_issue">Salatu arazo bat</string>
+    <string name="describe_bug">Mesedez, deskribatu hemen akatsa</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">WhatsApp direktorioa ez du egoerarik. Mesedez, hautatu direktorio zuzena.</string>
+    <string name="please_select_whatsapp_directory">Mesedez, hautatu WhatsApp direktorioa!</string>
+    <string name="download_cleaner">Deskargatu Cleaner</string>
+    <string name="download_recover_messages_app">Deskargatu Berreskuratu mezuak aplikazioa</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Eginbide hau erabiltzeko, beste aplikazio bat deskargatu behar duzu play dendatik. Egin klik Ados Play Store irekitzeko eta aplikazioa deskargatzeko.</string>
+    <string name="cancel">Utzi</string>
+    <string name="ad_space">Iragarki-espazioa</string>
+    <string name="status">Egoera</string>
+    <string name="theme">Gaia</string>
+    <string name="more_apps">Aplikazio gehiago</string>
+    <string name="share">Partekatu</string>
+    <string name="send">Bidali</string>
+    <string name="select_country_code_and_number">Hautatu herrialde-kodea eta zenbakia</string>
+    <string name="how_it_works">Nola dabil</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Deskargatu Qr Scanner aplikazioa</string>
+    <string name="share_content">Presta zaitez WhatsApp-eko kontu berdinera bi telefono edo tablet ezberdinetan sartzeko modurik azkarrena ezagutzeko, dena doan! Deskargatu eta instalatu aplikazioa orain.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

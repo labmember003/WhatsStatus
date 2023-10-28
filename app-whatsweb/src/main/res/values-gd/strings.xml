@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Tha an ùrachadh deiseil</string>
+    <string name="app_update_alert_dialog_subtitle">Ath-thòisich an aplacaid gus ùrachaidhean a chuir an sàs…</string>
+    <string name="help">Cuideachadh</string>
+    <string name="cleaner">Glanadair</string>
+    <string name="status_saver">Sàbhail inbhe</string>
+    <string name="settings">Suidhichidhean</string>
+    <string name="saved_statuses_appear_here">Chan eil inbhe ri fhaighinn!</string>
+    <string name="available_statuses">Ri fhaighinn</string>
+    <string name="saved_statuses">Air a shàbhaladh</string>
+    <string name="enter_message">Cuir a-steach teachdaireachd (roghainneil)</string>
+    <string name="enter_phone_number">Cuir a-steach àireamh fòn</string>
+    <string name="send_message">Cuir Teachdaireachd</string>
+    <string name="enter_a_phone_number">Cuir a-steach àireamh fòn</string>
+    <string name="direct_link_copied_to_clipboard">Ceangal dìreach air a chopaigeadh gu clipboard</string>
+    <string name="premium_unlocked">Tapadh leat. Faodaidh tu a-nis prìomh fheartan a chleachdadh</string>
+    <string name="settings_category_title_developer">Leasaiche</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Leabharlannan le còd fosgailte</string>
+    <string name="preference_title_application_version">Tionndadh App</string>
+    <string name="preference_title_contact_us">Cuir fios thugainn</string>
+    <string name="preference_title_privacy_policy">Poileasaidh Dìomhaireachd</string>
+    <string name="preference_title_terms_conditions">Cumhachan is Cùmhnantan</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Coitcheann</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Modh Dorcha</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Ciamar a tha e ag obair\?</string>
+    <string name="ok">ceart gu leòr</string>
+    <string name="direct_message_help_ans">Feuch an cuir thu a-steach àireamh fòn an neach a gheibh thu còmhla ris an teachdaireachd teacsa agad. Aon uair ‘s gu bheil thu deiseil airson an teachdaireachd a chuir, dìreach cliog air a’ phutan ‘Send’. Air neo, faodaidh tu cuideachd an roghainn ‘Direct Link’ a chleachdadh gus an ceangal a chopaigeadh agus a roinneadh leis an neach a gheibh e. Le bhith a’ briogadh air a’ cheangal, faodaidh iad bruidhinn riut gu dìreach.</string>
+    <string name="click_here_to_grant_required_permissions">Cuir à comas agus ath-chomasachadh cead fios.</string>
+    <string name="please_grant_storage_permissions">Feuch an toir thu cead stòraidh</string>
+    <string name="rate_app">Feuch an toir thu meas air an aplacaid!</string>
+    <string name="rate_later">Nas fhaide air adhart</string>
+    <string name="rateUs">Feuch an toir thu measadh air an aplacaid air Play Store</string>
+    <string name="send_feedback">Feuch an cuir thu fios air ais thugainn. Feuchaidh sinn ri obrachadh air!</string>
+    <string name="try_again">Feuch ris a-rithist</string>
+    <string name="message_copied_to_clipboard">teachdaireachd air a chopaigeadh gu clipboard</string>
+    <string name="system_default">Default siostam</string>
+    <string name="restart">Ath-thòisich</string>
+    <string name="light">Solas</string>
+    <string name="dark">Dorch</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Roinn le</string>
+    <string name="direct_link">Dèan lethbhreac de cheangal dìreach</string>
+    <string name="remove_ads">Thoir air falbh sanasan</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Dè th\' ann an Lìon</string>
+    <string name="recover_messages">Faigh air ais Teachdaireachdan</string>
+    <string name="direct_message">Teachdaireachd Dìreach</string>
+    <string name="title_refresh">Ath-luchdaich</string>
+    <string name="whatsapp_not_installed">Chan eil Whatsapp air a stàladh. Feuch an stàlaich thu Whatsapp an-toiseach gus am feart seo a chleachdadh.</string>
+    <string name="toggle_keyboard">Tog Meur-chlàr</string>
+    <string name="fullscreen">Làn-sgrìn</string>
+    <string name="dismiss">Cur às</string>
+    <string name="keyboard_unblocked">Tha am meur-chlàr air a bhacadh.</string>
+    <string name="keyboard_blocked">Tha am meur-chlàr air a bhacadh. Brùth air ìomhaigh a\' mheur-chlàir gus a bhacadh.</string>
+    <string name="whats_web_how_it_works">1. Fosgail Whats Web aplacaid air an inneal agad.\n\n2. Fosgail whatsapp air fòn \'smart\' eile.\n\n* Air Android -&gt; Bhon scrion cabadaich, rachaibh gu clàr trì dotagan suidhichte aig mullach deas na sgrìn -&gt; Innealan ceangailte.\n\n* Air fòn uinneig -&gt; Rach gu clàr trì dotagan -&gt; Innealan ceangailte.\n\n* Air iPhone -&gt; Rach gu Settings -&gt; Innealan ceangailte.\n\n3. Tap air Ceangal inneal agus scan an QR Code air a thaisbeanadh air do sgrìn aplacaid seo bho fòn eile.</string>
+    <string name="retry_sending_voice_message">Feuch ris a-rithist teachdaireachd guth a chuir</string>
+    <string name="message_retry_sending_voice_message">Brùth ìomhaigh a’ mhicreofoin a-rithist. Bu chòir dha a bhith ag obair mar a bhiodh dùil.</string>
+    <string name="retry_camera_capture">Feuch a-rithist an roghainn Camara</string>
+    <string name="message_retry_camera_capture">Brùth air ìomhaigh a’ chamara a-rithist. Bu chòir dha a bhith ag obair mar a bhiodh dùil.</string>
+    <string name="audio_perm_reqd">Tha feum air cead claisneachd airson a dhol air adhart.</string>
+    <string name="camera_perm_reqd">Feumar cead camara airson a dhol air adhart.</string>
+    <string name="reset_reload">Ath-shuidhich /ath-luchdaich</string>
+    <string name="reset_only">ATH-SHUIDHICH</string>
+    <string name="reload_only">RELOAD A-MHÀIN</string>
+    <string name="reload_warning">Ma tha ceistean agad co-cheangailte ri logadh a-steach, feuch \'Ath-shuidhich\'.\nRABHADH: Is dòcha gum feum thu logadh a-steach a-rithist ma chleachdas tu \'Ath-shuidhich\'.</string>
+    <string name="download_file">A\' luchdachadh sìos File</string>
+    <string name="couldnt_download_file">Cha b\' urrainn dhuinn am faidhle a luchdachadh sìos</string>
+    <string name="storage_perm_reqd">Tha feum air cead stòraidh gus am faidhle a luchdachadh sìos</string>
+    <string name="purchase_item_not_found">Cha b’ urrainn stuth ceannach a lorg</string>
+    <string name="error">Mearachd</string>
+    <string name="purchase_canceled">Ceannach air a chur dheth</string>
+    <string name="pending_purchase">Tha ceannach ri thighinn. Feuch an cuir thu crìoch air Gnìomh</string>
+    <string name="purchase_status_not_known">Chan eil fios mu inbhe ceannach</string>
+    <string name="enter_file_name">Cuir a-steach ainm faidhle</string>
+    <string name="downloading_file">A\' luchdachadh sìos an Fhaidhle</string>
+    <string name="enter_valid_file_name">Feuch an cuir thu a-steach ainm faidhle dligheach</string>
+    <string name="download_has_finished_message">Chrìochnaich an luchdachadh sìos. Feuch an toir thu sùil air pasgan Luchdachadh sìos.</string>
+    <string name="could_not_download_file">Cha b\' urrainn dhuinn File a luchdachadh sìos</string>
+    <string name="loading">A\' luchdachadh</string>
+    <string name="downloading_update">A luchdadh a-nuas</string>
+    <string name="update_downloaded_message">Tha ùrachadh dìreach air a luchdachadh sìos.</string>
+    <string name="keyboard_enable_webview_message">Brùth air a’ phutan tog am meur-chlàr air a’ mhullach gus leigeil le taipeadh</string>
+    <string name="preference_title_bug_report">Aithris Bug</string>
+    <string name="preference_title_report_a_issue">Dèan aithris air cùis</string>
+    <string name="describe_bug">Feuch an toir thu cunntas air a’ bhiast an seo</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">Chan eil Inbhe ann an eòlaire WhatsApp. Feuch an tagh thu eòlaire ceart.</string>
+    <string name="please_select_whatsapp_directory">Feuch an tagh thu eòlaire WhatsApp!</string>
+    <string name="download_cleaner">Luchdaich sìos Cleaner</string>
+    <string name="download_recover_messages_app">Luchdaich a-nuas an app air ais teachdaireachdan.</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Gus am feart seo a chleachdadh, feumaidh tu aplacaid eile a luchdachadh sìos bhon stòr cluiche. Cliog air OK gus an stòr-cluiche fhosgladh agus an aplacaid a luchdachadh sìos.</string>
+    <string name="cancel">Sguir dheth</string>
+    <string name="ad_space">Àite sanasachd</string>
+    <string name="status">Inbhe</string>
+    <string name="theme">Cuspair</string>
+    <string name="more_apps">Tuilleadh Apps</string>
+    <string name="share">Roinn</string>
+    <string name="send">Seol</string>
+    <string name="select_country_code_and_number">Tagh còd dùthcha agus àireamh</string>
+    <string name="how_it_works">Mar a tha e ag obair</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Luchdaich a-nuas app qr scanner</string>
+    <string name="share_content">Dèan deiseil gus eòlas fhaighinn air an dòigh as luaithe air faighinn chun aon chunntas WhatsApp air dà fhònaichean sgairteil no tablaidean eadar-dhealaichte, uile an-asgaidh! Luchdaich sìos agus stàlaich an aplacaid a-nis.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

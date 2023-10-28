@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Kev hloov tshiab tiav lawm</string>
+    <string name="app_update_alert_dialog_subtitle">Rov pib lub app los siv cov hloov tshiab…</string>
+    <string name="help">Pab</string>
+    <string name="cleaner">Cov ntxhua khaub ncaws</string>
+    <string name="status_saver">Status Saver</string>
+    <string name="settings">Chaw</string>
+    <string name="saved_statuses_appear_here">Tsis muaj xwm txheej!</string>
+    <string name="available_statuses">Muaj</string>
+    <string name="saved_statuses">Txuag</string>
+    <string name="enter_message">Sau Cov Lus (Yeem)</string>
+    <string name="enter_phone_number">Sau tus xov tooj</string>
+    <string name="send_message">Xa Xov</string>
+    <string name="enter_a_phone_number">Sau tus lej xov tooj</string>
+    <string name="direct_link_copied_to_clipboard">Direct link tau theej rau daim ntawv teev cia</string>
+    <string name="premium_unlocked">Ua tsaug. Tam sim no koj tuaj yeem siv cov yam ntxwv tshwj xeeb</string>
+    <string name="settings_category_title_developer">Tus tsim tawm</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Open Source Libraries</string>
+    <string name="preference_title_application_version">App Version</string>
+    <string name="preference_title_contact_us">Tiv tauj peb</string>
+    <string name="preference_title_privacy_policy">Txoj Cai Tswjfwm Ntiag Tug</string>
+    <string name="preference_title_terms_conditions">Cov Lus Qhia Thiab Cov Cai</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">General</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Tsaus hom</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Nws ua haujlwm li cas\?</string>
+    <string name="ok">OK</string>
+    <string name="direct_message_help_ans">Thov sau tus neeg txais xov tooj nrog rau koj cov ntawv xov xwm. Thaum koj npaj xa cov lus, tsuas yog nyem rau ntawm \'Xa\' khawm. Xwb, koj tuaj yeem siv qhov \'Direct Link\' kev xaiv los luam qhov txuas thiab qhia rau tus neeg txais. Los ntawm txhaj rau qhov txuas, lawv tuaj yeem tham nrog koj ncaj qha.</string>
+    <string name="click_here_to_grant_required_permissions">Disable thiab rov qhib kev tso cai ceeb toom.</string>
+    <string name="please_grant_storage_permissions">Thov tso cai cia</string>
+    <string name="rate_app">Thov ntsuas lub app!</string>
+    <string name="rate_later">Tom qab ntawd</string>
+    <string name="rateUs">Thov ntsuas lub app ntawm Play Store</string>
+    <string name="send_feedback">Thov xa tawm tswv yim rau peb. Peb mam li sim ua haujlwm rau nws!</string>
+    <string name="try_again">Thov rov sim dua</string>
+    <string name="message_copied_to_clipboard">cov lus tau theej rau hauv daim ntawv teev lus</string>
+    <string name="system_default">System Default</string>
+    <string name="restart">Rov pib dua</string>
+    <string name="light">Teeb</string>
+    <string name="dark">Tsaus</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Qhia nrog</string>
+    <string name="direct_link">Copy Direct Link</string>
+    <string name="remove_ads">Tshem Tawm Tawm</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Qhov Web</string>
+    <string name="recover_messages">Rov qab lus</string>
+    <string name="direct_message">Xov Xwm</string>
+    <string name="title_refresh">Rov qab</string>
+    <string name="whatsapp_not_installed">Whatsapp tsis tau nruab. Thov ua ntej nruab Whatsapp kom siv cov yam ntxwv no.</string>
+    <string name="toggle_keyboard">Toggle Keyboard</string>
+    <string name="fullscreen">Full Screen</string>
+    <string name="dismiss">Tso tseg</string>
+    <string name="keyboard_unblocked">Keyboard yog unblocked.</string>
+    <string name="keyboard_blocked">Keyboard raug thaiv. Nias keyboard icon kom unblock.</string>
+    <string name="whats_web_how_it_works">1. Qhib Whats Web application ntawm koj lub cuab yeej.\n\n2. Qhib whatsapp ntawm lwm lub smartphone.\n\n* Hauv Android -&gt; Los ntawm lub vijtsam chats, mus rau peb cov ntawv qhia zaub mov nyob rau sab xis ntawm lub vijtsam -&gt; Txuas cov khoom siv.\n\n* Ntawm Qhov rai xov tooj -&gt; Mus rau peb cov ntawv qhia zaub mov -&gt; Txuas cov khoom siv.\n\n* Ntawm iPhone -&gt; Mus rau Chaw -&gt; Txuas cov khoom siv.\n\n3. Coj mus rhaub rau Txuas ib lub cuab yeej thiab luam theej duab QR Code tso rau ntawm koj lub vijtsam app no ​​los ntawm lwm lub xov tooj.</string>
+    <string name="retry_sending_voice_message">Thov rov xa suab lus</string>
+    <string name="message_retry_sending_voice_message">Nias lub microphone icon ib zaug ntxiv. Nws yuav tsum ua haujlwm raws li qhov xav tau.</string>
+    <string name="retry_camera_capture">Thov rov qab xaiv lub koob yees duab</string>
+    <string name="message_retry_camera_capture">Nias lub koob yees duab icon ib zaug ntxiv. Nws yuav tsum ua haujlwm raws li qhov xav tau.</string>
+    <string name="audio_perm_reqd">Kev tso cai suab yuav tsum tau ua kom tiav.</string>
+    <string name="camera_perm_reqd">Kev tso cai rau lub koob yees duab yuav tsum tau ua kom tiav.</string>
+    <string name="reset_reload">Reset/Reload</string>
+    <string name="reset_only">RESET</string>
+    <string name="reload_only">RELOAD nkaus xwb</string>
+    <string name="reload_warning">Yog tias koj tab tom ntsib teeb meem ntsig txog kev nkag mus, sim \'Reset\'.\nCEEB TOOM: Tej zaum koj yuav tau nkag mus dua yog tias koj siv \'Reset\'.</string>
+    <string name="download_file">Downloading ntaub ntawv</string>
+    <string name="couldnt_download_file">Cov ntaub ntawv tsis tuaj yeem rub tawm</string>
+    <string name="storage_perm_reqd">Kev tso cai cia yuav tsum tau rub tawm cov ntaub ntawv</string>
+    <string name="purchase_item_not_found">Cov khoom yuav nrhiav tsis tau</string>
+    <string name="error">yuam kev</string>
+    <string name="purchase_canceled">Kev yuav raug tso tseg</string>
+    <string name="pending_purchase">Kev yuav khoom yog tseem tos. Thov ua kom tiav Kev Lag Luam</string>
+    <string name="purchase_status_not_known">Kev yuav khoom tsis paub</string>
+    <string name="enter_file_name">Sau ib lub npe ntaub ntawv</string>
+    <string name="downloading_file">Downloading Cov Ntaub Ntawv</string>
+    <string name="enter_valid_file_name">Thov sau lub npe ntaub ntawv siv tau</string>
+    <string name="download_has_finished_message">Download tau tiav lawm. Thov kos Downloads folder.</string>
+    <string name="could_not_download_file">Download File tsis tau</string>
+    <string name="loading">Chaw thau khoom</string>
+    <string name="downloading_update">Downloading hloov tshiab</string>
+    <string name="update_downloaded_message">Ib qho hloov tshiab tau nyuam qhuav rub tawm.</string>
+    <string name="keyboard_enable_webview_message">Nias lub khawm toggle keyboard nyob rau sab saum toj kom pab ntaus ntawv</string>
+    <string name="preference_title_bug_report">Daim ntawv qhia kab mob</string>
+    <string name="preference_title_report_a_issue">Qhia qhov teeb meem</string>
+    <string name="describe_bug">Thov piav cov kab no ntawm no</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">WhatsApp directory tsis muaj xwm txheej. Thov xaiv cov npe uas raug.</string>
+    <string name="please_select_whatsapp_directory">Thov xaiv WhatsApp directory!</string>
+    <string name="download_cleaner">Download tau Cleaner</string>
+    <string name="download_recover_messages_app">Download Rov qab Messages App</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Txhawm rau siv qhov no, koj yuav tsum rub tawm lwm lub app los ntawm lub khw muag khoom. Nyem OK mus qhib play store thiab download tau app.</string>
+    <string name="cancel">Tso tseg</string>
+    <string name="ad_space">Ad Space</string>
+    <string name="status">xwm txheej</string>
+    <string name="theme">Ntsiab lus</string>
+    <string name="more_apps">Ntau Apps</string>
+    <string name="share">Qhia</string>
+    <string name="send">Xa</string>
+    <string name="select_country_code_and_number">Xaiv lub teb chaws chaws thiab tus lej</string>
+    <string name="how_it_works">Nws ua haujlwm li cas</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Rub tawm Qr Scanner App</string>
+    <string name="share_content">Npaj kom muaj txoj hauv kev nrawm tshaj plaws kom nkag mus rau tib tus lej WhatsApp ntawm ob lub xov tooj sib txawv lossis ntsiav tshuaj, txhua yam pub dawb! Download tau thiab nruab lub app tam sim no.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

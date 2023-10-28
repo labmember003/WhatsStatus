@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Оновлення завершено</string>
+    <string name="app_update_alert_dialog_subtitle">Перезапустіть програму, щоб застосувати оновлення…</string>
+    <string name="help">Довідка</string>
+    <string name="cleaner">Прибиральник</string>
+    <string name="status_saver">Збереження стану</string>
+    <string name="settings">Налаштування</string>
+    <string name="saved_statuses_appear_here">Немає статусу!</string>
+    <string name="available_statuses">в наявності</string>
+    <string name="saved_statuses">Збережено</string>
+    <string name="enter_message">Введіть повідомлення (необов\'язково)</string>
+    <string name="enter_phone_number">Введіть номер телефону</string>
+    <string name="send_message">Відправити повідомлення</string>
+    <string name="enter_a_phone_number">Введіть номер телефону</string>
+    <string name="direct_link_copied_to_clipboard">Пряме посилання скопійовано в буфер обміну</string>
+    <string name="premium_unlocked">Дякую тобі. Тепер ви можете використовувати преміум-функції</string>
+    <string name="settings_category_title_developer">Розробник</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Бібліотеки з відкритим кодом</string>
+    <string name="preference_title_application_version">Версія програми</string>
+    <string name="preference_title_contact_us">Зв\'яжіться з нами</string>
+    <string name="preference_title_privacy_policy">Політика конфіденційності</string>
+    <string name="preference_title_terms_conditions">Правила та умови</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Загальний</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Темний режим</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Як це працює\?</string>
+    <string name="ok">в порядку</string>
+    <string name="direct_message_help_ans">Будь ласка, введіть номер телефону одержувача разом із текстовим повідомленням. Коли ви будете готові надіслати повідомлення, просто натисніть кнопку «Надіслати». Крім того, ви також можете скористатися опцією «Пряме посилання», щоб скопіювати посилання та поділитися ним з одержувачем. Натиснувши посилання, вони зможуть поспілкуватися з вами безпосередньо.</string>
+    <string name="click_here_to_grant_required_permissions">Вимкніть і знову ввімкніть дозвіл сповіщень.</string>
+    <string name="please_grant_storage_permissions">Надайте дозвіл на зберігання</string>
+    <string name="rate_app">Оцініть додаток!</string>
+    <string name="rate_later">Пізніше</string>
+    <string name="rateUs">Оцініть програму в Play Store</string>
+    <string name="send_feedback">Будь ласка, надішліть нам відгук. Спробуємо над цим попрацювати!</string>
+    <string name="try_again">Будь ласка спробуйте ще раз</string>
+    <string name="message_copied_to_clipboard">повідомлення скопійовано в буфер обміну</string>
+    <string name="system_default">Системне значення за замовчуванням</string>
+    <string name="restart">Перезапустіть</string>
+    <string name="light">світло</string>
+    <string name="dark">Темний</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Поділитися з</string>
+    <string name="direct_link">Копіювати пряме посилання</string>
+    <string name="remove_ads">Видалити рекламу</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Що веб</string>
+    <string name="recover_messages">Відновити повідомлення</string>
+    <string name="direct_message">Пряме повідомлення</string>
+    <string name="title_refresh">Перезавантажити</string>
+    <string name="whatsapp_not_installed">Whatsapp не встановлено. Будь ласка, спочатку встановіть Whatsapp, щоб використовувати цю функцію.</string>
+    <string name="toggle_keyboard">Переключити клавіатуру</string>
+    <string name="fullscreen">Повноекранний</string>
+    <string name="dismiss">Відхилити</string>
+    <string name="keyboard_unblocked">Клавіатура розблокована.</string>
+    <string name="keyboard_blocked">Клавіатура заблокована. Щоб розблокувати, натисніть значок клавіатури.</string>
+    <string name="whats_web_how_it_works">1. Відкрийте програму Whats Web на своєму пристрої.\n\n2. Відкрийте WhatsApp на іншому смартфоні.\n\n* На Android -&gt; На екрані чатів перейдіть до меню з трьома крапками, розташованого у верхньому правому куті екрана -&gt; Пов’язані пристрої.\n\n* На телефоні Windows -&gt; Перейдіть до меню з трьома крапками -&gt; Зв\'язані пристрої.\n\n* На iPhone -&gt; Перейдіть до Налаштування -&gt; Пов’язані пристрої.\n\n3. Натисніть «Під’єднати пристрій» і відскануйте QR-код, який відображається на екрані цієї програми, з іншого телефону.</string>
+    <string name="retry_sending_voice_message">Повторіть спробу надіслати голосове повідомлення</string>
+    <string name="message_retry_sending_voice_message">Ще раз натисніть значок мікрофона. Він має працювати, як очікувалося.</string>
+    <string name="retry_camera_capture">Будь ласка, повторіть спробу Камера</string>
+    <string name="message_retry_camera_capture">Ще раз натисніть значок камери. Він має працювати, як очікувалося.</string>
+    <string name="audio_perm_reqd">Для просування вперед потрібен дозвіл на звук.</string>
+    <string name="camera_perm_reqd">Для просування потрібен дозвіл камери.</string>
+    <string name="reset_reload">Скинути/перезавантажити</string>
+    <string name="reset_only">СКИДАННЯ</string>
+    <string name="reload_only">ЛИШЕ ПЕРЕЗАВАНТАЖЕННЯ</string>
+    <string name="reload_warning">Якщо у вас виникли проблеми, пов’язані з входом, спробуйте «Скинути».\nПОПЕРЕДЖЕННЯ. Можливо, вам доведеться увійти знову, якщо ви використовуєте «Скинути».</string>
+    <string name="download_file">Завантаження файлу</string>
+    <string name="couldnt_download_file">Не вдалося завантажити файл</string>
+    <string name="storage_perm_reqd">Для завантаження файлу потрібен дозвіл на зберігання</string>
+    <string name="purchase_item_not_found">Покупку не знайдено</string>
+    <string name="error">Помилка</string>
+    <string name="purchase_canceled">Покупку скасовано</string>
+    <string name="pending_purchase">Покупка очікує на розгляд. Завершіть трансакцію</string>
+    <string name="purchase_status_not_known">Статус покупки не відомий</string>
+    <string name="enter_file_name">Введіть назву файлу</string>
+    <string name="downloading_file">Завантаження файлу</string>
+    <string name="enter_valid_file_name">Введіть дійсну назву файлу</string>
+    <string name="download_has_finished_message">Завантаження завершено. Перевірте папку \"Завантаження\".</string>
+    <string name="could_not_download_file">Не вдалося завантажити файл</string>
+    <string name="loading">Завантаження</string>
+    <string name="downloading_update">Завантаження оновлення</string>
+    <string name="update_downloaded_message">Щойно завантажено оновлення.</string>
+    <string name="keyboard_enable_webview_message">Щоб увімкнути введення, натисніть кнопку перемикання клавіатури вгорі</string>
+    <string name="preference_title_bug_report">Повідомлення про помилку</string>
+    <string name="preference_title_report_a_issue">Повідомити про проблему</string>
+    <string name="describe_bug">Будь ласка, опишіть помилку тут</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">Каталог WhatsApp не містить статусів. Виберіть правильний каталог.</string>
+    <string name="please_select_whatsapp_directory">Виберіть каталог WhatsApp!</string>
+    <string name="download_cleaner">Завантажити Cleaner</string>
+    <string name="download_recover_messages_app">Завантажте програму Recover Messages</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Щоб скористатися цією функцією, потрібно завантажити іншу програму з Play Store. Натисніть OK, щоб відкрити Play Store і завантажити програму.</string>
+    <string name="cancel">Скасувати</string>
+    <string name="ad_space">Рекламний простір</string>
+    <string name="status">Статус</string>
+    <string name="theme">Тема</string>
+    <string name="more_apps">Більше додатків</string>
+    <string name="share">Поділіться</string>
+    <string name="send">Надіслати</string>
+    <string name="select_country_code_and_number">Виберіть код країни та номер</string>
+    <string name="how_it_works">Як це працює</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Завантажте додаток Qr Scanner</string>
+    <string name="share_content">Будьте готові випробувати найшвидший спосіб отримати доступ до одного облікового запису WhatsApp на двох різних смартфонах або планшетах, і все це безкоштовно! Завантажте та встановіть програму зараз.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">L-aġġornament huwa lest</string>
+    <string name="app_update_alert_dialog_subtitle">Ibda mill-ġdid l-app biex tapplika aġġornamenti...</string>
+    <string name="help">Għajnuna</string>
+    <string name="cleaner">Cleaner</string>
+    <string name="status_saver">Status Saver</string>
+    <string name="settings">Settings</string>
+    <string name="saved_statuses_appear_here">Ebda Status Disponibbli!</string>
+    <string name="available_statuses">Disponibbli</string>
+    <string name="saved_statuses">Salvat</string>
+    <string name="enter_message">Daħħal Messaġġ (Mhux obbligatorju)</string>
+    <string name="enter_phone_number">Daħħal in-Numru tat-Telefon</string>
+    <string name="send_message">Ibgħat Messaġġ</string>
+    <string name="enter_a_phone_number">Daħħal numru tat-telefon</string>
+    <string name="direct_link_copied_to_clipboard">Link dirett ikkupjat mal-clipboard</string>
+    <string name="premium_unlocked">Grazzi. Issa tista \'tuża karatteristiċi premium</string>
+    <string name="settings_category_title_developer">Żviluppatur</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Libreriji Open Source</string>
+    <string name="preference_title_application_version">Verżjoni tal-App</string>
+    <string name="preference_title_contact_us">Ikkuntatjana</string>
+    <string name="preference_title_privacy_policy">Regoli tal-privatezza</string>
+    <string name="preference_title_terms_conditions">Termini u Kundizzjonijiet</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Ġenerali</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Mod skur</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Kif taħdem\?</string>
+    <string name="ok">kollox sew</string>
+    <string name="direct_message_help_ans">Jekk jogħġbok daħħal in-numru tat-telefon tar-riċevitur flimkien mal-messaġġ tiegħek. Ladarba tkun lest biex tibgħat il-messaġġ, sempliċement ikklikkja fuq il-buttuna \'Ibgħat\'. Alternattivament, tista\' wkoll tuża l-għażla \'Link dirett\' biex tikkopja l-link u taqsamha mar-riċevitur. Billi tikklikkja fuq il-link, jistgħu jiċċettjaw miegħek direttament.</string>
+    <string name="click_here_to_grant_required_permissions">Iddiżattiva u terġa \'tippermetti l-permess ta\' notifika.</string>
+    <string name="please_grant_storage_permissions">Jekk jogħġbok agħti l-permessi tal-Ħażna</string>
+    <string name="rate_app">Jekk jogħġbok rata l-app!</string>
+    <string name="rate_later">Aktar tard</string>
+    <string name="rateUs">Jekk jogħġbok Rata l-app fuq Play Store</string>
+    <string name="send_feedback">Jekk jogħġbok ibgħatilna feedback. Nippruvaw naħdmu fuqha!</string>
+    <string name="try_again">Jekk jogħġbok erġa pprova</string>
+    <string name="message_copied_to_clipboard">messaġġ ikkupjat fil-clipboard</string>
+    <string name="system_default">Default tas-Sistema</string>
+    <string name="restart">Erġa ibda</string>
+    <string name="light">Dawl</string>
+    <string name="dark">Dlam</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Aqsam ma\'</string>
+    <string name="direct_link">Ikkopja Link Dirett</string>
+    <string name="remove_ads">Neħħi r-Reklami</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">X\'hemm Web</string>
+    <string name="recover_messages">Irkupru Messaġġi</string>
+    <string name="direct_message">Messaġġ Dirett</string>
+    <string name="title_refresh">Reload</string>
+    <string name="whatsapp_not_installed">Whatsapp mhux installat. Jekk jogħġbok l-ewwel installa Whatsapp biex tuża din il-karatteristika.</string>
+    <string name="toggle_keyboard">Toggle Keyboard</string>
+    <string name="fullscreen">Sħiħ Screen</string>
+    <string name="dismiss">Tkeċċi</string>
+    <string name="keyboard_unblocked">It-tastiera hija sblokkata.</string>
+    <string name="keyboard_blocked">It-tastiera hija mblukkata. Agħfas l-ikona tat-tastiera biex tiżblokka.</string>
+    <string name="whats_web_how_it_works">1. Iftaħ l-applikazzjoni tal-Web Whats fuq it-tagħmir tiegħek.\n\n2. Iftaħ whatsapp fuq smartphone ieħor.\n\n* Fuq Android -&gt; Mill-iskrin taċ-chats, mur fil-menu bi tliet tikek li jinsab fin-naħa ta\' fuq tal-lemin tal-iskrin -&gt; Apparati konnessi.\n\n* Fuq it-telefon tat-Tieqa -&gt; Mur fil-menu bi tliet tikek -&gt; Apparat konness.\n\n* Fuq iPhone -&gt; Mur fil-Settings -&gt; Apparat konness.\n\n3. Tektek fuq Link a device u skennja l-QR Code murija fuq l-iskrin tal-app tiegħek minn telefon ieħor.</string>
+    <string name="retry_sending_voice_message">Jekk jogħġbok erġa\' ibgħat messaġġ bil-vuċi</string>
+    <string name="message_retry_sending_voice_message">Agħfas l-ikona tal-mikrofonu għal darb\'oħra. Għandu jkun qed jaħdem kif mistenni.</string>
+    <string name="retry_camera_capture">Jekk jogħġbok erġa\' pprova l-għażla tal-Kamera</string>
+    <string name="message_retry_camera_capture">Agħfas l-ikona tal-kamera għal darb\'oħra. Għandu jkun qed jaħdem kif mistenni.</string>
+    <string name="audio_perm_reqd">Huwa meħtieġ permess tal-awdjo biex isir progress \'il quddiem.</string>
+    <string name="camera_perm_reqd">Il-permess tal-kamera huwa meħtieġ biex isir progress \'il quddiem.</string>
+    <string name="reset_reload">Irrisettja/Reload</string>
+    <string name="reset_only">RESET</string>
+    <string name="reload_only">RELOAD BISS</string>
+    <string name="reload_warning">Jekk qed tesperjenza problemi relatati mal-login, ipprova \'Irrisettja\'.\nTWISSIJA: Jista\' jkun li jkollok terġa\' tidħol jekk tuża \'Reset\'.</string>
+    <string name="download_file">Tniżżil tal-Fajl</string>
+    <string name="couldnt_download_file">Il-fajl ma setax jitniżżel</string>
+    <string name="storage_perm_reqd">Permess tal-ħażna meħtieġ biex tniżżel il-fajl</string>
+    <string name="purchase_item_not_found">Oġġett Xiri ma setax jinstab</string>
+    <string name="error">Żball</string>
+    <string name="purchase_canceled">Xiri Ikkanċellat</string>
+    <string name="pending_purchase">Xiri huwa Pendenti. Jekk jogħġbok imla Transazzjoni</string>
+    <string name="purchase_status_not_known">L-Istatus tax-Xiri mhuwiex magħruf</string>
+    <string name="enter_file_name">Daħħal Isem tal-Fajl</string>
+    <string name="downloading_file">Niżżel il-Fajl</string>
+    <string name="enter_valid_file_name">Jekk jogħġbok daħħal isem tal-fajl validu</string>
+    <string name="download_has_finished_message">It-tniżżil intemm. Jekk jogħġbok iċċekkja l-folder tat-Tniżżil.</string>
+    <string name="could_not_download_file">Ma setax tniżżel il-Fajl</string>
+    <string name="loading">Tagħbija</string>
+    <string name="downloading_update">Tniżżil ta\' aġġornament</string>
+    <string name="update_downloaded_message">Aġġornament għadu kif ġie mniżżel.</string>
+    <string name="keyboard_enable_webview_message">Agħfas il-buttuna tat-toggle keyboard fuq nett biex tkun tista\' tittajpja</string>
+    <string name="preference_title_bug_report">Rapport Bug</string>
+    <string name="preference_title_report_a_issue">Irrapporta Kwistjoni</string>
+    <string name="describe_bug">Jekk jogħġbok iddeskrivi l-bug hawn</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">Id-direttorju ta\' WhatsApp ma fihx Status. Jekk jogħġbok agħżel direttorju korrett.</string>
+    <string name="please_select_whatsapp_directory">Jekk jogħġbok agħżel direttorju WhatsApp!</string>
+    <string name="download_cleaner">Niżżel Cleaner</string>
+    <string name="download_recover_messages_app">Niżżel l-App Recover Messages</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Biex tuża din il-karatteristika, trid tniżżel app oħra minn play store. Ikklikkja OK biex tiftaħ play store u tniżżel l-app.</string>
+    <string name="cancel">Ikkanċella</string>
+    <string name="ad_space">Ispazju Ad</string>
+    <string name="status">Status</string>
+    <string name="theme">Tema</string>
+    <string name="more_apps">Aktar Apps</string>
+    <string name="share">Aqsam</string>
+    <string name="send">Ibgħat</string>
+    <string name="select_country_code_and_number">Agħżel il-kodiċi u n-numru tal-pajjiż</string>
+    <string name="how_it_works">Kif taħdem</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Niżżel l-App Qr Scanner</string>
+    <string name="share_content">Lestu biex tesperjenza l-aktar mod mgħaġġel biex taċċessa l-istess kont WhatsApp fuq żewġ smartphones jew tablets differenti, kollha b\'xejn! Niżżel u installa l-app issa.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

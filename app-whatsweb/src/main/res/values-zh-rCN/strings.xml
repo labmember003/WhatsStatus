@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">更新完成</string>
+    <string name="app_update_alert_dialog_subtitle">重新启动应用程序以应用更新...</string>
+    <string name="help">帮助</string>
+    <string name="cleaner">清洁工</string>
+    <string name="status_saver">状态保护程序</string>
+    <string name="settings">设置</string>
+    <string name="saved_statuses_appear_here">无可用状态！</string>
+    <string name="available_statuses">可用的</string>
+    <string name="saved_statuses">已保存</string>
+    <string name="enter_message">输入消息（可选）</string>
+    <string name="enter_phone_number">输入电话号码</string>
+    <string name="send_message">发信息</string>
+    <string name="enter_a_phone_number">输入电话号码</string>
+    <string name="direct_link_copied_to_clipboard">直接链接已复制到剪贴板</string>
+    <string name="premium_unlocked">谢谢。您现在可以使用高级功能</string>
+    <string name="settings_category_title_developer">开发商</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">开源库</string>
+    <string name="preference_title_application_version">应用版本</string>
+    <string name="preference_title_contact_us">联系我们</string>
+    <string name="preference_title_privacy_policy">隐私政策</string>
+    <string name="preference_title_terms_conditions">条款和条件</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">一般的</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">深色模式</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">怎么运行的？</string>
+    <string name="ok">好的</string>
+    <string name="direct_message_help_ans">请输入收件人的电话号码以及您的短信。准备好发送消息后，只需单击“发送”按钮。或者，您也可以使用“直接链接”选项复制链接并与收件人共享。通过单击链接，他们可以直接与您聊天。</string>
+    <string name="click_here_to_grant_required_permissions">禁用并重新启用通知权限。</string>
+    <string name="please_grant_storage_permissions">请授予存储权限</string>
+    <string name="rate_app">请评价应用程序！</string>
+    <string name="rate_later">之后</string>
+    <string name="rateUs">请在 Play 商店为应用评分</string>
+    <string name="send_feedback">请向我们发送反馈。我们会努力的！</string>
+    <string name="try_again">请再试一次</string>
+    <string name="message_copied_to_clipboard">消息已复制到剪贴板</string>
+    <string name="system_default">系统默认</string>
+    <string name="restart">重新开始</string>
+    <string name="light">光</string>
+    <string name="dark">黑暗的</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">与某人分享</string>
+    <string name="direct_link">复制直接链接</string>
+    <string name="remove_ads">移除广告</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">什么是网络</string>
+    <string name="recover_messages">恢复消息</string>
+    <string name="direct_message">直接留言</string>
+    <string name="title_refresh">重新加载</string>
+    <string name="whatsapp_not_installed">未安装 Whatsapp。请先安装 Whatsapp 以使用此功能。</string>
+    <string name="toggle_keyboard">切换键盘</string>
+    <string name="fullscreen">全屏</string>
+    <string name="dismiss">解雇</string>
+    <string name="keyboard_unblocked">键盘解锁。</string>
+    <string name="keyboard_blocked">键盘被阻塞。按键盘图标取消阻止。</string>
+    <string name="whats_web_how_it_works">1. 在您的设备上打开 Whats Web 应用程序。\n\n2. 在其他智能手机上打开 whatsapp。\n\n* 在 Android 上 -&gt; 从聊天屏幕，转到位于屏幕右上角的三点菜单 -&gt; 链接的设备。\n\n* 在 Window Phone 上 -&gt; 转到三点菜单 -&gt; 链接的设备。\n\n* 在 iPhone 上 -&gt; 转到设置 -&gt; 链接的设备。\n\n3. 点击链接设备并从其他手机扫描此应用程序屏幕上显示的二维码。</string>
+    <string name="retry_sending_voice_message">请重试发送语音消息</string>
+    <string name="message_retry_sending_voice_message">再按一次麦克风图标。它应该按预期工作。</string>
+    <string name="retry_camera_capture">请重试相机选项</string>
+    <string name="message_retry_camera_capture">再按一次相机图标。它应该按预期工作。</string>
+    <string name="audio_perm_reqd">需要音频许可才能继续前进。</string>
+    <string name="camera_perm_reqd">需要相机许可才能继续前进。</string>
+    <string name="reset_reload">重置/重新加载</string>
+    <string name="reset_only">重置</string>
+    <string name="reload_only">仅重新加载</string>
+    <string name="reload_warning">如果您遇到与登录相关的问题，请尝试“重置”。\n警告：如果您使用“重置”，您可能需要重新登录。</string>
+    <string name="download_file">下载文件</string>
+    <string name="couldnt_download_file">无法下载文件</string>
+    <string name="storage_perm_reqd">下载文件需要存储权限</string>
+    <string name="purchase_item_not_found">找不到购买项目</string>
+    <string name="error">错误</string>
+    <string name="purchase_canceled">购买取消</string>
+    <string name="pending_purchase">购买待定。请完成交易</string>
+    <string name="purchase_status_not_known">购买状态未知</string>
+    <string name="enter_file_name">输入文件名</string>
+    <string name="downloading_file">下载文件</string>
+    <string name="enter_valid_file_name">请输入有效的文件名</string>
+    <string name="download_has_finished_message">下载已完成。请检查下载文件夹。</string>
+    <string name="could_not_download_file">无法下载文件</string>
+    <string name="loading">加载中</string>
+    <string name="downloading_update">下载更新</string>
+    <string name="update_downloaded_message">刚刚下载了一个更新。</string>
+    <string name="keyboard_enable_webview_message">按下顶部的切换键盘按钮以启用输入</string>
+    <string name="preference_title_bug_report">错误报告</string>
+    <string name="preference_title_report_a_issue">报告问题</string>
+    <string name="describe_bug">请在此处描述错误</string>
+    <string name="_2">2个</string>
+    <string name="_3">3个</string>
+    <string name="_1">1个</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">WhatsApp 目录不包含状态。请选择正确的目录。</string>
+    <string name="please_select_whatsapp_directory">请选择 WhatsApp 目录！</string>
+    <string name="download_cleaner">下载清洁器</string>
+    <string name="download_recover_messages_app">下载恢复消息应用程序</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">要使用此功能，您需要从 Play 商店下载另一个应用程序。单击“确定”打开 Play 商店并下载应用程序。</string>
+    <string name="cancel">取消</string>
+    <string name="ad_space">广告位</string>
+    <string name="status">地位</string>
+    <string name="theme">主题</string>
+    <string name="more_apps">更多应用程序</string>
+    <string name="share">分享</string>
+    <string name="send">发送</string>
+    <string name="select_country_code_and_number">选择国家代码和号码</string>
+    <string name="how_it_works">怎么运行的</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">下载二维码扫描器应用程序</string>
+    <string name="share_content">准备好体验在两部不同的智能手机或平板电脑上访问同一个 WhatsApp 帐户的最快方式，全部免费！立即下载并安装该应用程序。</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">“”</string>
+</resources>

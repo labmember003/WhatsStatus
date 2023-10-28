@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Ĝisdatigo estas kompleta</string>
+    <string name="app_update_alert_dialog_subtitle">Rekomencu la apon por apliki ĝisdatigojn...</string>
+    <string name="help">Helpu</string>
+    <string name="cleaner">Purigisto</string>
+    <string name="status_saver">Statusa Ŝparanto</string>
+    <string name="settings">Agordoj</string>
+    <string name="saved_statuses_appear_here">Neniu Statuso Disponebla!</string>
+    <string name="available_statuses">Disponebla</string>
+    <string name="saved_statuses">Savita</string>
+    <string name="enter_message">Enigu Mesaĝon (Laŭvola)</string>
+    <string name="enter_phone_number">Enigu Telefonan Numeron</string>
+    <string name="send_message">Sendi mesaĝon</string>
+    <string name="enter_a_phone_number">Enigu telefonnumeron</string>
+    <string name="direct_link_copied_to_clipboard">Rekta ligilo kopiita al tondujo</string>
+    <string name="premium_unlocked">Dankon. Vi nun povas uzi superajn funkciojn</string>
+    <string name="settings_category_title_developer">Ellaboranto</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Malfermkodaj Bibliotekoj</string>
+    <string name="preference_title_application_version">Versio de App</string>
+    <string name="preference_title_contact_us">Kontaktu Nin</string>
+    <string name="preference_title_privacy_policy">Privateca Politiko</string>
+    <string name="preference_title_terms_conditions">Terminoj kaj Kondiĉoj</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Generalo</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Malhela Reĝimo</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Kiel ĝi funkcias\?</string>
+    <string name="ok">bone</string>
+    <string name="direct_message_help_ans">Bonvolu enigi la telefonnumeron de la ricevanto kune kun via tekstmesaĝo. Post kiam vi pretas sendi la mesaĝon, simple alklaku la butonon \'Sendu\'. Alternative, vi ankaŭ povas uzi la opcion \'Rekta Ligo\' por kopii la ligon kaj dividi ĝin kun la ricevanto. Alklakante la ligilon, ili povas babili kun vi rekte.</string>
+    <string name="click_here_to_grant_required_permissions">Malebligu kaj reŝaltu sciigan permeson.</string>
+    <string name="please_grant_storage_permissions">Bonvolu doni permesojn pri Stokado</string>
+    <string name="rate_app">Bonvolu taksi la apon!</string>
+    <string name="rate_later">Poste</string>
+    <string name="rateUs">Bonvolu taksi la apon en Play Store</string>
+    <string name="send_feedback">Bonvolu sendi al ni komentojn. Ni provos labori pri ĝi!</string>
+    <string name="try_again">Bonvolu reprovi</string>
+    <string name="message_copied_to_clipboard">mesaĝo kopiita al tondujo</string>
+    <string name="system_default">Sistemo Defaŭlto</string>
+    <string name="restart">Rekomenci</string>
+    <string name="light">Lumo</string>
+    <string name="dark">Mallumo</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Kunhavigu kun</string>
+    <string name="direct_link">Kopiu Rektan Ligon</string>
+    <string name="remove_ads">Forigi Reklamojn</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Kio estas Retejo</string>
+    <string name="recover_messages">Reakiri Mesaĝojn</string>
+    <string name="direct_message">Rekta Mesaĝo</string>
+    <string name="title_refresh">Reŝargi</string>
+    <string name="whatsapp_not_installed">Whatsapp ne estas instalita. Bonvolu unue instali Whatsapp por uzi ĉi tiun funkcion.</string>
+    <string name="toggle_keyboard">Baskuligi Klavaron</string>
+    <string name="fullscreen">Plenekrane</string>
+    <string name="dismiss">Forĵeti</string>
+    <string name="keyboard_unblocked">Klavaro estas malblokita.</string>
+    <string name="keyboard_blocked">Klavaro estas blokita. Premu klavaran ikonon por malbloki.</string>
+    <string name="whats_web_how_it_works">1. Malfermu Whats Web-aplikon sur via aparato.\n\n2. Malfermu whatsapp sur alia inteligenta telefono.\n\n* En Android -&gt; El la ekrano de babiloj, iru al la menuo de tri punktoj situanta supre dekstre de la ekrano -&gt; Ligitaj aparatoj.\n\n* En Fenestra telefono -&gt; Iru al tri-punkta menuo -&gt; Ligitaj aparatoj.\n\n* En iPhone -&gt; Iru al Agordoj -&gt; Ligitaj aparatoj.\n\n3. Alklaku Ligi aparaton kaj skani la QR-kodon montritan sur via ĉi tiu aplika ekrano de alia telefono.</string>
+    <string name="retry_sending_voice_message">Bonvolu reprovi sendi voĉmesaĝon</string>
+    <string name="message_retry_sending_voice_message">Premu la mikrofonan ikonon denove. Ĝi devus funkcii kiel atendite.</string>
+    <string name="retry_camera_capture">Bonvolu reprovi opcion de Fotilo</string>
+    <string name="message_retry_camera_capture">Premu la fotilikonon denove. Ĝi devus funkcii kiel atendite.</string>
+    <string name="audio_perm_reqd">Sonpermeso necesas por progresi antaŭen.</string>
+    <string name="camera_perm_reqd">Fotila permeso estas necesa por progresi antaŭen.</string>
+    <string name="reset_reload">Restarigi/Reŝargi</string>
+    <string name="reset_only">RESET</string>
+    <string name="reload_only">NUR REŝargi</string>
+    <string name="reload_warning">Se vi spertas problemojn rilate al ensaluto, provu \'Restarigi\'.\nAVERTO: Vi eble devos ensaluti denove se vi uzas \'Restarigi\'.</string>
+    <string name="download_file">Elŝutante Dosieron</string>
+    <string name="couldnt_download_file">La dosiero ne eblis elŝuti</string>
+    <string name="storage_perm_reqd">Konserva permeso necesa por elŝuti dosieron</string>
+    <string name="purchase_item_not_found">Aĉeta Ero ne troveblas</string>
+    <string name="error">Eraro</string>
+    <string name="purchase_canceled">Aĉeto Nuligis</string>
+    <string name="pending_purchase">Aĉeto estas Pritraktata. Bonvolu kompletigi Transakcion</string>
+    <string name="purchase_status_not_known">Aĉeta stato ne estas konata</string>
+    <string name="enter_file_name">Enigu Dosiernomon</string>
+    <string name="downloading_file">Elŝutante la Dosieron</string>
+    <string name="enter_valid_file_name">Bonvolu enigi validan dosiernomon</string>
+    <string name="download_has_finished_message">Elŝuto finiĝis. Bonvolu kontroli dosierujon de Elŝutoj.</string>
+    <string name="could_not_download_file">Ne eblis elŝuti dosieron</string>
+    <string name="loading">Ŝarĝante</string>
+    <string name="downloading_update">Elŝutante ĝisdatigon</string>
+    <string name="update_downloaded_message">Ĝisdatigo ĵus estas elŝutita.</string>
+    <string name="keyboard_enable_webview_message">Premu la butonon de baskuli klavaron supre por ebligi tajpadon</string>
+    <string name="preference_title_bug_report">Cimraporto</string>
+    <string name="preference_title_report_a_issue">Raportu Problemon</string>
+    <string name="describe_bug">Bonvolu priskribi la cimon ĉi tie</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">WhatsApp-dosierujo ne enhavas Statusojn. Bonvolu elekti ĝustan dosierujon.</string>
+    <string name="please_select_whatsapp_directory">Bonvolu elekti WhatsApp-dosierujon!</string>
+    <string name="download_cleaner">Elŝutu Cleaner</string>
+    <string name="download_recover_messages_app">Elŝutu Recover Messages App</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Por uzi ĉi tiun funkcion, vi devas elŝuti alian apon el ludbutiko. Alklaku OK por malfermi ludbutikon kaj elŝuti apon.</string>
+    <string name="cancel">Nuligi</string>
+    <string name="ad_space">Reklama Spaco</string>
+    <string name="status">Statuso</string>
+    <string name="theme">Temo</string>
+    <string name="more_apps">Pli da Aplikoj</string>
+    <string name="share">Kunhavigi</string>
+    <string name="send">Sendu</string>
+    <string name="select_country_code_and_number">Elektu landokodon kaj numeron</string>
+    <string name="how_it_works">Kiel ĝi funkcias</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Elŝutu Qr-Skanilo-Apon</string>
+    <string name="share_content">Preparu sperti la plej rapidan manieron aliri la saman WhatsApp-konton sur du malsamaj saĝtelefonoj aŭ tabulkomputiloj, ĉio senpage! Elŝutu kaj instalu la apon nun.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

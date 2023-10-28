@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Жаңыртуу аяктады</string>
+    <string name="app_update_alert_dialog_subtitle">Жаңыртууларды колдонуу үчүн колдонмону өчүрүп күйгүзүңүз…</string>
+    <string name="help">Жардам</string>
+    <string name="cleaner">Тазалоочу</string>
+    <string name="status_saver">Status Saver</string>
+    <string name="settings">Орнотуулар</string>
+    <string name="saved_statuses_appear_here">Статус жок!</string>
+    <string name="available_statuses">жеткиликтүү</string>
+    <string name="saved_statuses">Сакталган</string>
+    <string name="enter_message">Билдирүү киргизиңиз (милдеттүү эмес)</string>
+    <string name="enter_phone_number">Телефон номерин киргизиңиз</string>
+    <string name="send_message">Кабар жөнөтүү</string>
+    <string name="enter_a_phone_number">Телефон номерин киргизиңиз</string>
+    <string name="direct_link_copied_to_clipboard">Түз шилтеме алмашуу буферине көчүрүлдү</string>
+    <string name="premium_unlocked">Рахмат. Эми премиум функцияларды колдоно аласыз</string>
+    <string name="settings_category_title_developer">Иштеп чыгуучу</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Ачык булак китепканалары</string>
+    <string name="preference_title_application_version">Колдонмо версиясы</string>
+    <string name="preference_title_contact_us">Биз менен байланыш</string>
+    <string name="preference_title_privacy_policy">Купуялык саясаты</string>
+    <string name="preference_title_terms_conditions">Шарттар жана жоболор</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Генерал</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Караңгы режим</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Бул кантип иштейт\?</string>
+    <string name="ok">макул</string>
+    <string name="direct_message_help_ans">Сураныч, текст билдирүүңүз менен бирге алуучунун телефон номерин киргизиңиз. Сиз билдирүү жөнөтүүгө даяр болгондон кийин, жөн гана \"Жөнөтүү\" баскычын чыкылдатыңыз. Же болбосо, шилтемени көчүрүү жана аны алуучу менен бөлүшүү үчүн \"Түз шилтеме\" опциясын да колдонсоңуз болот. Шилтемени басуу менен алар сиз менен түз баарлаша алышат.</string>
+    <string name="click_here_to_grant_required_permissions">Эскертме уруксатын өчүрүп, кайра иштетиңиз.</string>
+    <string name="please_grant_storage_permissions">Сураныч, Сактагыч уруксаттарын бериңиз</string>
+    <string name="rate_app">Сураныч, колдонмону баалаңыз!</string>
+    <string name="rate_later">Кийинчерээк</string>
+    <string name="rateUs">Сураныч, Play Store\'до колдонмого баа бериңиз</string>
+    <string name="send_feedback">Сураныч, бизге пикир жөнөтүңүз. Биз мунун үстүндө иштөөгө аракет кылабыз!</string>
+    <string name="try_again">Сураныч, кайра аракет кылыңыз</string>
+    <string name="message_copied_to_clipboard">билдирүү алмашуу буферине көчүрүлдү</string>
+    <string name="system_default">Системанын демейки</string>
+    <string name="restart">Кайра жүргүзүү</string>
+    <string name="light">Жарык</string>
+    <string name="dark">Караңгы</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">менен бөлүшүү</string>
+    <string name="direct_link">Түз шилтемени көчүрүү</string>
+    <string name="remove_ads">Жарнамаларды алып салуу</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Whats Web</string>
+    <string name="recover_messages">Кабарларды калыбына келтирүү</string>
+    <string name="direct_message">Түз билдирүү</string>
+    <string name="title_refresh">Кайра жүктөө</string>
+    <string name="whatsapp_not_installed">Whatsapp орнотулган эмес. Бул функцияны колдонуу үчүн алгач Whatsapp орнотуңуз.</string>
+    <string name="toggle_keyboard">Баскычтопту которуштуруу</string>
+    <string name="fullscreen">Толук экран</string>
+    <string name="dismiss">Иштен чыгаруу</string>
+    <string name="keyboard_unblocked">Баскычтоп бөгөттөн чыгарылды.</string>
+    <string name="keyboard_blocked">Баскычтоп бөгөттөлгөн. Бөгөттөн чыгаруу үчүн баскычтоптун сөлөкөтүн басыңыз.</string>
+    <string name="whats_web_how_it_works">1. Түзмөгүңүздө Whats Web тиркемесин ачыңыз.\n\n2. Башка смартфондо whatsapp ачыңыз.\n\n* Androidде -&gt; Чат экранынан экрандын жогорку оң жагында жайгашкан үч чекиттүү менюга өтүңүз -&gt; Байланышкан түзмөктөр.\n\n* Терезе телефонунда -&gt; Үч чекиттүү менюга өтүү -&gt; Байланышкан түзмөктөр.\n\n* iPhone\'до -&gt; Орнотуулар -&gt; Байланышкан түзмөктөргө өтүңүз.\n\n3. Түзмөктү байланыштырууну таптап, бул колдонмоңуздун экранында көрсөтүлгөн QR кодун башка телефондон сканерлеңиз.</string>
+    <string name="retry_sending_voice_message">Үн билдирүүсүн кайра жөнөтүп көрүңүз</string>
+    <string name="message_retry_sending_voice_message">Микрофон сөлөкөтүн дагы бир жолу басыңыз. Ал күтүлгөндөй иштеши керек.</string>
+    <string name="retry_camera_capture">Сураныч, Камера опциясын кайталап көрүңүз</string>
+    <string name="message_retry_camera_capture">Камера сүрөтчөсүн дагы бир жолу басыңыз. Ал күтүлгөндөй иштеши керек.</string>
+    <string name="audio_perm_reqd">Алдыда иштөө үчүн аудио уруксаты талап кылынат.</string>
+    <string name="camera_perm_reqd">Алдыга жылдыруу үчүн камерага уруксат керек.</string>
+    <string name="reset_reload">Калыбына келтирүү/кайра жүктөө</string>
+    <string name="reset_only">RESET</string>
+    <string name="reload_only">КАЙРА ЖҮКТӨӨ ГАНА</string>
+    <string name="reload_warning">Эгер сиз кирүү менен байланышкан көйгөйлөргө туш болуп жатсаңыз, \"Калыбына келтирүү\" аракетин көрүңүз.\nЭСКЕРТҮҮ: \"Калыбына келтирүү\" функциясын колдонсоңуз, кайра кирүүгө туура келиши мүмкүн.</string>
+    <string name="download_file">Файл жүктөлүүдө</string>
+    <string name="couldnt_download_file">Файл жүктөлүп алынбай койду</string>
+    <string name="storage_perm_reqd">Файлды жүктөп алуу үчүн сактоо уруксаты керек</string>
+    <string name="purchase_item_not_found">Сатып алынган нерсе табылган жок</string>
+    <string name="error">Ката</string>
+    <string name="purchase_canceled">Сатып алуу жокко чыгарылды</string>
+    <string name="pending_purchase">Сатып алуу күтүлүүдө. Сураныч, транзакцияны аягына чыгарыңыз</string>
+    <string name="purchase_status_not_known">Сатып алуу абалы белгисиз</string>
+    <string name="enter_file_name">Файлдын атын киргизиңиз</string>
+    <string name="downloading_file">Файл жүктөлүүдө</string>
+    <string name="enter_valid_file_name">Жарактуу файл атын киргизиңиз</string>
+    <string name="download_has_finished_message">Жүктөп алуу аяктады. Жүктөөлөр папкасын текшериңиз.</string>
+    <string name="could_not_download_file">Файл жүктөлүп алынган жок</string>
+    <string name="loading">Жүктөө</string>
+    <string name="downloading_update">Жаңыртуу жүктөлүүдө</string>
+    <string name="update_downloaded_message">Жаңыртуу жаңы эле жүктөлүп алынды.</string>
+    <string name="keyboard_enable_webview_message">Терүүнү иштетүү үчүн жогорудагы которуштуруу баскычтоп баскычын басыңыз</string>
+    <string name="preference_title_bug_report">Мүчүлүштүк тууралуу отчет</string>
+    <string name="preference_title_report_a_issue">Маселени билдирүү</string>
+    <string name="describe_bug">Сураныч, бул жерде катаны сүрөттөп бериңиз</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">WhatsApp каталогунда Статус жок. Сураныч, туура каталогду тандаңыз.</string>
+    <string name="please_select_whatsapp_directory">Сураныч, WhatsApp каталогун тандаңыз!</string>
+    <string name="download_cleaner">Тазалоочуну жүктөп алыңыз</string>
+    <string name="download_recover_messages_app">Кабарларды калыбына келтирүү колдонмосун жүктөп алыңыз</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Бул функцияны колдонуу үчүн, сиз Play дүкөнүнөн башка колдонмону жүктөп алышыңыз керек. Play дүкөнүн ачуу жана колдонмону жүктөп алуу үчүн OK басыңыз.</string>
+    <string name="cancel">Жокко чыгаруу</string>
+    <string name="ad_space">Жарнама мейкиндиги</string>
+    <string name="status">Статус</string>
+    <string name="theme">Тема</string>
+    <string name="more_apps">Дагы колдонмолор</string>
+    <string name="share">Бөлүшүү</string>
+    <string name="send">Жөнөтүү</string>
+    <string name="select_country_code_and_number">Өлкө кодун жана номерин тандаңыз</string>
+    <string name="how_it_works">Бул кантип иштейт</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Qr сканер колдонмосун жүктөп алыңыз</string>
+    <string name="share_content">Эки башка смартфондо же планшетте бир эле WhatsApp аккаунтуна кирүүнүн эң тез ыкмасын колдонууга даяр болуңуз, бардыгы бекер! Колдонмону азыр жүктөп алып, орнотуңуз.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

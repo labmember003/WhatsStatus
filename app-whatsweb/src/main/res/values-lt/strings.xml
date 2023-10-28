@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Atnaujinimas baigtas</string>
+    <string name="app_update_alert_dialog_subtitle">Iš naujo paleiskite programą, kad pritaikytumėte naujinimus…</string>
+    <string name="help">Pagalba</string>
+    <string name="cleaner">Valytojas</string>
+    <string name="status_saver">Būsenos užsklanda</string>
+    <string name="settings">Nustatymai</string>
+    <string name="saved_statuses_appear_here">Nėra būsenos!</string>
+    <string name="available_statuses">Galima</string>
+    <string name="saved_statuses">Išsaugota</string>
+    <string name="enter_message">Įveskite pranešimą (nebūtina)</string>
+    <string name="enter_phone_number">Įveskite telefono numerį</string>
+    <string name="send_message">Siųsti žinutę</string>
+    <string name="enter_a_phone_number">Įveskite telefono numerį</string>
+    <string name="direct_link_copied_to_clipboard">Tiesioginė nuoroda nukopijuota į mainų sritį</string>
+    <string name="premium_unlocked">Ačiū. Dabar galite naudoti aukščiausios kokybės funkcijas</string>
+    <string name="settings_category_title_developer">Programuotojas</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Atvirojo kodo bibliotekos</string>
+    <string name="preference_title_application_version">Programos versija</string>
+    <string name="preference_title_contact_us">Susisiekite su mumis</string>
+    <string name="preference_title_privacy_policy">Privatumo politika</string>
+    <string name="preference_title_terms_conditions">Taisyklės ir sąlygos</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Generolas</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Tamsusis režimas</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Kaip tai veikia\?</string>
+    <string name="ok">Gerai</string>
+    <string name="direct_message_help_ans">Kartu su tekstiniu pranešimu įveskite gavėjo telefono numerį. Kai būsite pasirengę išsiųsti pranešimą, tiesiog spustelėkite mygtuką „Siųsti“. Arba taip pat galite naudoti parinktį „Tiesioginė nuoroda“, kad nukopijuotumėte nuorodą ir bendrintumėte ją su gavėju. Spustelėję nuorodą jie gali tiesiogiai su jumis kalbėtis.</string>
+    <string name="click_here_to_grant_required_permissions">Išjungti ir iš naujo įgalinti pranešimų leidimą.</string>
+    <string name="please_grant_storage_permissions">Suteikite saugyklos leidimus</string>
+    <string name="rate_app">Įvertinkite programą!</string>
+    <string name="rate_later">Vėliau</string>
+    <string name="rateUs">Įvertinkite programą „Play“ parduotuvėje</string>
+    <string name="send_feedback">Prašome atsiųsti mums atsiliepimą. Stengsimės prie to dirbti!</string>
+    <string name="try_again">Prašau, pabandykite dar kartą</string>
+    <string name="message_copied_to_clipboard">žinutė nukopijuota į mainų sritį</string>
+    <string name="system_default">Numatytoji sistema</string>
+    <string name="restart">Perkrauti</string>
+    <string name="light">Šviesa</string>
+    <string name="dark">Tamsus</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Pasidalink su</string>
+    <string name="direct_link">Nukopijuokite tiesioginę nuorodą</string>
+    <string name="remove_ads">Panaikinti reklamas</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Kas yra žiniatinklis</string>
+    <string name="recover_messages">Atkurti pranešimus</string>
+    <string name="direct_message">Tiesioginė žinutė</string>
+    <string name="title_refresh">Įkelti iš naujo</string>
+    <string name="whatsapp_not_installed">Whatsapp neįdiegtas. Norėdami naudotis šia funkcija, pirmiausia įdiekite „Whatsapp“.</string>
+    <string name="toggle_keyboard">Perjungti klaviatūrą</string>
+    <string name="fullscreen">Per visą ekraną</string>
+    <string name="dismiss">Atsisakyti</string>
+    <string name="keyboard_unblocked">Klaviatūra atblokuota.</string>
+    <string name="keyboard_blocked">Klaviatūra užblokuota. Norėdami atblokuoti, paspauskite klaviatūros piktogramą.</string>
+    <string name="whats_web_how_it_works">1. Savo įrenginyje atidarykite programą „Whats Web“.\n\n2. Atidarykite „WhatsApp“ kitame išmaniajame telefone.\n\n* „Android“ -&gt; Pokalbių ekrane eikite į trijų taškų meniu, esantį viršutiniame dešiniajame ekrano kampe -&gt; Susieti įrenginiai.\n\n* Lango telefone -&gt; Eikite į trijų taškų meniu -&gt; Susieti įrenginiai.\n\n* iPhone -&gt; Eikite į Nustatymai -&gt; Susieti įrenginiai.\n\n3. Bakstelėkite Susieti įrenginį ir nuskaitykite QR kodą, rodomą šios programos ekrane iš kito telefono.</string>
+    <string name="retry_sending_voice_message">Bandykite dar kartą siųsti balso pranešimą</string>
+    <string name="message_retry_sending_voice_message">Dar kartą paspauskite mikrofono piktogramą. Jis turėtų veikti taip, kaip tikėtasi.</string>
+    <string name="retry_camera_capture">Iš naujo bandykite fotoaparato parinktį</string>
+    <string name="message_retry_camera_capture">Dar kartą paspauskite fotoaparato piktogramą. Jis turėtų veikti taip, kaip tikėtasi.</string>
+    <string name="audio_perm_reqd">Norint judėti į priekį, reikalingas garso leidimas.</string>
+    <string name="camera_perm_reqd">Norint judėti pirmyn, reikalingas fotoaparato leidimas.</string>
+    <string name="reset_reload">Atstatyti /įkelti iš naujo</string>
+    <string name="reset_only">RESET</string>
+    <string name="reload_only">TIK PERKRAUTI</string>
+    <string name="reload_warning">Jei kyla problemų, susijusių su prisijungimu, pabandykite „Atstatyti“.\nĮSPĖJIMAS: gali tekti prisijungti dar kartą, jei naudosite „Reset“.</string>
+    <string name="download_file">Atsisiunčiamas failas</string>
+    <string name="couldnt_download_file">Failo atsisiųsti nepavyko</string>
+    <string name="storage_perm_reqd">Norint atsisiųsti failą, reikalingas saugyklos leidimas</string>
+    <string name="purchase_item_not_found">Pirkimo prekės nepavyko rasti</string>
+    <string name="error">Klaida</string>
+    <string name="purchase_canceled">Pirkimas atšauktas</string>
+    <string name="pending_purchase">Pirkimas laukia. Užbaikite sandorį</string>
+    <string name="purchase_status_not_known">Pirkimo būsena nežinoma</string>
+    <string name="enter_file_name">Įveskite failo pavadinimą</string>
+    <string name="downloading_file">Failo atsisiuntimas</string>
+    <string name="enter_valid_file_name">Įveskite tinkamą failo pavadinimą</string>
+    <string name="download_has_finished_message">Atsisiuntimas baigtas. Patikrinkite atsisiuntimų aplanką.</string>
+    <string name="could_not_download_file">Nepavyko atsisiųsti failo</string>
+    <string name="loading">Įkeliama</string>
+    <string name="downloading_update">Atsisiunčiamas naujinimas</string>
+    <string name="update_downloaded_message">Ką tik atsisiųstas naujinimas.</string>
+    <string name="keyboard_enable_webview_message">Norėdami įjungti tekstą, paspauskite viršuje esantį klaviatūros perjungimo mygtuką</string>
+    <string name="preference_title_bug_report">Pranešimas apie klaidas</string>
+    <string name="preference_title_report_a_issue">Pranešti apie problemą</string>
+    <string name="describe_bug">Aprašykite klaidą čia</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">„WhatsApp“ kataloge nėra būsenų. Prašome pasirinkti tinkamą katalogą.</string>
+    <string name="please_select_whatsapp_directory">Pasirinkite WhatsApp katalogą!</string>
+    <string name="download_cleaner">Atsisiųskite „Cleaner“.</string>
+    <string name="download_recover_messages_app">Atsisiųskite programą „Atkurti pranešimus“.</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Norėdami naudotis šia funkcija, turite atsisiųsti kitą programą iš „Play“ parduotuvės. Spustelėkite Gerai, kad atidarytumėte žaidimų parduotuvę ir atsisiųstumėte programą.</string>
+    <string name="cancel">Atšaukti</string>
+    <string name="ad_space">Skelbimų erdvė</string>
+    <string name="status">Būsena</string>
+    <string name="theme">tema</string>
+    <string name="more_apps">Daugiau programėlių</string>
+    <string name="share">Dalintis</string>
+    <string name="send">Siųsti</string>
+    <string name="select_country_code_and_number">Pasirinkite šalies kodą ir numerį</string>
+    <string name="how_it_works">Kaip tai veikia</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Atsisiųskite QR skaitytuvo programą</string>
+    <string name="share_content">Pasiruoškite išbandyti greičiausią būdą pasiekti tą pačią WhatsApp paskyrą dviejuose skirtinguose išmaniuosiuose telefonuose ar planšetiniuose kompiuteriuose – visa tai nemokamai! Atsisiųskite ir įdiekite programą dabar.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

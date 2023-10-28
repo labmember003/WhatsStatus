@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:orderInCategory="1"
+        android:id="@+id/webview_menu_refresh"
+        android:icon="@drawable/ic_refresh_black_24dp"
+        app:showAsAction="always"
+        app:iconTint="@color/white"
+        android:title="@string/title_refresh" />
+    <item
+        android:orderInCategory="2"
+        android:id="@+id/webview_menu_toggle_keyboard"
+        android:icon="@drawable/ic_toggle_keyboard"
+        app:showAsAction="always"
+        app:iconTint="@color/white"
+        android:title="@string/toggle_keyboard" />
+    <item
+        android:orderInCategory="3"
+        android:id="@+id/webview_menu_toggle_night_mode"
+        android:icon="@drawable/ic_toggle_night_mode_white"
+        app:showAsAction="always"
+        app:iconTint="@color/white"
+        android:title="@string/preference_title_dark_mode" />
+    <item
+        android:orderInCategory="4"
+        android:id="@+id/webview_fullscreen"
+        android:icon="@drawable/ic_fullscreen"
+        app:showAsAction="always"
+        app:iconTint="@color/white"
+        android:title="@string/fullscreen" />
+    <item
+        android:orderInCategory="5"
+        android:id="@+id/webview_how_it_works"
+        android:icon="@drawable/ic_toggle_night_mode_white"
+        app:showAsAction="never"
+        app:iconTint="@color/white"
+        android:title="@string/how_it_works" />
+</menu>

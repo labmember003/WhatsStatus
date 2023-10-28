@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">အပ်ဒိတ် ပြီးပါပြီ။</string>
+    <string name="app_update_alert_dialog_subtitle">အပ်ဒိတ်များကို အသုံးပြုရန် အက်ပ်ကို ပြန်လည်စတင်ပါ...</string>
+    <string name="help">ကူညီကြပါ</string>
+    <string name="cleaner">သန့်စင်သည်။</string>
+    <string name="status_saver">Status Saver</string>
+    <string name="settings">ဆက်တင်များ</string>
+    <string name="saved_statuses_appear_here">အခြေအနေမရှိနိုင်ပါ။</string>
+    <string name="available_statuses">ရရှိနိုင်ပါသည်။</string>
+    <string name="saved_statuses">သိမ်းဆည်းထားသည်။</string>
+    <string name="enter_message">မက်ဆေ့ဂျ်ကို ထည့်ပါ (ချန်လှပ်ထားနိုင်သည်)</string>
+    <string name="enter_phone_number">ဖုန်းနံပါတ်ထည့်ပါ။</string>
+    <string name="send_message">Message ပို့ပါ။</string>
+    <string name="enter_a_phone_number">ဖုန်းနံပါတ်တစ်ခုထည့်ပါ။</string>
+    <string name="direct_link_copied_to_clipboard">တိုက်ရိုက်လင့်ခ်ကို ကလစ်ဘုတ်သို့ ကူးယူထားသည်။</string>
+    <string name="premium_unlocked">ကျေးဇူးတင်ပါသည်။ ယခု သင်သည် ပရီမီယံဝန်ဆောင်မှုများကို သုံးနိုင်ပါပြီ။</string>
+    <string name="settings_category_title_developer">ပြုစုသူ</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Open Source စာကြည့်တိုက်များ</string>
+    <string name="preference_title_application_version">အက်ပ်ဗားရှင်း</string>
+    <string name="preference_title_contact_us">ကြှနျုပျတို့ကိုဆကျသှယျရနျ</string>
+    <string name="preference_title_privacy_policy">ကိုယ်ရေးအချက်အလက်မူဝါဒ</string>
+    <string name="preference_title_terms_conditions">စည်းကမ်းနှင့်သတ်မှတ်ချက်များ</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">အထွေထွေ</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">အမှောင်မုဒ်</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">ဘယ်လိုအလုပ်လုပ်လဲ\?</string>
+    <string name="ok">အိုကေ</string>
+    <string name="direct_message_help_ans">ကျေးဇူးပြု၍ လက်ခံသူ၏ဖုန်းနံပါတ်ကို သင့်စာသားမက်ဆေ့ခ်ျနှင့်အတူ ထည့်သွင်းပါ။ မက်ဆေ့ချ်ပို့ရန် အဆင်သင့်ဖြစ်ပါက \'Send\' ခလုတ်ကို နှိပ်ပါ။ တနည်းအားဖြင့် သင်သည် လင့်ခ်ကို ကူးယူပြီး လက်ခံသူနှင့် မျှဝေရန် \'တိုက်ရိုက်လင့်ခ်\' ရွေးချယ်မှုကိုလည်း အသုံးပြုနိုင်သည်။ လင့်ခ်ကို နှိပ်ခြင်းဖြင့် ၎င်းတို့သည် သင်နှင့် တိုက်ရိုက် ချတ်လုပ်နိုင်ပါသည်။</string>
+    <string name="click_here_to_grant_required_permissions">အသိပေးချက်ခွင့်ပြုချက်ကို ပိတ်ပြီး ပြန်ဖွင့်ပါ။</string>
+    <string name="please_grant_storage_permissions">ကျေးဇူးပြု၍ သိုလှောင်ခန်းခွင့်ပြုချက်များပေးပါ။</string>
+    <string name="rate_app">အက်ပ်ကို အဆင့်သတ်မှတ်ပါ။</string>
+    <string name="rate_later">နောက်တော့</string>
+    <string name="rateUs">Play Store တွင် အက်ပ်ကို အဆင့်သတ်မှတ်ပါ။</string>
+    <string name="send_feedback">ကျေးဇူးပြု၍ ကျွန်ုပ်တို့အား တုံ့ပြန်ချက်ပေးပို့ပါ။ အဲဒါကို ကြိုးစားလုပ်ဆောင်ပါ့မယ်။</string>
+    <string name="try_again">ထပ်စမ်းကြည့်ပါ။</string>
+    <string name="message_copied_to_clipboard">မက်ဆေ့ဂျ်ကို ကလစ်ဘုတ်သို့ ကူးယူထားသည်။</string>
+    <string name="system_default">စနစ် ပုံသေ</string>
+    <string name="restart">ပြန်စတင်သည်</string>
+    <string name="light">အလင်း</string>
+    <string name="dark">မှောငျမိုကျသော</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">မျှဝေပါ။</string>
+    <string name="direct_link">တိုက်ရိုက်လင့်ခ်ကို ကူးယူပါ။</string>
+    <string name="remove_ads">ကြော်ငြာများကို ဖယ်ရှားပါ။</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">ဝဘ်ဆိုတာဘာလဲ</string>
+    <string name="recover_messages">မက်ဆေ့ချ်များကို ပြန်လည်ရယူပါ။</string>
+    <string name="direct_message">တိုက်ရိုက်သတင်းစကား</string>
+    <string name="title_refresh">ပြန်တင်ပါ။</string>
+    <string name="whatsapp_not_installed">Whatsapp ကို ထည့်သွင်းမထားပါ။ ဤအင်္ဂါရပ်ကိုအသုံးပြုရန် ပထမဆုံး Whatsapp ကိုထည့်သွင်းပါ။</string>
+    <string name="toggle_keyboard">ကီးဘုတ်ပြောင်းရန်</string>
+    <string name="fullscreen">မျက်နှာပြင်အပြည့်</string>
+    <string name="dismiss">ပယ်ရန်</string>
+    <string name="keyboard_unblocked">ကီးဘုတ်ကို ပြန်ဖွင့်ထားသည်။</string>
+    <string name="keyboard_blocked">ကီးဘုတ်ကို ပိတ်ဆို့ထားသည်။ ပြန်ဖွင့်ရန် ကီးဘုတ်အိုင်ကွန်ကို နှိပ်ပါ။</string>
+    <string name="whats_web_how_it_works">1. သင့်စက်ပေါ်တွင် Whats Web အပလီကေးရှင်းကို ဖွင့်ပါ။\n\n2. အခြားစမတ်ဖုန်းပေါ်တွင် whatsapp ကိုဖွင့်ပါ။\n\n* Android တွင် -&gt; ချက်တင်စခရင်မှ၊ စခရင်၏အပေါ်ဘက်ညာဘက်ရှိ အစက်သုံးစက်သို့သွားပါ -&gt; ချိတ်ဆက်ထားသောစက်ပစ္စည်းများ။\n\n* Window phone တွင် -&gt; အစက်သုံးစက် -&gt; ချိတ်ဆက်ထားသော စက်များသို့ သွားပါ။\n\n* iPhone တွင် -&gt; ဆက်တင်များ -&gt; ချိတ်ဆက်ထားသော စက်များသို့ သွားပါ။\n\n3. စက်ပစ္စည်းတစ်ခုအား လင့်ခ်ကိုနှိပ်ပြီး အခြားဖုန်းမှ ဤအက်ပ်စခရင်တွင်ပြသထားသည့် QR ကုဒ်ကို စကင်န်ဖတ်ပါ။</string>
+    <string name="retry_sending_voice_message">အသံမက်ဆေ့ဂျ်ကို ပြန်ပို့ကြည့်ပါ။</string>
+    <string name="message_retry_sending_voice_message">မိုက်ခရိုဖုန်းအိုင်ကွန်ကို နောက်တစ်ကြိမ်ထပ်နှိပ်ပါ။ မျှော်လင့်ထားသည့်အတိုင်း လုပ်ဆောင်သင့်သည်။</string>
+    <string name="retry_camera_capture">ကျေးဇူးပြု၍ ကင်မရာရွေးချယ်မှုကို ထပ်စမ်းကြည့်ပါ။</string>
+    <string name="message_retry_camera_capture">ကင်မရာအိုင်ကွန်ကို နောက်တစ်ကြိမ်ထပ်နှိပ်ပါ။ မျှော်လင့်ထားသည့်အတိုင်း လုပ်ဆောင်သင့်သည်။</string>
+    <string name="audio_perm_reqd">ရှေ့ဆက်လုပ်ဆောင်ရန် အသံခွင့်ပြုချက် လိုအပ်ပါသည်။</string>
+    <string name="camera_perm_reqd">ရှေ့ဆက်လုပ်ဆောင်ရန် ကင်မရာခွင့်ပြုချက် လိုအပ်ပါသည်။</string>
+    <string name="reset_reload">ပြန်လည်သတ်မှတ်/ပြန်တင်ပါ။</string>
+    <string name="reset_only">ပြန်သတ်မှတ်ပါ။</string>
+    <string name="reload_only">ပြန်တင်ရန်သာ</string>
+    <string name="reload_warning">အကောင့်ဝင်ခြင်းဆိုင်ရာ ပြဿနာများ ကြုံတွေ့နေရပါက \'ပြန်လည်သတ်မှတ်ခြင်း\' ကို ကြိုးစားပါ။\nသတိပေးချက်- သင်သည် \'ပြန်လည်သတ်မှတ်ခြင်း\' ကိုအသုံးပြုပါက သင်သည် ထပ်မံဝင်ရောက်ရန် လိုအပ်နိုင်သည်။</string>
+    <string name="download_file">ဖိုင်ကိုဒေါင်းလုဒ်လုပ်ခြင်း။</string>
+    <string name="couldnt_download_file">ဖိုင်ကို ဒေါင်းလုဒ်လုပ်၍မရပါ။</string>
+    <string name="storage_perm_reqd">ဖိုင်ဒေါင်းလုဒ်လုပ်ရန် သိုလှောင်မှုခွင့်ပြုချက် လိုအပ်သည်။</string>
+    <string name="purchase_item_not_found">ဝယ်ယူသည့်ပစ္စည်းကို ရှာမတွေ့ပါ။</string>
+    <string name="error">အမှား</string>
+    <string name="purchase_canceled">ဝယ်ယူမှုကို ပယ်ဖျက်လိုက်ပါပြီ။</string>
+    <string name="pending_purchase">ဝယ်ယူမှု ဆိုင်းငံ့ထားသည်။ ကျေးဇူးပြု၍ ငွေလွှဲခြင်းကို အပြီးသတ်ပါ။</string>
+    <string name="purchase_status_not_known">ဝယ်ယူမှု အခြေအနေကို မသိရပါ။</string>
+    <string name="enter_file_name">ဖိုင်အမည်တစ်ခုထည့်ပါ။</string>
+    <string name="downloading_file">ဖိုင်ကိုဒေါင်းလုပ်ဆွဲခြင်း။</string>
+    <string name="enter_valid_file_name">ကျေးဇူးပြု၍ တရားဝင် ဖိုင်အမည်ကို ထည့်ပါ။</string>
+    <string name="download_has_finished_message">ဒေါင်းလုဒ် ပြီးသွားပါပြီ။ ကျေးဇူးပြု၍ ဒေါင်းလုဒ်များဖိုဒါကို စစ်ဆေးပါ။</string>
+    <string name="could_not_download_file">ဖိုင်ကို ဒေါင်းလုဒ်လုပ်၍မရပါ။</string>
+    <string name="loading">ဒိန်း</string>
+    <string name="downloading_update">အပ်ဒိတ်ကို ဒေါင်းလုဒ်လုပ်နေသည်။</string>
+    <string name="update_downloaded_message">အပ်ဒိတ်တစ်ခုကို ယခုလေးတင် ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ။</string>
+    <string name="keyboard_enable_webview_message">စာရိုက်ခြင်းကို ဖွင့်ရန် အပေါ်မှ ကီးဘုတ်ခလုတ်ကို နှိပ်ပါ။</string>
+    <string name="preference_title_bug_report">ချွတ်ယွင်းချက်အစီရင်ခံစာ</string>
+    <string name="preference_title_report_a_issue">ပြဿနာတစ်ခုကို သတင်းပို့ပါ။</string>
+    <string name="describe_bug">ကျေးဇူးပြု၍ ဤနေရာတွင် bug ကိုဖော်ပြပါ။</string>
+    <string name="_2">၂</string>
+    <string name="_3">၃</string>
+    <string name="_1">၁</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">WhatsApp လမ်းညွှန်တွင် အခြေအနေများ မပါဝင်ပါ။ မှန်ကန်သော လမ်းညွှန်ကို ရွေးချယ်ပါ။</string>
+    <string name="please_select_whatsapp_directory">ကျေးဇူးပြု၍ WhatsApp လမ်းညွှန်ကို ရွေးပါ။</string>
+    <string name="download_cleaner">Cleaner ကိုဒေါင်းလုဒ်လုပ်ပါ။</string>
+    <string name="download_recover_messages_app">Recover Messages အက်ပ်ကို ဒေါင်းလုဒ်လုပ်ပါ။</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">ဤအင်္ဂါရပ်ကို အသုံးပြုရန်၊ သင်သည် အခြားအက်ပ်အား play store မှ ဒေါင်းလုဒ်လုပ်ရန် လိုအပ်သည်။ Play Store ဖွင့်ပြီး အက်ပ်ဒေါင်းလုဒ်လုပ်ရန် OK ကိုနှိပ်ပါ။</string>
+    <string name="cancel">မလုပ်တော့</string>
+    <string name="ad_space">ကြော်ငြာအာကာသ</string>
+    <string name="status">အဆင့်အတန်း</string>
+    <string name="theme">အပြင်အဆင်</string>
+    <string name="more_apps">နောက်ထပ်အက်ပ်များ</string>
+    <string name="share">မျှဝေပါ။</string>
+    <string name="send">ပို့ပါ။</string>
+    <string name="select_country_code_and_number">နိုင်ငံကုဒ်နှင့် နံပါတ်ကို ရွေးပါ။</string>
+    <string name="how_it_works">ဘယ်လိုအလုပ်လုပ်လဲ</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Qr Scanner အက်ပ်ကို ဒေါင်းလုဒ်လုပ်ပါ။</string>
+    <string name="share_content">မတူညီသောစမတ်ဖုန်း သို့မဟုတ် တက်ဘလက်နှစ်ခုတွင် တူညီသော WhatsApp အကောင့်ကို ဝင်ရောက်ရန် အမြန်ဆုံးနည်းလမ်းကို တွေ့ကြုံခံစားရန် အဆင်သင့်ပြင်ဆင်လိုက်ပါ။ အက်ပ်ကို ယခုဒေါင်းလုဒ်လုပ်ပြီး ထည့်သွင်းပါ။</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

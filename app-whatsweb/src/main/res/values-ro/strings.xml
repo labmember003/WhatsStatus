@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Actualizarea este finalizată</string>
+    <string name="app_update_alert_dialog_subtitle">Reporniți aplicația pentru a aplica actualizări...</string>
+    <string name="help">Ajutor</string>
+    <string name="cleaner">Curățător</string>
+    <string name="status_saver">Economizor de stare</string>
+    <string name="settings">Setări</string>
+    <string name="saved_statuses_appear_here">Niciun statut disponibil!</string>
+    <string name="available_statuses">Disponibil</string>
+    <string name="saved_statuses">Salvat</string>
+    <string name="enter_message">Introduceți mesajul (opțional)</string>
+    <string name="enter_phone_number">Introduceti numarul de telefon</string>
+    <string name="send_message">Trimite mesaj</string>
+    <string name="enter_a_phone_number">Introduceti un numar de telefon</string>
+    <string name="direct_link_copied_to_clipboard">Link direct copiat în clipboard</string>
+    <string name="premium_unlocked">Mulțumesc. Acum puteți utiliza funcții premium</string>
+    <string name="settings_category_title_developer">Dezvoltator</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Biblioteci cu sursă deschisă</string>
+    <string name="preference_title_application_version">Versiunea aplicației</string>
+    <string name="preference_title_contact_us">Contactaţi-ne</string>
+    <string name="preference_title_privacy_policy">Politica de confidențialitate</string>
+    <string name="preference_title_terms_conditions">Termeni și condiții</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">General</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Modul întunecat</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Cum functioneaza\?</string>
+    <string name="ok">Bine</string>
+    <string name="direct_message_help_ans">Introduceți numărul de telefon al destinatarului împreună cu mesajul text. Odată ce sunteți gata să trimiteți mesajul, faceți clic pe butonul „Trimite”. Alternativ, puteți utiliza și opțiunea „Legătură directă” pentru a copia linkul și a-l partaja cu destinatarul. Făcând clic pe link, ei pot discuta direct cu tine.</string>
+    <string name="click_here_to_grant_required_permissions">Dezactivați și reactivați permisiunea de notificare.</string>
+    <string name="please_grant_storage_permissions">Vă rugăm să acordați permisiuni de stocare</string>
+    <string name="rate_app">Vă rugăm să evaluați aplicația!</string>
+    <string name="rate_later">Mai tarziu</string>
+    <string name="rateUs">Vă rugăm să evaluați aplicația în Magazinul Play</string>
+    <string name="send_feedback">Vă rugăm să ne trimiteți feedback. Vom încerca să lucrăm la asta!</string>
+    <string name="try_again">Vă rugăm să încercați din nou</string>
+    <string name="message_copied_to_clipboard">mesajul a fost copiat în clipboard</string>
+    <string name="system_default">Defectiune de sistem</string>
+    <string name="restart">Repornire</string>
+    <string name="light">Ușoară</string>
+    <string name="dark">Întuneric</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Împarte cu</string>
+    <string name="direct_link">Copiați legătura directă</string>
+    <string name="remove_ads">Elimina anunțurile</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Ce este Web-ul</string>
+    <string name="recover_messages">Recuperați mesajele</string>
+    <string name="direct_message">Mesaj direct</string>
+    <string name="title_refresh">Reîncărcați</string>
+    <string name="whatsapp_not_installed">Whatsapp nu este instalat. Vă rugăm să instalați mai întâi Whatsapp pentru a utiliza această funcție.</string>
+    <string name="toggle_keyboard">Comutați tastatura</string>
+    <string name="fullscreen">Ecran complet</string>
+    <string name="dismiss">Respingeți</string>
+    <string name="keyboard_unblocked">Tastatura este deblocată.</string>
+    <string name="keyboard_blocked">Tastatura este blocată. Apăsați pictograma tastaturii pentru a debloca.</string>
+    <string name="whats_web_how_it_works">1. Deschideți aplicația Whats Web pe dispozitivul dvs.\n\n2. Deschide whatsapp pe alt smartphone.\n\n* Pe Android -&gt; Din ecranul de chat, accesați meniul cu trei puncte situat în dreapta sus a ecranului -&gt; Dispozitive conectate.\n\n* Pe Windows Phone -&gt; Accesați meniul cu trei puncte -&gt; Dispozitive conectate.\n\n* Pe iPhone -&gt; Accesați Setări -&gt; Dispozitive conectate.\n\n3. Apăsați pe Conectați un dispozitiv și scanați codul QR afișat pe ecranul acestei aplicații de pe alt telefon.</string>
+    <string name="retry_sending_voice_message">Vă rugăm să reîncercați să trimiteți mesajul vocal</string>
+    <string name="message_retry_sending_voice_message">Apăsați încă o dată pictograma microfonului. Ar trebui să funcționeze conform așteptărilor.</string>
+    <string name="retry_camera_capture">Vă rugăm să reîncercați opțiunea Cameră</string>
+    <string name="message_retry_camera_capture">Apăsați încă o dată pictograma camerei. Ar trebui să funcționeze conform așteptărilor.</string>
+    <string name="audio_perm_reqd">Este necesară permisiune audio pentru a progresa.</string>
+    <string name="camera_perm_reqd">Este necesară permisiunea camerei pentru a progresa.</string>
+    <string name="reset_reload">Resetare/Reîncărcare</string>
+    <string name="reset_only">RESET</string>
+    <string name="reload_only">NUMAI REÎNCĂRCARE</string>
+    <string name="reload_warning">Dacă întâmpinați probleme legate de autentificare, încercați „Resetare”.\nAVERTISMENT: Poate fi necesar să vă autentificați din nou dacă utilizați „Resetare”.</string>
+    <string name="download_file">Se descarcă fișierul</string>
+    <string name="couldnt_download_file">Fișierul nu a putut fi descărcat</string>
+    <string name="storage_perm_reqd">Este necesară permisiunea de stocare pentru a descărca fișierul</string>
+    <string name="purchase_item_not_found">Articolul de achiziție nu a putut fi găsit</string>
+    <string name="error">Eroare</string>
+    <string name="purchase_canceled">Achiziție anulată</string>
+    <string name="pending_purchase">Achiziția este în așteptare. Vă rugăm să finalizați Tranzacția</string>
+    <string name="purchase_status_not_known">Starea achiziției nu este cunoscută</string>
+    <string name="enter_file_name">Introduceți un nume de fișier</string>
+    <string name="downloading_file">Descărcarea fișierului</string>
+    <string name="enter_valid_file_name">Vă rugăm să introduceți un nume de fișier valid</string>
+    <string name="download_has_finished_message">Descărcarea s-a încheiat. Vă rugăm să verificați folderul Descărcări.</string>
+    <string name="could_not_download_file">Nu s-a putut descărca fișierul</string>
+    <string name="loading">Se încarcă</string>
+    <string name="downloading_update">Se descarcă actualizarea</string>
+    <string name="update_downloaded_message">Tocmai a fost descărcată o actualizare.</string>
+    <string name="keyboard_enable_webview_message">Apăsați butonul de comutare de la tastatură de sus pentru a activa tastarea</string>
+    <string name="preference_title_bug_report">Raport de eroare</string>
+    <string name="preference_title_report_a_issue">Raportează o problemă</string>
+    <string name="describe_bug">Vă rugăm să descrieți bug-ul aici</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">Directorul WhatsApp nu conține stări. Vă rugăm să selectați directorul corect.</string>
+    <string name="please_select_whatsapp_directory">Vă rugăm să selectați directorul WhatsApp!</string>
+    <string name="download_cleaner">Descărcați Cleaner</string>
+    <string name="download_recover_messages_app">Descărcați aplicația Recover Messages</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Pentru a utiliza această funcție, trebuie să descărcați o altă aplicație din Play Store. Faceți clic pe OK pentru a deschide Play Store și a descărca aplicația.</string>
+    <string name="cancel">Anulare</string>
+    <string name="ad_space">Spațiu publicitar</string>
+    <string name="status">stare</string>
+    <string name="theme">Temă</string>
+    <string name="more_apps">Mai multe aplicatii</string>
+    <string name="share">Acțiune</string>
+    <string name="send">Trimite</string>
+    <string name="select_country_code_and_number">Selectați codul țării și numărul</string>
+    <string name="how_it_works">Cum functioneaza</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Descărcați aplicația Qr Scanner</string>
+    <string name="share_content">Pregătește-te să experimentezi cel mai rapid mod de a accesa același cont WhatsApp pe două smartphone-uri sau tablete diferite, totul gratuit! Descărcați și instalați aplicația acum.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

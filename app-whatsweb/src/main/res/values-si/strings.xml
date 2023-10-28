@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">යාවත්කාලීන කිරීම සම්පූර්ණයි</string>
+    <string name="app_update_alert_dialog_subtitle">යාවත්කාලීන යෙදීමට යෙදුම නැවත ආරම්භ කරන්න...</string>
+    <string name="help">උදව්</string>
+    <string name="cleaner">පිරිසිදු කරන්නා</string>
+    <string name="status_saver">තත්ව සුරැකුම</string>
+    <string name="settings">සැකසුම්</string>
+    <string name="saved_statuses_appear_here">තත්ත්‍වයක් නොමැත!</string>
+    <string name="available_statuses">ඇත</string>
+    <string name="saved_statuses">සුරකින ලදී</string>
+    <string name="enter_message">පණිවිඩය ඇතුළු කරන්න (විකල්ප)</string>
+    <string name="enter_phone_number">දුරකථන අංකය ඇතුලත් කරන්න</string>
+    <string name="send_message">පණිවුඩය යවන්න</string>
+    <string name="enter_a_phone_number">දුරකථන අංකයක් ඇතුළත් කරන්න</string>
+    <string name="direct_link_copied_to_clipboard">සෘජු සබැඳිය පසුරු පුවරුවට පිටපත් කරන ලදී</string>
+    <string name="premium_unlocked">ඔයාට ස්තූතියි. ඔබට දැන් වාරික විශේෂාංග භාවිතා කළ හැක</string>
+    <string name="settings_category_title_developer">සංවර්ධකයා</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">විවෘත මූලාශ්ර පුස්තකාල</string>
+    <string name="preference_title_application_version">යෙදුම් අනුවාදය</string>
+    <string name="preference_title_contact_us">අපව අමතන්න</string>
+    <string name="preference_title_privacy_policy">රහස්යතා ප්රතිපත්තිය</string>
+    <string name="preference_title_terms_conditions">නියම සහ කොන්දේසි</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">ජනරාල්</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">අඳුරු මාදිලිය</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">එය ක්රියා කරන්නේ කෙසේද\?</string>
+    <string name="ok">හරි</string>
+    <string name="direct_message_help_ans">කරුණාකර ඔබගේ කෙටි පණිවිඩය සමඟ ලබන්නාගේ දුරකථන අංකය ඇතුළත් කරන්න. ඔබ පණිවිඩය යැවීමට සූදානම් වූ පසු, \'Send\' බොත්තම ක්ලික් කරන්න. විකල්පයක් ලෙස, ඔබට සබැඳිය පිටපත් කිරීමට සහ ලබන්නා සමඟ බෙදා ගැනීමට \'Direct Link\' විකල්පය භාවිතා කළ හැක. සබැඳිය ක්ලික් කිරීමෙන්, ඔවුන්ට ඔබ සමඟ කෙලින්ම කතාබස් කළ හැකිය.</string>
+    <string name="click_here_to_grant_required_permissions">දැනුම්දීම් අවසරය අක්රිය කර නැවත සක්රිය කරන්න.</string>
+    <string name="please_grant_storage_permissions">කරුණාකර ගබඩා අවසර ලබා දෙන්න</string>
+    <string name="rate_app">කරුණාකර යෙදුම ශ්‍රේණිගත කරන්න!</string>
+    <string name="rate_later">පසු</string>
+    <string name="rateUs">කරුණාකර Play Store හි යෙදුම ශ්‍රේණිගත කරන්න</string>
+    <string name="send_feedback">කරුණාකර අපට ප්‍රතිපෝෂණ එවන්න. අපි එය මත වැඩ කිරීමට උත්සාහ කරන්නෙමු!</string>
+    <string name="try_again">කරුණාකර නැවත උත්සාහ කරන්න</string>
+    <string name="message_copied_to_clipboard">පණිවිඩය පසුරු පුවරුවට පිටපත් කරන ලදී</string>
+    <string name="system_default">පද්ධති පෙරනිමිය</string>
+    <string name="restart">යළි අරඹන්න</string>
+    <string name="light">ආලෝකය</string>
+    <string name="dark">අඳුරු</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">සමඟ බෙදාගන්න</string>
+    <string name="direct_link">සෘජු සබැඳිය පිටපත් කරන්න</string>
+    <string name="remove_ads">දැන්වීම් ඉවත් කරන්න</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Whats Web</string>
+    <string name="recover_messages">පණිවිඩ නැවත ලබාගන්න</string>
+    <string name="direct_message">සෘජු පණිවිඩය</string>
+    <string name="title_refresh">නැවත පූරණය කරන්න</string>
+    <string name="whatsapp_not_installed">Whatsapp ස්ථාපනය කර නැත. මෙම විශේෂාංගය භාවිතා කිරීමට කරුණාකර පළමුව Whatsapp ස්ථාපනය කරන්න.</string>
+    <string name="toggle_keyboard">යතුරු පුවරුව ටොගල් කරන්න</string>
+    <string name="fullscreen">පුන් තිරය</string>
+    <string name="dismiss">අස් කරන්න</string>
+    <string name="keyboard_unblocked">යතුරු පුවරුව අවහිර කිරීම ඉවත් කර ඇත.</string>
+    <string name="keyboard_blocked">යතුරු පුවරුව අවහිර කර ඇත. අවහිර කිරීම ඉවත් කිරීමට යතුරුපුවරු නිරූපකය ඔබන්න.</string>
+    <string name="whats_web_how_it_works">1. ඔබගේ උපාංගයේ Whats Web යෙදුම විවෘත කරන්න.\n\n2. වෙනත් ස්මාර්ට් ජංගම දුරකතනයේ whatsapp විවෘත කරන්න.\n\n* Android මත -&gt; කතාබස් තිරයෙන්, තිරයේ ඉහළ දකුණේ ඇති තිත් තුනේ මෙනුව වෙත යන්න -&gt; සබැඳි උපාංග.\n\n* කවුළු දුරකථනයේ -&gt; තිත් තුනේ මෙනුව -&gt; සම්බන්ධිත උපාංග වෙත යන්න.\n\n* iPhone හි -&gt; සැකසීම් -&gt; සම්බන්ධිත උපාංග වෙත යන්න.\n\n3. උපාංගයක් සබැඳිය මත තට්ටු කර ඔබගේ මෙම යෙදුම් තිරයේ දිස්වන QR කේතය වෙනත් දුරකථනයකින් පරිලෝකනය කරන්න.</string>
+    <string name="retry_sending_voice_message">කරුණාකර හඬ පණිවිඩ යැවීමට නැවත උත්සාහ කරන්න</string>
+    <string name="message_retry_sending_voice_message">මයික්‍රෆෝන නිරූපකය නැවත වරක් ඔබන්න. එය අපේක්ෂා කළ පරිදි වැඩ කළ යුතුය.</string>
+    <string name="retry_camera_capture">කරුණාකර කැමරා විකල්පය නැවත උත්සාහ කරන්න</string>
+    <string name="message_retry_camera_capture">කැමරා නිරූපකය නැවත වරක් ඔබන්න. එය අපේක්ෂා කළ පරිදි වැඩ කළ යුතුය.</string>
+    <string name="audio_perm_reqd">ඉදිරියට යාමට ශ්‍රව්‍ය අවසරය අවශ්‍ය වේ.</string>
+    <string name="camera_perm_reqd">ඉදිරි ප්‍රගතිය සඳහා කැමරා අවසරය අවශ්‍ය වේ.</string>
+    <string name="reset_reload">නැවත සකසන්න /නැවත පූරණය කරන්න</string>
+    <string name="reset_only">යළි පිහිටුවන්න</string>
+    <string name="reload_only">නැවත පූරණය පමණක්</string>
+    <string name="reload_warning">ඔබ පුරනය වීම සම්බන්ධ ගැටළු අත්විඳින්නේ නම්, \'නැවත පිහිටුවන්න\' උත්සාහ කරන්න.\nඅවවාදයයි: ඔබ \'යළි පිහිටුවීම\' භාවිතා කරන්නේ නම් ඔබට නැවත පුරනය වීමට සිදු විය හැක.</string>
+    <string name="download_file">ගොනුව බාගත කිරීම</string>
+    <string name="couldnt_download_file">ගොනුව බාගැනීමට නොහැකි විය</string>
+    <string name="storage_perm_reqd">ගොනුව බාගැනීමට ගබඩා අවසරය අවශ්‍යයි</string>
+    <string name="purchase_item_not_found">මිලදී ගත් අයිතමය සොයාගත නොහැකි විය</string>
+    <string name="error">දෝෂයකි</string>
+    <string name="purchase_canceled">මිලදී ගැනීම අවලංගු කරන ලදී</string>
+    <string name="pending_purchase">මිලදී ගැනීම පොරොත්තු වේ. කරුණාකර ගනුදෙනුව සම්පූර්ණ කරන්න</string>
+    <string name="purchase_status_not_known">මිලදී ගැනීමේ තත්ත්වය නොදනී</string>
+    <string name="enter_file_name">ගොනු නාමයක් ඇතුළත් කරන්න</string>
+    <string name="downloading_file">ගොනුව බාගත කිරීම</string>
+    <string name="enter_valid_file_name">කරුණාකර වලංගු ගොනු නාමයක් ඇතුළත් කරන්න</string>
+    <string name="download_has_finished_message">බාගැනීම අවසන්. කරුණාකර බාගැනීම් ෆෝල්ඩරය පරීක්ෂා කරන්න.</string>
+    <string name="could_not_download_file">ගොනුව බාගැනීමට නොහැකි විය</string>
+    <string name="loading">පැටවීම</string>
+    <string name="downloading_update">යාවත්කාලීන බාගත කරමින්</string>
+    <string name="update_downloaded_message">යාවත්කාලීනයක් දැන් බාගත කර ඇත.</string>
+    <string name="keyboard_enable_webview_message">ටයිප් කිරීම සබල කිරීමට ඉහළින් ඇති ටොගල් යතුරුපුවරු බොත්තම ඔබන්න</string>
+    <string name="preference_title_bug_report">දෝෂ වාර්තාව</string>
+    <string name="preference_title_report_a_issue">ගැටලුවක් වාර්තා කරන්න</string>
+    <string name="describe_bug">කරුණාකර මෙහි දෝෂය විස්තර කරන්න</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">WhatsApp නාමාවලියෙහි තත්ව අඩංගු නොවේ. කරුණාකර නිවැරදි නාමාවලිය තෝරන්න.</string>
+    <string name="please_select_whatsapp_directory">කරුණාකර WhatsApp නාමාවලිය තෝරන්න!</string>
+    <string name="download_cleaner">Cleaner බාගන්න</string>
+    <string name="download_recover_messages_app">Recover Messages යෙදුම බාගන්න</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">මෙම විශේෂාංගය භාවිතා කිරීමට, ඔබ Play store වෙතින් වෙනත් යෙදුමක් බාගත කළ යුතුය. Play store විවෘත කිරීමට සහ යෙදුම බාගත කිරීමට OK ක්ලික් කරන්න.</string>
+    <string name="cancel">අවලංගු කරන්න</string>
+    <string name="ad_space">දැන්වීම් අවකාශය</string>
+    <string name="status">තත්ත්වය</string>
+    <string name="theme">තේමාව</string>
+    <string name="more_apps">තවත් යෙදුම්</string>
+    <string name="share">බෙදාගන්න</string>
+    <string name="send">යවන්න</string>
+    <string name="select_country_code_and_number">රටේ කේතය සහ අංකය තෝරන්න</string>
+    <string name="how_it_works">එය ක්රියා කරන ආකාරය</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Qr ස්කෑනර් යෙදුම බාගන්න</string>
+    <string name="share_content">විවිධ ස්මාර්ට් ෆෝන් හෝ ටැබ්ලට් දෙකකින් එකම WhatsApp ගිණුමට ප්‍රවේශ වීමේ වේගවත්ම ක්‍රමය අත්විඳීමට සූදානම් වන්න! දැන් යෙදුම බාගත කර ස්ථාපනය කරන්න.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

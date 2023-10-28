@@ -1,0 +1,138 @@
+<!--
+  ~ Copyright 2018 The app Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory app:title="@string/settings_category_title_general"
+        app:iconSpaceReserved="false">
+
+        <ListPreference
+            app:defaultValue="system_default"
+            app:entries="@array/dark_mode_entries"
+            app:entryValues="@array/dark_mode_values"
+            app:key="@string/key_preference_dark_mode"
+            app:title="@string/preference_title_dark_mode"
+            app:useSimpleSummaryProvider="true"
+            app:iconSpaceReserved="false"/>
+
+        <Preference
+            app:iconSpaceReserved="false"
+            app:key="@string/key_preference_send_feedback"
+            app:title="@string/preference_title_contact_us"/>
+
+    </PreferenceCategory>
+
+<!--    <PreferenceCategory app:title="@string/settings_category_title_notifications"-->
+<!--        app:iconSpaceReserved="false">-->
+<!--        <SwitchPreferenceCompat-->
+<!--            app:key="@string/key_preference_notification_deleted_messages"-->
+<!--            app:defaultValue="true"-->
+<!--            app:summaryOff="@string/preference_summary_notification_deleted_messages_off"-->
+<!--            app:summaryOn="@string/preference_summary_notification_deleted_messages_on"-->
+<!--            app:title="@string/preference_title_notification_deleted_messages"-->
+<!--            app:iconSpaceReserved="false"/>-->
+<!--        <SwitchPreferenceCompat-->
+<!--            app:key="@string/key_preference_notification_deleted_media"-->
+<!--            app:defaultValue="true"-->
+<!--            app:summaryOff="@string/preference_summary_notification_deleted_media_off"-->
+<!--            app:summaryOn="@string/preference_summary_notification_deleted_media_on"-->
+<!--            app:title="@string/preference_title_notification_deleted_media"-->
+<!--            app:iconSpaceReserved="false"/>-->
+<!--        <SwitchPreferenceCompat-->
+<!--            app:key="@string/key_preference_notification_watcher"-->
+<!--            app:defaultValue="true"-->
+<!--            app:summaryOff="@string/preference_summary_notification_watcher_off"-->
+<!--            app:summaryOn="@string/preference_summary_notification_watcher_on"-->
+<!--            app:title="@string/preference_title_notification_watcher"-->
+<!--            app:iconSpaceReserved="false"/>-->
+<!--        <SwitchPreferenceCompat-->
+<!--            app:key="@string/key_preference_notification_status_saver"-->
+<!--            app:defaultValue="false"-->
+<!--            app:summaryOff="@string/preference_summary_notification_status_saver_off"-->
+<!--            app:summaryOn="@string/preference_summary_notification_status_saver_on"-->
+<!--            app:title="@string/preference_title_notification_status_saver"-->
+<!--            app:iconSpaceReserved="false"/>-->
+<!--    </PreferenceCategory>-->
+
+<!--    <PreferenceCategory app:title="@string/settings_category_title_direct_message"
+        app:iconSpaceReserved="false">
+        <SwitchPreferenceCompat
+            app:key="@string/key_preference_direct_message_on_startup"
+            app:defaultValue="false"
+            app:summaryOff="@string/preference_summary_auto_start_direct_message_off"
+            app:summaryOn="@string/preference_summary_auto_start_direct_message_on"
+            app:title="@string/preference_title_auto_start_direct_message"
+            app:iconSpaceReserved="false"/>
+
+&lt;!&ndash;        <EditTextPreference&ndash;&gt;
+&lt;!&ndash;            app:key="signature"&ndash;&gt;
+&lt;!&ndash;            app:title="@string/signature_title"&ndash;&gt;
+&lt;!&ndash;            app:useSimpleSummaryProvider="true" />&ndash;&gt;
+
+&lt;!&ndash;        <ListPreference&ndash;&gt;
+&lt;!&ndash;            app:defaultValue="reply"&ndash;&gt;
+&lt;!&ndash;            app:entries="@array/reply_entries"&ndash;&gt;
+&lt;!&ndash;            app:entryValues="@array/reply_values"&ndash;&gt;
+&lt;!&ndash;            app:key="reply"&ndash;&gt;
+&lt;!&ndash;            app:title="@string/reply_title"&ndash;&gt;
+&lt;!&ndash;            app:useSimpleSummaryProvider="true" />&ndash;&gt;
+
+    </PreferenceCategory>-->
+    <PreferenceCategory app:title="@string/settings_category_title_developer"
+        app:iconSpaceReserved="false">
+        <Preference
+            app:iconSpaceReserved="false"
+            app:key="@string/key_preference_bug_report"
+            app:title="@string/preference_title_bug_report"
+            />
+        <Preference
+            app:iconSpaceReserved="false"
+            app:key="@string/key_preference_open_source_licenses"
+            app:title="@string/preference_title_open_source_licenses"
+            />
+        <Preference
+            app:iconSpaceReserved="false"
+            app:key="@string/key_preference_app_version"
+            app:title="@string/preference_title_application_version"/>
+        <Preference
+            app:iconSpaceReserved="false"
+            app:key="@string/key_preference_privacy_policy"
+            app:title="@string/preference_title_privacy_policy">
+        </Preference>
+
+        <Preference
+            app:iconSpaceReserved="false"
+            app:key="@string/key_preference_terms_conditions"
+            app:title="@string/preference_title_terms_conditions">
+        </Preference>
+    </PreferenceCategory>
+
+<!--    <PreferenceCategory app:title="@string/sync_header">-->
+
+<!--        <SwitchPreferenceCompat-->
+<!--            app:key="sync"-->
+<!--            app:title="@string/sync_title" />-->
+
+<!--        <SwitchPreferenceCompat-->
+<!--            app:dependency="sync"-->
+<!--            app:key="attachment"-->
+<!--            app:summaryOff="@string/attachment_summary_off"-->
+<!--            app:summaryOn="@string/attachment_summary_on"-->
+<!--            app:title="@string/attachment_title" />-->
+
+<!--    </PreferenceCategory>-->
+
+</PreferenceScreen>

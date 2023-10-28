@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Cusbooneysii waa dhammaatay</string>
+    <string name="app_update_alert_dialog_subtitle">Dib u billow abka si aad u dabaqdo wixii ku soo kordha…</string>
+    <string name="help">I caawi</string>
+    <string name="cleaner">Nadiifiye</string>
+    <string name="status_saver">Badbaadiyaha heerka</string>
+    <string name="settings">Dejinta</string>
+    <string name="saved_statuses_appear_here">Ma jiro xaalad la heli karo!</string>
+    <string name="available_statuses">La heli karo</string>
+    <string name="saved_statuses">Badbaadiyay</string>
+    <string name="enter_message">Geli Fariinta (Ikhtiyaar)</string>
+    <string name="enter_phone_number">Geli lambarka taleefanka</string>
+    <string name="send_message">Fariin dir</string>
+    <string name="enter_a_phone_number">Geli nambar telefoon</string>
+    <string name="direct_link_copied_to_clipboard">Xiriirinta tooska ah waxaa la koobiyeeyay sabuuradda</string>
+    <string name="premium_unlocked">Mahadsanid. Waxaad hadda isticmaali kartaa sifooyin qaali ah</string>
+    <string name="settings_category_title_developer">Horumariye</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Maktabadaha Isha Furan</string>
+    <string name="preference_title_application_version">Nooca App</string>
+    <string name="preference_title_contact_us">Nala soo xiriir</string>
+    <string name="preference_title_privacy_policy">Qaanuunka Arrimaha Khaaska ah</string>
+    <string name="preference_title_terms_conditions">Shuruudaha iyo Shuruudaha</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Guud ahaan</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Qaab Madow</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Sidee u shaqeysaa\?</string>
+    <string name="ok">OK</string>
+    <string name="direct_message_help_ans">Fadlan geli lambarka taleefoonka qaataha iyo fariintaada qoraalba. Marka aad diyaar u tahay inaad dirto fariinta, si fudud guji badhanka \'Send\'. Haddii kale, waxaad sidoo kale isticmaali kartaa \'Xiriirka Tooska ah\' ikhtiyaarka si aad u nuqul ka sameyso xiriiriyaha oo aad ula wadaagto qaataha. Markaad gujiso isku xirka, waxay si toos ah kula sheekaysan karaan.</string>
+    <string name="click_here_to_grant_required_permissions">Dami oo dib-u-kicin oggolaanshaha ogeysiinta</string>
+    <string name="please_grant_storage_permissions">Fadlan sii ogolaanshaha Kaydinta</string>
+    <string name="rate_app">Fadlan qiimee abka!</string>
+    <string name="rate_later">Ka dib</string>
+    <string name="rateUs">Fadlan ku qiimee abka Play Store</string>
+    <string name="send_feedback">Fadlan noo soo dir jawaab celin Waxaan isku dayi doonaa inaan ka shaqeyno!</string>
+    <string name="try_again">Fadlan isku day mar kale</string>
+    <string name="message_copied_to_clipboard">fariinta waxaa lagu koobiyeeyay sabuuraddii</string>
+    <string name="system_default">Nidaamka Default</string>
+    <string name="restart">Dib u bilow</string>
+    <string name="light">Iftiin</string>
+    <string name="dark">Madow</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">La wadaag</string>
+    <string name="direct_link">Nuqulka tooska ah</string>
+    <string name="remove_ads">Ka saar xayaysiisyada</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Waa maxay Shabakadda</string>
+    <string name="recover_messages">Soo kabso fariimaha</string>
+    <string name="direct_message">Fariinta Tooska ah</string>
+    <string name="title_refresh">Dib u soo deji</string>
+    <string name="whatsapp_not_installed">Whatsapp lama rakibin. Fadlan marka hore rakib Whatsapp si aad u isticmaasho habkan.</string>
+    <string name="toggle_keyboard">Beddel kiiboodhka</string>
+    <string name="fullscreen">Shaashada buuxda</string>
+    <string name="dismiss">Eryi</string>
+    <string name="keyboard_unblocked">Kiiboodhka waa la xidhay</string>
+    <string name="keyboard_blocked">Kiiboodhka waa la xannibay Riix sumadda kiiboodhka si aad u furto.</string>
+    <string name="whats_web_how_it_works">1. Fur Whats Web Application on aaladaada.\n\n2. Ka fur whatsappka casriga kale.\n\n* Android -&gt; Laga soo bilaabo shaashadda sheekeysiga, u tag liiska seddex dhibcood oo ku yaal midigta sare ee shaashadda -&gt; Qalabka ku xiran.\n\n* Taleefanka daaqadda -&gt; Tag liiska saddexda dhibcood -&gt; Qalabka ku xiran.\n\n* On iPhone -&gt; Tag Settings -&gt; Qalabka ku xidhan.\n\n3. Taabo Link-ga qalabka oo ka sawir lambarka QR ee ka muuqda shaashadda app-ka taleefanka kale.</string>
+    <string name="retry_sending_voice_message">Fadlan isku day inaad dirto fariin cod ah</string>
+    <string name="message_retry_sending_voice_message">Riix astaanta makarafoonka mar kale. Waa inay u shaqeyso sidii la filayey.</string>
+    <string name="retry_camera_capture">Fadlan ku celi ikhtiyaarka kamarada</string>
+    <string name="message_retry_camera_capture">Riix astaanta kamarada mar kale. Waa inay u shaqeyso sidii la filayey.</string>
+    <string name="audio_perm_reqd">Oggolaanshaha maqalka ayaa loo baahan yahay si horay loogu socdo.</string>
+    <string name="camera_perm_reqd">Oggolaanshaha kamarada ayaa loo baahan yahay si horay loogu socdo.</string>
+    <string name="reset_reload">Dib u dajin/dib u soo deji</string>
+    <string name="reset_only">Dib u dajin</string>
+    <string name="reload_only">Dib u soo deji oo kaliya</string>
+    <string name="reload_warning">Haddii aad la kulanto arrimo la xiriira soo galitaanka, isku day \'Dib u dejin\'.\nDIGNIIN: Waxaa laga yaabaa inaad mar kale gasho haddii aad isticmaasho \'Dib u dejin\'.</string>
+    <string name="download_file">Soo dejinaya faylka</string>
+    <string name="couldnt_download_file">Faylka waa la soo dejin waayay</string>
+    <string name="storage_perm_reqd">Oggolaanshaha kaydinta ayaa loo baahan yahay si loo soo dejiyo faylka</string>
+    <string name="purchase_item_not_found">Shayga iibka lama helin</string>
+    <string name="error">Khalad</string>
+    <string name="purchase_canceled">Iibka waa la joojiyay</string>
+    <string name="pending_purchase">Iibka ayaa sugaya Fadlan dhamaystir wax kala iibsiga</string>
+    <string name="purchase_status_not_known">Xaaladda Iibka lama yaqaan</string>
+    <string name="enter_file_name">Geli Magaca Faylka</string>
+    <string name="downloading_file">Soo dejinta faylka</string>
+    <string name="enter_valid_file_name">Fadlan geli magac fayl sax ah</string>
+    <string name="download_has_finished_message">Soo dejintu way dhammaatay Fadlan hubi galka soo dejinta</string>
+    <string name="could_not_download_file">Waa la soo dejin waayay Faylka</string>
+    <string name="loading">Soodejinaya</string>
+    <string name="downloading_update">Soo dejinta cusbooneysiinta</string>
+    <string name="update_downloaded_message">Cusboonaysiinta ayaa hadda la soo dejiyay</string>
+    <string name="keyboard_enable_webview_message">Riix badhanka kiiboodhka sare si aad awood ugu yeelato qorista</string>
+    <string name="preference_title_bug_report">Warbixinta Cayayaanka</string>
+    <string name="preference_title_report_a_issue">Ka warbixi arrin</string>
+    <string name="describe_bug">Fadlan halkan ku sifee cilada</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">Hagaha WhatsApp kuma jiro Xaalado. Fadlan door tusaha saxda ah</string>
+    <string name="please_select_whatsapp_directory">Fadlan dooro hagaha WhatsApp!</string>
+    <string name="download_cleaner">Soo deji Nadiifiyaha</string>
+    <string name="download_recover_messages_app">Soo deji Farriimaha Soo kabashada App</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Si aad u isticmaasho sifadan, waxaad u baahan tahay inaad kala soo baxdo app kale playstore Guji OK si aad u furto playstore una soo dajiso app.</string>
+    <string name="cancel">Jooji</string>
+    <string name="ad_space">Booska Xayeysiiska</string>
+    <string name="status">Xaalada</string>
+    <string name="theme">Dulucda</string>
+    <string name="more_apps">Apps badan</string>
+    <string name="share">La wadaag</string>
+    <string name="send">Dir</string>
+    <string name="select_country_code_and_number">Dooro koodka dalka iyo lambarka</string>
+    <string name="how_it_works">Sida ay u shaqeyso</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Soo deji Qr Scanner App</string>
+    <string name="share_content">U diyaargarow inaad khibrad u yeelatid habka ugu dhaqsaha badan ee aad ku geli karto isla xisaabta WhatsApp-ka laba taleefan oo casri ah ama tablets oo kala duwan, dhammaantood waa bilaash! Soo deji oo rakib abka hadda.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

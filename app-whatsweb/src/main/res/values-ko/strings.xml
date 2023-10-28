@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">업데이트 완료</string>
+    <string name="app_update_alert_dialog_subtitle">업데이트를 적용하려면 앱을 다시 시작하세요...</string>
+    <string name="help">돕다</string>
+    <string name="cleaner">청소기</string>
+    <string name="status_saver">상태 보호기</string>
+    <string name="settings">설정</string>
+    <string name="saved_statuses_appear_here">상태 없음!</string>
+    <string name="available_statuses">사용 가능</string>
+    <string name="saved_statuses">저장됨</string>
+    <string name="enter_message">메시지 입력(선택사항)</string>
+    <string name="enter_phone_number">전화번호 입력</string>
+    <string name="send_message">문자 보내</string>
+    <string name="enter_a_phone_number">전화 번호를 입력하세요</string>
+    <string name="direct_link_copied_to_clipboard">클립보드에 복사된 다이렉트 링크</string>
+    <string name="premium_unlocked">감사합니다. 이제 프리미엄 기능을 사용할 수 있습니다</string>
+    <string name="settings_category_title_developer">개발자</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">오픈 소스 라이브러리</string>
+    <string name="preference_title_application_version">앱 버전</string>
+    <string name="preference_title_contact_us">문의하기</string>
+    <string name="preference_title_privacy_policy">개인 정보 정책</string>
+    <string name="preference_title_terms_conditions">이용약관</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">일반적인</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">다크 모드</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">어떻게 작동합니까\?</string>
+    <string name="ok">좋아요</string>
+    <string name="direct_message_help_ans">문자 메시지와 함께 받는 사람의 전화번호를 입력하세요. 메시지를 보낼 준비가 되면 \'보내기\' 버튼을 클릭하기만 하면 됩니다. 또는 \'직접 링크\' 옵션을 사용하여 링크를 복사하여 받는 사람과 공유할 수도 있습니다. 링크를 클릭하면 사용자와 직접 채팅할 수 있습니다.</string>
+    <string name="click_here_to_grant_required_permissions">알림 권한을 비활성화하고 다시 활성화합니다.</string>
+    <string name="please_grant_storage_permissions">저장소 권한을 부여하세요.</string>
+    <string name="rate_app">앱을 평가해주세요!</string>
+    <string name="rate_later">나중에</string>
+    <string name="rateUs">Play 스토어에서 앱을 평가해 주세요.</string>
+    <string name="send_feedback">피드백을 보내주세요. 우리는 그것에 대해 노력할 것입니다!</string>
+    <string name="try_again">다시 시도해 주세요</string>
+    <string name="message_copied_to_clipboard">클립보드에 복사된 메시지</string>
+    <string name="system_default">시스템 기본값</string>
+    <string name="restart">재시작</string>
+    <string name="light">빛</string>
+    <string name="dark">어두운</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">와 주</string>
+    <string name="direct_link">직접 링크 복사</string>
+    <string name="remove_ads">광고를 제거하다</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">왓츠웹</string>
+    <string name="recover_messages">메시지 복구</string>
+    <string name="direct_message">직접 메시지</string>
+    <string name="title_refresh">새로고침</string>
+    <string name="whatsapp_not_installed">왓츠앱이 설치되어 있지 않습니다. 이 기능을 사용하려면 먼저 Whatsapp을 설치하세요.</string>
+    <string name="toggle_keyboard">키보드 전환</string>
+    <string name="fullscreen">전체 화면</string>
+    <string name="dismiss">해고하다</string>
+    <string name="keyboard_unblocked">키보드가 차단 해제되었습니다.</string>
+    <string name="keyboard_blocked">키보드가 차단되었습니다. 차단을 해제하려면 키보드 아이콘을 누르세요.</string>
+    <string name="whats_web_how_it_works">1. 기기에서 Whats Web 애플리케이션을 엽니다.\n\n2. 다른 스마트폰에서 whatsapp을 엽니다.\n\n* Android의 경우 -&gt; 채팅 화면에서 화면 우측 상단의 점 3개 메뉴 -&gt; 연결된 장치로 이동합니다.\n\n* 윈도우폰에서 -&gt; 점 3개 메뉴로 이동 -&gt; 연결된 장치.\n\n* iPhone의 경우 -&gt; 설정 -&gt; 연결된 장치로 이동합니다.\n\n3. 기기 연결을 탭하고 다른 휴대전화에서 이 앱 화면에 표시된 QR 코드를 스캔합니다.</string>
+    <string name="retry_sending_voice_message">음성 메시지 전송을 다시 시도하십시오</string>
+    <string name="message_retry_sending_voice_message">마이크 아이콘을 한 번 더 누릅니다. 예상대로 작동해야 합니다.</string>
+    <string name="retry_camera_capture">카메라 옵션을 다시 시도하십시오</string>
+    <string name="message_retry_camera_capture">카메라 아이콘을 한 번 더 누릅니다. 예상대로 작동해야 합니다.</string>
+    <string name="audio_perm_reqd">계속 진행하려면 오디오 권한이 필요합니다.</string>
+    <string name="camera_perm_reqd">계속 진행하려면 카메라 권한이 필요합니다.</string>
+    <string name="reset_reload">재설정/재로드</string>
+    <string name="reset_only">초기화</string>
+    <string name="reload_only">새로고침만</string>
+    <string name="reload_warning">로그인과 관련된 문제가 발생하면 \'초기화\'를 시도하십시오.\n경고: \'재설정\'을 사용하면 다시 로그인해야 할 수도 있습니다.</string>
+    <string name="download_file">파일 다운로드 중</string>
+    <string name="couldnt_download_file">파일을 다운로드할 수 없습니다.</string>
+    <string name="storage_perm_reqd">파일을 다운로드하려면 저장소 권한이 필요합니다.</string>
+    <string name="purchase_item_not_found">구매 항목을 찾을 수 없습니다</string>
+    <string name="error">오류</string>
+    <string name="purchase_canceled">구매 취소됨</string>
+    <string name="pending_purchase">구매 대기 중입니다. 거래를 완료하십시오</string>
+    <string name="purchase_status_not_known">구매 상태를 알 수 없음</string>
+    <string name="enter_file_name">파일 이름을 입력하세요</string>
+    <string name="downloading_file">파일 다운로드</string>
+    <string name="enter_valid_file_name">유효한 파일 이름을 입력하십시오</string>
+    <string name="download_has_finished_message">다운로드가 완료되었습니다. 다운로드 폴더를 확인하십시오.</string>
+    <string name="could_not_download_file">파일을 다운로드할 수 없습니다.</string>
+    <string name="loading">로드 중</string>
+    <string name="downloading_update">업데이트 다운로드 중</string>
+    <string name="update_downloaded_message">업데이트가 방금 다운로드되었습니다.</string>
+    <string name="keyboard_enable_webview_message">입력을 활성화하려면 상단의 키보드 토글 버튼을 누르십시오.</string>
+    <string name="preference_title_bug_report">버그 신고</string>
+    <string name="preference_title_report_a_issue">문제 보고</string>
+    <string name="describe_bug">여기에 버그를 설명하십시오.</string>
+    <string name="_2">2</string>
+    <string name="_3">삼</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">WhatsApp 디렉토리에는 상태가 포함되어 있지 않습니다. 올바른 디렉토리를 선택하십시오.</string>
+    <string name="please_select_whatsapp_directory">WhatsApp 디렉토리를 선택하세요!</string>
+    <string name="download_cleaner">클리너 다운로드</string>
+    <string name="download_recover_messages_app">메시지 복구 앱 다운로드</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">이 기능을 사용하려면 플레이 스토어에서 다른 앱을 다운로드해야 합니다. 확인을 클릭하여 Play 스토어를 열고 앱을 다운로드합니다.</string>
+    <string name="cancel">취소</string>
+    <string name="ad_space">광고 공간</string>
+    <string name="status">상태</string>
+    <string name="theme">주제</string>
+    <string name="more_apps">더 많은 애플 리케이션</string>
+    <string name="share">공유하다</string>
+    <string name="send">보내다</string>
+    <string name="select_country_code_and_number">국가 코드 및 번호 선택</string>
+    <string name="how_it_works">작동 방식</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Qr 스캐너 앱 다운로드</string>
+    <string name="share_content">두 대의 스마트폰 또는 태블릿에서 동일한 WhatsApp 계정에 액세스하는 가장 빠른 방법을 모두 무료로 경험할 준비를 하세요! 지금 앱을 다운로드하여 설치하세요.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

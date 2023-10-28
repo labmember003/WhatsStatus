@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Kuvugurura biruzuye</string>
+    <string name="app_update_alert_dialog_subtitle">Ongera utangire porogaramu kugirango ukoreshe ibishya…</string>
+    <string name="help">Ubufasha</string>
+    <string name="cleaner">Isuku</string>
+    <string name="status_saver">Umukiza</string>
+    <string name="settings">Igenamiterere</string>
+    <string name="saved_statuses_appear_here">Nta Imiterere Ihari!</string>
+    <string name="available_statuses">Birashoboka</string>
+    <string name="saved_statuses">Yakijijwe</string>
+    <string name="enter_message">Injira Ubutumwa (Bihitamo)</string>
+    <string name="enter_phone_number">Injiza nimero ya terefone</string>
+    <string name="send_message">Kohereza Ubutumwa</string>
+    <string name="enter_a_phone_number">Injiza numero ya terefone</string>
+    <string name="direct_link_copied_to_clipboard">Ihuza ritaziguye ryimuwe kuri clip clip</string>
+    <string name="premium_unlocked">Murakoze. Urashobora noneho gukoresha ibiranga premium</string>
+    <string name="settings_category_title_developer">Iterambere</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Gufungura amasomero yububiko</string>
+    <string name="preference_title_application_version">Porogaramu</string>
+    <string name="preference_title_contact_us">Twandikire</string>
+    <string name="preference_title_privacy_policy">Politiki Yibanga</string>
+    <string name="preference_title_terms_conditions">Amategeko n\'amabwiriza</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Jenerali</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Uburyo bwijimye</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Bikora gute\?</string>
+    <string name="ok">Nibyo</string>
+    <string name="direct_message_help_ans">Nyamuneka andika numero ya terefone uyakira hamwe n\'ubutumwa bwawe bwanditse. Umaze kwitegura kohereza ubutumwa, kanda gusa kuri buto \'Kohereza\'. Ubundi, urashobora kandi gukoresha \'Direct Link\' ihitamo gukoporora ihuza hanyuma ukayigabana nuwayihawe. Mugukanda kumurongo, barashobora kuganira nawe muburyo butaziguye.</string>
+    <string name="click_here_to_grant_required_permissions">Hagarika kandi wongere ushoboze uruhushya rwo kumenyesha.</string>
+    <string name="please_grant_storage_permissions">Nyamuneka tanga uburenganzira bwo kubika</string>
+    <string name="rate_app">Nyamuneka reba porogaramu!</string>
+    <string name="rate_later">Nyuma</string>
+    <string name="rateUs">Nyamuneka Gereranya porogaramu kububiko bukinirwaho</string>
+    <string name="send_feedback">Nyamuneka twohereze ibitekerezo. Tuzagerageza kubikoraho!</string>
+    <string name="try_again">Nyamuneka gerageza</string>
+    <string name="message_copied_to_clipboard">ubutumwa bwimuwe kuri clip clip</string>
+    <string name="system_default">Sisitemu Mburabuzi</string>
+    <string name="restart">Ongera utangire</string>
+    <string name="light">Umucyo</string>
+    <string name="dark">Umwijima</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Sangira na</string>
+    <string name="direct_link">Gukoporora Ihuza</string>
+    <string name="remove_ads">Kuraho Amatangazo</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Urubuga rwa Whats</string>
+    <string name="recover_messages">Kugarura Ubutumwa</string>
+    <string name="direct_message">Ubutumwa butaziguye</string>
+    <string name="title_refresh">Ongera usubiremo</string>
+    <string name="whatsapp_not_installed">Whatsapp ntabwo yashyizweho. Nyamuneka banza ushyire Whatsapp kugirango ukoreshe iyi mikorere.</string>
+    <string name="toggle_keyboard">Kanda Mwandikisho</string>
+    <string name="fullscreen">Mugaragaza Byuzuye</string>
+    <string name="dismiss">Kwirukana</string>
+    <string name="keyboard_unblocked">Mwandikisho irakinguwe.</string>
+    <string name="keyboard_blocked">Mwandikisho irahagaritswe. Kanda agashusho ka clavier kugirango uhagarike.</string>
+    <string name="whats_web_how_it_works">1. Fungura porogaramu ya Whats kurubuga rwawe.\n\n2. Fungura whatsapp kurindi telefone.\n\n* Kuri Android -&gt; Uhereye kuri ecran ya chat, jya kuri menu ya dot eshatu iri hejuru iburyo bwa ecran -&gt; Ibikoresho bihujwe.\n\n* Kuri terefone ya Window -&gt; Jya kuri menu ya dot eshatu -&gt; Ibikoresho bihujwe.\n\n* Kuri iPhone -&gt; Jya kuri Igenamiterere -&gt; Ibikoresho bihujwe.\n\n3. Kanda ahanditse igikoresho hanyuma usuzume QR Code yerekanwe kuri iyi porogaramu ya porogaramu ukoresheje izindi telefone.</string>
+    <string name="retry_sending_voice_message">Nyamuneka ongera ugerageze kohereza ubutumwa bwijwi</string>
+    <string name="message_retry_sending_voice_message">Kanda mikoro ya mikoro ubundi. Igomba kuba ikora nkuko byari byitezwe.</string>
+    <string name="retry_camera_capture">Nyamuneka ongera usubiremo Kamera</string>
+    <string name="message_retry_camera_capture">Kanda ahanditse kamera. Igomba kuba ikora nkuko byari byitezwe.</string>
+    <string name="audio_perm_reqd">Uruhushya rwamajwi rurasabwa gutera imbere.</string>
+    <string name="camera_perm_reqd">Uruhushya rwa Kamera rurasabwa gutera imbere.</string>
+    <string name="reset_reload">Ongera usubiremo</string>
+    <string name="reset_only">KUGARUKA</string>
+    <string name="reload_only">SHAKA GUSA</string>
+    <string name="reload_warning">Niba uhuye nibibazo bijyanye no kwinjira, gerageza \'Kugarura\'.\nUMUBURO: Urashobora kongera kwinjira niba ukoresheje \'Kugarura\'.</string>
+    <string name="download_file">Gukuramo dosiye</string>
+    <string name="couldnt_download_file">Idosiye ntishobora gukururwa</string>
+    <string name="storage_perm_reqd">Uruhushya rwo kubika rukenewe gukuramo dosiye</string>
+    <string name="purchase_item_not_found">Ikintu cyo kugura nticyabonetse</string>
+    <string name="error">Ikosa</string>
+    <string name="purchase_canceled">Kugura byahagaritswe</string>
+    <string name="pending_purchase">Kugura birategereje. Nyamuneka urangize ibikorwa</string>
+    <string name="purchase_status_not_known">Imiterere yubuguzi ntabwo izwi</string>
+    <string name="enter_file_name">Injiza Izina rya dosiye</string>
+    <string name="downloading_file">Gukuramo dosiye</string>
+    <string name="enter_valid_file_name">Nyamuneka andika izina ryemewe rya dosiye</string>
+    <string name="download_has_finished_message">Gukuramo birangiye. Nyamuneka reba ububiko bwububiko.</string>
+    <string name="could_not_download_file">Ntushobora gukuramo dosiye</string>
+    <string name="loading">Kuremera</string>
+    <string name="downloading_update">Gukuramo ibishya</string>
+    <string name="update_downloaded_message">Ivugurura rimaze gukururwa.</string>
+    <string name="keyboard_enable_webview_message">Kanda kuri bouton ya clavier ya buto hejuru kugirango ushoboze kwandika</string>
+    <string name="preference_title_bug_report">Raporo ya Bug</string>
+    <string name="preference_title_report_a_issue">Menyesha Ikibazo</string>
+    <string name="describe_bug">Nyamuneka sobanura amakosa hano</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">Ububiko bwa WhatsApp ntabwo bukubiyemo Imiterere. Nyamuneka hitamo ububiko bukwiye.</string>
+    <string name="please_select_whatsapp_directory">Nyamuneka hitamo ububiko bwa WhatsApp!</string>
+    <string name="download_cleaner">Kuramo Isuku</string>
+    <string name="download_recover_messages_app">Kuramo Ubutumwa bwo Kugarura Ubutumwa</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Kugira ngo ukoreshe iyi mikorere, ugomba gukuramo indi porogaramu mububiko bukinirwaho. Kanda OK kugirango ufungure ububiko bwo gukinisha no gukuramo porogaramu.</string>
+    <string name="cancel">Kureka</string>
+    <string name="ad_space">Umwanya wo kwamamaza</string>
+    <string name="status">Imiterere</string>
+    <string name="theme">Insanganyamatsiko</string>
+    <string name="more_apps">Porogaramu nyinshi</string>
+    <string name="share">Sangira</string>
+    <string name="send">Ohereza</string>
+    <string name="select_country_code_and_number">Hitamo kode yigihugu numubare</string>
+    <string name="how_it_works">Uburyo ikora</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Kuramo Qr Scanner</string>
+    <string name="share_content">Witegure kwibonera uburyo bwihuse bwo kugera kuri konte imwe ya WhatsApp kuri terefone ebyiri zitandukanye cyangwa tableti, byose kubuntu! Kuramo kandi ushyireho porogaramu ubu.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

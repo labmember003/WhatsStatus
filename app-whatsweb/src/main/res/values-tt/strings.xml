@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Яңарту тәмамланды</string>
+    <string name="app_update_alert_dialog_subtitle">Яңартулар куллану өчен кушымтаны яңадан эшләтеп җибәрегез ...</string>
+    <string name="help">Ярдәм итегез</string>
+    <string name="cleaner">Чистартучы</string>
+    <string name="status_saver">Статус саклаучы</string>
+    <string name="settings">Көйләүләр</string>
+    <string name="saved_statuses_appear_here">Статус юк!</string>
+    <string name="available_statuses">Мөмкин</string>
+    <string name="saved_statuses">Сакланган</string>
+    <string name="enter_message">Хәбәр кертегез (өстәмә)</string>
+    <string name="enter_phone_number">Телефон номерын кертегез</string>
+    <string name="send_message">Хәбәр җибәр</string>
+    <string name="enter_a_phone_number">Телефон номерын кертегез</string>
+    <string name="direct_link_copied_to_clipboard">Туры сылтама буферга күчерелде</string>
+    <string name="premium_unlocked">Рәхмәт. Сез хәзер премиум үзенчәлекләрен куллана аласыз</string>
+    <string name="settings_category_title_developer">Төзүче</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Ачык чыганак китапханәләре</string>
+    <string name="preference_title_application_version">Кушымта версиясе</string>
+    <string name="preference_title_contact_us">Безнең белән элемтәгә чыгу</string>
+    <string name="preference_title_privacy_policy">Шәхсилек сәясәте</string>
+    <string name="preference_title_terms_conditions">Шартлар һәм килешүләр</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Генерал</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Караңгы режим</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Ничек бу эшли\?</string>
+    <string name="ok">ЯРАРМЫ</string>
+    <string name="direct_message_help_ans">Зинһар, смс хәбәр белән алучының телефон номерын кертегез. Хәбәр җибәрергә әзер булгач, \"Sendибәрү\" төймәсенә басыгыз. Альтернатив рәвештә, сез шулай ук ​​сылтаманы күчереп алу һәм алучы белән бүлешү өчен \'Туры сылтама\' опциясен куллана аласыз. Ссылкага басып, алар сезнең белән турыдан-туры сөйләшә алалар.</string>
+    <string name="click_here_to_grant_required_permissions">Хәбәрләр рөхсәтен сүндерегез һәм яңадан эшләгез.</string>
+    <string name="please_grant_storage_permissions">Зинһар, Саклау рөхсәтен бирегез</string>
+    <string name="rate_app">Зинһар, кушымтаны бәяләгез!</string>
+    <string name="rate_later">Соңрак</string>
+    <string name="rateUs">Зинһар, кушымтаны Play Store\'да бәяләгез</string>
+    <string name="send_feedback">Зинһар, безгә җавап җибәрегез. Без аның өстендә эшләргә тырышырбыз!</string>
+    <string name="try_again">Зинһар, кабатлап карагыз</string>
+    <string name="message_copied_to_clipboard">хәбәр буферга күчерелде</string>
+    <string name="system_default">Килешү системасы</string>
+    <string name="restart">Киредән башлау</string>
+    <string name="light">Яктылык</string>
+    <string name="dark">Караңгы</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Белән бүлеш</string>
+    <string name="direct_link">Туры сылтаманы күчерегез</string>
+    <string name="remove_ads">Рекламаны бетерегез</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Ватс Веб</string>
+    <string name="recover_messages">Хәбәрләрне торгызу</string>
+    <string name="direct_message">Туры хәбәр</string>
+    <string name="title_refresh">Йөкләү</string>
+    <string name="whatsapp_not_installed">Ватсап урнаштырылмаган. Зинһар, башта бу функцияне куллану өчен Whatsapp урнаштырыгыз.</string>
+    <string name="toggle_keyboard">Клавиатураны алыштырыгыз</string>
+    <string name="fullscreen">Тулы экран</string>
+    <string name="dismiss">Эштән чыгару</string>
+    <string name="keyboard_unblocked">Клавиатура блокланган.</string>
+    <string name="keyboard_blocked">Клавиатура блокланган. Блокны ачу өчен клавиатура иконасына басыгыз.</string>
+    <string name="whats_web_how_it_works">1. Сезнең җайланмада Whats Веб кушымтасын ачыгыз.\n\n2. Башка смартфонда ватсапны ачыгыз.\n\n* Android -&gt; Чатлар экраныннан, экранның уң ягында урнашкан өч нокта менюсына керегез -&gt; Бәйләнгән җайланмалар.\n\n* Тәрәзә телефонында -&gt; Өч нокта менюсына керегез -&gt; Бәйләнгән җайланмалар.\n\n* IPhone\'да -&gt; көйләүләргә керегез -&gt; бәйләнгән җайланмалар.\n\n3. deviceайланма сылтамасына басыгыз һәм бу кушымта экранында күрсәтелгән QR кодны бүтән телефоннан сканерлагыз.</string>
+    <string name="retry_sending_voice_message">Зинһар, тавышлы хәбәр җибәреп карагыз</string>
+    <string name="message_retry_sending_voice_message">Микрофон иконасына тагын бер тапкыр басыгыз. Ул көтелгәнчә эшләргә тиеш.</string>
+    <string name="retry_camera_capture">Зинһар, Камера вариантын кабатлап карагыз</string>
+    <string name="message_retry_camera_capture">Камера иконасына тагын бер тапкыр басыгыз. Ул көтелгәнчә эшләргә тиеш.</string>
+    <string name="audio_perm_reqd">Алга бару өчен аудио рөхсәт кирәк.</string>
+    <string name="camera_perm_reqd">Алга бару өчен камера рөхсәте кирәк.</string>
+    <string name="reset_reload">Яңарту /Йөкләү</string>
+    <string name="reset_only">РЕСЕТ</string>
+    <string name="reload_only">Бары тик йөкләгез</string>
+    <string name="reload_warning">Әгәр сез логин белән бәйле проблемаларны кичерәсез икән, \"Яңарту\" ны карагыз.\nКисәтү: \"Яңарту\" куллансагыз, сезгә тагын керергә туры килергә мөмкин.</string>
+    <string name="download_file">Файлны йөкләү</string>
+    <string name="couldnt_download_file">Файлны йөкләп булмый</string>
+    <string name="storage_perm_reqd">Файлны йөкләү өчен саклау рөхсәте кирәк</string>
+    <string name="purchase_item_not_found">Сатып алу пункты табылмады</string>
+    <string name="error">Хата</string>
+    <string name="purchase_canceled">Сатып алу юкка чыгарылды</string>
+    <string name="pending_purchase">Сатып алу көтелә. Зинһар, Транзакцияне тәмамлагыз</string>
+    <string name="purchase_status_not_known">Сатып алу статусы билгеле түгел</string>
+    <string name="enter_file_name">Файл исемен кертегез</string>
+    <string name="downloading_file">Файлны йөкләү</string>
+    <string name="enter_valid_file_name">Зинһар, дөрес файл исемен кертегез</string>
+    <string name="download_has_finished_message">Йөкләү тәмамланды. Зинһар, Йөкләүләр папкасын тикшерегез.</string>
+    <string name="could_not_download_file">Файлны йөкләп булмады</string>
+    <string name="loading">Йөкләү</string>
+    <string name="downloading_update">Яңартуны йөкләү</string>
+    <string name="update_downloaded_message">Яңарту яңа гына йөкләнде.</string>
+    <string name="keyboard_enable_webview_message">Тере клавиатура төймәсен басыгыз</string>
+    <string name="preference_title_bug_report">Хата турында отчет</string>
+    <string name="preference_title_report_a_issue">Чыгарылыш</string>
+    <string name="describe_bug">Зинһар, монда хатаны сурәтләгез</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">WhatsApp каталогында Статуслар юк. Зинһар, дөрес каталогны сайлагыз.</string>
+    <string name="please_select_whatsapp_directory">Зинһар, WhatsApp каталогын сайлагыз!</string>
+    <string name="download_cleaner">Чистарткычны йөкләү</string>
+    <string name="download_recover_messages_app">Реставрация хәбәрләре кушымтасын йөкләү</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Бу функцияне куллану өчен, уен кибетеннән тагын бер кушымтаны йөкләргә кирәк. Уен кибетен ачу һәм кушымтаны йөкләү өчен ОК төймәсенә басыгыз.</string>
+    <string name="cancel">Баш тарту</string>
+    <string name="ad_space">Реклама мәйданы</string>
+    <string name="status">Статус</string>
+    <string name="theme">Тема</string>
+    <string name="more_apps">Күбрәк кушымталар</string>
+    <string name="share">Бүлешү</string>
+    <string name="send">Sendибәр</string>
+    <string name="select_country_code_and_number">Ил коды һәм номерын сайлагыз</string>
+    <string name="how_it_works">Ничек бу эшли</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Qr сканер кушымтасын йөкләү</string>
+    <string name="share_content">Ике төрле смартфонда яки планшетта бер үк WhatsApp счетына керү өчен иң тиз юлны татып карарга әзерләнегез! Кушымтаны хәзер йөкләү һәм урнаштыру.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

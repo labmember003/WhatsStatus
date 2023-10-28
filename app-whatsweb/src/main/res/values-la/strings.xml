@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Renovatio est completum</string>
+    <string name="app_update_alert_dialog_subtitle">Sileo app adhibere updates ...</string>
+    <string name="help">Auxilium</string>
+    <string name="cleaner">Lautus</string>
+    <string name="status_saver">Status Save</string>
+    <string name="settings">Occasus</string>
+    <string name="saved_statuses_appear_here">Nullus Status Available!</string>
+    <string name="available_statuses">Praesto</string>
+    <string name="saved_statuses">salvus</string>
+    <string name="enter_message">Intra Nuntius (Libitum)</string>
+    <string name="enter_phone_number">Intra Phone Number</string>
+    <string name="send_message">Mittere nuntium</string>
+    <string name="enter_a_phone_number">Intra in phone numerus</string>
+    <string name="direct_link_copied_to_clipboard">Direct link copied to clipboard</string>
+    <string name="premium_unlocked">Gratias tibi. Nunc uti potes features premium</string>
+    <string name="settings_category_title_developer">Elit</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Open Source Libraries</string>
+    <string name="preference_title_application_version">App Version</string>
+    <string name="preference_title_contact_us">Nobis loquere</string>
+    <string name="preference_title_privacy_policy">Privacy policy</string>
+    <string name="preference_title_terms_conditions">Terms and Conditions</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Generalis</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Tenebris Modus</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Quomodo facitur\?</string>
+    <string name="ok">OK</string>
+    <string name="direct_message_help_ans">Quaeso initus est numerus telephonicus recipientis cum textu tuo nuntio. Cum paratus es mittere nuntium, simpliciter deprime \"Mitte\" puga. Vel, optione \"Direct Link\" uti potes ut nexum effingas et cum recipiente communicares. Strepitando in nexu, directe tecum loqui possunt.</string>
+    <string name="click_here_to_grant_required_permissions">Inactivare et re-enable notitia permission.</string>
+    <string name="please_grant_storage_permissions">Da quaeso permissiones PRAECLUSIO</string>
+    <string name="rate_app">Quaeso rate in app!</string>
+    <string name="rate_later">Postea</string>
+    <string name="rateUs">Quaeso Rate in app in Play Store</string>
+    <string name="send_feedback">Please send us feedback. Temptabimus opus in eo!</string>
+    <string name="try_again">Quaero, iterum conare</string>
+    <string name="message_copied_to_clipboard">nuntius copied ut clipboard</string>
+    <string name="system_default">Systema Default</string>
+    <string name="restart">Sileo</string>
+    <string name="light">lux</string>
+    <string name="dark">Dark</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Communicet</string>
+    <string name="direct_link">Effingo Direct Link</string>
+    <string name="remove_ads">Remove Ads</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">quid agis Web</string>
+    <string name="recover_messages">Recuperare Messages</string>
+    <string name="direct_message">Directus Nuntius</string>
+    <string name="title_refresh">Reload</string>
+    <string name="whatsapp_not_installed">Whatsapp non installed. Quaeso primum install whatsapp ut haec factura.</string>
+    <string name="toggle_keyboard">Toggle Cantiones</string>
+    <string name="fullscreen">Plena Screen</string>
+    <string name="dismiss">Dimitte</string>
+    <string name="keyboard_unblocked">Cantiones unblocked.</string>
+    <string name="keyboard_blocked">Cantiones impeditur. Press tincidunt icon ut deobstruere.</string>
+    <string name="whats_web_how_it_works">Web application in fabrica 1. Open agis.\n\n2. Open whatsapp in aliis felis.\n\n* In Android -&gt; Ex tegumento chats ad tria dotalia posita in summo dextro scrinii -&gt; Coniuncta machinis.\n\n* In Fenestra telephonum -&gt; Vade ad tabulas tres dot -&gt; Connexas machinas.\n\n* In iPhone -&gt; Ire ad Occasus -&gt; Coniunctiones cogitationes.\n\n3. Tap in Link machinam et scan QR code ostendi in hoc app screen ab alio telephono.</string>
+    <string name="retry_sending_voice_message">Quaeso retry mittens vocem nuntium</string>
+    <string name="message_retry_sending_voice_message">Torcular icon tortor ligula iterum. Ut malesuada sit amet est eget.</string>
+    <string name="retry_camera_capture">Quaeso optio Camera retry</string>
+    <string name="message_retry_camera_capture">Preme camera icon denuo. Ut malesuada sit amet est eget.</string>
+    <string name="audio_perm_reqd">Audio permissum esse ut progrediatur ante.</string>
+    <string name="camera_perm_reqd">Camera licentia requiritur ad progrediendum praemisit.</string>
+    <string name="reset_reload">Reset /Reload</string>
+    <string name="reset_only">RESET</string>
+    <string name="reload_only">RELOAD solum</string>
+    <string name="reload_warning">Si quaestiones ad login relatas experiris, experire \'Reset\'.\nMONITUM: Relinquere possetis si \"Reset\" uteris.</string>
+    <string name="download_file">File downloading</string>
+    <string name="couldnt_download_file">File ne downloaded</string>
+    <string name="storage_perm_reqd">Repono permission ut download file opus</string>
+    <string name="purchase_item_not_found">Purchase Item non est inventus</string>
+    <string name="error">Error</string>
+    <string name="purchase_canceled">Purchase Pax</string>
+    <string name="pending_purchase">Emptio nibh. Quaeso transactionis completum</string>
+    <string name="purchase_status_not_known">Purchase Status nescitur</string>
+    <string name="enter_file_name">Intrant File Name</string>
+    <string name="downloading_file">Tabularium Download</string>
+    <string name="enter_valid_file_name">Please enter validum nomen file</string>
+    <string name="download_has_finished_message">Download finivit. Quaeso reprehendo Videos folder.</string>
+    <string name="could_not_download_file">Non file download</string>
+    <string name="loading">Loading</string>
+    <string name="downloading_update">Download update</string>
+    <string name="update_downloaded_message">An update modo receptae sunt.</string>
+    <string name="keyboard_enable_webview_message">Preme toggle tincidunt bullam supra ad enable typing</string>
+    <string name="preference_title_bug_report">Bug Report</string>
+    <string name="preference_title_report_a_issue">Referre Issue</string>
+    <string name="describe_bug">Placere describere hic cimex</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">Whatsapp Directory non continet Status. Placere eligere rectam directorium.</string>
+    <string name="please_select_whatsapp_directory">Quaeso eligere whatsapp Directory!</string>
+    <string name="download_cleaner">Download luctus</string>
+    <string name="download_recover_messages_app">Download Recipe Messages App</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Hoc pluma utaris, debes alterum app ex fabula copia extrahere. Click OK ad aperta fabula copia ac download app.</string>
+    <string name="cancel">Cancel</string>
+    <string name="ad_space">Ad Space</string>
+    <string name="status">Status</string>
+    <string name="theme">Theme</string>
+    <string name="more_apps">Plures apps</string>
+    <string name="share">Share</string>
+    <string name="send">Mitte</string>
+    <string name="select_country_code_and_number">Lego regione codice ac numero</string>
+    <string name="how_it_works">Quomodo facitur</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Download Qr Scanner App</string>
+    <string name="share_content">Parate experiri quam celerrime accedere ad idem whatsapp rationem in duabus Suspendisse vel tabulis, omnes gratis! Download and install the app nunc.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\" \"</string>
+</resources>

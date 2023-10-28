@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">განახლება დასრულებულია</string>
+    <string name="app_update_alert_dialog_subtitle">განახლებების გამოსაყენებლად გადატვირთეთ აპი…</string>
+    <string name="help">დახმარება</string>
+    <string name="cleaner">დამლაგებელი</string>
+    <string name="status_saver">სტატუსის დამზოგავი</string>
+    <string name="settings">პარამეტრები</string>
+    <string name="saved_statuses_appear_here">სტატუსი არ არის ხელმისაწვდომი!</string>
+    <string name="available_statuses">ხელმისაწვდომია</string>
+    <string name="saved_statuses">შენახულია</string>
+    <string name="enter_message">შეიყვანეთ შეტყობინება (არასავალდებულო)</string>
+    <string name="enter_phone_number">შეიყვანეთ ტელეფონის ნომერი</string>
+    <string name="send_message">გაგზავნეთ შეტყობინება</string>
+    <string name="enter_a_phone_number">შეიყვანეთ ტელეფონის ნომერი</string>
+    <string name="direct_link_copied_to_clipboard">პირდაპირი ბმული კოპირებულია ბუფერში</string>
+    <string name="premium_unlocked">Გმადლობთ. ახლა შეგიძლიათ გამოიყენოთ პრემიუმ ფუნქციები</string>
+    <string name="settings_category_title_developer">დეველოპერი</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">ღია კოდის ბიბლიოთეკები</string>
+    <string name="preference_title_application_version">აპლიკაციის ვერსია</string>
+    <string name="preference_title_contact_us">Დაგვიკავშირდით</string>
+    <string name="preference_title_privacy_policy">Კონფიდენციალურობის პოლიტიკა</string>
+    <string name="preference_title_terms_conditions">Ვადები და პირობები</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">გენერალი</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">მუქი რეჟიმი</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Როგორ მუშაობს\?</string>
+    <string name="ok">კარგი</string>
+    <string name="direct_message_help_ans">გთხოვთ, შეიყვანოთ მიმღების ტელეფონის ნომერი თქვენს ტექსტურ შეტყობინებასთან ერთად. მას შემდეგ რაც მზად იქნებით შეტყობინების გასაგზავნად, უბრალოდ დააჭირეთ ღილაკს „გაგზავნა“. ალტერნატიულად, ასევე შეგიძლიათ გამოიყენოთ „პირდაპირი ბმული“ ოფცია ბმულის დასაკოპირებლად და მიმღებთან გასაზიარებლად. ბმულზე დაწკაპუნებით, მათ შეუძლიათ პირდაპირ ისაუბრონ თქვენთან.</string>
+    <string name="click_here_to_grant_required_permissions">გამორთეთ და ხელახლა ჩართეთ შეტყობინების ნებართვა.</string>
+    <string name="please_grant_storage_permissions">გთხოვთ, მიანიჭოთ შენახვის ნებართვები</string>
+    <string name="rate_app">გთხოვთ შეაფასოთ აპლიკაცია!</string>
+    <string name="rate_later">მოგვიანებით</string>
+    <string name="rateUs">გთხოვთ შეაფასოთ აპლიკაცია Play Store-ზე</string>
+    <string name="send_feedback">გთხოვთ გამოგვიგზავნოთ გამოხმაურება. ჩვენ შევეცდებით ვიმუშაოთ მასზე!</string>
+    <string name="try_again">Გთხოვთ კიდევ სცადეთ</string>
+    <string name="message_copied_to_clipboard">შეტყობინება კოპირებულია ბუფერში</string>
+    <string name="system_default">სისტემის ნაგულისხმევი</string>
+    <string name="restart">Რესტარტი</string>
+    <string name="light">Მსუბუქი</string>
+    <string name="dark">Ბნელი</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">გააზიარეთ</string>
+    <string name="direct_link">დააკოპირეთ პირდაპირი ლინკი</string>
+    <string name="remove_ads">რეკლამების წაშლა</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">რა არის ვებ</string>
+    <string name="recover_messages">შეტყობინებების აღდგენა</string>
+    <string name="direct_message">Პირდაპირი მესიჯი</string>
+    <string name="title_refresh">გადატვირთვა</string>
+    <string name="whatsapp_not_installed">Whatsapp არ არის დაინსტალირებული. გთხოვთ, ჯერ დააინსტალიროთ Whatsapp ამ ფუნქციის გამოსაყენებლად.</string>
+    <string name="toggle_keyboard">კლავიატურის გადართვა</string>
+    <string name="fullscreen">Მთლიანი ეკრანი</string>
+    <string name="dismiss">გაუქმება</string>
+    <string name="keyboard_unblocked">კლავიატურა განბლოკილია.</string>
+    <string name="keyboard_blocked">კლავიატურა დაბლოკილია. განსაბლოკად დააჭირეთ კლავიატურის ხატულას.</string>
+    <string name="whats_web_how_it_works">1. გახსენით Whats Web აპლიკაცია თქვენს მოწყობილობაზე.\n\n2. გახსენით whatsapp სხვა სმარტფონზე.\n\n* Android-ზე -&gt; ჩეთის ეკრანიდან გადადით სამი წერტილის მენიუში, რომელიც მდებარეობს ეკრანის ზედა მარჯვენა მხარეს -&gt; დაკავშირებული მოწყობილობები.\n\n* Window phone-ზე -&gt; გადადით სამი წერტილის მენიუში -&gt; მიბმული მოწყობილობები.\n\n* iPhone-ზე -&gt; გადადით პარამეტრები -&gt; დაკავშირებული მოწყობილობები.\n\n3. შეეხეთ მოწყობილობის მიბმას და დაასკანირეთ ამ აპის ეკრანზე ნაჩვენები QR კოდი სხვა ტელეფონიდან.</string>
+    <string name="retry_sending_voice_message">გთხოვთ, ხელახლა სცადოთ ხმოვანი შეტყობინების გაგზავნა</string>
+    <string name="message_retry_sending_voice_message">კიდევ ერთხელ დააჭირეთ მიკროფონის ხატულას. უნდა იმუშაოს ისე, როგორც მოსალოდნელია.</string>
+    <string name="retry_camera_capture">გთხოვთ, ხელახლა სცადოთ კამერის ვარიანტი</string>
+    <string name="message_retry_camera_capture">კიდევ ერთხელ დააჭირეთ კამერის ხატულას. უნდა იმუშაოს ისე, როგორც მოსალოდნელია.</string>
+    <string name="audio_perm_reqd">აუდიო ნებართვაა საჭირო წინსვლისთვის.</string>
+    <string name="camera_perm_reqd">წინსვლისთვის საჭიროა კამერის ნებართვა.</string>
+    <string name="reset_reload">გადატვირთვა/გადატვირთვა</string>
+    <string name="reset_only">გადატვირთვა</string>
+    <string name="reload_only">მხოლოდ გადატვირთვა</string>
+    <string name="reload_warning">თუ შესვლასთან დაკავშირებული პრობლემები გაქვთ, სცადეთ „გადატვირთვა“.\nგაფრთხილება: შესაძლოა მოგიწიოთ ხელახლა შესვლა, თუ იყენებთ \"გადატვირთვას\".</string>
+    <string name="download_file">ფაილის ჩამოტვირთვა</string>
+    <string name="couldnt_download_file">ფაილის ჩამოტვირთვა ვერ მოხერხდა</string>
+    <string name="storage_perm_reqd">ფაილის ჩამოსატვირთად საჭიროა შენახვის ნებართვა</string>
+    <string name="purchase_item_not_found">შესყიდვის საქონელი ვერ მოიძებნა</string>
+    <string name="error">შეცდომა</string>
+    <string name="purchase_canceled">შესყიდვა გაუქმდა</string>
+    <string name="pending_purchase">შესყიდვა მოლოდინშია. გთხოვთ, დაასრულოთ ტრანზაქცია</string>
+    <string name="purchase_status_not_known">შეძენის სტატუსი უცნობია</string>
+    <string name="enter_file_name">შეიყვანეთ ფაილის სახელი</string>
+    <string name="downloading_file">ფაილის გადმოწერა</string>
+    <string name="enter_valid_file_name">გთხოვთ, შეიყვანოთ ფაილის სწორი სახელი</string>
+    <string name="download_has_finished_message">ჩამოტვირთვა დასრულდა. გთხოვთ, შეამოწმოთ ჩამოტვირთვების საქაღალდე.</string>
+    <string name="could_not_download_file">ფაილის გადმოწერა ვერ მოხერხდა</string>
+    <string name="loading">Ჩატვირთვა</string>
+    <string name="downloading_update">მიმდინარეობს განახლების ჩამოტვირთვა</string>
+    <string name="update_downloaded_message">განახლება ახლახან ჩამოიტვირთა.</string>
+    <string name="keyboard_enable_webview_message">დააჭირეთ კლავიატურის გადართვის ღილაკს ზევით აკრეფის ჩასართავად</string>
+    <string name="preference_title_bug_report">შეცდომის ანგარიში</string>
+    <string name="preference_title_report_a_issue">შეატყობინეთ პრობლემას</string>
+    <string name="describe_bug">გთხოვთ აღწეროთ შეცდომა აქ</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">WhatsApp დირექტორია არ შეიცავს სტატუსებს. გთხოვთ, აირჩიოთ სწორი დირექტორია.</string>
+    <string name="please_select_whatsapp_directory">გთხოვთ, აირჩიოთ WhatsApp დირექტორია!</string>
+    <string name="download_cleaner">ჩამოტვირთეთ Cleaner</string>
+    <string name="download_recover_messages_app">ჩამოტვირთეთ Recover Messages აპი</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">ამ ფუნქციის გამოსაყენებლად, თქვენ უნდა ჩამოტვირთოთ სხვა აპლიკაცია Play Store-დან. დააწკაპუნეთ OK გასახსნელად play store და ჩამოტვირთეთ აპლიკაცია.</string>
+    <string name="cancel">გაუქმება</string>
+    <string name="ad_space">სარეკლამო სივრცე</string>
+    <string name="status">სტატუსი</string>
+    <string name="theme">თემა</string>
+    <string name="more_apps">სხვა აპლიკაციები</string>
+    <string name="share">გააზიარეთ</string>
+    <string name="send">გაგზავნა</string>
+    <string name="select_country_code_and_number">აირჩიეთ ქვეყნის კოდი და ნომერი</string>
+    <string name="how_it_works">Როგორ მუშაობს</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">ჩამოტვირთეთ Qr სკანერის აპლიკაცია</string>
+    <string name="share_content">მოემზადეთ, რომ გამოსცადოთ ერთი და იგივე WhatsApp ანგარიშზე წვდომა ორ სხვადასხვა სმარტფონზე ან ტაბლეტზე, ეს ყველაფერი უფასოდ! ჩამოტვირთეთ და დააინსტალირეთ აპლიკაცია ახლავე.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">अपडेट पूर्ण झाले</string>
+    <string name="app_update_alert_dialog_subtitle">अपडेट लागू करण्यासाठी अॅप रीस्टार्ट करा...</string>
+    <string name="help">मदत करा</string>
+    <string name="cleaner">क्लिनर</string>
+    <string name="status_saver">स्टेटस सेव्हर</string>
+    <string name="settings">सेटिंग्ज</string>
+    <string name="saved_statuses_appear_here">कोणतीही स्थिती उपलब्ध नाही!</string>
+    <string name="available_statuses">उपलब्ध</string>
+    <string name="saved_statuses">जतन केले</string>
+    <string name="enter_message">संदेश प्रविष्ट करा (पर्यायी)</string>
+    <string name="enter_phone_number">फोन नंबर प्रविष्ट करा</string>
+    <string name="send_message">संदेश पाठवा</string>
+    <string name="enter_a_phone_number">एक फोन नंबर प्रविष्ट करा</string>
+    <string name="direct_link_copied_to_clipboard">थेट लिंक क्लिपबोर्डवर कॉपी केली</string>
+    <string name="premium_unlocked">धन्यवाद. तुम्ही आता प्रीमियम वैशिष्ट्ये वापरू शकता</string>
+    <string name="settings_category_title_developer">विकसक</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">ओपन सोर्स लायब्ररी</string>
+    <string name="preference_title_application_version">अॅप आवृत्ती</string>
+    <string name="preference_title_contact_us">आमच्याशी संपर्क साधा</string>
+    <string name="preference_title_privacy_policy">गोपनीयता धोरण</string>
+    <string name="preference_title_terms_conditions">नियम आणि अटी</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">सामान्य</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">गडद मोड</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">हे कसे कार्य करते\?</string>
+    <string name="ok">ठीक आहे</string>
+    <string name="direct_message_help_ans">कृपया तुमच्या मजकूर संदेशासह प्राप्तकर्त्याचा फोन नंबर प्रविष्ट करा. एकदा तुम्ही मेसेज पाठवण्यास तयार असाल, फक्त \'पाठवा\' बटणावर क्लिक करा. वैकल्पिकरित्या, तुम्ही लिंक कॉपी करण्यासाठी आणि प्राप्तकर्त्यासोबत शेअर करण्यासाठी \'डायरेक्ट लिंक\' पर्याय देखील वापरू शकता. लिंकवर क्लिक करून ते तुमच्याशी थेट चॅट करू शकतात.</string>
+    <string name="click_here_to_grant_required_permissions">सूचना परवानगी अक्षम करा आणि पुन्हा-सक्षम करा.</string>
+    <string name="please_grant_storage_permissions">कृपया स्टोरेज परवानग्या द्या</string>
+    <string name="rate_app">कृपया अॅप रेट करा!</string>
+    <string name="rate_later">नंतर</string>
+    <string name="rateUs">कृपया Play Store वर अॅप रेट करा</string>
+    <string name="send_feedback">कृपया आम्हाला अभिप्राय पाठवा. आम्ही त्यावर काम करण्याचा प्रयत्न करू!</string>
+    <string name="try_again">कृपया पुन्हा प्रयत्न करा</string>
+    <string name="message_copied_to_clipboard">संदेश क्लिपबोर्डवर कॉपी केला</string>
+    <string name="system_default">सिस्टम डीफॉल्ट</string>
+    <string name="restart">पुन्हा सुरू करा</string>
+    <string name="light">प्रकाश</string>
+    <string name="dark">गडद</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">सोबत शेअर करा</string>
+    <string name="direct_link">डायरेक्ट लिंक कॉपी करा</string>
+    <string name="remove_ads">जाहिराती काढून</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">व्हॉट्स वेब</string>
+    <string name="recover_messages">संदेश पुनर्प्राप्त करा</string>
+    <string name="direct_message">थेट संदेश</string>
+    <string name="title_refresh">रीलोड करा</string>
+    <string name="whatsapp_not_installed">Whatsapp इन्स्टॉल केलेले नाही. कृपया हे फीचर वापरण्यासाठी प्रथम Whatsapp इन्स्टॉल करा.</string>
+    <string name="toggle_keyboard">कीबोर्ड टॉगल करा</string>
+    <string name="fullscreen">पूर्ण स्क्रीन</string>
+    <string name="dismiss">काढून टाकणे</string>
+    <string name="keyboard_unblocked">कीबोर्ड अनब्लॉक केला आहे.</string>
+    <string name="keyboard_blocked">कीबोर्ड ब्लॉक केला आहे. अनब्लॉक करण्यासाठी कीबोर्ड चिन्ह दाबा.</string>
+    <string name="whats_web_how_it_works">1. तुमच्या डिव्हाइसवर Whats Web अनुप्रयोग उघडा.\n\n2. इतर स्मार्टफोनवर whatsapp उघडा.\n\n* Android वर -&gt; चॅट स्क्रीनवरून, स्क्रीनच्या वरच्या उजव्या बाजूला असलेल्या तीन डॉट मेनूवर जा -&gt; लिंक्ड डिव्हाइसेस.\n\n* विंडो फोनवर -&gt; थ्री डॉट मेनूवर जा -&gt; लिंक्ड उपकरणे.\n\n* iPhone वर -&gt; Settings -&gt; Linked devices वर जा.\n\n3. डिव्हाइस लिंक करा वर टॅप करा आणि इतर फोनवरून तुमच्या या अॅप स्क्रीनवर प्रदर्शित केलेला QR कोड स्कॅन करा.</string>
+    <string name="retry_sending_voice_message">कृपया व्हॉइस संदेश पाठवण्याचा पुन्हा प्रयत्न करा</string>
+    <string name="message_retry_sending_voice_message">मायक्रोफोन चिन्ह पुन्हा एकदा दाबा. ते अपेक्षेप्रमाणे काम करत असावे.</string>
+    <string name="retry_camera_capture">कृपया कॅमेरा पर्यायाचा पुन्हा प्रयत्न करा</string>
+    <string name="message_retry_camera_capture">कॅमेरा आयकॉन पुन्हा एकदा दाबा. ते अपेक्षेप्रमाणे काम करत असावे.</string>
+    <string name="audio_perm_reqd">पुढे जाण्यासाठी ऑडिओ परवानगी आवश्यक आहे.</string>
+    <string name="camera_perm_reqd">पुढे जाण्यासाठी कॅमेरा परवानगी आवश्यक आहे.</string>
+    <string name="reset_reload">रीसेट/रीलोड करा</string>
+    <string name="reset_only">रीसेट करा</string>
+    <string name="reload_only">फक्त रीलोड करा</string>
+    <string name="reload_warning">तुम्हाला लॉगिनशी संबंधित समस्या येत असल्यास, \'रीसेट\' करून पहा.\nचेतावणी: तुम्ही \'रीसेट\' वापरल्यास तुम्हाला पुन्हा लॉग इन करावे लागेल.</string>
+    <string name="download_file">फाइल डाउनलोड करत आहे</string>
+    <string name="couldnt_download_file">फाइल डाउनलोड करता आली नाही</string>
+    <string name="storage_perm_reqd">फाइल डाउनलोड करण्यासाठी स्टोरेज परवानगी आवश्यक आहे</string>
+    <string name="purchase_item_not_found">खरेदी आयटम सापडला नाही</string>
+    <string name="error">त्रुटी</string>
+    <string name="purchase_canceled">खरेदी रद्द केली</string>
+    <string name="pending_purchase">खरेदी प्रलंबित आहे. कृपया व्यवहार पूर्ण करा</string>
+    <string name="purchase_status_not_known">खरेदीची स्थिती माहीत नाही</string>
+    <string name="enter_file_name">फाइलचे नाव एंटर करा</string>
+    <string name="downloading_file">फाइल डाउनलोड करत आहे</string>
+    <string name="enter_valid_file_name">कृपया वैध फाइल नाव प्रविष्ट करा</string>
+    <string name="download_has_finished_message">डाउनलोड पूर्ण झाले. कृपया डाउनलोड फोल्डर तपासा.</string>
+    <string name="could_not_download_file">फाइल डाउनलोड करू शकलो नाही</string>
+    <string name="loading">लोड करत आहे</string>
+    <string name="downloading_update">अपडेट डाउनलोड करत आहे</string>
+    <string name="update_downloaded_message">एक अपडेट नुकतेच डाउनलोड केले गेले आहे.</string>
+    <string name="keyboard_enable_webview_message">टायपिंग सक्षम करण्यासाठी शीर्षस्थानी टॉगल कीबोर्ड बटण दाबा</string>
+    <string name="preference_title_bug_report">बग अहवाल</string>
+    <string name="preference_title_report_a_issue">समस्या नोंदवा</string>
+    <string name="describe_bug">कृपया येथे बगचे वर्णन करा</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">१</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">व्हॉट्सअॅप डिरेक्टरीमध्ये स्टेटस नसतात. कृपया योग्य निर्देशिका निवडा.</string>
+    <string name="please_select_whatsapp_directory">कृपया WhatsApp निर्देशिका निवडा!</string>
+    <string name="download_cleaner">क्लीनर डाउनलोड करा</string>
+    <string name="download_recover_messages_app">Recover Messages अॅप डाउनलोड करा</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">हे फीचर वापरण्यासाठी तुम्हाला प्ले स्टोअरवरून दुसरे अॅप डाउनलोड करावे लागेल. प्ले स्टोअर उघडण्यासाठी आणि अॅप डाउनलोड करण्यासाठी ओके क्लिक करा.</string>
+    <string name="cancel">रद्द करा</string>
+    <string name="ad_space">जाहिरात जागा</string>
+    <string name="status">स्थिती</string>
+    <string name="theme">थीम</string>
+    <string name="more_apps">अधिक अॅप्स</string>
+    <string name="share">शेअर करा</string>
+    <string name="send">पाठवा</string>
+    <string name="select_country_code_and_number">देश कोड आणि क्रमांक निवडा</string>
+    <string name="how_it_works">हे कसे कार्य करते</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">क्यूआर स्कॅनर अॅप डाउनलोड करा</string>
+    <string name="share_content">दोन भिन्न स्मार्टफोन किंवा टॅब्लेटवर समान WhatsApp खात्यात प्रवेश करण्याचा सर्वात जलद मार्ग अनुभवण्यासाठी सज्ज व्हा, सर्व काही विनामूल्य! आता अॅप डाउनलोड आणि स्थापित करा.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

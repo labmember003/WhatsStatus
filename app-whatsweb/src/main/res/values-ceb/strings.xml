@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Kompleto na ang update</string>
+    <string name="app_update_alert_dialog_subtitle">I-restart ang app aron magamit ang mga update…</string>
+    <string name="help">Tabang</string>
+    <string name="cleaner">Mas limpyo</string>
+    <string name="status_saver">Pagtipig sa Kahimtang</string>
+    <string name="settings">Mga setting</string>
+    <string name="saved_statuses_appear_here">Walay Status nga Magamit!</string>
+    <string name="available_statuses">Anaa</string>
+    <string name="saved_statuses">Naluwas</string>
+    <string name="enter_message">Pagsulod sa Mensahe (Opsyonal)</string>
+    <string name="enter_phone_number">Pagsulod sa Numero sa Telepono</string>
+    <string name="send_message">Ipadala ang Mensahe</string>
+    <string name="enter_a_phone_number">Pagsulod ug numero sa telepono</string>
+    <string name="direct_link_copied_to_clipboard">Direktang link nga gikopya sa clipboard</string>
+    <string name="premium_unlocked">Salamat. Mahimo nimong gamiton ang mga premium nga bahin</string>
+    <string name="settings_category_title_developer">Developer</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Open Source nga mga Librarya</string>
+    <string name="preference_title_application_version">Bersyon sa App</string>
+    <string name="preference_title_contact_us">Kontaka Kami</string>
+    <string name="preference_title_privacy_policy">Patakaran sa Pagkapribado</string>
+    <string name="preference_title_terms_conditions">Mga Termino ug Kondisyon</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Heneral</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Dark Mode</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Giunsa kini paglihok\?</string>
+    <string name="ok">OK ra</string>
+    <string name="direct_message_help_ans">Palihug i-input ang numero sa telepono sa nakadawat kauban ang imong text message. Kung andam ka nang ipadala ang mensahe, i-klik lang ang \'Send\' button. Sa laing paagi, mahimo usab nimo gamiton ang opsyon nga \'Direct Link\' aron kopyahon ang link ug ipaambit kini sa nakadawat. Pinaagi sa pag-klik sa link, mahimo silang direktang makig-chat kanimo.</string>
+    <string name="click_here_to_grant_required_permissions">I-disable ug i-enable pag-usab ang pagtugot sa pagpahibalo.</string>
+    <string name="please_grant_storage_permissions">Palihug ihatag ang pagtugot sa Pagtipig</string>
+    <string name="rate_app">Palihug i-rate ang app!</string>
+    <string name="rate_later">Sa ulahi</string>
+    <string name="rateUs">Palihug I-rate ang app sa Play Store</string>
+    <string name="send_feedback">Palihug ipadala kanamo ang feedback. Among paningkamutan ang pagtrabaho niini!</string>
+    <string name="try_again">Palihug sulayi pag-usab</string>
+    <string name="message_copied_to_clipboard">mensahe nga gikopya sa clipboard</string>
+    <string name="system_default">Default sa Sistema</string>
+    <string name="restart">I-restart</string>
+    <string name="light">Kahayag</string>
+    <string name="dark">Ngitngit</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Ipakigbahin sa</string>
+    <string name="direct_link">Kopyaha ang Direktang Link</string>
+    <string name="remove_ads">Kuhaa ang mga Ad</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Unsa ang Web</string>
+    <string name="recover_messages">Pagbawi sa mga Mensahe</string>
+    <string name="direct_message">Direktang Mensahe</string>
+    <string name="title_refresh">I-reload</string>
+    <string name="whatsapp_not_installed">Ang Whatsapp wala ma-install. Palihug i-install una ang Whatsapp aron magamit kini nga bahin.</string>
+    <string name="toggle_keyboard">I-toggle ang Keyboard</string>
+    <string name="fullscreen">Bug-os nga Screen</string>
+    <string name="dismiss">Isalikway</string>
+    <string name="keyboard_unblocked">Gi-unblock ang keyboard.</string>
+    <string name="keyboard_blocked">Gibabagan ang keyboard. Pindota ang icon sa keyboard aron ma-unblock.</string>
+    <string name="whats_web_how_it_works">1. Ablihi ang Whats Web application sa imong device.\n\n2. Ablihi ang whatsapp sa ubang smartphone.\n\n* Sa Android -&gt; Gikan sa screen sa mga chat, adto sa tulo ka tuldok nga menu nga nahimutang sa ibabaw nga tuo sa screen -&gt; Gisumpay nga mga himan.\n\n* Sa Window phone -&gt; Adto sa tulo ka tuldok nga menu -&gt; Na-link nga mga himan.\n\n* Sa iPhone -&gt; Lakaw ngadto sa Settings -&gt; Linked device.\n\n3. Pag-tap sa I-link ang usa ka device ug i-scan ang QR Code nga gipakita sa imong screen niini nga app gikan sa laing telepono.</string>
+    <string name="retry_sending_voice_message">Palihug sulayi pag-usab ang pagpadala og voice message</string>
+    <string name="message_retry_sending_voice_message">Pindota pag-usab ang icon sa mikropono. Kinahanglan nga kini molihok sama sa gipaabut.</string>
+    <string name="retry_camera_capture">Palihug sulayi pag-usab ang opsyon sa Camera</string>
+    <string name="message_retry_camera_capture">Pindota ang icon sa camera sa makausa pa. Kinahanglan nga kini molihok sama sa gipaabut.</string>
+    <string name="audio_perm_reqd">Gikinahanglan ang pagtugot sa audio aron mouswag sa unahan.</string>
+    <string name="camera_perm_reqd">Gikinahanglan ang pagtugot sa camera aron mag-uswag sa unahan.</string>
+    <string name="reset_reload">I-reset/I-reload</string>
+    <string name="reset_only">RESET</string>
+    <string name="reload_only">RELOAD LANG</string>
+    <string name="reload_warning">Kung nakasinati ka mga isyu nga may kalabotan sa pag-login, sulayi ang \'Reset\'.\nWARNING: Mahimong kinahanglan ka nga mag-login pag-usab kung imong gamiton ang \'Reset\'.</string>
+    <string name="download_file">Pag-download sa File</string>
+    <string name="couldnt_download_file">Dili ma-download ang file</string>
+    <string name="storage_perm_reqd">Gikinahanglan ang pagtugot sa pagtipig aron ma-download ang file</string>
+    <string name="purchase_item_not_found">Ang Gipalit nga Butang dili makit-an</string>
+    <string name="error">Sayop</string>
+    <string name="purchase_canceled">Gikansela ang Pagpamalit</string>
+    <string name="pending_purchase">Gihulat ang pagpalit. Palihug kompletoha ang Transaksyon</string>
+    <string name="purchase_status_not_known">Ang kahimtang sa pagpalit wala mahibal-an</string>
+    <string name="enter_file_name">Pagsulod ug File Name</string>
+    <string name="downloading_file">Pag-download sa File</string>
+    <string name="enter_valid_file_name">Palihug pagsulod ug balido nga ngalan sa file</string>
+    <string name="download_has_finished_message">Nahuman na ang pag-download. Palihug susiha ang folder sa Downloads.</string>
+    <string name="could_not_download_file">Dili ma-download ang File</string>
+    <string name="loading">Nagkarga</string>
+    <string name="downloading_update">Pag-download sa update</string>
+    <string name="update_downloaded_message">Bag-o lang na-download ang usa ka update.</string>
+    <string name="keyboard_enable_webview_message">Pindota ang toggle nga buton sa keyboard sa ibabaw aron mahimo ang pag-type</string>
+    <string name="preference_title_bug_report">Ulat sa Bug</string>
+    <string name="preference_title_report_a_issue">I-report ang usa ka Isyu</string>
+    <string name="describe_bug">Palihug ihulagway ang bug dinhi</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">Ang direktoryo sa WhatsApp wala’y mga Status. Palihug pilia ang husto nga direktoryo.</string>
+    <string name="please_select_whatsapp_directory">Palihug pilia ang direktoryo sa WhatsApp!</string>
+    <string name="download_cleaner">Pag-download sa Limpyo</string>
+    <string name="download_recover_messages_app">I-download ang Recover Messages App</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Aron magamit kini nga bahin, kinahanglan nimo nga i-download ang lain nga app gikan sa play store. I-klik ang OK aron maablihan ang play store ug i-download ang app.</string>
+    <string name="cancel">Pagkanselar</string>
+    <string name="ad_space">Ad Space</string>
+    <string name="status">Status</string>
+    <string name="theme">Tema</string>
+    <string name="more_apps">Dugang nga Apps</string>
+    <string name="share">Ipaambit</string>
+    <string name="send">Ipadala</string>
+    <string name="select_country_code_and_number">Pilia ang country code ug numero</string>
+    <string name="how_it_works">Giunsa kini paglihok</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Pag-download sa Qr Scanner App</string>
+    <string name="share_content">Pag-andam aron masinati ang labing paspas nga paagi aron ma-access ang parehas nga WhatsApp account sa duha nga lainlaing mga smartphone o tablet, tanan libre! I-download ug i-install ang app karon.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Kua oti te whakahou</string>
+    <string name="app_update_alert_dialog_subtitle">Tīmataria anō te taupānga hei tono whakahōu…</string>
+    <string name="help">Awhina</string>
+    <string name="cleaner">Kaihoroi</string>
+    <string name="status_saver">Tiaki Tūnga</string>
+    <string name="settings">Tautuhinga</string>
+    <string name="saved_statuses_appear_here">Kāore he tūnga e wātea ana!</string>
+    <string name="available_statuses">Kei te waatea</string>
+    <string name="saved_statuses">Whakaorangia</string>
+    <string name="enter_message">Whakauru Karere (Kōwhiringa)</string>
+    <string name="enter_phone_number">Whakauruhia te nama waea</string>
+    <string name="send_message">Tuku Karere</string>
+    <string name="enter_a_phone_number">Whakauruhia he nama waea</string>
+    <string name="direct_link_copied_to_clipboard">Kua tāruahia te hono ki te papatopenga</string>
+    <string name="premium_unlocked">Mauruuru koe. Ka taea e koe te whakamahi i nga waahanga utu</string>
+    <string name="settings_category_title_developer">Kaihanga</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Nga Puna Puna Tuwhera</string>
+    <string name="preference_title_application_version">Putanga Taupānga</string>
+    <string name="preference_title_contact_us">Whakapā mai</string>
+    <string name="preference_title_privacy_policy">Kaupapahere Tūmataiti</string>
+    <string name="preference_title_terms_conditions">Nga Tikanga me nga Tikanga</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Whānui</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Aratau pouri</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Pehea te mahi\?</string>
+    <string name="ok">pai</string>
+    <string name="direct_message_help_ans">Whakauruhia koa te nama waea a te kaiwhiwhi me to karere kuputuhi. Kia rite koe ki te tuku i te karere, paato noa i te paatene \'Tukua\'. Hei tauira, ka taea hoki e koe te whakamahi i te kōwhiringa \'Hononga Tika\' ki te kape i te hono me te tiri ki te kaiwhiwhi. Ma te panui i te hono, ka taea e ratou te korero tika ki a koe.</string>
+    <string name="click_here_to_grant_required_permissions">Monokia me te whakahohe ano i te whakaaetanga whakamohiotanga.</string>
+    <string name="please_grant_storage_permissions">Tena koa tuku whakaaetanga Rokiroki</string>
+    <string name="rate_app">Whakatauhia koa te taupānga!</string>
+    <string name="rate_later">I muri mai</string>
+    <string name="rateUs">Whakatauria koa te taupānga i runga i te Toa Play</string>
+    <string name="send_feedback">Tena koa tukuna mai he urupare. Ka ngana taatau ki te mahi!</string>
+    <string name="try_again">Me ngana ano</string>
+    <string name="message_copied_to_clipboard">kua kapea te karere ki te papatopenga</string>
+    <string name="system_default">Pūnaha Taunoa</string>
+    <string name="restart">Tīmata anō</string>
+    <string name="light">Maama</string>
+    <string name="dark">pouri</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Tiri ki</string>
+    <string name="direct_link">Tārua Hononga Tika</string>
+    <string name="remove_ads">Tango Pānui</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Whats Tukutuku</string>
+    <string name="recover_messages">Whakaora Karere</string>
+    <string name="direct_message">Karere Totika</string>
+    <string name="title_refresh">Utaina ano</string>
+    <string name="whatsapp_not_installed">Kaore a Whatsapp i whakauruhia. Tena koa whakauruhia a Whatsapp ki te whakamahi i tenei waahanga.</string>
+    <string name="toggle_keyboard">Takahuri Papapātuhi</string>
+    <string name="fullscreen">Mata Katoa</string>
+    <string name="dismiss">Whakakore</string>
+    <string name="keyboard_unblocked">Kua wetewetehia te papapātuhi.</string>
+    <string name="keyboard_blocked">Kua parea te papapātuhi. Patohia te ata papapātuhi hei wetewete.</string>
+    <string name="whats_web_how_it_works">1. Whakatuwherahia te tono Tukutuku Whats i runga i to taputapu.\n\n2. Open whatsapp i runga i te tahi atu atamai.\n\n* I runga i te Android -&gt; Mai i te mata korerorero, haere ki te tahua ira e toru kei te taha matau o runga o te mata -&gt; Nga taputapu hono.\n\n* I te Waea Matapihi -&gt; Haere ki te tahua ira e toru -&gt; Nga taputapu hono.\n\n* I te iPhone -&gt; Haere ki Tautuhinga -&gt; Nga taputapu hono.\n\n3. Patohia te hono i tetahi taputapu ka matawai i te Waehere QR e whakaatuhia ana i runga i to mata o tenei taupānga mai i etahi atu waea.</string>
+    <string name="retry_sending_voice_message">Ngana ano ki te tuku karere reo</string>
+    <string name="message_retry_sending_voice_message">Patohia te ata hopuoro kia kotahi ano. Me mahi pera me te tumanako.</string>
+    <string name="retry_camera_capture">Whakamātauria anōtia te kōwhiringa Kāmera</string>
+    <string name="message_retry_camera_capture">Patohia ano te ata kamera. Me mahi pera me te tumanako.</string>
+    <string name="audio_perm_reqd">Me whai whakaaetanga ororongo kia ahu whakamua.</string>
+    <string name="camera_perm_reqd">Me whai whakaaetanga kāmera kia ahu whakamua.</string>
+    <string name="reset_reload">Tautuhi/Utaina ano</string>
+    <string name="reset_only">WHAKATURU</string>
+    <string name="reload_only">UTA ANAKE</string>
+    <string name="reload_warning">Mena kei te raru koe i nga take e pa ana ki te takiuru, ngana ki te \'Tautuhi ano\'.\nWHAKATŪPATO: Me takiuru ano koe ki te whakamahi koe i te \'Tautuhi\'.</string>
+    <string name="download_file">Tikiake ana i te Kōnae</string>
+    <string name="couldnt_download_file">Kāore i taea te tiki kōnae</string>
+    <string name="storage_perm_reqd">Me whai whakaaetanga rokiroki hei tango i te konae</string>
+    <string name="purchase_item_not_found">Kaore i kitea te mea hoko</string>
+    <string name="error">Hapa</string>
+    <string name="purchase_canceled">Kua whakakorehia te hoko</string>
+    <string name="pending_purchase">Kei te Tarewa te hoko. Whakaotihia te tauwhitinga</string>
+    <string name="purchase_status_not_known">Kaore i te mohiotia te mana hoko</string>
+    <string name="enter_file_name">Whakauruhia he Ingoa Kōnae</string>
+    <string name="downloading_file">Tikiake ana i te Kōnae</string>
+    <string name="enter_valid_file_name">Whakaurua koa he ingoa kōnae whaimana</string>
+    <string name="download_has_finished_message">Kua oti te tango. Tena tirohia te kōpaki Tikiake.</string>
+    <string name="could_not_download_file">Kāore i taea te tikiake i te Kōnae</string>
+    <string name="loading">Uta ana</string>
+    <string name="downloading_update">Tikiake whakahōu</string>
+    <string name="update_downloaded_message">Kua tikiakehia he whakahou.</string>
+    <string name="keyboard_enable_webview_message">Pēhia te pātene papapātuhi takahuri ki runga kia taea ai te patopato</string>
+    <string name="preference_title_bug_report">Pūrongo bug</string>
+    <string name="preference_title_report_a_issue">Pūrongo i tetahi take</string>
+    <string name="describe_bug">Tena koa whakaahuatia te bug ki konei</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">Ko te whaiaronga a WhatsApp kaore he mana. Tīpakohia koa te whaiaronga tika.</string>
+    <string name="please_select_whatsapp_directory">Tena koa tohua te raarangi WhatsApp!</string>
+    <string name="download_cleaner">Tikiake Pūtahitahi</string>
+    <string name="download_recover_messages_app">Tikiake Whakaora Karere App</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Hei whakamahi i tenei ahuatanga, me tango e koe tetahi atu taupānga mai i te toa takaro. Paatohia te OK hei whakatuwhera i te toa takaro me te tango i te taupānga.</string>
+    <string name="cancel">Whakakore</string>
+    <string name="ad_space">Mokowā Panui</string>
+    <string name="status">Tūnga</string>
+    <string name="theme">Kaupapa</string>
+    <string name="more_apps">Ētahi atu Taupānga</string>
+    <string name="share">Tiri</string>
+    <string name="send">Tukua</string>
+    <string name="select_country_code_and_number">Tīpakohia te waehere whenua me te tau</string>
+    <string name="how_it_works">Pehea te mahi</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Tikiake Qr Scanner App</string>
+    <string name="share_content">Kia rite ki te wheako i te huarahi tere ki te uru ki te putea WhatsApp kotahi i runga i nga waea atamai rereke e rua, i nga papa ranei, katoa mo te kore utu! Tikiake me te tāuta i te taupānga ināianei.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

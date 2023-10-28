@@ -1,0 +1,121 @@
+<resources>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="key_preference_has_user_rated_on_current_version" translatable="false">key_preference_has_user_rated_on_current_version</string>
+    <string name="key_preference_user_rated_version" translatable="false">key_preference_user_rated_version</string>
+    <string name="key_preference_time_spent_on_screens" translatable="false">key_preference_time_spent_on_screens</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="app_update_alert_dialog_title">Update is complete</string>
+    <string name="app_update_alert_dialog_subtitle">Restart the app to apply updates…</string>
+    <string name="help">Help</string>
+    <string name="cleaner">Cleaner</string>
+    <string name="status_saver">Status Saver</string>
+    <string name="settings">Settings</string>
+    <string name="saved_statuses_appear_here">No Status Available!</string>
+    <string name="available_statuses">Available</string>
+    <string name="saved_statuses">Saved</string>
+    <string name="enter_message">Enter Message (Optional)</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="send_message">Send Message</string>
+    <string name="enter_a_phone_number">Enter a phone number</string>
+    <string name="direct_link_copied_to_clipboard">Direct link copied to clipboard</string>
+    <string name="premium_unlocked">Thank you. You can now use premium features</string>
+    <string name="settings_category_title_developer">Developer</string>
+    <string name="preference_title_open_source_licenses">Open Source Libraries</string>
+    <string name="preference_title_application_version">App Version</string>
+    <string name="preference_title_contact_us">Contact Us</string>
+    <string name="preference_title_privacy_policy">Privacy Policy</string>
+    <string name="preference_title_terms_conditions">Terms And Conditions</string>
+    <string name="settings_category_title_general">General</string>
+    <string name="preference_title_dark_mode">Dark Mode</string>
+
+    <string name="how_to_use">How it works\?</string>
+    <string name="ok">OK</string>
+    <string name="direct_message_help_ans">Please input the recipient\'s phone number along with your text message. Once you are ready to send the message, simply click on the \'Send\' button. Alternatively, you can also use the \'Direct Link\' option to copy the link and share it with the recipient. By clicking on the link, they can chat with you directly.</string>
+    <string name="click_here_to_grant_required_permissions">Disable and re-enable notification permission.</string>
+    <string name="please_grant_storage_permissions">Please grant Storage permissions</string>
+    <string name="rate_app">Please rate the app!</string>
+    <string name="rate_later">Later</string>
+    <string name="rateUs">Please Rate the app on Play Store</string>
+    <string name="send_feedback">Please send us feedback. We\'ll try to work on it!</string>
+    <string name="try_again">Please try again</string>
+    <string name="message_copied_to_clipboard">message copied to clipboard</string>
+    <string name="system_default">System Default</string>
+    <string name="restart">Restart</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="share_with">Share with</string>
+    <string name="direct_link">Copy Direct Link</string>
+    <string name="remove_ads">Remove Ads</string>
+    <string name="whats_web">Whats Web</string>
+    <string name="recover_messages">Recover Messages</string>
+    <string name="direct_message">Direct Message</string>
+    <string name="title_refresh">Reload</string>
+    <string name="whatsapp_not_installed">Whatsapp is not installed. Please first install Whatsapp to use this feature.</string>
+    <string name="toggle_keyboard">Toggle Keyboard</string>
+    <string name="fullscreen">Full Screen</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="keyboard_unblocked">Keyboard is unblocked.</string>
+    <string name="keyboard_blocked">Keyboard is blocked. Press keyboard icon to unblock.</string>
+    <string name="whats_web_how_it_works">1. Open Whats Web application on your device.\n\n2. Open whatsapp on other smartphone.\n\n* On Android -> From the chats screen, go to three dot menu located in top right of screen -> Linked devices.\n\n* On Window phone ->  Go to three dot menu -> Linked devices.\n\n* On iPhone ->  Go to Settings -> Linked devices.\n\n3. Tap on Link a device and scan the QR Code displayed on your this app screen from other phone.</string>
+    <string name="retry_sending_voice_message">Please retry sending voice message</string>
+    <string name="message_retry_sending_voice_message">Press the microphone icon once more. It should be working as expected.</string>
+    <string name="retry_camera_capture">Please retry Camera option</string>
+    <string name="message_retry_camera_capture">Press the camera icon once more. It should be working as expected.</string>
+    <string name="audio_perm_reqd">Audio permission is required to progress ahead.</string>
+    <string name="camera_perm_reqd">Camera permission is required to progress ahead.</string>
+    <string name="reset_reload">Reset/Reload</string>
+    <string name="reset_only">RESET</string>
+    <string name="reload_only">RELOAD ONLY</string>
+    <string name="reload_warning">If you are experiencing issues related to login, try \'Reset\'.\nWARNING: You might have to login again if you use \'Reset\'.</string>
+    <string name="download_file">Downloading File</string>
+    <string name="couldnt_download_file">File couldn\'t be downloaded</string>
+    <string name="storage_perm_reqd">Storage permission needed to download file</string>
+    <string name="purchase_item_not_found">Purchase Item could not be Found</string>
+    <string name="error">Error</string>
+    <string name="purchase_canceled">Purchase Canceled</string>
+    <string name="pending_purchase">Purchase is Pending. Please complete Transaction</string>
+    <string name="purchase_status_not_known">Purchase Status is not known</string>
+    <string name="enter_file_name">Enter a File Name</string>
+    <string name="downloading_file">Downloading the File</string>
+    <string name="enter_valid_file_name">Please enter a valid file name</string>
+    <string name="download_has_finished_message">Download has finished. Please check Downloads folder.</string>
+    <string name="could_not_download_file">Could not download File</string>
+    <string name="loading">Loading</string>
+    <string name="downloading_update">Downloading update</string>
+    <string name="update_downloaded_message">An update has just been downloaded.</string>
+    <string name="keyboard_enable_webview_message">Press the toggle keyboard button on top to enable typing</string>
+    <string name="preference_title_bug_report">Bug Report</string>
+    <string name="preference_title_report_a_issue">Report an Issue</string>
+    <string name="describe_bug">Please describe the bug here</string>
+    <string name="_2" translatable="false">2</string>
+    <string name="_3" translatable="false">3</string>
+    <string name="_1" translatable="false">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">WhatsApp directory does not contain Statuses. Please select correct directory.</string>
+    <string name="please_select_whatsapp_directory">Please select WhatsApp directory!</string>
+    <string name="download_cleaner">Download Cleaner</string>
+    <string name="download_recover_messages_app">Download Recover Messages App</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">To use this feature, you need to download another app from play store. Click OK to open play store and download app.</string>
+    <string name="cancel">Cancel</string>
+    <string name="ad_space">Ad Space</string>
+    <string name="status">Status</string>
+    <string name="theme">Theme</string>
+    <string name="more_apps">More Apps</string>
+    <string name="share">Share</string>
+    <string name="send">Send</string>
+    <string name="select_country_code_and_number">Select country code and number</string>
+    <string name="how_it_works">How it works</string>
+    <string name="download_qrcodescanner">Download Qr Scanner App</string>
+    <string name="share_content">Get ready to experience the fastest way to access the same WhatsApp account on two different smartphones or tablets, all for free! Download and install the app now.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">""</string>
+</resources>

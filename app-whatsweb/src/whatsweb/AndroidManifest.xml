@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="com.android.vending.BILLING" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        android:maxSdkVersion="29"
+        tools:ignore="ScopedStorage" />
+    <uses-permission android:name="android.permission.VIBRATE"/>
+
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID"/>
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.autofocus"
+        android:required="false" />
+
+    <queries>
+        <package android:name="com.whatsapp" />
+        <!-- Packages for cleaner, recover deleted messages, we can uncomment these lines in future
+             when Android 11 users increase more -->
+        <package android:name="color.dev.com.whatsremoved" />
+<!--        <package android:name="com.drilens.wamr" />-->
+<!--        <package android:name="com.tenqube.notisave" />-->
+        <package android:name="com.lookandfeel.cleanerforwhatsapp" />
+<!--        <package android:name="com.musterapps.whatscleaner" />-->
+    </queries>
+
+<!--    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" tools:node="remove" />-->
+<!--    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" tools:node="remove" />-->
+
+    <application
+        android:name=".App"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:requestLegacyExternalStorage="true"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:exported="false"
+            android:name="com.geeksoftapps.app.AppSettingsActivity"
+            android:label="@string/settings" />
+        <activity
+            android:exported="false"
+            android:name=".ui.status.preview.StatusPreviewActivity" />
+        <activity
+            android:exported="false"
+            android:name="com.geeksoftapps.app.CustomWebViewActivity"
+            android:configChanges="orientation|keyboard|keyboardHidden|screenLayout|screenSize"/>
+        <activity android:name="com.geeksoftapps.app.ChatActivity"
+            android:windowSoftInputMode="adjustPan"
+            android:exported="false"
+            android:theme="@style/DirectChatActivityTheme"
+            />
+        <activity android:name="com.geeksoftapps.whatsweb.app.MainActivity"
+            android:exported="false"
+            />
+        <activity android:name="ui.status.StatusSaverActivity"
+            android:exported="false"
+            android:theme="@style/StatusSaverActivityTheme"/>
+
+        <activity-alias
+            android:exported="true"
+            android:name=".ui.Launcher"
+            android:targetActivity="com.geeksoftapps.whatsweb.app.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity-alias>
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="${applicationId}.provider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths" />
+        </provider>
+
+        <!--<meta-data android:name="applovin.sdk.key"
+            android:value="V8yk2TXk7Piqr5HQ0vXMoQrTn35I9BreXAzHu3OQAFOqu0bA9InVk4MkCq2zC8vQhPzDFd0OCTL2U30KsaBD7i"/>
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-2262009638866822~7109978188"/>-->
+        
+    </application>
+</manifest>

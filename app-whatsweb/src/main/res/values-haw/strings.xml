@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Ua pau ka hana hou</string>
+    <string name="app_update_alert_dialog_subtitle">Hoʻomaka hou i ka polokalamu no ka hoʻopili ʻana i nā mea hou…</string>
+    <string name="help">Kokua</string>
+    <string name="cleaner">Mea hoʻomaʻemaʻe</string>
+    <string name="status_saver">Mālama Kūlana</string>
+    <string name="settings">Nā hoʻonohonoho</string>
+    <string name="saved_statuses_appear_here">ʻAʻohe kūlana i loaʻa!</string>
+    <string name="available_statuses">Loaʻa</string>
+    <string name="saved_statuses">Mālama ʻia</string>
+    <string name="enter_message">E hoʻokomo i ka memo (koho)</string>
+    <string name="enter_phone_number">E hookomo i ka helu kelepona</string>
+    <string name="send_message">Hoʻouna leka</string>
+    <string name="enter_a_phone_number">E hoʻokomo i kahi helu kelepona</string>
+    <string name="direct_link_copied_to_clipboard">Hoʻopili pololei ʻia ka loulou i ka papa paʻi</string>
+    <string name="premium_unlocked">Mahalo iā ʻoe. Hiki iā ʻoe ke hoʻohana i nā hiʻohiʻona premium</string>
+    <string name="settings_category_title_developer">Mea hoʻomohala</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Nā Hale Waihona Puke Open Source</string>
+    <string name="preference_title_application_version">Manaʻo App</string>
+    <string name="preference_title_contact_us">Kāhea iā mā˚ou</string>
+    <string name="preference_title_privacy_policy">Kulekele pilikino</string>
+    <string name="preference_title_terms_conditions">Nā Kūlana a me nā Kūlana</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Generala</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">ʻAno ʻeleʻele</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Pehea ka hana\?</string>
+    <string name="ok">OK</string>
+    <string name="direct_message_help_ans">E ʻoluʻolu e hoʻokomo i ka helu kelepona o ka mea hoʻokipa me kāu leka uila. Ke mākaukau ʻoe e hoʻouna i ka memo, e kaomi wale i ke pihi \'Send\'. ʻO kahi ʻē aʻe, hiki iā ʻoe ke hoʻohana i ke koho \'Direct Link\' e kope i ka loulou a kaʻana like me ka mea loaʻa. Ma ke kaomi ʻana i ka loulou, hiki iā lākou ke kamaʻilio pololei me ʻoe.</string>
+    <string name="click_here_to_grant_required_permissions">Hoʻopau a hoʻā hou i ka ʻae hoʻolaha.</string>
+    <string name="please_grant_storage_permissions">E ʻoluʻolu e hāʻawi i nā ʻae ʻae</string>
+    <string name="rate_app">E ʻoluʻolu e helu i ka app!</string>
+    <string name="rate_later">Ma hope aku</string>
+    <string name="rateUs">E ʻoluʻolu e helu i ka polokalamu ma ka hale kūʻai Play</string>
+    <string name="send_feedback">E ʻoluʻolu e hoʻouna mai iā mākou i nā manaʻo. E ho\'āʻo mākou e hana ma luna!</string>
+    <string name="try_again">E ʻoluʻolu e hoʻāʻo hou</string>
+    <string name="message_copied_to_clipboard">kope ʻia ka memo i ka papa paʻi</string>
+    <string name="system_default">Pūnaehana Default</string>
+    <string name="restart">Hoʻomaka hou</string>
+    <string name="light">Māmā</string>
+    <string name="dark">Poʻeleʻele</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Kaʻana like me</string>
+    <string name="direct_link">E kope i ka loulou pololei</string>
+    <string name="remove_ads">Wehe i nā hoʻolaha</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">He aha ka Pūnaewele</string>
+    <string name="recover_messages">Hoʻihoʻi hou i nā memo</string>
+    <string name="direct_message">Ka leka pololei</string>
+    <string name="title_refresh">Hoʻouka hou</string>
+    <string name="whatsapp_not_installed">ʻAʻole hoʻokomo ʻia ʻo Whatsapp. E ʻoluʻolu e hoʻokomo iā Whatsapp e hoʻohana i kēia hiʻohiʻona.</string>
+    <string name="toggle_keyboard">Hoʻololi i ka papa keyboard</string>
+    <string name="fullscreen">Palena Piha</string>
+    <string name="dismiss">Hoʻokuʻu</string>
+    <string name="keyboard_unblocked">Wehe ʻia ka papa keyboard.</string>
+    <string name="keyboard_blocked">Ua ālai ʻia ka papa keyboard. E kaomi i ka ikona keyboard e wehe ai.</string>
+    <string name="whats_web_how_it_works">1. E wehe i ka polokalamu Whats Web ma kāu kelepona.\n\n2. E wehe i ka whatsapp ma nā kelepona ʻē aʻe.\n\n* Ma ka Android -&gt; Mai ka pale kamaʻilio, e hele i ka papa kuhikuhi ʻekolu kiko ma ka ʻaoʻao ʻākau o ka pale -&gt; Nā mea pili.\n\n* Ma ke kelepona puka aniani -&gt; E hele i ka papa kuhikuhi kiko ʻekolu -&gt; Nā mea pili.\n\n* Ma iPhone -&gt; E hele i nā ʻōkuhi -&gt; nā mea pili.\n\n3. E kāomi i ka loulou i kahi mea hana a nānā i ka QR Code i hōʻike ʻia ma kāu pale app mai ke kelepona ʻē aʻe.</string>
+    <string name="retry_sending_voice_message">E ʻoluʻolu e hoʻouna hou i ka memo leo</string>
+    <string name="message_retry_sending_voice_message">E kaomi hou i ka ikona microphone. Pono e hana e like me ka mea i manaʻo ʻia.</string>
+    <string name="retry_camera_capture">E ʻoluʻolu e hoʻāʻo hou i ke koho pahupaʻikiʻi</string>
+    <string name="message_retry_camera_capture">E kaomi hou i ke kiʻiona pahupaʻikiʻi. Pono e hana e like me ka mea i manaʻo ʻia.</string>
+    <string name="audio_perm_reqd">Pono ka ʻae leo e holomua i mua.</string>
+    <string name="camera_perm_reqd">Pono ka ʻae pahupaʻikiʻi e holomua i mua.</string>
+    <string name="reset_reload">Hoʻohou/Hoʻouka hou</string>
+    <string name="reset_only">HOOLAHA HOU</string>
+    <string name="reload_only">KAU HOU WALE</string>
+    <string name="reload_warning">Inā loaʻa iā ʻoe nā pilikia e pili ana i ke komo ʻana, e hoʻāʻo iā \'Reset\'.\nWARNING: Pono ʻoe e komo hou inā hoʻohana ʻoe iā \'Reset\'.</string>
+    <string name="download_file">Hoʻoiho ʻana i ka faila</string>
+    <string name="couldnt_download_file">ʻAʻole hiki ke hoʻoiho ʻia ka faila</string>
+    <string name="storage_perm_reqd">Pono ka ʻae waiho no ka hoʻoiho ʻana i ka faila</string>
+    <string name="purchase_item_not_found">ʻAʻole i loaʻa ka mea kūʻai</string>
+    <string name="error">Kuhihewa</string>
+    <string name="purchase_canceled">Hoʻopau ʻia ke kūʻai ʻana</string>
+    <string name="pending_purchase">Ke kali nei ke kuai ana. E ʻoluʻolu e hoʻopau i ka hana</string>
+    <string name="purchase_status_not_known">ʻAʻole ʻike ʻia ke kūlana Kūʻai</string>
+    <string name="enter_file_name">E hoʻokomo i kahi inoa faila</string>
+    <string name="downloading_file">Ke hoʻoiho ʻana i ka faila</string>
+    <string name="enter_valid_file_name">E ʻoluʻolu e hoʻokomo i kahi inoa faila kūpono</string>
+    <string name="download_has_finished_message">Ua pau ka hoʻoili ʻana. E ʻoluʻolu e nānā i ka waihona Downloads.</string>
+    <string name="could_not_download_file">ʻAʻole hiki ke hoʻoiho i ka faila</string>
+    <string name="loading">Ke hoʻouka nei</string>
+    <string name="downloading_update">Ke hoʻoiho nei i ka mea hou</string>
+    <string name="update_downloaded_message">Ua hoʻoiho ʻia kahi mea hou.</string>
+    <string name="keyboard_enable_webview_message">E kaomi i ke pihi kīpili ma luna e hiki ai ke paʻi</string>
+    <string name="preference_title_bug_report">Hōʻike ʻino</string>
+    <string name="preference_title_report_a_issue">Hōʻike i kahi pilikia</string>
+    <string name="describe_bug">E ʻoluʻolu e wehewehe i ka hewa ma aneʻi</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">ʻAʻole i loko o ka papa kuhikuhi WhatsApp nā Statuses. E ʻoluʻolu e koho i ka papa kuhikuhi pololei.</string>
+    <string name="please_select_whatsapp_directory">E koho i ka papa kuhikuhi WhatsApp!</string>
+    <string name="download_cleaner">Hoʻoiho iā Cleaner</string>
+    <string name="download_recover_messages_app">Hoʻoiho i ka Recover Messages App</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">No ka hoʻohana ʻana i kēia hiʻohiʻona, pono ʻoe e hoʻoiho i kahi polokalamu ʻē aʻe mai ka hale kūʻai pāʻani. Kaomi iā OK e wehe i ka hale kūʻai pāʻani a hoʻoiho i ka polokalamu.</string>
+    <string name="cancel">Hoʻopau</string>
+    <string name="ad_space">Wahi hoʻolaha</string>
+    <string name="status">Kūlana</string>
+    <string name="theme">Kumuhana</string>
+    <string name="more_apps">Nā polokalamu hou aku</string>
+    <string name="share">Kaʻana like</string>
+    <string name="send">Hoʻouna</string>
+    <string name="select_country_code_and_number">E koho i ka helu ʻāina a me ka helu</string>
+    <string name="how_it_works">Pehea e hana ai</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Hoʻoiho iā Qr Scanner App</string>
+    <string name="share_content">E mākaukau e ʻike i ke ala wikiwiki loa e komo ai i ka moʻokāki WhatsApp like ma nā kelepona ʻelua a i ʻole nā ​​​​papa, nā mea āpau! Hoʻoiho a hoʻokomo i ka polokalamu i kēia manawa.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

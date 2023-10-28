@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">به روز رسانی کامل است</string>
+    <string name="app_update_alert_dialog_subtitle">برای اعمال به‌روزرسانی‌ها، برنامه را راه‌اندازی مجدد کنید…</string>
+    <string name="help">کمک</string>
+    <string name="cleaner">پاک کننده</string>
+    <string name="status_saver">حفظ وضعیت</string>
+    <string name="settings">تنظیمات</string>
+    <string name="saved_statuses_appear_here">وضعیت موجود نیست!</string>
+    <string name="available_statuses">در دسترس</string>
+    <string name="saved_statuses">ذخیره</string>
+    <string name="enter_message">پیام را وارد کنید (اختیاری)</string>
+    <string name="enter_phone_number">شماره تلفن را وارد کنید</string>
+    <string name="send_message">پیام فرستادن</string>
+    <string name="enter_a_phone_number">یک شماره تلفن وارد کنید</string>
+    <string name="direct_link_copied_to_clipboard">پیوند مستقیم در کلیپ بورد کپی شد</string>
+    <string name="premium_unlocked">متشکرم. اکنون می توانید از ویژگی های برتر استفاده کنید</string>
+    <string name="settings_category_title_developer">توسعه دهنده</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">کتابخانه های متن باز</string>
+    <string name="preference_title_application_version">نسخه برنامه</string>
+    <string name="preference_title_contact_us">با ما تماس بگیرید</string>
+    <string name="preference_title_privacy_policy">سیاست حفظ حریم خصوصی</string>
+    <string name="preference_title_terms_conditions">شرایط و ضوابط</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">عمومی</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">حالت تاریک</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">چگونه کار می کند؟</string>
+    <string name="ok">خوب</string>
+    <string name="direct_message_help_ans">لطفا شماره تلفن گیرنده را به همراه پیامک خود وارد کنید. پس از آماده شدن برای ارسال پیام، به سادگی بر روی دکمه \"ارسال\" کلیک کنید. همچنین می‌توانید از گزینه «پیوند مستقیم» برای کپی کردن پیوند و اشتراک‌گذاری آن با گیرنده استفاده کنید. با کلیک بر روی لینک، آنها می توانند مستقیماً با شما چت کنند.</string>
+    <string name="click_here_to_grant_required_permissions">مجوز اعلان را غیرفعال و دوباره فعال کنید.</string>
+    <string name="please_grant_storage_permissions">لطفاً مجوزهای Storage را بدهید</string>
+    <string name="rate_app">لطفا به برنامه امتیاز دهید!</string>
+    <string name="rate_later">بعد</string>
+    <string name="rateUs">لطفاً به برنامه در فروشگاه Play امتیاز دهید</string>
+    <string name="send_feedback">لطفا برای ما بازخورد ارسال کنید. ما سعی خواهیم کرد روی آن کار کنیم!</string>
+    <string name="try_again">لطفا دوباره تلاش کنید</string>
+    <string name="message_copied_to_clipboard">پیام در کلیپ بورد کپی شد</string>
+    <string name="system_default">پیش فرض سیستم</string>
+    <string name="restart">راه اندازی مجدد</string>
+    <string name="light">سبک</string>
+    <string name="dark">تاریک</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">به اشتراک گذاشتن با</string>
+    <string name="direct_link">لینک مستقیم را کپی کنید</string>
+    <string name="remove_ads">حذف تبلیغات</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">وب چیست</string>
+    <string name="recover_messages">بازیابی پیام ها</string>
+    <string name="direct_message">پیام مستقیم</string>
+    <string name="title_refresh">بارگذاری مجدد</string>
+    <string name="whatsapp_not_installed">واتساپ نصب نیست لطفا برای استفاده از این ویژگی ابتدا واتساپ را نصب کنید.</string>
+    <string name="toggle_keyboard">صفحه کلید را تغییر دهید</string>
+    <string name="fullscreen">تمام صفحه</string>
+    <string name="dismiss">رد</string>
+    <string name="keyboard_unblocked">صفحه کلید رفع انسداد است.</string>
+    <string name="keyboard_blocked">صفحه کلید مسدود شده است. برای رفع انسداد، نماد صفحه کلید را فشار دهید.</string>
+    <string name="whats_web_how_it_works">1. برنامه Whats Web را در دستگاه خود باز کنید.\n\n2. واتساپ را در گوشی هوشمند دیگر باز کنید.\n\n* در Android -&gt; از صفحه چت، به منوی سه نقطه واقع در سمت راست بالای صفحه -&gt; دستگاه های مرتبط بروید.\n\n* در پنجره تلفن -&gt; رفتن به منوی سه نقطه -&gt; دستگاه های مرتبط.\n\n* در آیفون -&gt; به تنظیمات -&gt; دستگاه‌های مرتبط بروید.\n\n3. روی Link a device ضربه بزنید و کد QR نمایش داده شده در صفحه این برنامه را از تلفن دیگر اسکن کنید.</string>
+    <string name="retry_sending_voice_message">لطفاً دوباره سعی کنید پیام صوتی ارسال کنید</string>
+    <string name="message_retry_sending_voice_message">نماد میکروفون را یک بار دیگر فشار دهید. باید همانطور که انتظار می رود کار کند.</string>
+    <string name="retry_camera_capture">لطفاً گزینه دوربین را دوباره امتحان کنید</string>
+    <string name="message_retry_camera_capture">یک بار دیگر نماد دوربین را فشار دهید. باید همانطور که انتظار می رود کار کند.</string>
+    <string name="audio_perm_reqd">مجوز صوتی برای پیشرفت مورد نیاز است.</string>
+    <string name="camera_perm_reqd">مجوز دوربین برای پیشرفت در آینده مورد نیاز است.</string>
+    <string name="reset_reload">بازنشانی/بارگیری مجدد</string>
+    <string name="reset_only">تنظیم مجدد</string>
+    <string name="reload_only">فقط بارگذاری مجدد</string>
+    <string name="reload_warning">اگر در ارتباط با ورود به سیستم با مشکلاتی مواجه هستید، «تنظیم مجدد» را امتحان کنید.\nاخطار: در صورت استفاده از \"تنظیم مجدد\" ممکن است مجبور شوید دوباره وارد شوید.</string>
+    <string name="download_file">در حال دانلود فایل</string>
+    <string name="couldnt_download_file">فایل دانلود نشد</string>
+    <string name="storage_perm_reqd">برای دانلود فایل به مجوز ذخیره سازی نیاز است</string>
+    <string name="purchase_item_not_found">مورد خرید یافت نشد</string>
+    <string name="error">خطا</string>
+    <string name="purchase_canceled">خرید لغو شد</string>
+    <string name="pending_purchase">خرید معلق است. لطفا تراکنش را کامل کنید</string>
+    <string name="purchase_status_not_known">وضعیت خرید مشخص نیست</string>
+    <string name="enter_file_name">یک نام فایل وارد کنید</string>
+    <string name="downloading_file">دانلود فایل</string>
+    <string name="enter_valid_file_name">لطفاً یک نام فایل معتبر وارد کنید</string>
+    <string name="download_has_finished_message">دانلود به پایان رسید. لطفا پوشه دانلودها را بررسی کنید.</string>
+    <string name="could_not_download_file">فایل دانلود نشد</string>
+    <string name="loading">بارگذاری</string>
+    <string name="downloading_update">در حال دانلود به روز رسانی</string>
+    <string name="update_downloaded_message">یک به روز رسانی به تازگی دانلود شده است.</string>
+    <string name="keyboard_enable_webview_message">برای فعال کردن تایپ، دکمه جابه‌جایی صفحه‌کلید را در بالا فشار دهید</string>
+    <string name="preference_title_bug_report">گزارش اشکال</string>
+    <string name="preference_title_report_a_issue">گزارش یک مشکل</string>
+    <string name="describe_bug">لطفا اشکال را در اینجا شرح دهید</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">دایرکتوری WhatsApp حاوی وضعیت نیست. لطفا دایرکتوری صحیح را انتخاب کنید</string>
+    <string name="please_select_whatsapp_directory">لطفا دایرکتوری WhatsApp را انتخاب کنید!</string>
+    <string name="download_cleaner">پاک کننده را دانلود کنید</string>
+    <string name="download_recover_messages_app">برنامه بازیابی پیام ها را دانلود کنید</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">برای استفاده از این قابلیت، باید اپلیکیشن دیگری را از پلی استور دانلود کنید. برای باز کردن play store و دانلود برنامه روی OK کلیک کنید.</string>
+    <string name="cancel">لغو کنید</string>
+    <string name="ad_space">فضای تبلیغاتی</string>
+    <string name="status">وضعیت</string>
+    <string name="theme">موضوع</string>
+    <string name="more_apps">برنامه های بیشتر</string>
+    <string name="share">اشتراک گذاری</string>
+    <string name="send">ارسال</string>
+    <string name="select_country_code_and_number">کد و شماره کشور را انتخاب کنید</string>
+    <string name="how_it_works">چگونه کار می کند</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">برنامه Qr Scanner را دانلود کنید</string>
+    <string name="share_content">برای تجربه سریعترین راه برای دسترسی به یک حساب WhatsApp در دو تلفن هوشمند یا تبلت مختلف، همه به صورت رایگان آماده شوید! هم اکنون برنامه را دانلود و نصب کنید.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

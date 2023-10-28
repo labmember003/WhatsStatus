@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Usasishaji umekamilika</string>
+    <string name="app_update_alert_dialog_subtitle">Anzisha tena programu ili kutumia masasisho...</string>
+    <string name="help">Msaada</string>
+    <string name="cleaner">Kisafishaji</string>
+    <string name="status_saver">Kiokoa Hali</string>
+    <string name="settings">Mipangilio</string>
+    <string name="saved_statuses_appear_here">Hakuna Hali Inayopatikana!</string>
+    <string name="available_statuses">Inapatikana</string>
+    <string name="saved_statuses">Imehifadhiwa</string>
+    <string name="enter_message">Weka Ujumbe (Si lazima)</string>
+    <string name="enter_phone_number">Weka Nambari ya Simu</string>
+    <string name="send_message">Tuma Ujumbe</string>
+    <string name="enter_a_phone_number">Weka nambari ya simu</string>
+    <string name="direct_link_copied_to_clipboard">Kiungo cha moja kwa moja kimenakiliwa kwenye ubao wa kunakili</string>
+    <string name="premium_unlocked">Asante. Sasa unaweza kutumia vipengele vinavyolipiwa</string>
+    <string name="settings_category_title_developer">Msanidi</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Maktaba ya Chanzo Huria</string>
+    <string name="preference_title_application_version">Toleo la Programu</string>
+    <string name="preference_title_contact_us">Wasiliana nasi</string>
+    <string name="preference_title_privacy_policy">Sera ya Faragha</string>
+    <string name="preference_title_terms_conditions">Sheria na Masharti</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Mkuu</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Hali ya Giza</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Inavyofanya kazi\?</string>
+    <string name="ok">sawa</string>
+    <string name="direct_message_help_ans">Tafadhali weka nambari ya simu ya mpokeaji pamoja na ujumbe wako wa maandishi. Mara tu ukiwa tayari kutuma ujumbe, bonyeza tu kwenye kitufe cha \'Tuma\'. Vinginevyo, unaweza pia kutumia chaguo la \'Kiungo cha Moja kwa Moja\' ili kunakili kiungo na kukishiriki na mpokeaji. Kwa kubofya kiungo, wanaweza kuzungumza nawe moja kwa moja.</string>
+    <string name="click_here_to_grant_required_permissions">Zima na uwashe tena ruhusa ya arifa.</string>
+    <string name="please_grant_storage_permissions">Tafadhali toa ruhusa za Hifadhi</string>
+    <string name="rate_app">Tafadhali kadiria programu!</string>
+    <string name="rate_later">Baadae</string>
+    <string name="rateUs">Tafadhali Kadiria programu kwenye Play Store</string>
+    <string name="send_feedback">Tafadhali tutumie maoni. Tutajaribu kulifanyia kazi!</string>
+    <string name="try_again">Tafadhali jaribu tena</string>
+    <string name="message_copied_to_clipboard">ujumbe umenakiliwa kwenye ubao wa kunakili</string>
+    <string name="system_default">Chaguomsingi ya Mfumo</string>
+    <string name="restart">Anzisha tena</string>
+    <string name="light">Mwanga</string>
+    <string name="dark">Giza</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Shiriki na</string>
+    <string name="direct_link">Nakili Kiungo cha Moja kwa Moja</string>
+    <string name="remove_ads">Ondoa Matangazo</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Mtandao Nini</string>
+    <string name="recover_messages">Rejesha Ujumbe</string>
+    <string name="direct_message">Ujumbe wa moja kwa moja</string>
+    <string name="title_refresh">Pakia upya</string>
+    <string name="whatsapp_not_installed">Whatsapp haijasakinishwa. Tafadhali sakinisha Whatsapp kwanza ili kutumia kipengele hiki.</string>
+    <string name="toggle_keyboard">Geuza Kibodi</string>
+    <string name="fullscreen">Skrini Kamili</string>
+    <string name="dismiss">Ondoa</string>
+    <string name="keyboard_unblocked">Kibodi imefunguliwa.</string>
+    <string name="keyboard_blocked">Kibodi imezuiwa. Bonyeza ikoni ya kibodi ili kufungua.</string>
+    <string name="whats_web_how_it_works">1. Fungua programu ya Whats Web kwenye kifaa chako.\n\n2. Fungua whatsapp kwenye simu mahiri nyingine.\n\n* Kwenye Android -&gt; Kutoka skrini ya gumzo, nenda kwenye menyu ya nukta tatu iliyo juu kulia mwa skrini -&gt; Vifaa vilivyounganishwa.\n\n* Kwenye simu ya Dirisha -&gt; Nenda kwenye menyu ya nukta tatu -&gt; Vifaa vilivyounganishwa.\n\n* Kwenye iPhone -&gt; Nenda kwa Mipangilio -&gt; Vifaa vilivyounganishwa.\n\n3. Gusa kwenye Unganisha kifaa na uchanganue Msimbo wa QR unaoonyeshwa kwenye skrini ya programu yako kutoka kwa simu nyingine.</string>
+    <string name="retry_sending_voice_message">Tafadhali jaribu tena kutuma ujumbe wa sauti</string>
+    <string name="message_retry_sending_voice_message">Bonyeza ikoni ya maikrofoni kwa mara nyingine. Inapaswa kufanya kazi kama inavyotarajiwa.</string>
+    <string name="retry_camera_capture">Tafadhali jaribu tena chaguo la Kamera</string>
+    <string name="message_retry_camera_capture">Bonyeza ikoni ya kamera kwa mara nyingine. Inapaswa kufanya kazi kama inavyotarajiwa.</string>
+    <string name="audio_perm_reqd">Ruhusa ya sauti inahitajika ili kuendelea mbele.</string>
+    <string name="camera_perm_reqd">Ruhusa ya kamera inahitajika ili kuendelea mbele.</string>
+    <string name="reset_reload">Weka upya/Pakia upya</string>
+    <string name="reset_only">WEKA UPYA</string>
+    <string name="reload_only">PAKIA UPYA TU</string>
+    <string name="reload_warning">Ikiwa unakumbana na matatizo yanayohusiana na kuingia, jaribu \'Weka Upya\'.\nONYO: Huenda ukalazimika kuingia tena ikiwa utatumia \'Weka Upya\'.</string>
+    <string name="download_file">Inapakua Faili</string>
+    <string name="couldnt_download_file">Faili haikuweza kupakuliwa</string>
+    <string name="storage_perm_reqd">Ruhusa ya kuhifadhi inahitajika ili kupakua faili</string>
+    <string name="purchase_item_not_found">Kipengee cha Kununua hakikupatikana</string>
+    <string name="error">Hitilafu</string>
+    <string name="purchase_canceled">Ununuzi Umeghairiwa</string>
+    <string name="pending_purchase">Ununuzi Unasubiri. Tafadhali kamilisha Muamala</string>
+    <string name="purchase_status_not_known">Hali ya Ununuzi haijulikani</string>
+    <string name="enter_file_name">Weka Jina la Faili</string>
+    <string name="downloading_file">Inapakua Faili</string>
+    <string name="enter_valid_file_name">Tafadhali weka jina halali la faili</string>
+    <string name="download_has_finished_message">Upakuaji umekamilika. Tafadhali angalia folda ya Vipakuliwa.</string>
+    <string name="could_not_download_file">Haikuweza kupakua Faili</string>
+    <string name="loading">Inapakia</string>
+    <string name="downloading_update">Inapakua sasisho</string>
+    <string name="update_downloaded_message">Sasisho limepakuliwa hivi punde.</string>
+    <string name="keyboard_enable_webview_message">Bonyeza kitufe cha kugeuza kibodi hapo juu ili kuwezesha kuandika</string>
+    <string name="preference_title_bug_report">Ripoti ya Mdudu</string>
+    <string name="preference_title_report_a_issue">Ripoti Tatizo</string>
+    <string name="describe_bug">Tafadhali eleza mdudu hapa</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">Saraka ya WhatsApp haina Hali. Tafadhali chagua saraka sahihi.</string>
+    <string name="please_select_whatsapp_directory">Tafadhali chagua saraka ya WhatsApp!</string>
+    <string name="download_cleaner">Pakua Kisafishaji</string>
+    <string name="download_recover_messages_app">Pakua Programu ya Rejesha Ujumbe</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Ili kutumia kipengele hiki, unahitaji kupakua programu nyingine kutoka play store. Bofya SAWA ili kufungua play store na kupakua programu.</string>
+    <string name="cancel">Ghairi</string>
+    <string name="ad_space">Nafasi ya Tangazo</string>
+    <string name="status">Hali</string>
+    <string name="theme">Mandhari</string>
+    <string name="more_apps">Programu Zaidi</string>
+    <string name="share">Shiriki</string>
+    <string name="send">Tuma</string>
+    <string name="select_country_code_and_number">Chagua msimbo wa nchi na nambari</string>
+    <string name="how_it_works">Inavyofanya kazi</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Pakua Programu ya Qr Scanner</string>
+    <string name="share_content">Jitayarishe kupata njia ya haraka zaidi ya kufikia akaunti ile ile ya WhatsApp kwenye simu mahiri au kompyuta kibao mbili tofauti, zote bila malipo! Pakua na usakinishe programu sasa.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

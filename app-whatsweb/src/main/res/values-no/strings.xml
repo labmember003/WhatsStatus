@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Oppdateringen er fullført</string>
+    <string name="app_update_alert_dialog_subtitle">Start appen på nytt for å bruke oppdateringer...</string>
+    <string name="help">Hjelp</string>
+    <string name="cleaner">Renere</string>
+    <string name="status_saver">Statussparer</string>
+    <string name="settings">Innstillinger</string>
+    <string name="saved_statuses_appear_here">Ingen status tilgjengelig!</string>
+    <string name="available_statuses">Tilgjengelig</string>
+    <string name="saved_statuses">Lagret</string>
+    <string name="enter_message">Skriv inn melding (valgfritt)</string>
+    <string name="enter_phone_number">Skriv inn telefonnummer</string>
+    <string name="send_message">Sende melding</string>
+    <string name="enter_a_phone_number">Skriv inn et telefonnummer</string>
+    <string name="direct_link_copied_to_clipboard">Direkte lenke kopiert til utklippstavlen</string>
+    <string name="premium_unlocked">Takk skal du ha. Du kan nå bruke premiumfunksjoner</string>
+    <string name="settings_category_title_developer">Utvikler</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Open Source biblioteker</string>
+    <string name="preference_title_application_version">App-versjon</string>
+    <string name="preference_title_contact_us">Kontakt oss</string>
+    <string name="preference_title_privacy_policy">Personvernerklæring</string>
+    <string name="preference_title_terms_conditions">Vilkår og betingelser</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Generell</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Mørk modus</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Hvordan det fungerer\?</string>
+    <string name="ok">OK</string>
+    <string name="direct_message_help_ans">Vennligst skriv inn mottakerens telefonnummer sammen med tekstmeldingen din. Når du er klar til å sende meldingen, klikker du ganske enkelt på \'Send\'-knappen. Alternativt kan du også bruke alternativet \"Direktekobling\" for å kopiere lenken og dele den med mottakeren. Ved å klikke på lenken kan de chatte med deg direkte.</string>
+    <string name="click_here_to_grant_required_permissions">Deaktiver og aktiver varslingstillatelse på nytt.</string>
+    <string name="please_grant_storage_permissions">Gi lagringstillatelser</string>
+    <string name="rate_app">Vennligst ranger appen!</string>
+    <string name="rate_later">Seinere</string>
+    <string name="rateUs">Vurder appen i Play Store</string>
+    <string name="send_feedback">Send oss ​​gjerne tilbakemelding. Vi skal prøve å jobbe med det!</string>
+    <string name="try_again">Vær så snill, prøv på nytt</string>
+    <string name="message_copied_to_clipboard">melding kopiert til utklippstavlen</string>
+    <string name="system_default">System standard</string>
+    <string name="restart">Omstart</string>
+    <string name="light">Lys</string>
+    <string name="dark">Mørk</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Del med</string>
+    <string name="direct_link">Kopier direktelenke</string>
+    <string name="remove_ads">Fjern annonser</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Hva er web</string>
+    <string name="recover_messages">Gjenopprett meldinger</string>
+    <string name="direct_message">Direkte melding</string>
+    <string name="title_refresh">Last inn på nytt</string>
+    <string name="whatsapp_not_installed">Whatsapp er ikke installert. Installer først Whatsapp for å bruke denne funksjonen.</string>
+    <string name="toggle_keyboard">Slå av/på tastatur</string>
+    <string name="fullscreen">Full skjerm</string>
+    <string name="dismiss">Avskjedige</string>
+    <string name="keyboard_unblocked">Tastaturet er opphevet.</string>
+    <string name="keyboard_blocked">Tastaturet er blokkert. Trykk på tastaturikonet for å oppheve blokkeringen.</string>
+    <string name="whats_web_how_it_works">1. Åpne Whats Web-applikasjonen på enheten din.\n\n2. Åpne whatsapp på en annen smarttelefon.\n\n* På Android -&gt; Fra chatskjermen, gå til menyen med tre prikker øverst til høyre på skjermen -&gt; Koblede enheter.\n\n* På Windows-telefon -&gt; Gå til tre prikker-menyen -&gt; Koblede enheter.\n\n* På iPhone -&gt; Gå til Innstillinger -&gt; Koblede enheter.\n\n3. Trykk på Koble til en enhet og skann QR-koden som vises på denne appskjermen fra den andre telefonen.</string>
+    <string name="retry_sending_voice_message">Prøv å sende talemelding på nytt</string>
+    <string name="message_retry_sending_voice_message">Trykk på mikrofonikonet en gang til. Det skal fungere som forventet.</string>
+    <string name="retry_camera_capture">Prøv kameraalternativet på nytt</string>
+    <string name="message_retry_camera_capture">Trykk på kameraikonet en gang til. Det skal fungere som forventet.</string>
+    <string name="audio_perm_reqd">Lydtillatelse kreves for å komme videre.</string>
+    <string name="camera_perm_reqd">Kameratillatelse kreves for å komme videre.</string>
+    <string name="reset_reload">Tilbakestill/Last på nytt</string>
+    <string name="reset_only">NULLSTILLE</string>
+    <string name="reload_only">KUN LAST PÅ OM</string>
+    <string name="reload_warning">Hvis du opplever problemer knyttet til pålogging, prøv \"Tilbakestill\".\nADVARSEL: Du må kanskje logge på igjen hvis du bruker \'Tilbakestill\'.</string>
+    <string name="download_file">Laster ned fil</string>
+    <string name="couldnt_download_file">Filen kunne ikke lastes ned</string>
+    <string name="storage_perm_reqd">Lagringstillatelse kreves for å laste ned fil</string>
+    <string name="purchase_item_not_found">Kunne ikke finne kjøpsvare</string>
+    <string name="error">Feil</string>
+    <string name="purchase_canceled">Kjøp kansellert</string>
+    <string name="pending_purchase">Kjøp venter. Fullfør transaksjonen</string>
+    <string name="purchase_status_not_known">Kjøpsstatus er ikke kjent</string>
+    <string name="enter_file_name">Skriv inn et filnavn</string>
+    <string name="downloading_file">Laster ned filen</string>
+    <string name="enter_valid_file_name">Vennligst skriv inn et gyldig filnavn</string>
+    <string name="download_has_finished_message">Nedlastingen er fullført. Vennligst sjekk nedlastingsmappen.</string>
+    <string name="could_not_download_file">Kunne ikke laste ned filen</string>
+    <string name="loading">Laster</string>
+    <string name="downloading_update">Laster ned oppdatering</string>
+    <string name="update_downloaded_message">En oppdatering er nettopp lastet ned.</string>
+    <string name="keyboard_enable_webview_message">Trykk på tastaturknappen på toppen for å aktivere skriving</string>
+    <string name="preference_title_bug_report">Feilrapport</string>
+    <string name="preference_title_report_a_issue">Rapporter et problem</string>
+    <string name="describe_bug">Vennligst beskriv feilen her</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">WhatsApp-katalogen inneholder ikke statuser. Vennligst velg riktig katalog.</string>
+    <string name="please_select_whatsapp_directory">Velg WhatsApp-katalog!</string>
+    <string name="download_cleaner">Last ned Cleaner</string>
+    <string name="download_recover_messages_app">Last ned appen for gjenoppretting av meldinger</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">For å bruke denne funksjonen må du laste ned en annen app fra Play Store. Klikk OK for å åpne Play Store og laste ned appen.</string>
+    <string name="cancel">Avbryt</string>
+    <string name="ad_space">Annonseplass</string>
+    <string name="status">Status</string>
+    <string name="theme">Tema</string>
+    <string name="more_apps">Flere apper</string>
+    <string name="share">Dele</string>
+    <string name="send">Sende</string>
+    <string name="select_country_code_and_number">Velg landskode og nummer</string>
+    <string name="how_it_works">Hvordan det fungerer</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Last ned QR Scanner-appen</string>
+    <string name="share_content">Gjør deg klar til å oppleve den raskeste måten å få tilgang til den samme WhatsApp-kontoen på to forskjellige smarttelefoner eller nettbrett, helt gratis! Last ned og installer appen nå.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

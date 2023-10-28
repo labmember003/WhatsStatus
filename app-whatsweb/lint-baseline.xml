@@ -1,0 +1,1192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="6" by="lint 7.3.1" type="baseline" client="gradle" dependencies="false" name="AGP (7.3.1)" variant="fatal" version="7.3.1">
+
+    <issue
+        id="NotSibling"
+        message="`@id/bannerInclude` is not a sibling in the same `ConstraintLayout`"
+        errorLine1="            app:layout_constraintBottom_toTopOf=&quot;@id/bannerInclude&quot;"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/whatswebscan/res/layout/activity_status_saver.xml"
+            line="21"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Stuur \&apos;n direkte boodskap aan enigiemand sonder om die telefoon as kontak te stoor.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-af/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>ስልክን ሳያስቀምጥ ለማንም በቀጥታ እንደ ግንኙነት ይላኩ ፡፡&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-am/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>أرسل رسالة مباشرة إلى أي شخص دون حفظ الهاتف كجهة اتصال.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-ar/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Telefonu əlaqə olaraq qeyd etmədən birbaşa hər kəsə mesaj göndərin.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-az/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Непасрэдна паведамляйце каму-небудзь, не захоўваючы тэлефон як кантакт.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-be/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Изпращайте директно съобщения на никого, без да запазвате телефона като контакт.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-bg/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>যোগাযোগ হিসাবে ফোন সংরক্ষণ না করে কাউকে সরাসরি বার্তা দিন।&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-bn/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Direktno pošaljite poruku nekome bez spremanja telefona kao kontakta.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-bs/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Envieu directament un missatge a qualsevol persona sense desar el telèfon com a contacte.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-ca/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Direkta nga mensahe bisan kinsa nga wala makatipig sa telepono ingon kontak.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-ceb/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Mandate direttamente à qualcunu senza salvà u telefunu cum\&apos;è cuntattu.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-co/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Přímá zpráva komukoli bez uložení telefonu jako kontaktu.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-cs/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Negeswch yn uniongyrchol unrhyw un heb arbed ffôn fel cyswllt.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-cy/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Send direkte besked til nogen uden at gemme telefonen som kontakt.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-da/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Senden Sie direkt eine Nachricht an jemanden, ohne das Telefon als Kontakt zu speichern.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-de/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Στείλτε απευθείας μήνυμα σε όλους χωρίς να αποθηκεύσετε το τηλέφωνο ως επαφή&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-el/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Rekte mesaĝi al iu ajn sen konservi telefonon kiel kontakton.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-eo/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Envíe mensajes directamente a cualquier persona sin guardar el teléfono como contacto.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-es/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Kirjutage otse kellelegi, salvestamata telefoni kontaktina.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-et/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Zuzenean mezu bat bidali edonori telefonoa kontaktu gisa gorde gabe.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-eu/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>بدون ذخیره تلفن به عنوان مخاطب ، مستقیماً به کسی پیام دهید.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-fa/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Lähetä viesti kenellekään suoraan tallentamatta puhelinta yhteystietona.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-fi/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Envoyez directement un message à quiconque sans enregistrer le téléphone comme contact.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-fr/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Stjoer direkt ien berjocht sûnder tillefoan te bewarjen as kontakt.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-fy/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Cuir teachtaireacht go díreach chuig duine ar bith gan fón a shábháil mar theagmhálaí.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-ga/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Cuir teachdaireachd gu dìreach gu neach sam bith gun a bhith a ’sàbhaladh fòn mar neach-conaltraidh.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-gd/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Envía mensaxes directamente a calquera persoa sen gardar o teléfono como contacto.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-gl/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>કોઈને પણ સંપર્ક તરીકે ફોન સેવ કર્યા વિના સીધો સંદેશો.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-gu/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Kai tsaye sakon kowa ba tare da ajiye waya a matsayin lamba ba.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-ha/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>E leka pololei i kekahi me ka mālama ʻole i ke kelepona e like me ka launa ʻana.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-haw/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>फोन को संपर्क के रूप में सहेजे बिना सीधे किसी को भी संदेश भेजें।&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-hi/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Hais ncaj qha rau leej twg yam tsis tau txuag xov tooj li hu.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-hmn/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Izravno poručite bilo kome bez spremanja telefona kao kontakta.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-hr/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Dirèkteman mesaj nenpòt moun san yo pa ekonomize telefòn kòm kontak.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-ht/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Közvetlenül küldjön üzenetet bárkinek, anélkül, hogy mentené a telefont kapcsolattartóként.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-hu/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Ուղղակի հաղորդագրություն ուղարկեք յուրաքանչյուրին ՝ առանց հեռախոսը որպես կոնտակտ խնայելու:&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-hy/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Kirim pesan kepada siapa pun secara langsung tanpa menyimpan telepon sebagai kontak.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-id/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Kpọtụrụ onye ọ bụla na-enweghị ịchekwa ekwentị dị ka kọntaktị.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-ig/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Sendu skilaboð til allra án þess að vista símann sem tengilið.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-is/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Invia messaggi direttamente a chiunque senza salvare il telefono come contatto.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-it/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>הודעה ישירה לכל אחד מבלי לשמור טלפון כקשר.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-iw/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>電話を連絡先として保存せずに、誰にでも直接メッセージを送信します。&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-ja/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Langsung pesen sapa wae tanpa nyimpen telpon minangka kontak.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-jw/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>პირდაპირ გააგზავნეთ ვინმეს ტელეფონის შენახვის გარეშე, როგორც კონტაქტი.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-ka/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Телефонды байланыс ретінде сақтамай, кез келген адамға тікелей хабарлама жіберіңіз.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-kk/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>ផ្ញើសារដោយផ្ទាល់ដល់អ្នកណាម្នាក់ដោយមិនរក្សាទុកទូរស័ព្ទជាទំនាក់ទំនង។&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-km/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>ಫೋನ್ ಅನ್ನು ಸಂಪರ್ಕದಂತೆ ಉಳಿಸದೆ ಯಾರಿಗಾದರೂ ನೇರವಾಗಿ ಸಂದೇಶ ಕಳುಹಿಸಿ.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-kn/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>연락처로 전화를 저장하지 않고 누구에게나 직접 메시지를 보냅니다.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-ko/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Bêyî ku têlefonê wekî têkilî tomar bike rasterast ji kesî re peyam bişînin.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-ku/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Телефонду байланыш катары сактабастан, түздөн-түз каалаган адамга билдирүү жөнөтүңүз.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-ky/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Protinus nuntium ad contactum phone quis sine salute.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-la/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Direkt Noriicht op jiddereen ouni Telefon als Kontakt ze späicheren.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-lb/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>ຂໍ້ຄວາມໂດຍກົງໃຫ້ຜູ້ໃດຜູ້ ໜຶ່ງ ໂດຍບໍ່ຕ້ອງປະຢັດໂທລະສັບເປັນບ່ອນຕິດຕໍ່.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-lo/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Tiesiogiai siųskite pranešimą visiems, neišsaugodami telefono kaip kontakto.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-lt/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Tieši nosūtiet ziņojumu ikvienam, nesaglabājot tālruni kā kontaktpersonu.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-lv/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Hafatra mivantana na iza na iza nefa tsy mitahiry telefaona ho fifandraisana.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-mg/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Tukuna he korero ki tetahi kaore e penapena waea.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-mi/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Директно испратете некому без да го зачувате телефонот како контакт.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-mk/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>ഫോൺ കോൺടാക്റ്റായി സംരക്ഷിക്കാതെ ആർക്കും നേരിട്ട് സന്ദേശം അയയ്‌ക്കുക.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-ml/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Утсаа холбоо барих хүн болгон хадгалахгүйгээр шууд мессеж бичих.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-mn/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>संपर्क म्हणून फोन जतन न करता कोणालाही थेट संदेश द्या.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-mr/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Mesej terus kepada sesiapa sahaja tanpa menyimpan telefon sebagai kenalan.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-ms/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Messaġġ direttament lil kulħadd mingħajr ma tissejvja t-telefon bħala kuntatt.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-mt/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>ဖုန်းကိုအဆက်အသွယ်အနေဖြင့်သိမ်းဆည်းခြင်းမရှိဘဲမည်သူမဆိုတိုက်ရိုက်သတင်းပို့ပါ။&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-my/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>सम्पर्कको रूपमा फोन बचत नगरी कसैलाई सिधा सन्देश पठाउनुहोस्।&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-ne/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Stuur iedereen een bericht zonder de telefoon als contactpersoon op te slaan.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-nl/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Send en melding direkte til alle uten å lagre telefonen som kontakt.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-no/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Tumizani aliyense ku foni osasunga foni ngati kulumikizana.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-ny/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>ଯୋଗାଯୋଗ ଭାବରେ ଫୋନ୍ ସଞ୍ଚୟ ନକରି କାହାକୁ ସିଧାସଳଖ ବାର୍ତ୍ତା ଦିଅନ୍ତୁ |&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-or/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>ਕਿਸੇ ਨੂੰ ਵੀ ਫੋਨ ਨੂੰ ਸੰਪਰਕ ਦੇ ਤੌਰ ਤੇ ਸੇਵ ਕੀਤੇ ਬਿਨਾਂ ਸਿੱਧਾ ਸੁਨੇਹਾ ਭੇਜੋ.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-pa/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Wysyłaj wiadomości bezpośrednio do każdego bez zapisywania telefonu jako kontaktu.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-pl/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>مستقیم هرڅوک د تلیفون خوندي کولو پرته د اړیکې په توګه پیغام کړئ.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-ps/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Envie mensagens diretamente para qualquer pessoa sem salvar o telefone como contato.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-pt/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Trimiteți mesaj direct oricui fără a salva telefonul ca persoană de contact.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-ro/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Отправляйте сообщения напрямую кому угодно, не сохраняя телефон в качестве контакта.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-ru/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Kohereza ubutumwa butaziguye umuntu wese utabitse terefone nkitumanaho.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-rw/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>سڌو رابطو بغير ڪنهن کي فون بچائڻ جي پيغام ڏيو.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-sd/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>සම්බන්ධතා ලෙස දුරකථනය සුරැකීමෙන් තොරව ඕනෑම කෙනෙකුට කෙලින්ම පණිවිඩයක් එවන්න.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-si/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Priamo pošlite správu komukoľvek bez uloženia telefónu ako kontaktu.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-sk/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Neposredno komu pošljite sporočilo, ne da bi shranili telefon kot stik.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-sl/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Faʻasalalau saʻo i se tasi e aunoa ma le sefeina o le telefoni e pei o se fesoʻotaʻiga.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-sm/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Tumira mameseji kuna ani kunze kwekuchengetedza foni sekutaurirana.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-sn/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Si toos ah farriin ugu dir qof kasta adigoon taleefan u keydin sidii aad ula xiriiri lahayd.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-so/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Drejtpërdrejt dërgoni mesazh kujtdo pa ruajtur telefonin si kontakt.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-sq/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Директно пошаљите поруку некоме не чувајући телефон као контакт.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-sr/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Romella mang kapa mang molaetsa ntle le ho boloka mohala.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-st/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Langsung pesen saha waé tanpa nyimpen telepon salaku kontak.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-su/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Meddela direkt till någon utan att spara telefonen som kontakt.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-sv/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Moja kwa moja tuma ujumbe kwa mtu yeyote bila kuokoa simu kama anwani.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-sw/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>தொலைபேசியை தொடர்பு கொள்ளாமல் நேரடியாக யாருக்கும் செய்தி அனுப்புங்கள்.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-ta/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>ఫోన్‌ను పరిచయంగా సేవ్ చేయకుండా ఎవరికైనా నేరుగా సందేశం పంపండి.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-te/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Бидуни сабти телефон ҳамчун алоқа ба касе мустақиман паём фиристед.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-tg/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>ส่งข้อความถึงใครก็ได้โดยตรงโดยไม่ต้องบันทึกโทรศัพท์เป็นรายชื่อติดต่อ&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-th/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Telefony aragatnaşyk hökmünde saklamazdan gönüden-göni habar iberiň.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-tk/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Direktang mensahe kahit kanino nang hindi nagse-save ang telepono bilang contact.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-tl/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Telefonu kişi olarak kaydetmeden herhangi birine doğrudan mesaj gönderin.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-tr/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Телефонны контакт итеп сакламыйча турыдан-туры хәбәр итегез.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-tt/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>تېلېفوننى ئالاقىلىشىش شەكلىدە ساقلىماي تۇرۇپ بىۋاسىتە ئۇچۇر قىلىڭ.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-ug/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Безпосередньо повідомляйте кому-небудь, не зберігаючи телефон як контакт.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-uk/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>فون کو بطور رابطہ بچائے براہ راست پیغام دیں۔&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-ur/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Telefonni kontakt sifatida saqlamasdan to\&apos;g\&apos;ridan-to\&apos;g\&apos;ri har qanday kishiga xabar yuboring.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-uz/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Nhắn tin trực tiếp cho bất kỳ ai mà không cần lưu điện thoại làm số liên lạc.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-vi/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Ngqo thumela nabani na ngaphandle kokugcina umnxeba njengonxibelelwano.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-xh/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>גלייך אָנזאָג ווער עס יז אָן שפּאָרן טעלעפאָנירן ווי קאָנטאַקט.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-yi/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Taara taara ẹnikẹni laisi fifipamọ foonu bi olubasọrọ.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-yo/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>直接向任何人发送消息，而无需将电话另存为联系人。&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-zh-rCN/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+    <issue
+        id="ExtraTranslation"
+        message="&quot;directly_message_anyone_without_saving_phone_as_contact&quot; is translated here but not found in default locale"
+        errorLine1="    &lt;string name=&quot;directly_message_anyone_without_saving_phone_as_contact&quot;>Thumela umlayezo ngqo kunoma ngubani ngaphandle kokulondoloza ifoni njengoxhumana naye.&lt;/string>"
+        errorLine2="            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/values-zu/strings.xml"
+            line="13"
+            column="13"/>
+    </issue>
+
+</issues>

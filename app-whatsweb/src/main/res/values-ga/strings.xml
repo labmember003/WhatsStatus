@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Tá an nuashonrú críochnaithe</string>
+    <string name="app_update_alert_dialog_subtitle">Atosaigh an aip chun nuashonruithe a chur i bhfeidhm…</string>
+    <string name="help">Cabhrú</string>
+    <string name="cleaner">Glantóir</string>
+    <string name="status_saver">Sábháil Stádais</string>
+    <string name="settings">Socruithe</string>
+    <string name="saved_statuses_appear_here">Níl Stádas ar Fáil!</string>
+    <string name="available_statuses">Ar fáil</string>
+    <string name="saved_statuses">Shábháil</string>
+    <string name="enter_message">Iontráil Teachtaireacht (Roghnach)</string>
+    <string name="enter_phone_number">Cuir isteach Uimhir Theileafóin</string>
+    <string name="send_message">Seol Teachtaireacht</string>
+    <string name="enter_a_phone_number">Cuir isteach uimhir theileafóin</string>
+    <string name="direct_link_copied_to_clipboard">Cóipeáladh nasc díreach chuig an ngearrthaisce</string>
+    <string name="premium_unlocked">Go raibh maith agat. Is féidir leat gnéithe préimhe a úsáid anois</string>
+    <string name="settings_category_title_developer">Forbróir</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Leabharlanna Foinse Oscailte</string>
+    <string name="preference_title_application_version">Leagan App</string>
+    <string name="preference_title_contact_us">Glaoigh orainn</string>
+    <string name="preference_title_privacy_policy">Beartas Príobháideachais</string>
+    <string name="preference_title_terms_conditions">Téarmaí agus Coinníollacha</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Ginearálta</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Mód Dorcha</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Conas a oibríonn sé\?</string>
+    <string name="ok">ceart go leor</string>
+    <string name="direct_message_help_ans">Cuir isteach uimhir theileafóin an fhaighteora in éineacht le do theachtaireacht téacs. Nuair atá tú réidh chun an teachtaireacht a sheoladh, níl le déanamh ach cliceáil ar an gcnaipe ‘Seol’. Nó, is féidir leat an rogha ‘Direct Link’ a úsáid freisin chun an nasc a chóipeáil agus é a roinnt leis an bhfaighteoir. Trí chliceáil ar an nasc, is féidir leo comhrá a dhéanamh leat go díreach.</string>
+    <string name="click_here_to_grant_required_permissions">Díchumasaigh agus athchumasaigh cead fógartha.</string>
+    <string name="please_grant_storage_permissions">Tabhair ceadanna stórála le do thoil</string>
+    <string name="rate_app">Déan rátáil ar an aip le do thoil!</string>
+    <string name="rate_later">Níos déanaí</string>
+    <string name="rateUs">Déan rátáil ar an aip ar Play Store</string>
+    <string name="send_feedback">Seol aiseolas chugainn le do thoil. Déanfaimid iarracht oibriú air!</string>
+    <string name="try_again">Arís, le d\'thoil</string>
+    <string name="message_copied_to_clipboard">cóipeáil an teachtaireacht chuig an ngearrthaisce</string>
+    <string name="system_default">Réamhshocrú Córais</string>
+    <string name="restart">Tosaigh arís</string>
+    <string name="light">Solas</string>
+    <string name="dark">Dorcha</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Roinn le</string>
+    <string name="direct_link">Cóipeáil Nasc Díreach</string>
+    <string name="remove_ads">Bain Fógraí</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Cad atá Gréasáin</string>
+    <string name="recover_messages">Ghnóthú Teachtaireachtaí</string>
+    <string name="direct_message">Teachtaireacht Dhíreach</string>
+    <string name="title_refresh">Athlódáil</string>
+    <string name="whatsapp_not_installed">Níl Whatsapp suiteáilte. Suiteáil Whatsapp ar dtús chun an ghné seo a úsáid.</string>
+    <string name="toggle_keyboard">Scoránaigh Méarchlár</string>
+    <string name="fullscreen">Scáileán iomlán</string>
+    <string name="dismiss">Díbhe</string>
+    <string name="keyboard_unblocked">Baintear an bac den mhéarchlár.</string>
+    <string name="keyboard_blocked">Tá bac ar an méarchlár. Brúigh deilbhín an mhéarchláir chun an bac a bhaint.</string>
+    <string name="whats_web_how_it_works">1. Oscail iarratas Gréasáin Whats ar do ghléas.\n\n2. Oscail whatsapp ar smartphone eile.\n\n* Ar Android -&gt; Ón scáileán comhráite, téigh go dtí an roghchlár trí phonc atá suite i mbarr na láimhe deise den scáileán -&gt; Gléasanna nasctha.\n\n* Ar fhón fuinneoige -&gt; Téigh go dtí an roghchlár trí phonc -&gt; Gléasanna nasctha.\n\n* Ar iPhone -&gt; Téigh go Socruithe -&gt; Gléasanna Nasctha.\n\n3. Beartaíonn ar Nasc gléas agus scanadh an Cód QR ar taispeáint ar do scáileán app seo ó fón eile.</string>
+    <string name="retry_sending_voice_message">Bain triail eile as teachtaireacht gutha a sheoladh</string>
+    <string name="message_retry_sending_voice_message">Brúigh deilbhín an mhicreafóin arís eile. Ba chóir go mbeadh sé ag obair mar a bhíothas ag súil leis.</string>
+    <string name="retry_camera_capture">Bain triail eile as an rogha Ceamara</string>
+    <string name="message_retry_camera_capture">Brúigh deilbhín an cheamara arís. Ba chóir go mbeadh sé ag obair mar a bhíothas ag súil leis.</string>
+    <string name="audio_perm_reqd">Teastaíonn cead fuaime chun dul ar aghaidh.</string>
+    <string name="camera_perm_reqd">Tá cead ceamara ag teastáil chun dul ar aghaidh.</string>
+    <string name="reset_reload">Athshocraigh/Athlódáil</string>
+    <string name="reset_only">ATHDHÉANAMH</string>
+    <string name="reload_only">Athlódáil AMHÁIN</string>
+    <string name="reload_warning">Má tá fadhbanna agat a bhaineann le logáil isteach, bain triail as \'Athshocraigh\'.\nRABHADH: Seans go mbeidh ort logáil isteach arís má úsáideann tú \'Athshocraigh\'.</string>
+    <string name="download_file">Comhad á nÍosluchtú</string>
+    <string name="couldnt_download_file">Níorbh fhéidir an comhad a íoslódáil</string>
+    <string name="storage_perm_reqd">Teastaíonn cead stórála chun an comhad a íoslódáil</string>
+    <string name="purchase_item_not_found">Níorbh fhéidir Mír Ceannaigh a Aimsiú</string>
+    <string name="error">Earráid</string>
+    <string name="purchase_canceled">Ceannach Cealaithe</string>
+    <string name="pending_purchase">Tá Ceannach ar Feitheamh. Comhlánaigh Idirbheart le do thoil</string>
+    <string name="purchase_status_not_known">Ní fios an Stádas Ceannaigh</string>
+    <string name="enter_file_name">Cuir isteach Ainm Comhad</string>
+    <string name="downloading_file">Íoslódáil an Comhad</string>
+    <string name="enter_valid_file_name">Cuir isteach ainm comhaid bailí</string>
+    <string name="download_has_finished_message">Chríochnaigh an íoslódáil. Seiceáil le do thoil fillteán Íoslódálacha.</string>
+    <string name="could_not_download_file">Níorbh fhéidir an Comhad a íoslódáil</string>
+    <string name="loading">Ag lódáil</string>
+    <string name="downloading_update">Ag nuashonrú íoslódáil</string>
+    <string name="update_downloaded_message">Tá nuashonrú díreach íosluchtaithe.</string>
+    <string name="keyboard_enable_webview_message">Brúigh an cnaipe scoránaigh méarchláir ar a bharr chun clóscríobh a chumasú</string>
+    <string name="preference_title_bug_report">Tuairisc ar Fhabht</string>
+    <string name="preference_title_report_a_issue">Saincheist a thuairisciú</string>
+    <string name="describe_bug">Déan cur síos ar an bhfabht anseo le do thoil</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">Níl Stádais san eolaire WhatsApp. Roghnaigh an t-eolaire ceart.</string>
+    <string name="please_select_whatsapp_directory">Roghnaigh eolaire WhatsApp le do thoil!</string>
+    <string name="download_cleaner">Íoslódáil níos glaine</string>
+    <string name="download_recover_messages_app">Íosluchtaigh app ghnóthú teachtaireachtaí</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Chun an ghné seo a úsáid, ní mór duit aip eile a íoslódáil ón siopa súgartha. Cliceáil OK chun an siopa súgartha a oscailt agus an aip a íoslódáil.</string>
+    <string name="cancel">Cealaigh</string>
+    <string name="ad_space">Spás Fógraí</string>
+    <string name="status">Stádas</string>
+    <string name="theme">Téama</string>
+    <string name="more_apps">Tuilleadh Apps</string>
+    <string name="share">Comhroinn</string>
+    <string name="send">Seol</string>
+    <string name="select_country_code_and_number">Roghnaigh cód tíre agus uimhir</string>
+    <string name="how_it_works">Conas a oibríonn sé</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Íosluchtaigh app scanóir qr</string>
+    <string name="share_content">Faigh réidh le taithí a fháil ar an mbealach is tapúla chun rochtain a fháil ar an gcuntas WhatsApp céanna ar dhá fhón cliste nó táibléad éagsúla, go léir saor in aisce! Íoslódáil agus suiteáil an app anois.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

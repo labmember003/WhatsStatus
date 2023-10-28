@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Թարմացումն ավարտված է</string>
+    <string name="app_update_alert_dialog_subtitle">Թարմացումները կիրառելու համար վերագործարկեք հավելվածը…</string>
+    <string name="help">Օգնություն</string>
+    <string name="cleaner">Մաքրող</string>
+    <string name="status_saver">Կարգավիճակի խնայարար</string>
+    <string name="settings">Կարգավորումներ</string>
+    <string name="saved_statuses_appear_here">Կարգավիճակ չկա:</string>
+    <string name="available_statuses">Հասանելի է</string>
+    <string name="saved_statuses">Պահպանված է</string>
+    <string name="enter_message">Մուտքագրեք հաղորդագրություն (ըստ ցանկության)</string>
+    <string name="enter_phone_number">Մուտքագրեք Հեռախոսահամարը</string>
+    <string name="send_message">Ուղարկել հաղորդագրություն</string>
+    <string name="enter_a_phone_number">Մուտքագրեք հեռախոսահամար</string>
+    <string name="direct_link_copied_to_clipboard">Ուղիղ հղումը պատճենվեց սեղմատախտակին</string>
+    <string name="premium_unlocked">Շնորհակալություն. Այժմ կարող եք օգտագործել պրեմիում գործառույթները</string>
+    <string name="settings_category_title_developer">Մշակող</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Բաց կոդով գրադարաններ</string>
+    <string name="preference_title_application_version">Հավելվածի տարբերակը</string>
+    <string name="preference_title_contact_us">Կապ մեզ հետ</string>
+    <string name="preference_title_privacy_policy">Գաղտնիության քաղաքականություն</string>
+    <string name="preference_title_terms_conditions">Ընդհանուր դրույթներր եւ պայմանները</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Գեներալ</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Մութ ռեժիմ</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Ինչպես է դա աշխատում\?</string>
+    <string name="ok">լավ</string>
+    <string name="direct_message_help_ans">Խնդրում ենք մուտքագրել ստացողի հեռախոսահամարը ձեր տեքստային հաղորդագրության հետ միասին: Հաղորդագրությունն ուղարկելու պատրաստ լինելուց հետո պարզապես սեղմեք «Ուղարկել» կոճակը: Որպես այլընտրանք, կարող եք նաև օգտագործել «Ուղիղ կապ» տարբերակը՝ հղումը պատճենելու և այն ստացողի հետ կիսելու համար: Սեղմելով հղման վրա՝ նրանք կարող են ուղղակիորեն զրուցել ձեզ հետ։</string>
+    <string name="click_here_to_grant_required_permissions">Անջատել և նորից միացնել ծանուցման թույլտվությունը:</string>
+    <string name="please_grant_storage_permissions">Խնդրում ենք տրամադրել Պահպանման թույլտվությունները</string>
+    <string name="rate_app">Խնդրում ենք գնահատել հավելվածը:</string>
+    <string name="rate_later">Ավելի ուշ</string>
+    <string name="rateUs">Խնդրում ենք գնահատել հավելվածը Play Store-ում</string>
+    <string name="send_feedback">Խնդրում ենք ուղարկել մեզ հետադարձ կապ: Մենք կփորձենք աշխատել դրա վրա:</string>
+    <string name="try_again">Խնդրում եմ կրկին փորձեք</string>
+    <string name="message_copied_to_clipboard">հաղորդագրությունը պատճենվել է clipboard-ում</string>
+    <string name="system_default">Համակարգի լռելյայն</string>
+    <string name="restart">Վերսկսել</string>
+    <string name="light">Լույս</string>
+    <string name="dark">Մութ</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Կիսվել հետ</string>
+    <string name="direct_link">Պատճենել ուղիղ հղումը</string>
+    <string name="remove_ads">Հեռացնել գովազդը</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Whats Web</string>
+    <string name="recover_messages">Վերականգնել հաղորդագրությունները</string>
+    <string name="direct_message">Ուղիղ հաղորդագրություն</string>
+    <string name="title_refresh">Վերբեռնել</string>
+    <string name="whatsapp_not_installed">Whatsapp-ը տեղադրված չէ: Խնդրում ենք նախ տեղադրել Whatsapp-ը՝ այս գործառույթն օգտագործելու համար:</string>
+    <string name="toggle_keyboard">Միացնել ստեղնաշարը</string>
+    <string name="fullscreen">Ամբողջ էկրանով</string>
+    <string name="dismiss">Հեռացնել</string>
+    <string name="keyboard_unblocked">Ստեղնաշարն ապաարգելափակված է:</string>
+    <string name="keyboard_blocked">Ստեղնաշարն արգելափակված է։ Արգելահանման համար սեղմեք ստեղնաշարի պատկերակը:</string>
+    <string name="whats_web_how_it_works">1. Բացեք Whats Web հավելվածը ձեր սարքում:\n\n2. Բացեք whatsapp-ը այլ սմարթֆոնի վրա:\n\n* Android-ում -&gt; Զրույցների էկրանից անցեք երեք կետանոց մենյու, որը գտնվում է էկրանի վերևի աջ մասում -&gt; Կապված սարքեր:\n\n* Պատուհանի հեռախոսում -&gt; Գնալ երեք կետանոց մենյու -&gt; Կապված սարքեր:\n\n* iPhone-ում -&gt; Գնացեք Կարգավորումներ -&gt; Կապված սարքեր:\n\n3. Կտտացրեք «Կցել սարքը» և սկանավորեք ձեր այս հավելվածի էկրանին ցուցադրվող QR կոդը այլ հեռախոսից:</string>
+    <string name="retry_sending_voice_message">Նորից փորձեք ձայնային հաղորդագրություն ուղարկել</string>
+    <string name="message_retry_sending_voice_message">Սեղմեք խոսափողի պատկերակը ևս մեկ անգամ: Այն պետք է աշխատի այնպես, ինչպես սպասվում էր:</string>
+    <string name="retry_camera_capture">Խնդրում ենք կրկին փորձել Տեսախցիկի տարբերակը</string>
+    <string name="message_retry_camera_capture">Սեղմեք տեսախցիկի պատկերակը ևս մեկ անգամ: Այն պետք է աշխատի այնպես, ինչպես սպասվում էր:</string>
+    <string name="audio_perm_reqd">Ձայնի թույլտվությունը պահանջվում է առաջընթացի համար:</string>
+    <string name="camera_perm_reqd">Խցիկի թույլտվությունը պահանջվում է առաջընթացի համար:</string>
+    <string name="reset_reload">Վերականգնել/Վերբեռնել</string>
+    <string name="reset_only">ՎԵՐԱԿԱՆԳՆԵԼ</string>
+    <string name="reload_only">ՄԻԱՅՆ ՎԵՐԱԲԵՐԵՆՔ</string>
+    <string name="reload_warning">Եթե ​​մուտքի հետ կապված խնդիրներ ունեք, փորձեք «Վերականգնել»:\nԶԳՈՒՇԱՑՈՒՄ. «Վերականգնել» օգտագործելու դեպքում գուցե ստիպված լինեք նորից մուտք գործել:</string>
+    <string name="download_file">Ֆայլի ներբեռնում</string>
+    <string name="couldnt_download_file">Ֆայլը չհաջողվեց ներբեռնել</string>
+    <string name="storage_perm_reqd">Ֆայլը ներբեռնելու համար անհրաժեշտ է պահեստավորման թույլտվություն</string>
+    <string name="purchase_item_not_found">Գնման ապրանքը չի գտնվել</string>
+    <string name="error">Սխալ</string>
+    <string name="purchase_canceled">Գնումը չեղարկված է</string>
+    <string name="pending_purchase">Գնումը սպասվում է: Խնդրում ենք լրացնել Գործարքը</string>
+    <string name="purchase_status_not_known">Գնման կարգավիճակը հայտնի չէ</string>
+    <string name="enter_file_name">Մուտքագրեք ֆայլի անուն</string>
+    <string name="downloading_file">Ֆայլի ներբեռնում</string>
+    <string name="enter_valid_file_name">Խնդրում ենք մուտքագրել վավեր ֆայլի անուն</string>
+    <string name="download_has_finished_message">Ներբեռնումն ավարտված է։ Խնդրում ենք ստուգել Ներբեռնումներ թղթապանակը:</string>
+    <string name="could_not_download_file">Չհաջողվեց ներբեռնել ֆայլը</string>
+    <string name="loading">Բեռնվում է</string>
+    <string name="downloading_update">Թարմացումը ներբեռնվում է</string>
+    <string name="update_downloaded_message">Թարմացումը հենց նոր է ներբեռնվել:</string>
+    <string name="keyboard_enable_webview_message">Սեղմեք վերևում գտնվող ստեղնաշարի փոխարկման կոճակը՝ մուտքագրումն ակտիվացնելու համար</string>
+    <string name="preference_title_bug_report">Սխալների հաշվետվություն</string>
+    <string name="preference_title_report_a_issue">Հաղորդել խնդրի մասին</string>
+    <string name="describe_bug">Խնդրում ենք նկարագրել սխալն այստեղ</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">WhatsApp գրացուցակը չի պարունակում կարգավիճակներ: Խնդրում ենք ընտրել ճիշտ գրացուցակը:</string>
+    <string name="please_select_whatsapp_directory">Խնդրում ենք ընտրել WhatsApp գրացուցակը:</string>
+    <string name="download_cleaner">Ներբեռնեք մաքրող սարքը</string>
+    <string name="download_recover_messages_app">Ներբեռնեք Recover Messages հավելվածը</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Այս ֆունկցիան օգտագործելու համար անհրաժեշտ է ներբեռնել այլ հավելված Play Store-ից: Սեղմեք OK՝ Play Store-ը բացելու և հավելվածը ներբեռնելու համար:</string>
+    <string name="cancel">Չեղարկել</string>
+    <string name="ad_space">Գովազդային տարածք</string>
+    <string name="status">Կարգավիճակ</string>
+    <string name="theme">Թեմա</string>
+    <string name="more_apps">Ավելի շատ ծրագրեր</string>
+    <string name="share">Կիսվել</string>
+    <string name="send">Ուղարկել</string>
+    <string name="select_country_code_and_number">Ընտրեք երկրի կոդը և համարը</string>
+    <string name="how_it_works">Ինչպես է դա աշխատում</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Ներբեռնեք Qr Scanner հավելվածը</string>
+    <string name="share_content">Պատրաստվեք զգալու նույն WhatsApp հաշիվը երկու տարբեր սմարթֆոնների կամ պլանշետների վրա մուտք գործելու ամենաարագ ճանապարհը՝ բոլորը անվճար: Ներբեռնեք և տեղադրեք հավելվածը հիմա:</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

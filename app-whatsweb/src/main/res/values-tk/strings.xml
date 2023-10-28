@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Täzelenme tamamlandy</string>
+    <string name="app_update_alert_dialog_subtitle">Täzelenmeleri ulanmak üçin programmany täzeden açyň…</string>
+    <string name="help">Kömek ediň</string>
+    <string name="cleaner">Arassalaýjy</string>
+    <string name="status_saver">Tygşytlaýjy</string>
+    <string name="settings">Sazlamalar</string>
+    <string name="saved_statuses_appear_here">Status ýok!</string>
+    <string name="available_statuses">Elýeterli</string>
+    <string name="saved_statuses">Saklandy</string>
+    <string name="enter_message">Habar giriziň (islege görä)</string>
+    <string name="enter_phone_number">Telefon belgisini giriziň</string>
+    <string name="send_message">Habar iber</string>
+    <string name="enter_a_phone_number">Telefon belgisini giriziň</string>
+    <string name="direct_link_copied_to_clipboard">Göni baglanyşyk paneli göçürildi</string>
+    <string name="premium_unlocked">Sagbol. Indi premium aýratynlyklaryny ulanyp bilersiňiz</string>
+    <string name="settings_category_title_developer">Öndüriji</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Açyk çeşme kitaphanalary</string>
+    <string name="preference_title_application_version">Programma wersiýasy</string>
+    <string name="preference_title_contact_us">Biz bilen habarlaşyň</string>
+    <string name="preference_title_privacy_policy">Gizlinlik syýasaty</string>
+    <string name="preference_title_terms_conditions">Şertler we şertler</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">General</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Garaňky re .im</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Bu nähili işleýär\?</string>
+    <string name="ok">Bolýar</string>
+    <string name="direct_message_help_ans">Alyjynyň telefon belgisini tekst habaryňyz bilen bilelikde giriziň. Habar ibermäge taýyn bolanyňyzdan soň, \'Ibermek\' düwmesine basyň. Alterna-da bolmasa, baglanyşygy göçürmek we alyjy bilen paýlaşmak üçin \'Göni baglanyşyk\' opsiýasyny hem ulanyp bilersiňiz. Baglanyşyga basyp, göni siziň bilen söhbet edip bilerler.</string>
+    <string name="click_here_to_grant_required_permissions">Duýduryş rugsadyny öçüriň we gaýtadan işlediň.</string>
+    <string name="please_grant_storage_permissions">Saklamak üçin rugsat beriň</string>
+    <string name="rate_app">Programmany baha bermegiňizi haýyş edýäris!</string>
+    <string name="rate_later">Soňrak</string>
+    <string name="rateUs">Programmany Play Store-da baha bermegiňizi haýyş edýäris</string>
+    <string name="send_feedback">Bize seslenme ibermegiňizi haýyş edýäris. Munuň üstünde işlemäge synanyşarys!</string>
+    <string name="try_again">Gaýtadan synanyşyň</string>
+    <string name="message_copied_to_clipboard">habar buferine göçürildi</string>
+    <string name="system_default">Ulgam standarty</string>
+    <string name="restart">Gaýtadan açyň</string>
+    <string name="light">Lightagtylyk</string>
+    <string name="dark">Garaňky</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Bilen paýlaşmak</string>
+    <string name="direct_link">Göni baglanyşygy göçüriň</string>
+    <string name="remove_ads">Mahabatlary aýyryň</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Whats Web</string>
+    <string name="recover_messages">Habarlary dikeltmek</string>
+    <string name="direct_message">Göni habar</string>
+    <string name="title_refresh">Gaýtadan ýükläň</string>
+    <string name="whatsapp_not_installed">Whatsapp gurulmady Bu aýratynlygy ulanmak üçin ilki bilen Whatsapp guruň.</string>
+    <string name="toggle_keyboard">Klawiaturany çalyşyň</string>
+    <string name="fullscreen">Doly ekran</string>
+    <string name="dismiss">Işden aýyrmak</string>
+    <string name="keyboard_unblocked">Klawiatura gulplandy.</string>
+    <string name="keyboard_blocked">Klawiatura blokirlendi. Blokdan çykarmak üçin klawiatura nyşanyny basyň.</string>
+    <string name="whats_web_how_it_works">1. Enjamyňyzda Whats Web programmasyny açyň.\n\n2. Beýleki smartfonda whatsapp açyň.\n\n* Android-de -&gt; Söhbet ekranyndan, ekranyň ýokarky sag tarapynda ýerleşýän üç nokat menýusyna geçiň -&gt; Baglanan enjamlar.\n\n* Penjire telefonynda -&gt; Üç nokat menýusyna geçiň -&gt; Baglanan enjamlar.\n\n* IPhone-da -&gt; Sazlamalara gidiň -&gt; Baglanan enjamlar.\n\n3. Enjamy baglanyşdyrmak düwmesine basyň we bu programma ekranynda görkezilen QR koduny beýleki telefondan skanirläň.</string>
+    <string name="retry_sending_voice_message">Ses habaryny iberip görmegiňizi haýyş edýäris</string>
+    <string name="message_retry_sending_voice_message">Mikrofon nyşanyny ýene bir gezek basyň. Garaşylyşy ýaly işlemeli.</string>
+    <string name="retry_camera_capture">Kamera görnüşini täzeden synap görmegiňizi haýyş edýäris</string>
+    <string name="message_retry_camera_capture">Kamera nyşanyny ýene bir gezek basyň. Garaşylyşy ýaly işlemeli.</string>
+    <string name="audio_perm_reqd">Öňe gitmek üçin ses rugsady talap edilýär.</string>
+    <string name="camera_perm_reqd">Öňe gitmek üçin kamera rugsady talap edilýär.</string>
+    <string name="reset_reload">Täzeden düzmek /täzeden ýüklemek</string>
+    <string name="reset_only">Gaýtadan dikeltmek</string>
+    <string name="reload_only">Diňe ýükläň</string>
+    <string name="reload_warning">Giriş bilen baglanyşykly meseleler bilen ýüzbe-ýüz bolsaňyz, \'Täzeden başla\' synap görüň.\nDUNDURYŞ: \'Täzeden düzmek\' ulansaňyz, gaýtadan girmeli bolmagyňyz mümkin.</string>
+    <string name="download_file">Faýly göçürip almak</string>
+    <string name="couldnt_download_file">Faýly göçürip alyp bolmaýar</string>
+    <string name="storage_perm_reqd">Faýly göçürip almak üçin ammar rugsady gerek</string>
+    <string name="purchase_item_not_found">Satyn almak elementi tapylmady</string>
+    <string name="error">Roralňyşlyk</string>
+    <string name="purchase_canceled">Satyn almak ýatyryldy</string>
+    <string name="pending_purchase">Satyn almak garaşylýar. Geleşigi tamamlamagyňyzy haýyş edýäris</string>
+    <string name="purchase_status_not_known">Satyn alma ýagdaýy belli däl</string>
+    <string name="enter_file_name">Faýlyň adyny giriziň</string>
+    <string name="downloading_file">Faýly göçürip almak</string>
+    <string name="enter_valid_file_name">Dogry faýl adyny giriziň</string>
+    <string name="download_has_finished_message">Göçürip almak Downloadüklemeler bukjasyny barlaň.</string>
+    <string name="could_not_download_file">Faýly göçürip alyp bolmady</string>
+    <string name="loading">Adingüklemek</string>
+    <string name="downloading_update">Täzelenmäni göçürip almak</string>
+    <string name="update_downloaded_message">Täzelenme ýaňy göçürildi.</string>
+    <string name="keyboard_enable_webview_message">Typazmagy işjeňleşdirmek üçin ýokardaky klawiatura düwmesini basyň</string>
+    <string name="preference_title_bug_report">Bug hasabaty</string>
+    <string name="preference_title_report_a_issue">Bir mesele barada habar beriň</string>
+    <string name="describe_bug">Bugalňyşlygy şu ýerde suratlandyrmagyňyzy haýyş edýäris</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">“WhatsApp” katalogynda “Status” ýok. Dogry bukjany saýlaň.</string>
+    <string name="please_select_whatsapp_directory">WhatsApp katalogyny saýlaň!</string>
+    <string name="download_cleaner">Arassalaýjy ýükläň</string>
+    <string name="download_recover_messages_app">Dikeldiş habarlary programmasyny göçürip alyň</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Bu aýratynlygy ulanmak üçin oýun dükanyndan başga bir programma göçürip almaly. Oýun dükanyny açmak we programma göçürip almak üçin OK basyň.</string>
+    <string name="cancel">Elatyr</string>
+    <string name="ad_space">Mahabat giňişligi</string>
+    <string name="status">.Agdaý</string>
+    <string name="theme">Mowzuk</string>
+    <string name="more_apps">Has köp programma</string>
+    <string name="share">Paýlaş</string>
+    <string name="send">Iber</string>
+    <string name="select_country_code_and_number">Codeurduň kody we belgisini saýlaň</string>
+    <string name="how_it_works">Bu nähili işleýär</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Qr skaner programmasyny göçürip alyň</string>
+    <string name="share_content">Iki dürli smartfonda ýa-da planşetde şol bir WhatsApp hasabyna girmegiň iň çalt usulyny başdan geçirmäge taýyn boluň! Programmany indi göçürip alyň.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

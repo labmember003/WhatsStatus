@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">A actualización completouse</string>
+    <string name="app_update_alert_dialog_subtitle">Reinicia a aplicación para aplicar actualizacións...</string>
+    <string name="help">Axuda</string>
+    <string name="cleaner">Limpador</string>
+    <string name="status_saver">Aforro de estado</string>
+    <string name="settings">Configuración</string>
+    <string name="saved_statuses_appear_here">Non hai estado dispoñible!</string>
+    <string name="available_statuses">Dispoñible</string>
+    <string name="saved_statuses">Gardado</string>
+    <string name="enter_message">Introduza a mensaxe (opcional)</string>
+    <string name="enter_phone_number">Introduza o número de teléfono</string>
+    <string name="send_message">Enviar mensaxe</string>
+    <string name="enter_a_phone_number">Introduza un número de teléfono</string>
+    <string name="direct_link_copied_to_clipboard">A ligazón directa copiouse no portapapeis</string>
+    <string name="premium_unlocked">Grazas. Agora podes usar funcións premium</string>
+    <string name="settings_category_title_developer">Desenvolvedor</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Bibliotecas de código aberto</string>
+    <string name="preference_title_application_version">Versión da aplicación</string>
+    <string name="preference_title_contact_us">Contacta connosco</string>
+    <string name="preference_title_privacy_policy">Política de Privacidade</string>
+    <string name="preference_title_terms_conditions">Termos e condicións</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Xeral</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Modo escuro</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Cómo funciona\?</string>
+    <string name="ok">Ok</string>
+    <string name="direct_message_help_ans">Introduza o número de teléfono do destinatario xunto coa súa mensaxe de texto. Unha vez que estea listo para enviar a mensaxe, simplemente prema no botón \"Enviar\". Alternativamente, tamén pode usar a opción \"Ligazón directa\" para copiar a ligazón e compartila co destinatario. Ao facer clic na ligazón, poden falar contigo directamente.</string>
+    <string name="click_here_to_grant_required_permissions">Desactivar e volver activar o permiso de notificación.</string>
+    <string name="please_grant_storage_permissions">Concede permisos de almacenamento</string>
+    <string name="rate_app">Valora a aplicación!</string>
+    <string name="rate_later">Máis tarde</string>
+    <string name="rateUs">Valora a aplicación en Play Store</string>
+    <string name="send_feedback">Envíanos comentarios. Tentaremos traballalo!</string>
+    <string name="try_again">Por favor intentao de novo</string>
+    <string name="message_copied_to_clipboard">a mensaxe copiouse no portapapeis</string>
+    <string name="system_default">Sistema predeterminado</string>
+    <string name="restart">Reiniciar</string>
+    <string name="light">Luz</string>
+    <string name="dark">Escuro</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Comparte con</string>
+    <string name="direct_link">Copiar ligazón directa</string>
+    <string name="remove_ads">Eliminar anuncios</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Que é a web</string>
+    <string name="recover_messages">Recuperar Mensaxes</string>
+    <string name="direct_message">Mensaxe Directa</string>
+    <string name="title_refresh">Recarga</string>
+    <string name="whatsapp_not_installed">Whatsapp non está instalado. Instala primeiro Whatsapp para usar esta función.</string>
+    <string name="toggle_keyboard">Alternar o teclado</string>
+    <string name="fullscreen">Pantalla completa</string>
+    <string name="dismiss">Descartar</string>
+    <string name="keyboard_unblocked">O teclado está desbloqueado.</string>
+    <string name="keyboard_blocked">O teclado está bloqueado. Preme a icona do teclado para desbloquear.</string>
+    <string name="whats_web_how_it_works">1. Abre a aplicación Whats Web no teu dispositivo.\n\n2. Abre WhatsApp noutro teléfono intelixente.\n\n* En Android -&gt; Desde a pantalla de chats, vai ao menú de tres puntos situado na parte superior dereita da pantalla -&gt; Dispositivos vinculados.\n\n* No teléfono Windows -&gt; Vaia ao menú de tres puntos -&gt; Dispositivos vinculados.\n\n* No iPhone -&gt; Vaia a Configuración -&gt; Dispositivos vinculados.\n\n3. Toca Vincular un dispositivo e escanea o código QR que aparece na pantalla desta aplicación desde outro teléfono.</string>
+    <string name="retry_sending_voice_message">Tenta de novo enviar a mensaxe de voz</string>
+    <string name="message_retry_sending_voice_message">Preme a icona do micrófono unha vez máis. Debería funcionar como se esperaba.</string>
+    <string name="retry_camera_capture">Tenta de novo a opción Cámara</string>
+    <string name="message_retry_camera_capture">Preme a icona da cámara unha vez máis. Debería funcionar como se esperaba.</string>
+    <string name="audio_perm_reqd">Requírese permiso de audio para avanzar.</string>
+    <string name="camera_perm_reqd">É necesario o permiso da cámara para avanzar.</string>
+    <string name="reset_reload">Restablecer/Recargar</string>
+    <string name="reset_only">RESET</string>
+    <string name="reload_only">SÓ RECARGA</string>
+    <string name="reload_warning">Se tes problemas relacionados co inicio de sesión, proba \"Restablecer\".\nAVISO: Quizais teña que iniciar sesión de novo se usa \"Reiniciar\".</string>
+    <string name="download_file">Descargando ficheiro</string>
+    <string name="couldnt_download_file">Non se puido descargar o ficheiro</string>
+    <string name="storage_perm_reqd">Necesítase permiso de almacenamento para descargar o ficheiro</string>
+    <string name="purchase_item_not_found">Non se puido atopar o artigo de compra</string>
+    <string name="error">Erro</string>
+    <string name="purchase_canceled">Compra cancelada</string>
+    <string name="pending_purchase">A compra está pendente. Complete a transacción</string>
+    <string name="purchase_status_not_known">Non se coñece o estado da compra</string>
+    <string name="enter_file_name">Introduza un nome de ficheiro</string>
+    <string name="downloading_file">Descargando o Arquivo</string>
+    <string name="enter_valid_file_name">Introduza un nome de ficheiro válido</string>
+    <string name="download_has_finished_message">A descarga rematou. Comprobe o cartafol Descargas.</string>
+    <string name="could_not_download_file">Non se puido descargar o ficheiro</string>
+    <string name="loading">Cargando</string>
+    <string name="downloading_update">Descargando actualización</string>
+    <string name="update_downloaded_message">Acaba de descargarse unha actualización.</string>
+    <string name="keyboard_enable_webview_message">Preme o botón de alternar do teclado na parte superior para activar a escritura</string>
+    <string name="preference_title_bug_report">Informe de erros</string>
+    <string name="preference_title_report_a_issue">Informar dun problema</string>
+    <string name="describe_bug">Describe aquí o erro</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">O directorio de WhatsApp non contén estados. Seleccione o directorio correcto.</string>
+    <string name="please_select_whatsapp_directory">Seleccione o directorio de WhatsApp!</string>
+    <string name="download_cleaner">Descargar Cleaner</string>
+    <string name="download_recover_messages_app">Descarga a aplicación Recover Messages</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Para usar esta función, debes descargar outra aplicación de Play Store. Fai clic en Aceptar para abrir Play Store e descargar a aplicación.</string>
+    <string name="cancel">Cancelar</string>
+    <string name="ad_space">Espazo publicitario</string>
+    <string name="status">Estado</string>
+    <string name="theme">Tema</string>
+    <string name="more_apps">Máis aplicacións</string>
+    <string name="share">Compartir</string>
+    <string name="send">Enviar</string>
+    <string name="select_country_code_and_number">Seleccione o código do país e o número</string>
+    <string name="how_it_works">Cómo funciona</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Descargar Qr Scanner App</string>
+    <string name="share_content">Prepárate para experimentar o xeito máis rápido de acceder á mesma conta de WhatsApp en dous teléfonos intelixentes ou tabletas diferentes, todo de balde! Descarga e instala a aplicación agora.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

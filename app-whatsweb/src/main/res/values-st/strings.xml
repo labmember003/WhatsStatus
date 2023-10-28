@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Nchafatso e felile</string>
+    <string name="app_update_alert_dialog_subtitle">Qala sesebelisoa bocha ho sebelisa lintlafatso…</string>
+    <string name="help">Thusa</string>
+    <string name="cleaner">Mohloeki</string>
+    <string name="status_saver">Mopholosi oa Boemo</string>
+    <string name="settings">Litlhophiso</string>
+    <string name="saved_statuses_appear_here">Ha ho Boemo bo Fumanehang!</string>
+    <string name="available_statuses">E fumaneha</string>
+    <string name="saved_statuses">E bolokiloe</string>
+    <string name="enter_message">Kenya Molaetsa (Ha ho boikhethelo)</string>
+    <string name="enter_phone_number">Kenya Nomoro ea Mohala</string>
+    <string name="send_message">Romela Molaetsa</string>
+    <string name="enter_a_phone_number">Kenya nomoro ea mohala</string>
+    <string name="direct_link_copied_to_clipboard">Khokahano e tobileng e kopitsoe ho clipboard</string>
+    <string name="premium_unlocked">Kea leboha. Hona joale o ka sebelisa likarolo tsa premium</string>
+    <string name="settings_category_title_developer">Moetsi</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Lilaebrari tsa Mohloli o Bulehileng</string>
+    <string name="preference_title_application_version">Mofuta oa App</string>
+    <string name="preference_title_contact_us">Iteanye le rona</string>
+    <string name="preference_title_privacy_policy">leano la lekunutu</string>
+    <string name="preference_title_terms_conditions">Lipallo le lipehelo</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Kakaretso</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Mokhoa o Lefifi</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">E sebetsa joang\?</string>
+    <string name="ok">HO LOKILE</string>
+    <string name="direct_message_help_ans">Ka kopo, kenya nomoro ea mohala ea moamoheli hammoho le molaetsa oa hau oa mongolo. Hang ha u se u loketse ho romela molaetsa, tobetsa feela konopo ea \'Send\'. Ntle le moo, o ka sebelisa khetho ea \'Direct Link\' ho kopitsa sehokelo le ho se arolelana le moamoheli. Ka ho tobetsa sehokelo, ba ka qoqa le uena ka kotloloho.</string>
+    <string name="click_here_to_grant_required_permissions">Koala le ho lumella hape tumello ea tsebiso.</string>
+    <string name="please_grant_storage_permissions">Ka kopo fana ka tumello ea Bobolokelo</string>
+    <string name="rate_app">Ka kopo, reta sesebelisoa!</string>
+    <string name="rate_later">Hamorao</string>
+    <string name="rateUs">Ka kopo Fana ka lintlha ho Play Store</string>
+    <string name="send_feedback">Ka kopo, re romelle maikutlo. Re tla leka ho sebetsa ho eona!</string>
+    <string name="try_again">Ka kopo, leka hape</string>
+    <string name="message_copied_to_clipboard">molaetsa o kopitsitswe letlapeng la clipboard</string>
+    <string name="system_default">Sistimi ea kamehla</string>
+    <string name="restart">Qala hape</string>
+    <string name="light">Leseli</string>
+    <string name="dark">Lefifi</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Arolelana le</string>
+    <string name="direct_link">Kopitsa Direct Link</string>
+    <string name="remove_ads">Tlosa Lipapatso</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Whats Web</string>
+    <string name="recover_messages">Hlaphoheloa Melaetsa</string>
+    <string name="direct_message">Molaetsa o otlolohileng</string>
+    <string name="title_refresh">Kenya hape</string>
+    <string name="whatsapp_not_installed">Whatsapp ha e ea kengoa. Ka kopo kenya Whatsapp pele ho sebelisa tšobotsi ena.</string>
+    <string name="toggle_keyboard">Fetolela Keyboard</string>
+    <string name="fullscreen">Skrine se felletseng</string>
+    <string name="dismiss">Hlakola</string>
+    <string name="keyboard_unblocked">Keyboard ha e thijoe.</string>
+    <string name="keyboard_blocked">Keyboard e koetsoe. Tobetsa lets\'oao la keyboard ho bula.</string>
+    <string name="whats_web_how_it_works">1. Bula Whats Web tshebediso ya sesebediswa hao.\n\n2. Bula whatsapp ho smartphone tse ling.\n\n* Ho Android -&gt; Ho tsoa skrineng sa lipuisano, e ea ho menu ea matheba a mararo e kaholimo ho le letona la skrini -&gt; Lisebelisoa tse hokahaneng.\n\n* Ho Window phone -&gt; Eya ho menu ea matheba a mararo -&gt; Lisebelisoa tse hokahaneng.\n\n* Ho iPhone -&gt; Eya ho Litlhophiso -&gt; Lisebelisoa tse hokahaneng.\n\n3. Tlanya ho Linka sesebelisoa \'me u hlahlobe Khoutu ea QR e hlahang skrineng sa sesebelisoa sa hau ho tsoa fonong e ngoe.</string>
+    <string name="retry_sending_voice_message">Ka kopo, leka hape ho romella molaetsa oa lentsoe</string>
+    <string name="message_retry_sending_voice_message">Tobetsa aekhone ea maekerofounu hape. E lokela ho sebetsa kamoo ho neng ho lebelletsoe.</string>
+    <string name="retry_camera_capture">Ka kopo, leka hape khetho ea Khamera</string>
+    <string name="message_retry_camera_capture">Tobetsa aekhone ya khamera hape. E lokela ho sebetsa kamoo ho neng ho lebelletsoe.</string>
+    <string name="audio_perm_reqd">Ho hlokahala tumello ea molumo ho tsoela pele.</string>
+    <string name="camera_perm_reqd">Ho hlokahala tumello ea khamera hore u tsoele pele.</string>
+    <string name="reset_reload">Khutlisa/Kenya bocha</string>
+    <string name="reset_only">TS\'ESA TS\'OA</string>
+    <string name="reload_only">RETS\'ELISITSOE FEELA</string>
+    <string name="reload_warning">Haeba u na le mathata a amanang le ho kena, leka \'Reset\'.\nTLHOKOMELISO: U kanna ua tlameha ho kena hape haeba u sebelisa \'Reset\'.</string>
+    <string name="download_file">Ho jarolla Faele</string>
+    <string name="couldnt_download_file">Faele ha e khone ho khoasolla</string>
+    <string name="storage_perm_reqd">Ho hlokahala tumello ea polokelo ho khoasolla faele</string>
+    <string name="purchase_item_not_found">Ntho e Rekoang ha e fumanehe</string>
+    <string name="error">Phoso</string>
+    <string name="purchase_canceled">Theko e Hlakotsoe</string>
+    <string name="pending_purchase">Theko e E emetse. Ka kopo, tlatsa Transaction</string>
+    <string name="purchase_status_not_known">Boemo ba ho Reka ha bo tsejoe</string>
+    <string name="enter_file_name">Kenya Lebitso la Faele</string>
+    <string name="downloading_file">Ho jarolla Faele</string>
+    <string name="enter_valid_file_name">Ka kopo, kenya lebitso la faele le nepahetseng</string>
+    <string name="download_has_finished_message">Ho khoasolla ho felile. Ka kopo, sheba sephutheli sa Lits\'oants\'o.</string>
+    <string name="could_not_download_file">Ha e khone ho khoasolla File</string>
+    <string name="loading">Loading</string>
+    <string name="downloading_update">E jarolla ntlafatso</string>
+    <string name="update_downloaded_message">E sa tsoa khoasolla.</string>
+    <string name="keyboard_enable_webview_message">Tobetsa konopo ea toggle keyboard ka holimo ho bulela ho ngola</string>
+    <string name="preference_title_bug_report">Tlaleho ea Bug</string>
+    <string name="preference_title_report_a_issue">Tlaleha Taba</string>
+    <string name="describe_bug">Ka kopo hlalosa bothata mona</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">Lenane la WhatsApp ha le na Maemo. Ka kopo, khetha lethathamo le nepahetseng.</string>
+    <string name="please_select_whatsapp_directory">Ka kopo, khetha bukana ea WhatsApp!</string>
+    <string name="download_cleaner">Khoasolla Cleaner</string>
+    <string name="download_recover_messages_app">Khoasolla App ea ho Fumana Melaetsa</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Ho sebelisa tšobotsi ena, o hloka ho khoasolla sesebelisoa se seng ho tsoa ho play Store. Tobetsa OK ho bula play store le ho jarolla app.</string>
+    <string name="cancel">Hlakola</string>
+    <string name="ad_space">Sebaka sa Papatso</string>
+    <string name="status">Boemo</string>
+    <string name="theme">Sehlooho</string>
+    <string name="more_apps">Lisebelisoa tse ling</string>
+    <string name="share">Arolelana</string>
+    <string name="send">Romela</string>
+    <string name="select_country_code_and_number">Khetha khoutu ea naha le nomoro</string>
+    <string name="how_it_works">Kamoo e sebetsang kateng</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Khoasolla Qr Scanner App</string>
+    <string name="share_content">Itokisetse ho ba le mokhoa o potlakileng oa ho fihlella ak\'haonte e tšoanang ea WhatsApp ho li-smartphones kapa matlapa a mabeli, kaofela mahala! Khoasolla le ho kenya sesebelisoa hona joale.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

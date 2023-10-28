@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">A frissítés kész</string>
+    <string name="app_update_alert_dialog_subtitle">Indítsa újra az alkalmazást a frissítések alkalmazásához…</string>
+    <string name="help">Segítség</string>
+    <string name="cleaner">Tisztító</string>
+    <string name="status_saver">Állapotkímélő</string>
+    <string name="settings">Beállítások</string>
+    <string name="saved_statuses_appear_here">Nincs elérhető állapot!</string>
+    <string name="available_statuses">Elérhető</string>
+    <string name="saved_statuses">Mentett</string>
+    <string name="enter_message">Üzenet beírása (opcionális)</string>
+    <string name="enter_phone_number">Adja meg a telefonszámot</string>
+    <string name="send_message">Üzenet küldése</string>
+    <string name="enter_a_phone_number">Adjon meg egy telefonszámot</string>
+    <string name="direct_link_copied_to_clipboard">Közvetlen link a vágólapra másolva</string>
+    <string name="premium_unlocked">Köszönöm. Most már használhatja a prémium szolgáltatásokat</string>
+    <string name="settings_category_title_developer">Fejlesztő</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Nyílt forráskódú könyvtárak</string>
+    <string name="preference_title_application_version">Alkalmazás verziója</string>
+    <string name="preference_title_contact_us">Lépjen kapcsolatba velünk</string>
+    <string name="preference_title_privacy_policy">Adatvédelmi irányelvek</string>
+    <string name="preference_title_terms_conditions">Felhasználási feltételek</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Tábornok</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Sötét mód</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Hogyan működik\?</string>
+    <string name="ok">rendben</string>
+    <string name="direct_message_help_ans">Kérjük, a szöveges üzenet mellé írja be a címzett telefonszámát. Ha készen áll az üzenet elküldésére, egyszerűen kattintson a \"Küldés\" gombra. Alternatív megoldásként használhatja a „Közvetlen hivatkozás” opciót is a hivatkozás másolásához és megosztásához a címzettel. A linkre kattintva közvetlenül cseveghetnek Önnel.</string>
+    <string name="click_here_to_grant_required_permissions">Az értesítési engedély letiltása és újbóli engedélyezése.</string>
+    <string name="please_grant_storage_permissions">Kérjük, adjon tárolási engedélyeket</string>
+    <string name="rate_app">Kérjük, értékelje az alkalmazást!</string>
+    <string name="rate_later">A későbbiekben</string>
+    <string name="rateUs">Kérjük, értékelje az alkalmazást a Play Áruházban</string>
+    <string name="send_feedback">Kérjük, küldjön visszajelzést. Igyekszünk dolgozni rajta!</string>
+    <string name="try_again">Kérlek próbáld újra</string>
+    <string name="message_copied_to_clipboard">üzenet a vágólapra másolva</string>
+    <string name="system_default">Rendszer alapértelmezett</string>
+    <string name="restart">Újrakezd</string>
+    <string name="light">Fény</string>
+    <string name="dark">Sötét</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Oszd</string>
+    <string name="direct_link">Közvetlen hivatkozás másolása</string>
+    <string name="remove_ads">Hirdetések eltávolítása</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Mi a web</string>
+    <string name="recover_messages">Üzenetek helyreállítása</string>
+    <string name="direct_message">Közvetlen üzenet</string>
+    <string name="title_refresh">Újratöltés</string>
+    <string name="whatsapp_not_installed">A Whatsapp nincs telepítve. A funkció használatához először telepítse a Whatsapp-ot.</string>
+    <string name="toggle_keyboard">Billentyűzet váltása</string>
+    <string name="fullscreen">Teljes képernyő</string>
+    <string name="dismiss">Elvetés</string>
+    <string name="keyboard_unblocked">A billentyűzet fel van oldva.</string>
+    <string name="keyboard_blocked">A billentyűzet le van tiltva. Nyomja meg a billentyűzet ikonját a blokkolás feloldásához.</string>
+    <string name="whats_web_how_it_works">1. Nyissa meg a Whats Web alkalmazást a készülékén.\n\n2. Nyissa meg a WhatsApp alkalmazást egy másik okostelefonon.\n\n* Androidon -&gt; A csevegési képernyőn lépjen a képernyő jobb felső sarkában található hárompontos menüre -&gt; Kapcsolt eszközök.\n\n* A Windows Phone-on -&gt; Lépjen a hárompontos menüre -&gt; Kapcsolt eszközök.\n\n* iPhone-on -&gt; Lépjen a Beállítások -&gt; Kapcsolt eszközök menüpontra.\n\n3. Érintse meg az Eszköz összekapcsolása elemet, és olvassa be az alkalmazás képernyőjén megjelenő QR-kódot egy másik telefonról.</string>
+    <string name="retry_sending_voice_message">Kérjük, próbálja újra a hangüzenet küldését</string>
+    <string name="message_retry_sending_voice_message">Nyomja meg még egyszer a mikrofon ikont. A várakozásoknak megfelelően működnie kell.</string>
+    <string name="retry_camera_capture">Kérjük, próbálja újra a Kamera opciót</string>
+    <string name="message_retry_camera_capture">Nyomja meg még egyszer a kamera ikont. A várakozásoknak megfelelően működnie kell.</string>
+    <string name="audio_perm_reqd">A továbblépéshez hangengedély szükséges.</string>
+    <string name="camera_perm_reqd">A továbblépéshez kameraengedély szükséges.</string>
+    <string name="reset_reload">Reset/Reload</string>
+    <string name="reset_only">VISSZAÁLLÍTÁS</string>
+    <string name="reload_only">CSAK ÚJRATÖLTÉS</string>
+    <string name="reload_warning">Ha problémákat tapasztal a bejelentkezéssel kapcsolatban, próbálkozzon a „Visszaállítás” lehetőséggel.\nFIGYELMEZTETÉS: Lehetséges, hogy újra be kell jelentkeznie, ha a „Reset” funkciót használja.</string>
+    <string name="download_file">Fájl letöltése</string>
+    <string name="couldnt_download_file">A fájlt nem sikerült letölteni</string>
+    <string name="storage_perm_reqd">Tárolási engedély szükséges a fájl letöltéséhez</string>
+    <string name="purchase_item_not_found">A vásárlási tétel nem található</string>
+    <string name="error">Hiba</string>
+    <string name="purchase_canceled">Vásárlás törölve</string>
+    <string name="pending_purchase">A vásárlás függőben van. Kérjük, fejezze be a tranzakciót</string>
+    <string name="purchase_status_not_known">A vásárlás állapota nem ismert</string>
+    <string name="enter_file_name">Adjon meg egy fájlnevet</string>
+    <string name="downloading_file">A fájl letöltése</string>
+    <string name="enter_valid_file_name">Adjon meg egy érvényes fájlnevet</string>
+    <string name="download_has_finished_message">A letöltés befejeződött. Kérjük, ellenőrizze a Letöltések mappát.</string>
+    <string name="could_not_download_file">Nem sikerült letölteni a fájlt</string>
+    <string name="loading">Betöltés</string>
+    <string name="downloading_update">Frissítés letöltése</string>
+    <string name="update_downloaded_message">Nemrég letöltöttek egy frissítést.</string>
+    <string name="keyboard_enable_webview_message">Nyomja meg a billentyűzet tetején lévő váltógombot a gépelés engedélyezéséhez</string>
+    <string name="preference_title_bug_report">Hibajelentés</string>
+    <string name="preference_title_report_a_issue">Probléma bejelentése</string>
+    <string name="describe_bug">Kérjük, írja le itt a hibát</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">A WhatsApp könyvtár nem tartalmaz állapotokat. Kérjük, válassza ki a megfelelő könyvtárat.</string>
+    <string name="please_select_whatsapp_directory">Kérjük, válassza ki a WhatsApp könyvtárat!</string>
+    <string name="download_cleaner">Letöltés Cleaner</string>
+    <string name="download_recover_messages_app">Töltse le az Üzenetek helyreállítása alkalmazást</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">A funkció használatához le kell töltened egy másik alkalmazást a Play Áruházból. Kattintson az OK gombra a Play Áruház megnyitásához és az alkalmazás letöltéséhez.</string>
+    <string name="cancel">Megszünteti</string>
+    <string name="ad_space">Hirdetési terület</string>
+    <string name="status">Állapot</string>
+    <string name="theme">Téma</string>
+    <string name="more_apps">További alkalmazások</string>
+    <string name="share">Ossza meg</string>
+    <string name="send">Küld</string>
+    <string name="select_country_code_and_number">Válassza ki az ország kódját és számát</string>
+    <string name="how_it_works">Hogyan működik</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Töltse le a QR-szkenner alkalmazást</string>
+    <string name="share_content">Készüljön fel arra, hogy megtapasztalja a leggyorsabb módja annak, hogy ugyanazt a WhatsApp-fiókot elérje két különböző okostelefonon vagy táblagépen, mindezt ingyen! Töltse le és telepítse az alkalmazást most.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

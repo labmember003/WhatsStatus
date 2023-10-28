@@ -1,0 +1,201 @@
+<resources>
+
+    <string name="app_update_alert_dialog_title">Pembaruan selesai</string>
+
+    <string name="app_update_alert_dialog_subtitle">Mulai ulang aplikasi untuk menerapkan pembaruan…</string>
+
+    <string name="help">Bantuan</string>
+
+    <string name="cleaner">Pembersih</string>
+
+    <string name="status_saver">Penghemat Status</string>
+
+    <string name="settings">Pengaturan</string>
+
+    <string name="saved_statuses_appear_here">Tidak Ada Status yang Tersedia!</string>
+
+    <string name="available_statuses">Tersedia</string>
+
+    <string name="saved_statuses">Disimpan</string>
+
+    <string name="enter_message">Masukkan Pesan (Opsional)</string>
+
+    <string name="enter_phone_number">Masukkan nomor telepon</string>
+
+    <string name="send_message">Mengirim pesan</string>
+
+    <string name="enter_a_phone_number">Masukkan nomor telepon</string>
+
+    <string name="direct_link_copied_to_clipboard">Tautan langsung disalin ke papan klip</string>
+
+    <string name="premium_unlocked">Terima kasih. Anda sekarang dapat menggunakan fitur premium</string>
+
+    <string name="settings_category_title_developer">Pengembang</string>
+
+    <string name="preference_title_open_source_licenses">Buka Perpustakaan Sumber</string>
+
+    <string name="preference_title_application_version">Versi Aplikasi</string>
+
+    <string name="preference_title_contact_us">Hubungi kami</string>
+
+    <string name="preference_title_privacy_policy">Kebijakan privasi</string>
+
+    <string name="preference_title_terms_conditions">Syarat dan Ketentuan</string>
+
+    <string name="settings_category_title_general">Umum</string>
+
+    <string name="preference_title_dark_mode">Mode Gelap</string>
+
+    <string name="how_to_use">Bagaimana itu bekerja?</string>
+
+    <string name="ok">OKE</string>
+
+    <string name="direct_message_help_ans">Silakan masukkan nomor telepon penerima bersama dengan pesan teks Anda. Setelah Anda siap mengirim pesan, cukup klik tombol \'Kirim\'. Sebagai alternatif, Anda juga dapat menggunakan opsi \'Tautan Langsung\' untuk menyalin tautan dan membaginya dengan penerima. Dengan mengklik tautan tersebut, mereka dapat mengobrol dengan Anda secara langsung.</string>
+
+    <string name="click_here_to_grant_required_permissions">Nonaktifkan dan aktifkan kembali izin notifikasi.</string>
+
+    <string name="please_grant_storage_permissions">Harap berikan izin Penyimpanan</string>
+
+    <string name="rate_app">Silakan nilai aplikasi ini!</string>
+
+    <string name="rate_later">Nanti</string>
+
+    <string name="rateUs">Silakan Nilai aplikasi di Play Store</string>
+
+    <string name="send_feedback">Kirimkan masukan kepada kami. Kami akan mencoba mengerjakannya!</string>
+
+    <string name="try_again">Silakan coba lagi</string>
+
+    <string name="message_copied_to_clipboard">pesan disalin kepapan klip</string>
+
+    <string name="system_default">Sistem Bawaan</string>
+
+    <string name="restart">Mengulang kembali</string>
+
+    <string name="light">Terang</string>
+
+    <string name="dark">Gelap</string>
+
+    <string name="share_with">Berbagi dengan</string>
+
+    <string name="direct_link">Salin Tautan Langsung</string>
+
+    <string name="remove_ads">Hilangkan iklan</string>
+
+    <string name="whats_web">Whats Web</string>
+
+    <string name="recover_messages">Pulihkan Pesan</string>
+
+    <string name="direct_message">Pesan langsung</string>
+
+    <string name="title_refresh">Muat ulang</string>
+
+    <string name="whatsapp_not_installed">Whatsapp tidak diinstal. Silakan instal Whatsapp terlebih dahulu untuk menggunakan fitur ini.</string>
+
+    <string name="toggle_keyboard">Keyboard Beralih</string>
+
+    <string name="fullscreen">Layar penuh</string>
+
+    <string name="dismiss">Tolak</string>
+
+    <string name="keyboard_unblocked">Keyboard tidak diblokir.</string>
+
+    <string name="keyboard_blocked">Keyboard diblokir. Tekan ikon keyboard untuk membuka blokir.</string>
+
+    <string name="whats_web_how_it_works">1. Buka aplikasi Whats Web di perangkat Anda.\n\n2. Buka whatsapp di smartphone lain.\n\n* Di Android -&gt; Dari layar obrolan, buka menu tiga titik yang terletak di kanan atas layar -&gt; Perangkat tertaut.\n\n* Pada ponsel Window -&gt; Buka menu tiga titik -&gt; Perangkat tertaut.\n\n* Di iPhone -&gt; Buka Pengaturan -&gt; Perangkat tertaut.\n\n3. Ketuk Tautkan perangkat dan pindai Kode QR yang ditampilkan di layar aplikasi ini dari ponsel lain.</string>
+
+    <string name="retry_sending_voice_message">Silakan coba lagi mengirim pesan suara</string>
+
+    <string name="message_retry_sending_voice_message">Tekan ikon mikrofon sekali lagi. Seharusnya dapat bekerja seperti yang diharapkan.</string>
+
+    <string name="retry_camera_capture">Coba lagi opsi Kamera</string>
+
+    <string name="message_retry_camera_capture">Tekan ikon kamera sekali lagi. Seharusnya dapat bekerja seperti yang diharapkan.</string>
+
+    <string name="audio_perm_reqd">Izin audio diperlukan untuk melanjutkan.</string>
+
+    <string name="camera_perm_reqd">Izin kamera diperlukan untuk melanjutkan.</string>
+
+    <string name="reset_reload">Atur Ulang/Muat Ulang</string>
+
+    <string name="reset_only">ATUR ULANG</string>
+
+    <string name="reload_only">MUAT ULANG HANYA</string>
+
+    <string name="reload_warning">Jika Anda mengalami masalah terkait masuk, coba \'Atur Ulang\'.\nPERINGATAN: Anda mungkin harus masuk lagi jika menggunakan \'Atur Ulang\'.</string>
+
+    <string name="download_file">Mengunduh File</string>
+
+    <string name="couldnt_download_file">File tidak dapat diunduh</string>
+
+    <string name="storage_perm_reqd">Izin penyimpanan diperlukan untuk mengunduh file</string>
+
+    <string name="purchase_item_not_found">Item Pembelian tidak dapat Ditemukan</string>
+
+    <string name="error">Kesalahan</string>
+
+    <string name="purchase_canceled">Pembelian Dibatalkan</string>
+
+    <string name="pending_purchase">Pembelian Ditunda. Harap selesaikan Transaksi</string>
+
+    <string name="purchase_status_not_known">Status Pembelian tidak diketahui</string>
+
+    <string name="enter_file_name">Masukkan Nama File</string>
+
+    <string name="downloading_file">Mengunduh File</string>
+
+    <string name="enter_valid_file_name">Harap masukkan nama file yang valid</string>
+
+    <string name="download_has_finished_message">Pengunduhan telah selesai. Silakan periksa folder Unduhan.</string>
+
+    <string name="could_not_download_file">Tidak dapat mengunduh File</string>
+
+    <string name="loading">Memuat</string>
+
+    <string name="downloading_update">Mengunduh pembaruan</string>
+
+    <string name="update_downloaded_message">Pembaruan baru saja diunduh.</string>
+
+    <string name="keyboard_enable_webview_message">Tekan tombol keyboard beralih di atas untuk mengaktifkan pengetikan</string>
+
+    <string name="preference_title_bug_report">Laporan Bug</string>
+
+    <string name="preference_title_report_a_issue">Laporkan Masalah</string>
+
+    <string name="describe_bug">Tolong jelaskan bug di sini</string>
+
+    <string name="whatsapp_directory_does_not_contain_statuses">Direktori WhatsApp tidak berisi Status. Silakan pilih direktori yang benar.</string>
+
+    <string name="please_select_whatsapp_directory">Silakan pilih direktori WhatsApp!</string>
+
+    <string name="download_cleaner">Unduh Pembersih</string>
+
+    <string name="download_recover_messages_app">Unduh Pulihkan Aplikasi Pesan</string>
+
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Untuk menggunakan fitur ini, Anda perlu mengunduh aplikasi lain dari play store. Klik OK untuk membuka play store dan mengunduh aplikasi.</string>
+
+    <string name="cancel">Batalkan</string>
+
+    <string name="ad_space">Ruang Iklan</string>
+
+    <string name="status">Status</string>
+
+    <string name="theme">Tema</string>
+
+    <string name="more_apps">Aplikasi lainnya</string>
+
+    <string name="share">Bagikan</string>
+
+    <string name="send">Kirim</string>
+
+    <string name="select_country_code_and_number">Pilih kode dan nomor negara</string>
+
+    <string name="how_it_works">Bagaimana itu bekerja</string>
+
+    <string name="download_qrcodescanner">Unduh Aplikasi Pemindai Qr</string>
+
+    <string name="share_content">Bersiaplah untuk merasakan cara tercepat dalam mengakses akun WhatsApp yang sama di dua smartphone atau tablet yang berbeda, semuanya gratis! Unduh dan instal aplikasi sekarang.</string>
+
+    <string name="directly_message_anyone_without_saving_phone_as_contact"/>
+
+</resources>

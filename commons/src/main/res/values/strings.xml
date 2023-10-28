@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">commons</string>
+    <string name="no_app_present_to_open_this_file">No app present to open this file</string>
+</resources>

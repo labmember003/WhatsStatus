@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="itemTitle"
+            type="java.lang.String" />
+
+        <variable
+            name="iconDrawable"
+            type="android.graphics.drawable.Drawable" />
+    </data>
+
+    <com.geeksoftapps.whatsweb.commons.EqualCardView
+        android:id="@+id/cardView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:layout_marginBottom="@dimen/margin_post_medium"
+        android:elevation="@dimen/margin_small"
+        android:foreground="?android:attr/selectableItemBackground"
+        app:cardCornerRadius="20dp">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:background="@drawable/card_gradient"
+            >
+
+            <ImageView
+                android:id="@+id/ivWhatsWeb"
+                android:layout_width="54dp"
+                android:layout_height="54dp"
+                android:clickable="false"
+                android:layout_gravity="center"
+                android:src="@{iconDrawable}"
+                app:tint="@color/white"
+                tools:src="@drawable/ic_whatsweb" />
+
+            <TextView
+                android:id="@+id/tvWhatsWeb"
+                android:layout_marginEnd="12dp"
+                android:layout_marginStart="12dp"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_medium"
+                android:fontFamily="@font/euclid_font_medium"
+                android:text="@{itemTitle}"
+                android:ellipsize="end"
+                android:singleLine="true"
+                tools:text="Whats web Whats web Whats web Whats web Whats web"
+                android:textColor="@color/white"
+                android:textSize="@dimen/text_size_xxnormal"/>
+        </LinearLayout>
+    </com.geeksoftapps.whatsweb.commons.EqualCardView>
+
+</layout>

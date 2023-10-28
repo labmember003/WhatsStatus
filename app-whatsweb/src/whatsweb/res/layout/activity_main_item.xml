@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+        <data>
+                <variable name="itemTitle" type="java.lang.String"/>
+                <variable name="iconDrawable" type="android.graphics.drawable.Drawable"/>
+        </data>
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/cvRoot"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_rowWeight="1"
+            android:layout_columnWeight="1"
+            android:layout_marginLeft="@dimen/margin_medium"
+            android:layout_marginRight="@dimen/margin_medium"
+            android:layout_marginBottom="@dimen/margin_padding_xnormal">
+
+                <FrameLayout
+                    android:id="@+id/circle"
+                    style="@style/AppTheme.ItemSelector"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    app:layout_constrainedWidth="true"
+                    app:layout_constraintWidth_max="100dp"
+                    android:backgroundTint="@color/colorPrimaryDark"
+                    app:layout_constraintBottom_toTopOf="@+id/tvTitle"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintDimensionRatio="1:1"/>
+
+                <ImageView
+                    android:id="@+id/ivIcon"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    app:layout_constraintEnd_toEndOf="@id/circle"
+                    app:layout_constraintStart_toStartOf="@id/circle"
+                    app:layout_constraintTop_toTopOf="@id/circle"
+                    app:layout_constraintBottom_toBottomOf="@id/circle"
+                    android:scaleX="0.5"
+                    android:scaleY="0.5"
+                    android:src="@{iconDrawable}"
+                    tools:src="@drawable/ic_whatsweb"
+                    app:tint="@color/white"
+                    android:backgroundTint="@color/colorPrimaryDark"
+                    android:clickable="false"/>
+
+<!--                <androidx.appcompat.widget.AppCompatImageButton-->
+<!--                    android:id="@+id/ivWhatsWeb"-->
+<!--                    style="@style/AppTheme.ItemSelector"-->
+<!--                    android:layout_width="@dimen/dimen_card_width"-->
+<!--                    android:layout_height="@dimen/dimen_card_height"-->
+<!--                    android:src="@drawable/ic_whatsweb"-->
+<!--                    app:layout_constraintEnd_toEndOf="parent"-->
+<!--                    app:layout_constraintStart_toStartOf="parent"-->
+<!--                    app:layout_constraintTop_toTopOf="parent" />-->
+
+                <TextView
+                    android:id="@+id/tvTitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="sans-serif-medium"
+                    android:gravity="center"
+                    android:text="@{itemTitle}"
+                    android:textColor="@color/textColorHeading"
+                    android:textSize="@dimen/text_size_xnormal"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    tools:text="@string/whats_web" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

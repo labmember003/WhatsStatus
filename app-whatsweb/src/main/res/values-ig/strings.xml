@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Mmelite ezuola</string>
+    <string name="app_update_alert_dialog_subtitle">Malitegharịa ngwa ahụ ka itinye mmelite…</string>
+    <string name="help">Enyemaka</string>
+    <string name="cleaner">Nchacha</string>
+    <string name="status_saver">Nchekwa ọnọdụ</string>
+    <string name="settings">Ntọala</string>
+    <string name="saved_statuses_appear_here">Ọnweghị ọnọdụ dị!</string>
+    <string name="available_statuses">Dị</string>
+    <string name="saved_statuses">echekwara</string>
+    <string name="enter_message">Tinye ozi (Nhọrọ)</string>
+    <string name="enter_phone_number">Tinye nọmba ekwentị</string>
+    <string name="send_message">Ziga ozi</string>
+    <string name="enter_a_phone_number">Tinye nọmba ekwentị</string>
+    <string name="direct_link_copied_to_clipboard">Eṅomiri njikọ ozugbo na klipbọọdụ</string>
+    <string name="premium_unlocked">Daalụ. Ị nwere ike iji atụmatụ adịchaghị</string>
+    <string name="settings_category_title_developer">Onye nrụpụta</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Ụlọ akwụkwọ mepere emepe</string>
+    <string name="preference_title_application_version">Ụdị ngwa</string>
+    <string name="preference_title_contact_us">Kpọtụrụ anyị</string>
+    <string name="preference_title_privacy_policy">amụma nzuzo</string>
+    <string name="preference_title_terms_conditions">Usoro na ọnọdụ</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Izugbe</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Ọnọdụ gbara ọchịchịrị</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Kedu ka o si arụ ọrụ\?</string>
+    <string name="ok">Ọ DỊ MMA</string>
+    <string name="direct_message_help_ans">Biko tinye nọmba ekwentị onye nnata yana ozi ederede gị. Ozugbo ị dị njikere iziga ozi ahụ, pịa bọtịnụ \'Send\'. N\'aka nke ọzọ, ị nwekwara ike iji nhọrọ \'Direct Link\' iji detuo njikọ ahụ wee kesaa ya na onye nnata ya. Site na ịpị njikọ ahụ, ha nwere ike iso gị kparịta ụka ozugbo.</string>
+    <string name="click_here_to_grant_required_permissions">Gbanyụọ ma nyegharịa ikike ngosi.</string>
+    <string name="please_grant_storage_permissions">Biko nye ikike nchekwa</string>
+    <string name="rate_app">Biko tụọ ngwa!</string>
+    <string name="rate_later">Emechaa</string>
+    <string name="rateUs">Biko tụọ ngwa na Play Store</string>
+    <string name="send_feedback">Biko zitere anyị nzaghachi. Anyị ga-agbalị ịrụ ọrụ na ya!</string>
+    <string name="try_again">Biko nwaa ọzọ</string>
+    <string name="message_copied_to_clipboard">eṅomiri ozi na klipbọọdụ</string>
+    <string name="system_default">Sistemụ ndabara</string>
+    <string name="restart">Malitegharịa ekwentị</string>
+    <string name="light">Ìhè</string>
+    <string name="dark">Ọchịchịrị</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Kekọrịta ya</string>
+    <string name="direct_link">Detuo njikọ Direct</string>
+    <string name="remove_ads">Wepu mgbasa ozi</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Gịnị bụ Web</string>
+    <string name="recover_messages">Weghachite ozi</string>
+    <string name="direct_message">Ozi ozugbo</string>
+    <string name="title_refresh">Bugharịa</string>
+    <string name="whatsapp_not_installed">Awụnyeghị Whatsapp. Biko buru ụzọ tinye WhatsApp ka iji njirimara a.</string>
+    <string name="toggle_keyboard">Gbanwee ahụigodo</string>
+    <string name="fullscreen">Ihuenyo zuru oke</string>
+    <string name="dismiss">Wepụ</string>
+    <string name="keyboard_unblocked">Akpọchiela ahụigodo.</string>
+    <string name="keyboard_blocked">Akpọchiela ahụigodo. Pịa akara ngosi ahụigodo ka ịkpọghee.</string>
+    <string name="whats_web_how_it_works">1. Mepee Whats Web ngwa na ngwaọrụ gị.\n\n2. Mepee whatsapp na ekwentị ọzọ.\n\n* Na gam akporo -&gt; Site na ihuenyo nkata, gaa na menu ntụpọ atọ dị n\'elu aka nri ihuenyo -&gt; Ngwa ejikọtara.\n\n* Na ekwentị mpio -&gt; Gaa na menu ntụpọ atọ -&gt; Ngwa ejikọtara.\n\n* Na iPhone -&gt; Gaa na ntọala -&gt; ngwaọrụ ejikọrọ.\n\n3. Kpatụ na njikọ ngwaọrụ wee nyochaa koodu QR egosiri na ihuenyo ngwa gị site na ekwentị ọzọ.</string>
+    <string name="retry_sending_voice_message">Biko nwaa ọzọ izipu ozi olu</string>
+    <string name="message_retry_sending_voice_message">Pịa akara igwe okwu ọzọ. Ọ kwesịrị ịrụ ọrụ dịka a tụrụ anya ya.</string>
+    <string name="retry_camera_capture">Biko nwaa ọzọ nhọrọ igwefoto</string>
+    <string name="message_retry_camera_capture">Pịa akara igwefoto otu ugboro ọzọ. Ọ kwesịrị ịrụ ọrụ dịka a tụrụ anya ya.</string>
+    <string name="audio_perm_reqd">Achọrọ ikike audio ka aga n\'ihu.</string>
+    <string name="camera_perm_reqd">Achọrọ ikike igwefoto ka ọ gaa n\'ihu.</string>
+    <string name="reset_reload">Tọgharia/Bugharịa</string>
+    <string name="reset_only">Tụgharịa</string>
+    <string name="reload_only">Bugharịa naanị</string>
+    <string name="reload_warning">Ọ bụrụ na ị na-enwe nsogbu metụtara nbanye, nwaa \'Tọgharia\'.\nỊDỌ AKA NA NTỊ: Ị nwere ike ịbanye ọzọ ma ọ bụrụ na ị na-eji \'Tọgharia\'.</string>
+    <string name="download_file">Na-ebudata faịlụ</string>
+    <string name="couldnt_download_file">Enweghị ike ibudata faịlụ</string>
+    <string name="storage_perm_reqd">Achọrọ ikike nchekwa iji budata faịlụ</string>
+    <string name="purchase_item_not_found">Enweghị ike ịchọta ihe ịzụrụ</string>
+    <string name="error">Njehie</string>
+    <string name="purchase_canceled">Akwụsịla ịzụrụ ya</string>
+    <string name="pending_purchase">Nzụta na-echere. Biko mezue Azụmahịa</string>
+    <string name="purchase_status_not_known">Amaghị ọnọdụ ịzụrụ</string>
+    <string name="enter_file_name">Tinye Aha faịlụ</string>
+    <string name="downloading_file">Na-ebudata faịlụ ahụ</string>
+    <string name="enter_valid_file_name">Biko tinye aha faịlụ bara uru</string>
+    <string name="download_has_finished_message">Nbudata agwụla. Biko lelee folda nbudata.</string>
+    <string name="could_not_download_file">Enweghị ike ibudata faịlụ</string>
+    <string name="loading">Na-ebugo</string>
+    <string name="downloading_update">Na-ebudata mmelite</string>
+    <string name="update_downloaded_message">Ebudatala mmelite.</string>
+    <string name="keyboard_enable_webview_message">Pịa bọtịnụ ngbanwe ahụ dị n\'elu ka ị nwee ike dee ya</string>
+    <string name="preference_title_bug_report">Akụkọ ahụhụ</string>
+    <string name="preference_title_report_a_issue">Kwuo okwu</string>
+    <string name="describe_bug">Biko kọwaa ahụhụ ebe a</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">Akwụkwọ ndekọ WhatsApp enweghị ọnọdụ. Biko họrọ ndekọ aha ziri ezi.</string>
+    <string name="please_select_whatsapp_directory">Biko họrọ akwụkwọ ndekọ aha WhatsApp!</string>
+    <string name="download_cleaner">Budata Cleaner</string>
+    <string name="download_recover_messages_app">Budata ngwa naghachi ozi</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Iji jiri njirimara a, ịkwesịrị ibudata ngwa ọzọ na ụlọ ahịa play. Pịa OK ka imepe play store na budata ngwa.</string>
+    <string name="cancel">Kagbuo</string>
+    <string name="ad_space">Oghere mgbasa ozi</string>
+    <string name="status">Ọnọdụ</string>
+    <string name="theme">Isiokwu</string>
+    <string name="more_apps">Ngwa ndị ọzọ</string>
+    <string name="share">Kekọrịta</string>
+    <string name="send">Ziga</string>
+    <string name="select_country_code_and_number">Họrọ koodu obodo na nọmba</string>
+    <string name="how_it_works">Ka o si arụ ọrụ</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Budata ngwa nyocha Qr</string>
+    <string name="share_content">Jikere ka ị nweta ụzọ kachasị ọsọ iji nweta otu akaụntụ WhatsApp na ekwentị ma ọ bụ mbadamba abụọ dị iche iche, niile n\'efu! Budata ma wụnye ngwa ugbu a.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

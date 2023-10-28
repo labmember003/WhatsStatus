@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">L\'actualització s\'ha completat</string>
+    <string name="app_update_alert_dialog_subtitle">Reinicieu l\'aplicació per aplicar actualitzacions...</string>
+    <string name="help">Ajuda</string>
+    <string name="cleaner">Netejador</string>
+    <string name="status_saver">Estalviador d\'estat</string>
+    <string name="settings">Configuració</string>
+    <string name="saved_statuses_appear_here">No hi ha estat disponible!</string>
+    <string name="available_statuses">Disponible</string>
+    <string name="saved_statuses">Desat</string>
+    <string name="enter_message">Introdueix el missatge (opcional)</string>
+    <string name="enter_phone_number">Introduïu el número de telèfon</string>
+    <string name="send_message">Enviar missatge</string>
+    <string name="enter_a_phone_number">Introduïu un número de telèfon</string>
+    <string name="direct_link_copied_to_clipboard">Enllaç directe copiat al porta-retalls</string>
+    <string name="premium_unlocked">Gràcies. Ara podeu utilitzar les funcions premium</string>
+    <string name="settings_category_title_developer">Desenvolupador</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Biblioteques de codi obert</string>
+    <string name="preference_title_application_version">Versió de l\'aplicació</string>
+    <string name="preference_title_contact_us">Contacta amb nosaltres</string>
+    <string name="preference_title_privacy_policy">Política de privacitat</string>
+    <string name="preference_title_terms_conditions">Termes i condicions</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">General</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Mode fosc</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Com funciona\?</string>
+    <string name="ok">D\'acord</string>
+    <string name="direct_message_help_ans">Introduïu el número de telèfon del destinatari juntament amb el missatge de text. Quan estigueu preparat per enviar el missatge, només cal que feu clic al botó \"Enviar\". Alternativament, també podeu utilitzar l\'opció \"Enllaç directe\" per copiar l\'enllaç i compartir-lo amb el destinatari. En fer clic a l\'enllaç, poden xatejar amb tu directament.</string>
+    <string name="click_here_to_grant_required_permissions">Desactiveu i torneu a activar el permís de notificació.</string>
+    <string name="please_grant_storage_permissions">Concediu permisos d\'emmagatzematge</string>
+    <string name="rate_app">Valoreu l\'aplicació!</string>
+    <string name="rate_later">Més tard</string>
+    <string name="rateUs">Valoreu l\'aplicació a Play Store</string>
+    <string name="send_feedback">Si us plau, envieu-nos comentaris. Intentarem treballar-hi!</string>
+    <string name="try_again">Siusplau torna-ho a provar</string>
+    <string name="message_copied_to_clipboard">missatge copiat al porta-retalls</string>
+    <string name="system_default">Sistema per defecte</string>
+    <string name="restart">Reinicia</string>
+    <string name="light">Llum</string>
+    <string name="dark">Fosc</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Compartir amb</string>
+    <string name="direct_link">Copia l\'enllaç directe</string>
+    <string name="remove_ads">Elimina els anuncis</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Què és Web</string>
+    <string name="recover_messages">Recuperar missatges</string>
+    <string name="direct_message">Missatge directe</string>
+    <string name="title_refresh">Recarregar</string>
+    <string name="whatsapp_not_installed">Whatsapp no ​​està instal·lat. Primer instal·leu Whatsapp per utilitzar aquesta funció.</string>
+    <string name="toggle_keyboard">Canvia el teclat</string>
+    <string name="fullscreen">Pantalla completa</string>
+    <string name="dismiss">Descartar</string>
+    <string name="keyboard_unblocked">El teclat està desbloquejat.</string>
+    <string name="keyboard_blocked">El teclat està bloquejat. Premeu la icona del teclat per desbloquejar.</string>
+    <string name="whats_web_how_it_works">1. Obriu l\'aplicació Whats Web al vostre dispositiu.\n\n2. Obriu whatsapp a un altre telèfon intel·ligent.\n\n* A Android -&gt; Des de la pantalla de xats, aneu al menú de tres punts situat a la part superior dreta de la pantalla -&gt; Dispositius enllaçats.\n\n* Al Windows Phone -&gt; Aneu al menú de tres punts -&gt; Dispositius enllaçats.\n\n* A l\'iPhone -&gt; Aneu a Configuració -&gt; Dispositius enllaçats.\n\n3. Toqueu Enllaça un dispositiu i escaneja el codi QR que es mostra a la pantalla d\'aquesta aplicació des d\'un altre telèfon.</string>
+    <string name="retry_sending_voice_message">Si us plau, torna a provar d\'enviar el missatge de veu</string>
+    <string name="message_retry_sending_voice_message">Premeu la icona del micròfon una vegada més. Hauria de funcionar com s\'esperava.</string>
+    <string name="retry_camera_capture">Torneu a provar l\'opció de càmera</string>
+    <string name="message_retry_camera_capture">Premeu la icona de la càmera una vegada més. Hauria de funcionar com s\'esperava.</string>
+    <string name="audio_perm_reqd">Cal permís d\'àudio per avançar.</string>
+    <string name="camera_perm_reqd">Cal el permís de la càmera per avançar.</string>
+    <string name="reset_reload">Restablir/Recarregar</string>
+    <string name="reset_only">RESET</string>
+    <string name="reload_only">NOMÉS RECÀRREGA</string>
+    <string name="reload_warning">Si teniu problemes relacionats amb l\'inici de sessió, proveu \"Restablir\".\nADVERTÈNCIA: És possible que hàgiu de tornar a iniciar sessió si feu servir \"Restablir\".</string>
+    <string name="download_file">Descarregant fitxer</string>
+    <string name="couldnt_download_file">No s\'ha pogut baixar el fitxer</string>
+    <string name="storage_perm_reqd">Es necessita permís d\'emmagatzematge per descarregar el fitxer</string>
+    <string name="purchase_item_not_found">No s\'ha pogut trobar l\'article de compra</string>
+    <string name="error">Error</string>
+    <string name="purchase_canceled">Compra cancel·lada</string>
+    <string name="pending_purchase">La compra està pendent. Completeu la transacció</string>
+    <string name="purchase_status_not_known">No es coneix l\'estat de la compra</string>
+    <string name="enter_file_name">Introduïu un nom de fitxer</string>
+    <string name="downloading_file">Descàrrega del fitxer</string>
+    <string name="enter_valid_file_name">Introduïu un nom de fitxer vàlid</string>
+    <string name="download_has_finished_message">La descàrrega ha finalitzat. Si us plau, comproveu la carpeta de descàrregues.</string>
+    <string name="could_not_download_file">No s\'ha pogut descarregar el fitxer</string>
+    <string name="loading">Carregant</string>
+    <string name="downloading_update">S\'està baixant l\'actualització</string>
+    <string name="update_downloaded_message">S\'acaba de baixar una actualització.</string>
+    <string name="keyboard_enable_webview_message">Premeu el botó de commutació del teclat a la part superior per habilitar l\'escriptura</string>
+    <string name="preference_title_bug_report">Informe d\'error</string>
+    <string name="preference_title_report_a_issue">Informar d\'un problema</string>
+    <string name="describe_bug">Si us plau, descriu l\'error aquí</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">El directori de WhatsApp no ​​conté estats. Seleccioneu el directori correcte.</string>
+    <string name="please_select_whatsapp_directory">Seleccioneu el directori de WhatsApp!</string>
+    <string name="download_cleaner">Descarrega Cleaner</string>
+    <string name="download_recover_messages_app">Baixeu l\'aplicació Recover Messages</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Per utilitzar aquesta funció, heu de baixar una altra aplicació de Play Store. Feu clic a D\'acord per obrir Play Store i baixar l\'aplicació.</string>
+    <string name="cancel">Cancel · lar</string>
+    <string name="ad_space">Espai publicitari</string>
+    <string name="status">Estat</string>
+    <string name="theme">Tema</string>
+    <string name="more_apps">Més aplicacions</string>
+    <string name="share">Compartir</string>
+    <string name="send">Enviar</string>
+    <string name="select_country_code_and_number">Seleccioneu el codi i el número del país</string>
+    <string name="how_it_works">Com funciona</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Descarrega l\'aplicació Qr Scanner</string>
+    <string name="share_content">Prepareu-vos per experimentar la manera més ràpida d\'accedir al mateix compte de WhatsApp en dos telèfons intel·ligents o tauletes diferents, tot gratis! Baixeu i instal·leu l\'aplicació ara.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

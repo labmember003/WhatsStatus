@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Uhlaziyo lugqityiwe</string>
+    <string name="app_update_alert_dialog_subtitle">Qala ngokutsha usetyenziso ukuze ufake uhlaziyo...</string>
+    <string name="help">Nceda</string>
+    <string name="cleaner">Umcoci</string>
+    <string name="status_saver">Umgcini wesimo</string>
+    <string name="settings">Iisetingi</string>
+    <string name="saved_statuses_appear_here">Akukho Simo Sikhoyo!</string>
+    <string name="available_statuses">Iyafumaneka</string>
+    <string name="saved_statuses">Igciniwe</string>
+    <string name="enter_message">Ngena Umyalezo (Ngokhetho)</string>
+    <string name="enter_phone_number">Faka inombolo yefowuni</string>
+    <string name="send_message">Thumela uMyalezo</string>
+    <string name="enter_a_phone_number">Faka inombolo yefowuni</string>
+    <string name="direct_link_copied_to_clipboard">Ikhonkco elithe ngqo likhutshelwe kwibhodi eqhotyoshwayo</string>
+    <string name="premium_unlocked">Enkosi. Ngoku unokusebenzisa iimpawu zeprimiyamu</string>
+    <string name="settings_category_title_developer">Umphuhlisi</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Amathala eencwadi omthombo ovulekileyo</string>
+    <string name="preference_title_application_version">Inguqulelo ye-App</string>
+    <string name="preference_title_contact_us">Qhagamshelana nathi</string>
+    <string name="preference_title_privacy_policy">Umthetho wabucala</string>
+    <string name="preference_title_terms_conditions">Imimmiselo nemiqathango</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Ngokubanzi</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Imo Emnyama</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Ingaba isebenza kanjani\?</string>
+    <string name="ok">KULUNGILE</string>
+    <string name="direct_message_help_ans">Nceda ufake inombolo yefowuni yomamkeli kunye nomyalezo wakho obhaliweyo. Nje ukuba ulungele ukuthumela umyalezo, nqakraza ngokulula kwiqhosha elithi \'Thumela\'. Kungenjalo, unokusebenzisa \'uQhagamshelwano oluthe ngqo\' ukukopa ikhonkco kwaye wabelane ngalo nomamkeli. Ngokucofa kwikhonkco, banokuncokola nawe ngokuthe ngqo.</string>
+    <string name="click_here_to_grant_required_permissions">Khubaza kwaye uvule kwakhona imvume yesaziso.</string>
+    <string name="please_grant_storage_permissions">Nceda unike iimvume zokuGcina</string>
+    <string name="rate_app">Nceda ukale usetyenziso!</string>
+    <string name="rate_later">Kamva</string>
+    <string name="rateUs">Nceda nika umlinganiselo usetyenziso kwi-Play Store</string>
+    <string name="send_feedback">Nceda usithumelele ingxelo. Siza kuzama ukusebenza kuyo!</string>
+    <string name="try_again">Nceda zama kwakhona</string>
+    <string name="message_copied_to_clipboard">umyalezo ukhutshelwe kwibhodi eqhotyoshwayo</string>
+    <string name="system_default">Inkqubo eMiselweyo</string>
+    <string name="restart">Phinda Uqalele</string>
+    <string name="light">Ukukhanya</string>
+    <string name="dark">Mnyama</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Yabelana no</string>
+    <string name="direct_link">Kopa ikhonkco elithe ngqo</string>
+    <string name="remove_ads">Susa iintengiso</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Yintoni Web</string>
+    <string name="recover_messages">Buyisa Imiyalezo</string>
+    <string name="direct_message">Umyalezo othe ngqo</string>
+    <string name="title_refresh">Layisha kwakhona</string>
+    <string name="whatsapp_not_installed">UWhatsapp akafakwanga. Nceda ufake uWhatsapp kuqala ukuze usebenzise eli nqaku.</string>
+    <string name="toggle_keyboard">Guqula ikhibhodi</string>
+    <string name="fullscreen">Isikrini esiphelele</string>
+    <string name="dismiss">Gxotha</string>
+    <string name="keyboard_unblocked">Ikhibhodi ayivalwanga.</string>
+    <string name="keyboard_blocked">Ikhibhodi ivaliwe. Cinezela iqhosha lebhodi yezitshixo ukuze uvule.</string>
+    <string name="whats_web_how_it_works">1. Vula i-Whats Web application kwisixhobo sakho.\n\n2. Vula whatsapp kwenye smartphone.\n\n* Kwi-Android -&gt; Ukusuka kwiscreen sencoko, yiya kwimenyu yamachaphaza amathathu ebekwe phezulu ngasekunene kwesikrini-&gt; Izixhobo eziqhagamshelweyo.\n\n* Kwifowuni yefestile -&gt; Yiya kwimenyu yamachaphaza amathathu -&gt; Izixhobo eziqhagamshelweyo.\n\n* Kwi-iPhone -&gt; Yiya kwiiSetingi-&gt; Izixhobo ezidityanisiweyo.\n\n3. Cofa kuQhagamshelwano lwesixhobo kwaye uskene iKhowudi yeQR eboniswe kwiscreen sakho sosetyenziso ukusuka kwenye ifowuni.</string>
+    <string name="retry_sending_voice_message">Nceda uzame kwakhona ukuthumela umyalezo welizwi</string>
+    <string name="message_retry_sending_voice_message">Cinezela i-icon yombhobho kwakhona. Kufuneka isebenze njengoko kulindelwe.</string>
+    <string name="retry_camera_capture">Nceda uzame kwakhona ukhetho lweKhamera</string>
+    <string name="message_retry_camera_capture">Cinezela i-ayikhoni yekhamera kwakhona. Kufuneka isebenze njengoko kulindelwe.</string>
+    <string name="audio_perm_reqd">Imvume yomsindo iyafuneka ukuze uqhubele phambili.</string>
+    <string name="camera_perm_reqd">Imvume yekhamera iyafuneka ukuze uqhubele phambili.</string>
+    <string name="reset_reload">Lungisa/Vumela kwakhona</string>
+    <string name="reset_only">SETSHENZISWA KHONA</string>
+    <string name="reload_only">PHINDELA KUPHELA</string>
+    <string name="reload_warning">Ukuba ufumana imiba enxulumene nokungena, zama \'Seta kwakhona\'.\nISILUMKISO: Kusenokufuneka ungene kwakhona ukuba usebenzisa \'Seta kwakhona\'.</string>
+    <string name="download_file">Kuthotywa Umthwalo weFayile</string>
+    <string name="couldnt_download_file">Ifayile ayikwazanga kukhutshelwa</string>
+    <string name="storage_perm_reqd">Imvume yokugcina iyafuneka ukukhuphela ifayile</string>
+    <string name="purchase_item_not_found">Into ethengiweyo ayifunyenwanga</string>
+    <string name="error">Impazamo</string>
+    <string name="purchase_canceled">Ukuthenga Kurhoxisiwe</string>
+    <string name="pending_purchase">Intengo isalindile. Nceda ugcwalise iNtengiselwano</string>
+    <string name="purchase_status_not_known">Isimo sokuThenga asaziwa</string>
+    <string name="enter_file_name">Ngenisa Igama Lefayile</string>
+    <string name="downloading_file">Kuthotywa Umthwalo weFayile</string>
+    <string name="enter_valid_file_name">Nceda ngenisa igama lefayile elisebenzayo</string>
+    <string name="download_has_finished_message">Ukukhuphela kugqityiwe. Nceda ujonge isiqulathi seefayili zokukhuphela.</string>
+    <string name="could_not_download_file">Ayikwazanga kukhuphela iFayile</string>
+    <string name="loading">Iyalayisha</string>
+    <string name="downloading_update">Ikhuphela uhlaziyo</string>
+    <string name="update_downloaded_message">Uhlaziyo lusanda kukhutshelwa.</string>
+    <string name="keyboard_enable_webview_message">Cinezela iqhosha lebhodi yezitshixo ngaphezulu ukuze uvule ukuchwetheza</string>
+    <string name="preference_title_bug_report">Ingxelo yebug</string>
+    <string name="preference_title_report_a_issue">Xela umba</string>
+    <string name="describe_bug">Nceda uchaze ibug apha</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">Uluhlu lwe-WhatsApp aluqulathanga iimeko. Nceda ukhethe uvimba weefayili ochanekileyo.</string>
+    <string name="please_select_whatsapp_directory">Nceda ukhethe uluhlu lwe-WhatsApp!</string>
+    <string name="download_cleaner">Khuphela isiCoci</string>
+    <string name="download_recover_messages_app">Khuphela kwakhona iMiyalezo App</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Ukusebenzisa eli nqaku, kufuneka ukhuphele enye iapp kwivenkile yokudlala. Cofa u-OK ukuvula ivenkile yokudlala kwaye ukhuphele i-app.</string>
+    <string name="cancel">Rhoxisa</string>
+    <string name="ad_space">Isithuba sentengiso</string>
+    <string name="status">Ubume</string>
+    <string name="theme">Umxholo</string>
+    <string name="more_apps">Usetyenziso olungakumbi</string>
+    <string name="share">Yabelana</string>
+    <string name="send">Thumela</string>
+    <string name="select_country_code_and_number">Khetha ikhowudi yelizwe kunye nenombolo</string>
+    <string name="how_it_works">Ingaba isebenza kanjani</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Khuphela i-Qr Scanner App</string>
+    <string name="share_content">Zilungiselele ukufumana eyona ndlela ikhawulezayo yokufikelela kwiakhawunti efanayo ye-WhatsApp kwii-smartphones okanye iitafile ezimbini ezahlukeneyo, zonke simahla! Khuphela kwaye ufake i-app ngoku.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

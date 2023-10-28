@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+        <data>
+                <variable name="itemTitle" type="java.lang.String"/>
+                <variable name="iconDrawable" type="android.graphics.drawable.Drawable"/>
+                <variable name="isPremium" type="java.lang.Boolean" />
+        </data>
+    <!--<androidx.drawerlayout.widget.DrawerLayout
+        android:id="@+id/drawer_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/backgroundColorDefault"
+        android:fitsSystemWindows="true">-->
+
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <View
+                android:id="@+id/view"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:background="@color/colorPrimary"
+                app:layout_constraintBottom_toBottomOf="@id/guidelineBottomView"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <androidx.constraintlayout.widget.Guideline
+                android:id="@+id/guidelineBottomView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                app:layout_constraintGuide_percent="0.130" />
+
+            <ImageView
+                android:id="@+id/ivSettings"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_marginStart="20dp"
+                android:background="?android:attr/selectableItemBackgroundBorderless"
+                android:clickable="true"
+                android:focusable="true"
+                android:src="@drawable/ic_settings"
+                app:layout_constraintBottom_toBottomOf="@id/guidelineBottomView"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:tint="@color/white" />
+
+            <TextView
+                android:id="@+id/tvAppName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/app_name"
+                android:textColor="@color/white"
+                android:textSize="@dimen/text_size_xxlarge"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="@+id/ivSettings"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/ivSettings" />
+
+            <ImageView
+                android:id="@+id/ivShare"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:background="?android:attr/selectableItemBackgroundBorderless"
+                android:clickable="true"
+                android:focusable="true"
+                android:layout_marginEnd="20dp"
+                android:src="@drawable/ic_share_white_24dp"
+                app:layout_constraintBottom_toBottomOf="@id/guidelineBottomView"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:tint="@color/white" />
+
+            <ScrollView
+                android:id="@+id/parentLayout"
+                android:layout_marginEnd="@dimen/margin_medium"
+                android:layout_marginStart="@dimen/margin_medium"
+                android:layout_marginBottom="@dimen/margin_padding_large"
+                android:layout_marginTop="@dimen/margin_padding_normal"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:scrollbars="none"
+                android:fillViewport="true"
+                app:layout_constraintBottom_toTopOf="@id/bannerInclude"
+                app:layout_constraintTop_toBottomOf="@id/guidelineBottomView">
+
+                <androidx.gridlayout.widget.GridLayout
+                    android:id="@+id/mainGrid"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    app:alignmentMode="alignBounds"
+                    app:columnCount="2"
+                    app:columnOrderPreserved="false"
+                    app:rowCount="3"
+                    app:useDefaultMargins="true">
+
+                    <!-- Row 1 -->
+
+                    <!-- Column 1 -->
+                    <include
+                        android:id="@+id/cvWhatsWeb"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        app:layout_columnWeight="1"
+                        android:layout_marginLeft="@dimen/margin_post_medium"
+                        android:layout_marginRight="@dimen/margin_post_medium"
+                        app:itemTitle="@{@string/whats_web}"
+                        app:iconDrawable="@{@drawable/ic_whatsweb}"
+                        layout="@layout/activity_main_item"/>
+
+                    <!-- Column 2 -->
+                    <include
+                        android:id="@+id/cvStatusSaver"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        app:layout_columnWeight="1"
+                        android:layout_marginLeft="@dimen/margin_post_medium"
+                        android:layout_marginRight="@dimen/margin_post_medium"
+                        app:itemTitle="@{@string/status_saver}"
+                        app:iconDrawable="@{@drawable/ic_status_saver}"
+                        layout="@layout/activity_main_item"/>
+                    <!-- Row 2 -->
+
+                    <!-- Column 1 -->
+                    <include
+                        android:id="@+id/cvDirectChat"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        app:layout_columnWeight="1"
+                        android:layout_marginLeft="@dimen/margin_post_medium"
+                        android:layout_marginRight="@dimen/margin_post_medium"
+                        app:itemTitle="@{@string/direct_message}"
+                        app:iconDrawable="@{@drawable/ic_direct_chat}"
+                        layout="@layout/activity_main_item"/>
+
+                    <!-- Column 2 -->
+                    <include
+                        android:id="@+id/cvRemoveAds"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        app:layout_columnWeight="1"
+                        android:layout_marginLeft="@dimen/margin_post_medium"
+                        android:layout_marginRight="@dimen/margin_post_medium"
+                        app:itemTitle="@{isPremium ? @string/settings : @string/remove_ads}"
+                        app:iconDrawable="@{isPremium ? @drawable/ic_settings : @drawable/ic_remove_ads}"
+                        layout="@layout/activity_main_item"/>
+
+
+                    <!-- Row 2 -->
+
+                    <!-- Column 1 -->
+                    <include
+                        android:id="@+id/cvWhatsCleaner"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        app:layout_columnWeight="1"
+                        android:layout_marginLeft="@dimen/margin_post_medium"
+                        android:layout_marginRight="@dimen/margin_post_medium"
+                        app:itemTitle="@{@string/cleaner}"
+                        app:iconDrawable="@{@drawable/ic_cleaner}"
+                        layout="@layout/activity_main_item"/>
+
+
+                    <!-- Column 2 -->
+                    <include
+                        android:id="@+id/cvWhatsDeleted"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        app:layout_columnWeight="1"
+                        android:layout_marginLeft="@dimen/margin_post_medium"
+                        android:layout_marginRight="@dimen/margin_post_medium"
+                        app:itemTitle="@{@string/recover_messages}"
+                        app:iconDrawable="@{@drawable/ic_whats_deleted}"
+                        layout="@layout/activity_main_item"/>
+                </androidx.gridlayout.widget.GridLayout>
+            </ScrollView>
+
+            <include
+                android:id="@+id/bannerInclude"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                layout="@layout/banner_ad_view"
+                />
+            <ProgressBar
+                android:indeterminate="true"
+                tools:visibility="visible"
+                android:visibility="gone"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                android:id="@+id/pb"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <View
+                android:visibility="gone"
+                tools:visibility="visible"
+                android:background="@color/progressbar_background"
+                android:id="@+id/pbBackground"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+        <!--<com.google.android.material.navigation.NavigationView
+            android:id="@+id/navigationView"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="start"
+            android:fitsSystemWindows="true"
+            app:headerLayout="@layout/nav_header_main"
+            app:itemBackground="@drawable/nav_selector_bg"
+            app:itemIconSize="24dp"
+            app:itemIconTint="@color/bottom_navigation_colors"
+            app:itemTextColor="@color/bottom_navigation_colors"
+            app:menu="@menu/whatsweb_main_drawer" />-->
+
+</layout>

@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">Opdateringen er fuldført</string>
+    <string name="app_update_alert_dialog_subtitle">Genstart appen for at anvende opdateringer...</string>
+    <string name="help">Hjælp</string>
+    <string name="cleaner">Renere</string>
+    <string name="status_saver">Statussparer</string>
+    <string name="settings">Indstillinger</string>
+    <string name="saved_statuses_appear_here">Ingen status tilgængelig!</string>
+    <string name="available_statuses">Ledig</string>
+    <string name="saved_statuses">Gemt</string>
+    <string name="enter_message">Indtast besked (valgfrit)</string>
+    <string name="enter_phone_number">Indtast telefonnummer</string>
+    <string name="send_message">Send besked</string>
+    <string name="enter_a_phone_number">Indtast et telefonnummer</string>
+    <string name="direct_link_copied_to_clipboard">Direkte link kopieret til udklipsholder</string>
+    <string name="premium_unlocked">Tak skal du have. Du kan nu bruge premium-funktioner</string>
+    <string name="settings_category_title_developer">Udvikler</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Open Source biblioteker</string>
+    <string name="preference_title_application_version">App version</string>
+    <string name="preference_title_contact_us">Kontakt os</string>
+    <string name="preference_title_privacy_policy">Fortrolighedspolitik</string>
+    <string name="preference_title_terms_conditions">Vilkår og betingelser</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Generel</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Mørk tilstand</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Hvordan det virker\?</string>
+    <string name="ok">Okay</string>
+    <string name="direct_message_help_ans">Indtast venligst modtagerens telefonnummer sammen med din sms. Når du er klar til at sende beskeden, skal du blot klikke på knappen \'Send\'. Alternativt kan du også bruge muligheden \'Direkte link\' til at kopiere linket og dele det med modtageren. Ved at klikke på linket kan de chatte med dig direkte.</string>
+    <string name="click_here_to_grant_required_permissions">Deaktiver og genaktiver notifikationstilladelse.</string>
+    <string name="please_grant_storage_permissions">Giv venligst opbevaringstilladelser</string>
+    <string name="rate_app">Bedøm venligst appen!</string>
+    <string name="rate_later">Senere</string>
+    <string name="rateUs">Bedøm venligst appen i Play Butik</string>
+    <string name="send_feedback">Send os venligst feedback. Vi vil prøve at arbejde på det!</string>
+    <string name="try_again">Prøv igen</string>
+    <string name="message_copied_to_clipboard">besked kopieret til udklipsholder</string>
+    <string name="system_default">Systemstandard</string>
+    <string name="restart">Genstart</string>
+    <string name="light">Lys</string>
+    <string name="dark">Mørk</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Del med</string>
+    <string name="direct_link">Kopier direkte link</string>
+    <string name="remove_ads">Fjern annoncer</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Hvad er web</string>
+    <string name="recover_messages">Gendan beskeder</string>
+    <string name="direct_message">Direkte besked</string>
+    <string name="title_refresh">Genindlæs</string>
+    <string name="whatsapp_not_installed">Whatsapp er ikke installeret. Installer venligst Whatsapp for at bruge denne funktion.</string>
+    <string name="toggle_keyboard">Skift tastatur</string>
+    <string name="fullscreen">Fuld skærm</string>
+    <string name="dismiss">Afskedige</string>
+    <string name="keyboard_unblocked">Tastaturet er ophævet.</string>
+    <string name="keyboard_blocked">Tastaturet er blokeret. Tryk på tastaturikonet for at fjerne blokeringen.</string>
+    <string name="whats_web_how_it_works">1. Åbn Whats Web-applikationen på din enhed.\n\n2. Åbn whatsapp på anden smartphone.\n\n* På Android -&gt; Fra chatskærmen, gå til menuen med tre prikker, der er placeret øverst til højre på skærmen -&gt; Forbundne enheder.\n\n* På vinduestelefon -&gt; Gå til menuen med tre prikker -&gt; Forbundne enheder.\n\n* På iPhone -&gt; Gå til Indstillinger -&gt; Forbundne enheder.\n\n3. Tryk på Link en enhed, og scan QR-koden, der vises på din app-skærm fra en anden telefon.</string>
+    <string name="retry_sending_voice_message">Prøv at sende en talebesked igen</string>
+    <string name="message_retry_sending_voice_message">Tryk på mikrofonikonet en gang til. Det skal fungere som forventet.</string>
+    <string name="retry_camera_capture">Prøv venligst kameraindstillingen igen</string>
+    <string name="message_retry_camera_capture">Tryk på kameraikonet endnu en gang. Det skal fungere som forventet.</string>
+    <string name="audio_perm_reqd">Lydtilladelse er påkrævet for at komme videre.</string>
+    <string name="camera_perm_reqd">Kameratilladelse er påkrævet for at komme videre.</string>
+    <string name="reset_reload">Nulstil/genindlæs</string>
+    <string name="reset_only">NULSTIL</string>
+    <string name="reload_only">GENLÆS KUN</string>
+    <string name="reload_warning">Hvis du oplever problemer relateret til login, så prøv \'Nulstil\'.\nADVARSEL: Du skal muligvis logge ind igen, hvis du bruger \'Nulstil\'.</string>
+    <string name="download_file">Downloader fil</string>
+    <string name="couldnt_download_file">Filen kunne ikke downloades</string>
+    <string name="storage_perm_reqd">Lagringstilladelse er nødvendig for at downloade filen</string>
+    <string name="purchase_item_not_found">Købsvare kunne ikke findes</string>
+    <string name="error">Fejl</string>
+    <string name="purchase_canceled">Køb annulleret</string>
+    <string name="pending_purchase">Køb afventer. Udfyld venligst transaktionen</string>
+    <string name="purchase_status_not_known">Købsstatus kendes ikke</string>
+    <string name="enter_file_name">Indtast et filnavn</string>
+    <string name="downloading_file">Downloader filen</string>
+    <string name="enter_valid_file_name">Indtast venligst et gyldigt filnavn</string>
+    <string name="download_has_finished_message">Download er afsluttet. Tjek venligst mappen Downloads.</string>
+    <string name="could_not_download_file">Filen kunne ikke downloades</string>
+    <string name="loading">Indlæser</string>
+    <string name="downloading_update">Downloader opdatering</string>
+    <string name="update_downloaded_message">En opdatering er netop blevet downloadet.</string>
+    <string name="keyboard_enable_webview_message">Tryk på tastaturknappen øverst for at aktivere indtastning</string>
+    <string name="preference_title_bug_report">Fejlrapport</string>
+    <string name="preference_title_report_a_issue">Rapporter et problem</string>
+    <string name="describe_bug">Beskriv venligst fejlen her</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">WhatsApp-biblioteket indeholder ikke statusser. Vælg venligst korrekt mappe.</string>
+    <string name="please_select_whatsapp_directory">Vælg venligst WhatsApp-mappe!</string>
+    <string name="download_cleaner">Download Cleaner</string>
+    <string name="download_recover_messages_app">Download appen Gendan beskeder</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">For at bruge denne funktion skal du downloade en anden app fra Play Store. Klik på OK for at åbne Play Store og downloade app.</string>
+    <string name="cancel">Afbestille</string>
+    <string name="ad_space">Annonceplads</string>
+    <string name="status">Status</string>
+    <string name="theme">Tema</string>
+    <string name="more_apps">Flere apps</string>
+    <string name="share">Del</string>
+    <string name="send">Sende</string>
+    <string name="select_country_code_and_number">Vælg landekode og nummer</string>
+    <string name="how_it_works">Hvordan det virker</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Download QR Scanner-appen</string>
+    <string name="share_content">Gør dig klar til at opleve den hurtigste måde at få adgang til den samme WhatsApp-konto på to forskellige smartphones eller tablets, helt gratis! Download og installer appen nu.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>

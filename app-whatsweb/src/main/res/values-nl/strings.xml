@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_update_alert_dialog_title">De update is voltooid</string>
+    <string name="app_update_alert_dialog_subtitle">Start de app opnieuw om updates toe te passen...</string>
+    <string name="help">Hulp</string>
+    <string name="cleaner">Schoner</string>
+    <string name="status_saver">Statusbesparing</string>
+    <string name="settings">Instellingen</string>
+    <string name="saved_statuses_appear_here">Geen status beschikbaar!</string>
+    <string name="available_statuses">Beschikbaar</string>
+    <string name="saved_statuses">opgeslagen</string>
+    <string name="enter_message">Voer bericht in (optioneel)</string>
+    <string name="enter_phone_number">Voer telefoonnummer in</string>
+    <string name="send_message">Bericht versturen</string>
+    <string name="enter_a_phone_number">voer een telefoonnummer in</string>
+    <string name="direct_link_copied_to_clipboard">Directe link gekopieerd naar klembord</string>
+    <string name="premium_unlocked">Bedankt. U kunt nu premiumfuncties gebruiken</string>
+    <string name="settings_category_title_developer">Ontwikkelaar</string>
+    <string name="key_preference_bug_report" translatable="false">key_preference_bug_report</string>
+    <string name="key_preference_open_source_licenses" translatable="false">key_preference_open_source_licenses</string>
+    <string name="key_preference_app_version" translatable="false">key_preference_app_version</string>
+    <string name="key_preference_send_feedback" translatable="false">key_preference_send_feedback</string>
+    <string name="preference_title_open_source_licenses">Open Source-bibliotheken</string>
+    <string name="preference_title_application_version">App versie</string>
+    <string name="preference_title_contact_us">Neem contact met ons op</string>
+    <string name="preference_title_privacy_policy">Privacybeleid</string>
+    <string name="preference_title_terms_conditions">Voorwaarden</string>
+    <string name="key_preference_privacy_policy" translatable="false">key_preference_privacy_policy</string>
+    <string name="key_preference_terms_conditions" translatable="false">key_preference_terms_conditions</string>
+    <string name="settings_category_title_general">Algemeen</string>
+    <string name="key_preference_dark_mode" translatable="false">key_preference_notification_dark_mode_with_system</string>
+    <string name="preference_title_dark_mode">Donkere modus</string>
+    <string name="key_preference_full_version" translatable="false">key_preference_full_version</string>
+
+    <string name="how_to_use">Hoe het werkt\?</string>
+    <string name="ok">OK</string>
+    <string name="direct_message_help_ans">Voer het telefoonnummer van de ontvanger in samen met uw sms. Zodra u klaar bent om het bericht te verzenden, klikt u eenvoudig op de knop \'Verzenden\'. Als alternatief kunt u ook de optie \'Directe link\' gebruiken om de link te kopiëren en te delen met de ontvanger. Door op de link te klikken, kunnen ze direct met je chatten.</string>
+    <string name="click_here_to_grant_required_permissions">Meldingstoestemming uitschakelen en opnieuw inschakelen.</string>
+    <string name="please_grant_storage_permissions">Verleen opslagmachtigingen</string>
+    <string name="rate_app">Beoordeel de app!</string>
+    <string name="rate_later">Later</string>
+    <string name="rateUs">Beoordeel de app in de Play Store</string>
+    <string name="send_feedback">Stuur ons alstublieft feedback. We gaan proberen eraan te werken!</string>
+    <string name="try_again">Probeer het opnieuw</string>
+    <string name="message_copied_to_clipboard">bericht gekopieerd naar klembord</string>
+    <string name="system_default">Systeemfout</string>
+    <string name="restart">Herstarten</string>
+    <string name="light">Licht</string>
+    <string name="dark">Donker</string>
+    <string name="regarding_app" translatable="false">Regarding App</string>
+    <string name="share_with">Delen met</string>
+    <string name="direct_link">Kopieer directe link</string>
+    <string name="remove_ads">Verwijder advertenties</string>
+    <string name="key_preference_keyboard_enabled" translatable="false">key_preference_keyboard_enabled</string>
+    <string name="key_preference_webview_fullscreen_enabled" translatable="false">key_preference_webview_fullscreen_enabled</string>
+    <string name="key_preference_whatsapp_storage_uri" translatable="false">key_preference_whatsapp_storage_uri</string>
+    <string name="whats_web">Wat is web</string>
+    <string name="recover_messages">Berichten herstellen</string>
+    <string name="direct_message">Direct bericht</string>
+    <string name="title_refresh">Herladen</string>
+    <string name="whatsapp_not_installed">Whatsapp is niet geïnstalleerd. Installeer eerst WhatsApp om deze functie te gebruiken.</string>
+    <string name="toggle_keyboard">Wissel toetsenbord</string>
+    <string name="fullscreen">Volledig scherm</string>
+    <string name="dismiss">Afwijzen</string>
+    <string name="keyboard_unblocked">Toetsenbord is gedeblokkeerd.</string>
+    <string name="keyboard_blocked">Toetsenbord is geblokkeerd. Druk op het toetsenbordpictogram om de blokkering op te heffen.</string>
+    <string name="whats_web_how_it_works">1. Open de Whats-webtoepassing op uw apparaat.\n\n2. Open WhatsApp op een andere smartphone.\n\n* Op Android -&gt; Ga vanuit het chatscherm naar het menu met drie stippen in de rechterbovenhoek van het scherm -&gt; Gekoppelde apparaten.\n\n* Op Windows-telefoon -&gt; Ga naar menu met drie stippen -&gt; Gekoppelde apparaten.\n\n* Op iPhone -&gt; Ga naar Instellingen -&gt; Gekoppelde apparaten.\n\n3. Tik op Een apparaat koppelen en scan de QR-code die wordt weergegeven op het scherm van deze app vanaf een andere telefoon.</string>
+    <string name="retry_sending_voice_message">Probeer opnieuw een spraakbericht te verzenden</string>
+    <string name="message_retry_sending_voice_message">Druk nogmaals op het microfoonpictogram. Het zou moeten werken zoals verwacht.</string>
+    <string name="retry_camera_capture">Probeer de camera-optie opnieuw</string>
+    <string name="message_retry_camera_capture">Druk nogmaals op het camerapictogram. Het zou moeten werken zoals verwacht.</string>
+    <string name="audio_perm_reqd">Audio-toestemming is vereist om verder te gaan.</string>
+    <string name="camera_perm_reqd">Cameratoestemming is vereist om verder te gaan.</string>
+    <string name="reset_reload">Resetten/opnieuw laden</string>
+    <string name="reset_only">RESETTEN</string>
+    <string name="reload_only">ALLEEN HERLADEN</string>
+    <string name="reload_warning">Als u problemen ondervindt met betrekking tot inloggen, probeer dan \'Resetten\'.\nWAARSCHUWING: Mogelijk moet u opnieuw inloggen als u \'Resetten\' gebruikt.</string>
+    <string name="download_file">Bestand downloaden</string>
+    <string name="couldnt_download_file">Bestand kon niet worden gedownload</string>
+    <string name="storage_perm_reqd">Opslagtoestemming nodig om bestand te downloaden</string>
+    <string name="purchase_item_not_found">Aankoopartikel kon niet worden gevonden</string>
+    <string name="error">Fout</string>
+    <string name="purchase_canceled">Aankoop geannuleerd</string>
+    <string name="pending_purchase">Aankoop is in behandeling. Voltooi de transactie</string>
+    <string name="purchase_status_not_known">Aankoopstatus is niet bekend</string>
+    <string name="enter_file_name">Voer een bestandsnaam in</string>
+    <string name="downloading_file">Het downloaden van het bestand</string>
+    <string name="enter_valid_file_name">Voer een geldige bestandsnaam in</string>
+    <string name="download_has_finished_message">Het downloaden is voltooid. Controleer de map Downloads.</string>
+    <string name="could_not_download_file">Kan het bestand niet downloaden</string>
+    <string name="loading">Bezig met laden</string>
+    <string name="downloading_update">Update downloaden</string>
+    <string name="update_downloaded_message">Er is zojuist een update gedownload.</string>
+    <string name="keyboard_enable_webview_message">Druk op de schakelknop op het toetsenbord bovenaan om typen in te schakelen</string>
+    <string name="preference_title_bug_report">Bug report</string>
+    <string name="preference_title_report_a_issue">Een probleem melden</string>
+    <string name="describe_bug">Beschrijf hier de bug</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_1">1</string>
+    <string name="whatsapp_directory_does_not_contain_statuses">WhatsApp-directory bevat geen statussen. Selecteer de juiste map.</string>
+    <string name="please_select_whatsapp_directory">Selecteer de WhatsApp-directory!</string>
+    <string name="download_cleaner">Opruimer downloaden</string>
+    <string name="download_recover_messages_app">Download de app Berichten herstellen</string>
+    <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Om deze functie te gebruiken, moet u een andere app downloaden uit de Play Store. Klik op OK om de Play Store te openen en de app te downloaden.</string>
+    <string name="cancel">Annuleren</string>
+    <string name="ad_space">advertentieruimte</string>
+    <string name="status">Toestand</string>
+    <string name="theme">Thema</string>
+    <string name="more_apps">Meer apps</string>
+    <string name="share">Deel</string>
+    <string name="send">Versturen</string>
+    <string name="select_country_code_and_number">Selecteer landcode en nummer</string>
+    <string name="how_it_works">Hoe het werkt</string>
+    <string name="qr_scanner" translatable="false">Qr Scanner</string>
+    <string name="download_qrcodescanner">Qr Scanner-app downloaden</string>
+    <string name="share_content">Maak je klaar om de snelste manier te ervaren om toegang te krijgen tot hetzelfde WhatsApp-account op twee verschillende smartphones of tablets, helemaal gratis! Download en installeer de app nu.</string>
+    <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+</resources>
