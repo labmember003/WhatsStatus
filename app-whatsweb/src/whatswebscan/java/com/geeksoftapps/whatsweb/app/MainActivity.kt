@@ -3,12 +3,10 @@ package com.geeksoftapps.whatsweb.app
 import android.content.Intent
 import android.os.Bundle
 import androidx.databinding.DataBindingUtil
-import com.android.billingclient.api.BillingClient
 import com.android.billingclient.api.BillingResult
 import com.android.billingclient.api.Purchase
 import com.android.billingclient.api.PurchasesUpdatedListener
 import com.geeksoftapps.whatsweb.app.databinding.ActivityMainBinding
-import com.geeksoftapps.whatsweb.app.ui.ads.shouldDisableAppUpdate
 import com.geeksoftapps.whatsweb.app.ui.dialogs.RatingDialog
 import com.geeksoftapps.whatsweb.app.ui.dialogs.StartAppUpdateDialog
 import com.geeksoftapps.whatsweb.app.ui.status.StatusSaverActivity
@@ -47,8 +45,6 @@ class MainActivity : BasicActivity(), KodeinAware, InstallStateUpdatedListener,
         binding = DataBindingUtil.setContentView(this, R.layout.activity_main)
         startActivity(Intent(this, StatusSaverActivity::class.java))
         RatingDialog.getDialog(this, true)?.show()
-        if (!shouldDisableAppUpdate())
-            initiateAppUpdateManager()
     }
 
     private fun initiateAppUpdateManager() {
@@ -75,7 +71,6 @@ class MainActivity : BasicActivity(), KodeinAware, InstallStateUpdatedListener,
 
     override fun onResume() {
         super.onResume()
-        binding.isPremium = !WhatsWebPreferences.isAdsEnabled()
         appUpdateManager?.appUpdateInfo?.addOnSuccessListener {
             if (it.installStatus() == InstallStatus.DOWNLOADED) {
                 StartAppUpdateDialog.get(this@MainActivity) { dialog, which ->

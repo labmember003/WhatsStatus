@@ -5,7 +5,6 @@ import com.preference.PowerPreference
 import com.preference.Preference
 import com.geeksoftapps.whatsweb.commons.PreferenceTypes
 import com.geeksoftapps.whatsweb.app.App
-import com.geeksoftapps.whatsweb.app.ui.ads.shouldEnableAds
 
 
 object WhatsWebPreferences: PreferenceTypes() {
@@ -32,10 +31,4 @@ object WhatsWebPreferences: PreferenceTypes() {
 
     //In Seconds
     var totalTimeSpentOnScreens by Long(res.getString(R.string.key_preference_time_spent_on_screens), 0)
-
-    fun isAdsEnabled(): kotlin.Boolean {
-        if (isFullVersionEnabled)
-            return false
-        return !isFullVersionEnabled && shouldEnableAds()
-    }
 }

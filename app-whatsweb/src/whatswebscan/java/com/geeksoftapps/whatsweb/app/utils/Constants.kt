@@ -4,7 +4,7 @@ import com.geeksoftapps.whatsweb.app.BuildConfig
 
 
 object Constants {
-    const val DEVELOPER_EMAIL = "codekraftapps@gmail.com"
+    const val DEVELOPER_EMAIL = "usarcompanion@gmail.com"
     const val FEEDBACK_EMAIL = DEVELOPER_EMAIL
 
     const val FILE_PROVIDER_AUTHORITY = BuildConfig.APPLICATION_ID + ".provider"

@@ -12,8 +12,6 @@ import com.geeksoftapps.whatsweb.app.ui.ads.BannerAdLocation
 import com.geeksoftapps.whatsweb.app.ui.ads.InterstitialAdLocation
 import com.geeksoftapps.whatsweb.commons.BannerAdViewGroups
 import com.geeksoftapps.whatsweb.commons.BasicActivity
-import com.geeksoftapps.whatsweb.app.ui.ads.getMaxBannerAdUnitId
-import com.geeksoftapps.whatsweb.app.ui.ads.getMaxInterstitialAdUnitId
 
 
 class StatusSaverActivity : BasicActivity(), StatusContainerFragment.StatusSaverFragmentActions {
