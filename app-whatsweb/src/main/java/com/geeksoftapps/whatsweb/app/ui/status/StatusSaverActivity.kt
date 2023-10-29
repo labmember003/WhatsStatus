@@ -1,16 +1,15 @@
 package com.geeksoftapps.whatsweb.app.ui.status
 
+import android.content.Intent
 import android.os.Bundle
+import android.view.Menu
 import android.view.MenuItem
 import androidx.databinding.DataBindingUtil
 import androidx.fragment.app.Fragment
 import com.geeksoftapps.whatsweb.app.R
-import com.geeksoftapps.whatsweb.app.ui.status.fragments.StatusContainerFragment
-import com.geeksoftapps.whatsweb.app.utils.WhatsWebPreferences
 import com.geeksoftapps.whatsweb.app.databinding.ActivityStatusSaverBinding
-import com.geeksoftapps.whatsweb.app.ui.ads.BannerAdLocation
-import com.geeksoftapps.whatsweb.app.ui.ads.InterstitialAdLocation
-import com.geeksoftapps.whatsweb.commons.BannerAdViewGroups
+import com.geeksoftapps.whatsweb.app.ui.AppSettingsActivity
+import com.geeksoftapps.whatsweb.app.ui.status.fragments.StatusContainerFragment
 import com.geeksoftapps.whatsweb.commons.BasicActivity
 
 
@@ -35,11 +34,19 @@ class StatusSaverActivity : BasicActivity(), StatusContainerFragment.StatusSaver
 //        super.onBackPressed()
         finishAffinity()
     }
+    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
+        menuInflater.inflate(R.menu.menu_status_saver, menu)
+        return true
+    }
+
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         if (item.itemId == android.R.id.home) {
             finish()
             return true
+        }
+        if (item.itemId == R.id.menu_settings) {
+            startActivity(Intent(this, AppSettingsActivity::class.java))
         }
         return super.onOptionsItemSelected(item)
     }
