@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_selected_color">#9c27b0</color>
+    <color name="black_unselected_color">#000000</color>
+</resources>
