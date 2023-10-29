@@ -5,11 +5,11 @@
     <color name="shimmer_bg">#dddddd</color>
     <color name="direct_message_background_color">@color/white</color>
 
-    <color name="colorPrimaryNotDarkMode">#075e54</color>
-    <color name="colorPrimaryDarkMode">#0B8E7F</color>
+    <color name="colorPrimaryNotDarkMode">@color/colorPrimary</color>
+    <color name="colorPrimaryDarkMode">@color/colorPrimary</color>
 
-    <color name="colorPrimaryDarkNotDarkMode">#054d44</color>
-    <color name="colorPrimaryDarkDarkMode">#087F70</color>
+    <color name="colorPrimaryDarkNotDarkMode">@color/colorPrimary</color>
+    <color name="colorPrimaryDarkDarkMode">@color/colorPrimary</color>
 
     <color name="backgroundTintDefault">@color/black</color>
     <color name="navViewTextColor">@color/grey_600</color>
@@ -33,5 +33,5 @@
     <color name="black">#000000</color>
     <color name="white">#FFFFFF</color>
     <color name="green_500">#4CAF50</color>
-    <color name="app_color">#008675</color>
+    <color name="app_color">@color/colorPrimary</color>
 </resources>

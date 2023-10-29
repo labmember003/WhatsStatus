@@ -402,7 +402,7 @@ function toggleDarkMode(enable) {
     try {
         if (enable == undefined) {
             if(!isDarkModeEnabled()) {
-                enableDarkMode()
+                disableDarkMode()
             } else {
                 disableDarkMode()
             }      

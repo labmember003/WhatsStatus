@@ -4,6 +4,6 @@
 
     <color name="colorPrimary2">#0B8E7F</color>
     <color name="colorPrimary">#FF6750A4</color>
-    <color name="colorPrimaryDark">#087F70</color>
-    <color name="colorAccent">#008675</color>
+    <color name="colorPrimaryDark">#FF6750A4</color>
+    <color name="colorAccent">#FF6750A4</color>
 </resources>

@@ -76,7 +76,7 @@
             android:textAlignment="center"
             android:layout_marginTop="@dimen/margin_post_medium"
             android:text="@string/saved_statuses_appear_here"
-            android:textColor="@color/textColorHeading"
+            android:textColor="@color/black"
             android:textSize="@dimen/text_size_large"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
