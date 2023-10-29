@@ -32,8 +32,8 @@
     </style>
 
     <style name="DirectChatActivityTheme" parent="AppTheme">
-        <item name="android:statusBarColor">@color/colorAccent</item>
-        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
     </style>
 
     <style name="CustomBottomSheetDialog" parent="@style/ThemeOverlay.MaterialComponents.BottomSheetDialog">
