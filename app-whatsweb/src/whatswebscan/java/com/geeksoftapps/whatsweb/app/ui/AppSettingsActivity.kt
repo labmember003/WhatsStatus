@@ -39,7 +39,7 @@ class AppSettingsActivity : BasicActivity() {
             .commit()
 
         setSupportActionBar(binding.toolbar)
-        supportActionBar?.setDisplayHomeAsUpEnabled(true)
+        supportActionBar?.setDisplayHomeAsUpEnabled(false)
     }
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
@@ -52,7 +52,6 @@ class AppSettingsActivity : BasicActivity() {
     class SettingsFragment : PreferenceFragmentCompat(),
         Preference.OnPreferenceClickListener,
         Preference.OnPreferenceChangeListener {
-        private var firebaseAnalytics: FirebaseAnalytics?= null
 
         override fun onCreatePreferences(savedInstanceState: Bundle?, rootKey: String?) {
             setPreferencesFromResource(R.xml.preferences, rootKey)
@@ -60,9 +59,6 @@ class AppSettingsActivity : BasicActivity() {
                 it.onPreferenceClickListener = this@SettingsFragment
                 it.onPreferenceChangeListener = this@SettingsFragment
                 setSummary(it)
-            }
-            context?.let {
-                firebaseAnalytics = FirebaseAnalytics.getInstance(it)
             }
         }
 
@@ -77,10 +73,6 @@ class AppSettingsActivity : BasicActivity() {
         override fun onPreferenceClick(preference: Preference?): Boolean {
             return when(preference?.key) {
                 getString(R.string.key_preference_bug_report) -> {
-                    firebaseAnalytics?.log(
-                        eventName = "report_bug_tapped",
-                        var2 = "settings_screen"
-                    )
                     //Show a dialog and get feedback and post it somewhere else
                     //no need to clutter email
                     context?.let { CommonUtils.reportBug(it) }
@@ -91,10 +83,6 @@ class AppSettingsActivity : BasicActivity() {
                     true
                 }
                 getString(R.string.key_preference_privacy_policy) -> {
-                    firebaseAnalytics?.log(
-                        eventName = "privacy_policy_tapped",
-                        var2 = "settings_screen"
-                    )
                     context?.let {context ->
                         CommonUtils.openBrowser(context, Constants.PRIVACY_POLICY_URL)
                     }
@@ -114,11 +102,6 @@ class AppSettingsActivity : BasicActivity() {
             return when(preference?.key) {
                 getString(R.string.key_preference_dark_mode) -> {
                     val value = newValue as String
-                    firebaseAnalytics?.log(
-                        eventName = "dark_mode_toggled",
-                        var1 = value,
-                        var2 = "settings_screen"
-                    )
                     when(value) {
                         WhatsWebPreferences.DARK_MODE_ON -> {
                             AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_YES)

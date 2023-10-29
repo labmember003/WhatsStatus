@@ -16,16 +16,6 @@
 
 <PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
 
-
-    <ListPreference
-        app:defaultValue="system_default"
-        app:entries="@array/dark_mode_entries"
-        app:entryValues="@array/dark_mode_values"
-        app:key="@string/key_preference_dark_mode"
-        app:title="@string/theme"
-        app:useSimpleSummaryProvider="true"
-        app:iconSpaceReserved="false"/>
-
     <Preference
         app:iconSpaceReserved="false"
         app:key="@string/key_preference_bug_report"

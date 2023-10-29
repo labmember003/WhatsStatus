@@ -9,7 +9,7 @@ object Constants {
 
     const val FILE_PROVIDER_AUTHORITY = BuildConfig.APPLICATION_ID + ".provider"
 
-    const val PRIVACY_POLICY_URL = "https://sites.google.com/view/whatsweb-codekraftapps/home"
+    const val PRIVACY_POLICY_URL = "https://sites.google.com/view/whatsscanfalcon/home"
 
     const val defaultUserAgent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36"
 

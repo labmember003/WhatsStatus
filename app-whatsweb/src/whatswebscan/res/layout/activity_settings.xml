@@ -9,9 +9,9 @@
         <com.google.android.material.appbar.MaterialToolbar
             android:id="@+id/toolbar"
             app:title="@string/settings"
-            app:titleTextColor="@color/white"
+            app:titleTextColor="@color/black"
             android:layout_width="0dp"
-            android:background="@color/colorPrimary"
+            android:background="@color/white"
             android:layout_height="?attr/actionBarSize"
             android:minHeight="?actionBarSize"
             android:theme="@style/ThemeOverlay.MaterialComponents.Dark.ActionBar"
