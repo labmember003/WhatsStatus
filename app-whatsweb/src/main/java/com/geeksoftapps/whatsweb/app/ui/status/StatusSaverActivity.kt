@@ -19,18 +19,11 @@ import com.geeksoftapps.whatsweb.app.ui.ads.getMaxInterstitialAdUnitId
 class StatusSaverActivity : BasicActivity(), StatusContainerFragment.StatusSaverFragmentActions {
 
     private lateinit var binding: ActivityStatusSaverBinding
-
-    override val isAdsEnabled: Boolean
-        get() = WhatsWebPreferences.isAdsEnabled()
-
-    override val maxBannerAdUnitId = getMaxBannerAdUnitId(BannerAdLocation.ACTIVITY_STATUS_SAVER)
-    override val maxInterstitialAdUnitId = getMaxInterstitialAdUnitId(InterstitialAdLocation.ACTIVITY_STATUS_SAVER)
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = DataBindingUtil.setContentView(this, R.layout.activity_status_saver)
         setSupportActionBar(binding.toolbar)
-        supportActionBar?.setDisplayHomeAsUpEnabled(true)
+        supportActionBar?.setDisplayHomeAsUpEnabled(false)
         startFragment(StatusContainerFragment(), StatusContainerFragment.TAG)
     }
     private fun startFragment(fragment: Fragment, tag: String) {
@@ -38,6 +31,11 @@ class StatusSaverActivity : BasicActivity(), StatusContainerFragment.StatusSaver
         val transaction = manager.beginTransaction()
         transaction.replace(R.id.fragment_placeholder, fragment, tag)
         transaction.commit()
+    }
+
+    override fun onBackPressed() {
+//        super.onBackPressed()
+        finishAffinity()
     }
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
