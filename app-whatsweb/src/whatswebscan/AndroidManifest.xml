@@ -4,8 +4,12 @@
 
     <application>
         <activity
-            android:exported="true"
+            android:exported="false"
             android:name=".MainActivity">
+        </activity>
+        <activity
+            android:exported="true"
+            android:name=".MainActivityWalk">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

@@ -43,7 +43,7 @@ class MainActivity : BasicActivity(), KodeinAware, InstallStateUpdatedListener,
             var2 = "home_screen"
         )
         binding = DataBindingUtil.setContentView(this, R.layout.activity_main)
-        startActivity(Intent(this, StatusSaverActivity::class.java))
+        startActivity(Intent(this, MainActivityWalk::class.java))
         RatingDialog.getDialog(this, true)?.show()
     }
 
