@@ -91,26 +91,6 @@ class MainActivity : BasicActivity(), KodeinAware, InstallStateUpdatedListener,
 //            AppLovinSdk.getInstance(this@MainActivity).showMediationDebugger()
 //        }
         WhatsWebPreferences.isFullVersionEnabled = true
-        fetchFirebaseAppConfig()
-    }
-
-    private fun fetchFirebaseAppConfig() {
-        val remoteConfig = Firebase.remoteConfig
-        remoteConfig.setDefaultsAsync(
-            mapOf("user_agent" to Constants.defaultUserAgent)
-        )
-        val configSettings = remoteConfigSettings {
-            minimumFetchIntervalInSeconds = 600 // 10 mins
-        }
-        remoteConfig.setConfigSettingsAsync(configSettings)
-        remoteConfig.fetchAndActivate()
-            .addOnCompleteListener(this) { task ->
-                if (task.isSuccessful) {
-                    log("Appconfig: success")
-                } else {
-                    log("Appconfig: failed")
-                }
-            }
     }
 
     private fun setLayout() {

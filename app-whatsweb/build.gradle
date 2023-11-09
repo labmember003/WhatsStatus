@@ -6,10 +6,6 @@ apply plugin: "kotlin-kapt"
 
 apply plugin: 'com.google.android.gms.oss-licenses-plugin'
 
-apply plugin: 'com.google.firebase.crashlytics'
-
-apply plugin: 'com.google.gms.google-services'
-
 apply plugin: 'kotlinx-serialization'
 
 android {
@@ -60,8 +56,8 @@ android {
     productFlavors {
         whatsweb {
             dimension "default"
-            applicationId "com.codekraftapps1.whatsweb"
-            versionCode 100000000
+            applicationId "com.falcon.whatscan"
+            versionCode 100000001
             // 1 (versioning scheme)
             // 00 (major version)
             // 02 (minor version)
@@ -71,7 +67,7 @@ android {
         }
         whatswebscan {
             dimension "default"
-            applicationId "com.codekraftapps.whatsweb"
+            applicationId "com.falcon.whatscan"
             versionCode 100007000
             // 1 (versioning scheme)
             // 00 (major version)

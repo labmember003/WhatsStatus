@@ -78,16 +78,8 @@ class App: Application(), KodeinAware {
         PowerPreference.init(this)
         AndroidThreeTen.init(this)
         setUpDarkMode()
-        initFirebaseRemoteConfig()
     }
 
-    private fun initFirebaseRemoteConfig() {
-        GlobalScope.launch(Dispatchers.IO + coroutineExceptionHandler) {
-            FirebaseRemoteConfigHelper.init()
-            FirebaseRemoteConfigHelper.fetch()
-            FirebaseRemoteConfigHelper.addOnConfigUpdateListener();
-        }
-    }
 
     private fun setUpDarkMode() {
         when (WhatsWebPreferences.darkMode) {
