@@ -72,14 +72,9 @@
             android:theme="@style/StatusSaverActivityTheme"/>
 
         <activity-alias
-            android:exported="true"
+            android:exported="false"
             android:name=".ui.Launcher"
             android:targetActivity="com.geeksoftapps.whatsweb.app.MainActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity-alias>
 
         <provider

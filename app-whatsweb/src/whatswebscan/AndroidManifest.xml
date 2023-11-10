@@ -42,8 +42,5 @@
                 android:name="android.support.FILE_PROVIDER_PATHS"
                 android:resource="@xml/provider_paths" />
         </provider>
-
-        <meta-data android:name="applovin.sdk.key"
-            android:value="V8yk2TXk7Piqr5HQ0vXMoQrTn35I9BreXAzHu3OQAFOqu0bA9InVk4MkCq2zC8vQhPzDFd0OCTL2U30KsaBD7i"/>
     </application>
 </manifest>
