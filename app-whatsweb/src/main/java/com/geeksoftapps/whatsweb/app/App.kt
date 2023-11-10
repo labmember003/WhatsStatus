@@ -2,11 +2,9 @@ package com.geeksoftapps.whatsweb.app
 
 import android.app.Application
 import android.content.res.Resources
-import android.util.Log
 import androidx.appcompat.app.AppCompatDelegate
 import androidx.documentfile.provider.DocumentFile
 import com.geeksoftapps.whatsweb.app.utils.WhatsWebPreferences
-import com.geeksoftapps.whatsweb.commons.FirebaseRemoteConfigHelper
 import com.geeksoftapps.whatsweb.status.IStatusRepo
 import com.geeksoftapps.whatsweb.status.StatusRepo
 import com.geeksoftapps.whatsweb.status.whatsapp_saved_status_file
@@ -14,9 +12,6 @@ import com.google.firebase.crashlytics.FirebaseCrashlytics
 import com.jakewharton.threetenabp.AndroidThreeTen
 import com.preference.PowerPreference
 import kotlinx.coroutines.CoroutineExceptionHandler
-import kotlinx.coroutines.Dispatchers
-import kotlinx.coroutines.GlobalScope
-import kotlinx.coroutines.launch
 import org.kodein.di.Kodein
 import org.kodein.di.KodeinAware
 import org.kodein.di.android.x.androidXModule

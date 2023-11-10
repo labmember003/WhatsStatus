@@ -14,7 +14,6 @@ import com.applovin.mediation.ads.MaxAdView
 import com.applovin.mediation.ads.MaxInterstitialAd
 import com.applovin.sdk.AppLovinSdk
 import com.applovin.sdk.AppLovinSdkConfiguration
-import com.google.firebase.analytics.FirebaseAnalytics
 import com.preference.PowerPreference
 import kotlinx.coroutines.delay
 
@@ -36,10 +35,6 @@ abstract class BasicActivity: AppCompatActivity() {
     private var maxInterstitialAdLoadAttempt = 0
     private var finishOnResume = false
     protected var onCreateTimeStamp: Long = 0
-
-    val analytics by lazy {
-        FirebaseAnalytics.getInstance(this)
-    }
 
     open fun getBannerAdView(): BannerAdViewGroups? = null
 
@@ -122,7 +117,6 @@ abstract class BasicActivity: AppCompatActivity() {
                 finishOnResume = true
             }
         })
-        maxInterstitialAd?.loadAdIfValidInterval()
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -164,16 +158,5 @@ abstract class BasicActivity: AppCompatActivity() {
         super.onStop()
     }
 
-    override fun onDestroy() {
-        super.onDestroy()
-    }
 
-    override fun finish() {
-        if (finishOnResume
-            || !isAdsEnabled
-            || maxInterstitialAd == null
-            || maxInterstitialAd?.showAdIfValidLoadedInterval() != true) {
-            super.finish()
-        }
-    }
 }

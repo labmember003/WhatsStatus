@@ -38,10 +38,6 @@ class MainActivity : BasicActivity(), KodeinAware, InstallStateUpdatedListener,
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        analytics?.log(
-            eventName = "opened_app",
-            var2 = "home_screen"
-        )
         binding = DataBindingUtil.setContentView(this, R.layout.activity_main)
         startActivity(Intent(this, MainActivityWalk::class.java))
         RatingDialog.getDialog(this, true)?.show()

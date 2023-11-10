@@ -58,8 +58,6 @@ class StatusPreviewActivity : MediaActivity(), KodeinAware {
         }
         super.onCreate(savedInstanceState)
 
-        analytics.log(eventName = "StatusPrevActiv_onCreate")
-
         val uri = intent.extras?.getParcelable<Uri>(WHATSAPP_STORAGE_URI)
 
         if (uri == null) {
@@ -120,7 +118,6 @@ class StatusPreviewActivity : MediaActivity(), KodeinAware {
 
     override fun onSaveButtonClick(position: Int) {
         getStatusFile(position)?.let {
-            analytics.log(eventName = "StatusPrevActiv_onSaveBtnClick")
             lifecycleScope.launch {
                 if (statusPreviewViewModel.saveStatusAsync(it).await()) {
                     withContext(Dispatchers.Main) {
@@ -137,7 +134,6 @@ class StatusPreviewActivity : MediaActivity(), KodeinAware {
 
     override fun onDeleteButtonClick(position: Int) {
         getStatusFile(position)?.let {
-            analytics.log(eventName = "StatusPrevActiv_onDelBtnClick")
             if (getMediaCount() == 1) {
                 statusPreviewViewModel.deleteSavedStatusAsync(it)
                 finish()
@@ -149,7 +145,6 @@ class StatusPreviewActivity : MediaActivity(), KodeinAware {
 
     override fun onShareButtonClick(position: Int) {
         getStatusFile(position)?.let {
-            analytics.log(eventName = "StatusPrevActiv_onShareBtnClick")
             startActivity(getShareStatusIntent(this, it))
         }
     }
