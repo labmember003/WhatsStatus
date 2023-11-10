@@ -8,13 +8,14 @@ import android.widget.ImageView
 import android.widget.LinearLayout
 import android.widget.TextView
 import androidx.viewpager.widget.PagerAdapter
+import com.airbnb.lottie.LottieAnimationView
 
 class ViewPagerAdapter(private var context: Context) : PagerAdapter() {
-    private var images = intArrayOf(
-        R.drawable.image1,
-        R.drawable.image2,
-        R.drawable.image3,
-        R.drawable.image4
+    private var images = listOf(
+        "quick.json",
+        "share.json",
+        "save_offline.json",
+        "explore.json"
     )
     private var headings = intArrayOf(
         R.string.heading_one,
@@ -41,10 +42,10 @@ class ViewPagerAdapter(private var context: Context) : PagerAdapter() {
         val layoutInflater =
             context.getSystemService(Context.LAYOUT_INFLATER_SERVICE) as LayoutInflater
         val view: View = layoutInflater.inflate(R.layout.slider_layout, container, false)
-        val slidetitleimage = view.findViewById<View>(R.id.titleImage) as ImageView
+        val slidetitleimage = view.findViewById<View>(R.id.animationView) as LottieAnimationView
         val slideHeading = view.findViewById<View>(R.id.texttitle) as TextView
         val slideDesciption = view.findViewById<View>(R.id.textdeccription) as TextView
-        slidetitleimage.setImageResource(images[position])
+        slidetitleimage.setAnimation(images[position])
         slideHeading.setText(headings[position])
         slideDesciption.setText(description[position])
         container.addView(view)

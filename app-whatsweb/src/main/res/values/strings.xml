@@ -118,13 +118,13 @@
     <string name="download_qrcodescanner">Download Qr Scanner App</string>
     <string name="share_content">Get ready to experience the fastest way to access the same WhatsApp account on two different smartphones or tablets, all for free! Download and install the app now.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">""</string>
-    <string name="heading_one">Quick &amp; Easy Payments</string>
-    <string name="heading_two">Instant Notifications</string>
-    <string name="heading_three">Cashless Payment</string>
-    <string name="heading_fourth">Pay Anywhere</string>
+    <string name="heading_one">Quick Save</string>
+    <string name="heading_two">Share Instantly</string>
+    <string name="heading_three">Download Offline</string>
+    <string name="heading_fourth">Explore and Enjoy</string>
 
-    <string name="desc_one">Grow your Business By Accepting Card Payments with The New Card Reader</string>
-    <string name="desc_two">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
-    <string name="desc_three">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
-    <string name="desc_fourth">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <string name="desc_one">Secure your favorite WhatsApp statuses with a tap, ensuring cherished moments are always at your fingertips.</string>
+    <string name="desc_two">Spread joy by sharing WhatsApp statuses directly from the app with friends and family.</string>
+    <string name="desc_three">Capture and store WhatsApp statuses on your device for anytime access, even without an internet connection.</string>
+    <string name="desc_fourth">Discover engaging WhatsApp statuses, adding a touch of inspiration to your day.</string>
 </resources>
