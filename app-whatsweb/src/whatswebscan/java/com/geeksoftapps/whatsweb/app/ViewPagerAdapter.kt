@@ -12,9 +12,9 @@ import com.airbnb.lottie.LottieAnimationView
 
 class ViewPagerAdapter(private var context: Context) : PagerAdapter() {
     private var images = listOf(
-        "quick.json",
+        "quick_save.json",
         "share.json",
-        "save_offline.json",
+        "save_offline_new.json",
         "explore.json"
     )
     private var headings = intArrayOf(
