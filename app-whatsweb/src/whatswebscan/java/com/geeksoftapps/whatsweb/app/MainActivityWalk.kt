@@ -1,5 +1,6 @@
 package com.geeksoftapps.whatsweb.app
 
+import android.content.Context
 import android.content.Intent
 import android.os.Build
 import android.os.Bundle
@@ -24,6 +25,14 @@ class MainActivityWalk : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main_walk)
+
+        val sharedPreferences = getSharedPreferences("sharedPreferencesFileName", Context.MODE_PRIVATE)
+        val retrievedValue = sharedPreferences.getBoolean("isInitLaunch", true)
+        if (!retrievedValue) {
+            val i = Intent(this@MainActivityWalk, StatusSaverActivity::class.java)
+            startActivity(i)
+            finish()
+        }
         backbtn = findViewById<Button>(R.id.backbtn)
         nextbtn = findViewById<Button>(R.id.nextbtn)
         skipbtn = findViewById<Button>(R.id.skipButton)

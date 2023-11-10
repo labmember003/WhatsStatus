@@ -1,6 +1,8 @@
 package com.geeksoftapps.whatsweb.app.ui.status
 
+import android.content.Context
 import android.content.Intent
+import android.content.SharedPreferences
 import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
@@ -20,6 +22,12 @@ class StatusSaverActivity : BasicActivity(), StatusContainerFragment.StatusSaver
         super.onCreate(savedInstanceState)
         binding = DataBindingUtil.setContentView(this, R.layout.activity_status_saver)
         setSupportActionBar(binding.toolbar)
+
+        val sharedPreferences = getSharedPreferences("sharedPreferencesFileName", Context.MODE_PRIVATE)
+        val editor: SharedPreferences.Editor = sharedPreferences.edit()
+        editor.putBoolean("isInitLaunch", false)
+        editor.apply()
+
         supportActionBar?.setDisplayHomeAsUpEnabled(false)
         startFragment(StatusContainerFragment(), StatusContainerFragment.TAG)
     }
