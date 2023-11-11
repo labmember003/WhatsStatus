@@ -86,10 +86,6 @@ class MainActivity : BasicActivity(), KodeinAware, InstallStateUpdatedListener,
         setOnClickListeners()
         loadBillingClient()
         initiateAppUpdateManager()
-//        lifecycleScope.launch {
-//            delay(20000)
-//            AppLovinSdk.getInstance(this@MainActivity).showMediationDebugger()
-//        }
         WhatsWebPreferences.isFullVersionEnabled = true
     }
 

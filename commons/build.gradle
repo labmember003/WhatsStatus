@@ -100,8 +100,6 @@ dependencies {
 
     api "com.android.billingclient:billing:$inapp_billing_version"
 
-    api 'com.applovin:applovin-sdk:+'
-    api 'com.applovin.mediation:facebook-adapter:+'
 
     api "com.google.android.play:core:$play_core_version"
 
