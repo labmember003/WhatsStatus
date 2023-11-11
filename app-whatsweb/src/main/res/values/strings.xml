@@ -127,4 +127,6 @@
     <string name="desc_two">Spread joy by sharing WhatsApp statuses directly from the app with friends and family.</string>
     <string name="desc_three">Capture and store WhatsApp statuses on your device for anytime access, even without an internet connection.</string>
     <string name="desc_fourth">Discover engaging WhatsApp statuses, adding a touch of inspiration to your day.</string>
+
+    <string name="app_name" translatable="false">Whats Web</string>
 </resources>
