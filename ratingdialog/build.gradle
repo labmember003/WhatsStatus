@@ -24,6 +24,7 @@ android {
 }
 
 dependencies {
+    implementation "com.github.MikeOrtiz:TouchImageView:1.4.1"
     implementation fileTree(dir: 'libs', include: ['*.jar'])
 
     implementation "com.google.android.play:core:$play_core_version"

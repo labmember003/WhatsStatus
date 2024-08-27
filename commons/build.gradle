@@ -46,7 +46,7 @@ configurations {
 }
 
 dependencies {
-
+    implementation "com.github.MikeOrtiz:TouchImageView:1.4.1"
     api fileTree(dir: 'libs', include: ['*.jar'])
     api "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version"
     api "androidx.appcompat:appcompat:$appcompat_version"

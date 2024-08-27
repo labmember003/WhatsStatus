@@ -36,7 +36,7 @@ android {
 }
 
 dependencies {
-
+    implementation "com.github.MikeOrtiz:TouchImageView:1.4.1"
     api 'androidx.documentfile:documentfile:1.0.1'
 
     // Dont change to 0.5.4, 0.5.4 is buggy, it was removed by me later

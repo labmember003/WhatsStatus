@@ -35,6 +35,7 @@ buildscript {
         maven { url 'https://android-sdk.is.com/' }
     }
     dependencies {
+        classpath "com.github.MikeOrtiz:TouchImageView:1.4.1"
         classpath "com.android.tools.build:gradle:$gradle_version"
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
         classpath "com.google.android.gms:oss-licenses-plugin:$osslicense_plugin_version"
