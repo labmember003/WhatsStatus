@@ -39,33 +39,7 @@ class MediaViewPagerAdapter(
     }
 
     inner class ImageViewHolder(val binding: ListItemViewPagerImagePreviewBinding) :
-        RecyclerView.ViewHolder(binding.root) {
-        init {
-            binding.ivPreview.apply {
-                layoutParams = ConstraintLayout.LayoutParams(MATCH_PARENT, MATCH_PARENT)
-                setOnTouchListener { view, event ->
-                    var result = true
-                    //can scroll horizontally checks if there's still a part of the image
-                    //that can be scrolled until you reach the edge
-                    if (event.pointerCount >= 2 || view.canScrollHorizontally(1) && canScrollHorizontally(-1)) {
-                        //multi-touch event
-                        result = when (event.action) {
-                            MotionEvent.ACTION_DOWN, MotionEvent.ACTION_MOVE -> {
-                                parent.requestDisallowInterceptTouchEvent(true)
-                                false
-                            }
-                            MotionEvent.ACTION_UP -> {
-                                parent.requestDisallowInterceptTouchEvent(false)
-                                true
-                            }
-                            else -> true
-                        }
-                    }
-                    result
-                }
-            }
-        }
-    }
+        RecyclerView.ViewHolder(binding.root)
 
     inner class VideoViewHolder(val binding: ListItemViewPagerVideoPreviewBinding) :
         RecyclerView.ViewHolder(binding.root)
