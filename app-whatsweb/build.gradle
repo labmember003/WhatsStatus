@@ -9,11 +9,11 @@ apply plugin: 'com.google.android.gms.oss-licenses-plugin'
 apply plugin: 'kotlinx-serialization'
 
 android {
-    compileSdkVersion 33
+    compileSdkVersion 34
     defaultConfig {
         applicationId "com.whatsweb.droid"
         minSdkVersion 22
-        targetSdkVersion 33
+        targetSdkVersion 34
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
 
         compileOptions {
@@ -58,13 +58,13 @@ android {
         whatsweb {
             dimension "default"
             applicationId "com.falcon.whatscan"
-            versionCode 100000001
+            versionCode 100000002
             // 1 (versioning scheme)
             // 00 (major version)
             // 02 (minor version)
             // 05 (patch version)
             // 00 spare for betas/RCs
-            versionName "1.0.0"
+            versionName "1.0.1"
         }
         whatswebscan {
             dimension "default"

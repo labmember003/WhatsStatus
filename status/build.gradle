@@ -5,12 +5,12 @@ apply plugin: 'kotlin-android'
 apply plugin: "kotlin-kapt"
 
 android {
-    compileSdkVersion 33
+    compileSdkVersion 34
 
 
     defaultConfig {
         minSdkVersion 22
-        targetSdkVersion 33
+        targetSdkVersion 34
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         consumerProguardFiles 'consumer-rules.pro'
