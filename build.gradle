@@ -17,7 +17,6 @@ buildscript {
     ext.touch_image_view_version = '2.3.2'
     ext.ccp_version = '2.5.0'
     ext.androidx_preference_version = '1.1.1'
-    ext.play_core_version = '1.10.0'
     ext.gms_version = '4.3.13'
     ext.crashlytics_project_version = '2.9.1'
     ext.facebook_audience_network_version = '6.8.0'

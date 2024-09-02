@@ -101,8 +101,8 @@ dependencies {
     api "com.android.billingclient:billing:$inapp_billing_version"
 
 
-    api "com.google.android.play:core:$play_core_version"
-
+    implementation "com.google.android.play:review:2.0.1"
+    implementation "com.google.android.play:app-update:2.1.0"
     api 'commons-io:commons-io:2.6'
 
     api "com.jakewharton.threetenabp:threetenabp:$threetenabp_version"

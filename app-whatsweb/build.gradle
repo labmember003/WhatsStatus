@@ -69,7 +69,7 @@ android {
         whatswebscan {
             dimension "default"
             applicationId "com.falcon.whatscan"
-            versionCode 100007000
+            versionCode 100007001
             // 1 (versioning scheme)
             // 00 (major version)
             // 02 (minor version)

@@ -27,8 +27,8 @@ dependencies {
     implementation "com.github.MikeOrtiz:TouchImageView:1.4.1"
     implementation fileTree(dir: 'libs', include: ['*.jar'])
 
-    implementation "com.google.android.play:core:$play_core_version"
-
+    implementation "com.google.android.play:review:2.0.1"
+    implementation "com.google.android.play:app-update:2.1.0"
     androidTestImplementation('androidx.test.espresso:espresso-core:3.1.0', {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
