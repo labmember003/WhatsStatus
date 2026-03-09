@@ -1,3 +1,5 @@
+package com.geeksoftapps.whatsweb.app
+
 import android.content.ActivityNotFoundException
 import android.content.Intent
 import android.content.res.Configuration
@@ -9,16 +11,26 @@ import androidx.appcompat.app.AlertDialog
 import androidx.core.view.isVisible
 import androidx.databinding.DataBindingUtil
 import androidx.lifecycle.lifecycleScope
-import com.android.billingclient.api.AcknowledgePurchaseParams
-import com.android.billingclient.api.AcknowledgePurchaseResponseListener
-import com.android.billingclient.api.BillingClient
-import com.android.billingclient.api.BillingClientStateListener
-import com.android.billingclient.api.BillingFlowParams
-import com.android.billingclient.api.BillingResult
-import com.android.billingclient.api.Purchase
-import com.android.billingclient.api.PurchasesUpdatedListener
-import com.android.billingclient.api.SkuDetailsParams
-
+import com.android.billingclient.api.*
+import com.geeksoftapps.whatsweb.app.appconfig.ActPremiumAppConfig
+import com.geeksoftapps.whatsweb.app.appconfig.ExternalAppConfig
+import com.geeksoftapps.whatsweb.app.databinding.ActivityMainBinding
+import com.geeksoftapps.whatsweb.app.ui.AppSettingsActivity
+import com.geeksoftapps.whatsweb.app.ui.ChatActivity
+import com.geeksoftapps.whatsweb.app.ui.ads.BannerAdLocation
+import com.geeksoftapps.whatsweb.app.ui.ads.InterstitialAdLocation
+import com.geeksoftapps.whatsweb.app.ui.ads.getMaxBannerAdUnitId
+import com.geeksoftapps.whatsweb.app.ui.ads.getMaxInterstitialAdUnitId
+import com.geeksoftapps.whatsweb.app.ui.customwebview.CustomWebViewActivity
+import com.geeksoftapps.whatsweb.app.ui.dialogs.RatingDialog
+import com.geeksoftapps.whatsweb.app.ui.dialogs.StartAppUpdateDialog
+import com.geeksoftapps.whatsweb.app.ui.status.StatusSaverActivity
+import com.geeksoftapps.whatsweb.app.utils.CommonUtils
+import com.geeksoftapps.whatsweb.app.utils.FullVersionUtils
+import com.geeksoftapps.whatsweb.app.utils.WhatsWebPreferences
+import com.geeksoftapps.whatsweb.app.utils.showSafely
+import com.geeksoftapps.whatsweb.commons.*
+import com.geeksoftapps.whatsweb.commons.log
 import com.google.android.material.snackbar.Snackbar
 import com.google.android.play.core.appupdate.AppUpdateManager
 import com.google.android.play.core.appupdate.AppUpdateManagerFactory
@@ -30,31 +42,10 @@ import com.google.android.play.core.install.model.UpdateAvailability
 import com.google.firebase.crashlytics.ktx.crashlytics
 import com.google.firebase.ktx.Firebase
 import com.google.firebase.remoteconfig.ktx.remoteConfig
-import com.google.firebase.remoteconfig.ktx.remoteConfigSettings
-import com.geeksoftapps.whatsweb.commons.log
-import com.geeksoftapps.whatsweb.commons.*
-import com.geeksoftapps.whatsweb.app.ui.dialogs.RatingDialog
-import com.geeksoftapps.whatsweb.app.ui.dialogs.StartAppUpdateDialog
-import com.geeksoftapps.whatsweb.app.appconfig.ActPremiumAppConfig
-import com.geeksoftapps.whatsweb.app.appconfig.ExternalAppConfig
-import com.geeksoftapps.whatsweb.app.databinding.ActivityMainBinding
-import com.geeksoftapps.whatsweb.app.utils.showSafely
-import com.geeksoftapps.whatsweb.app.ui.ads.BannerAdLocation
-import com.geeksoftapps.whatsweb.app.ui.ads.InterstitialAdLocation
-import com.geeksoftapps.whatsweb.app.ui.status.StatusSaverActivity
-import com.geeksoftapps.whatsweb.app.utils.WhatsWebPreferences
-import com.geeksoftapps.whatsweb.app.utils.CommonUtils
-import com.geeksoftapps.whatsweb.app.utils.FullVersionUtils
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import org.kodein.di.KodeinAware
 import org.kodein.di.android.closestKodein
-import ui.AppSettingsActivity
-import ui.ChatActivity
-import ui.ads.getMaxBannerAdUnitId
-import ui.ads.getMaxInterstitialAdUnitId
-import ui.customwebview.CustomWebViewActivity
-import ui.utils.Constants
 
 class MainActivity : BasicActivity(), KodeinAware, InstallStateUpdatedListener,
     PurchasesUpdatedListener {
@@ -81,7 +72,7 @@ class MainActivity : BasicActivity(), KodeinAware, InstallStateUpdatedListener,
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = DataBindingUtil.setContentView(this, R.layout.activity_main)
-        RatingDialog.getDialog(this, true).show()
+        RatingDialog.getDialog(this, true)?.show()
         setLayout()
         setOnClickListeners()
         loadBillingClient()
@@ -113,6 +104,7 @@ class MainActivity : BasicActivity(), KodeinAware, InstallStateUpdatedListener,
                 it.isUpdateTypeAllowed(AppUpdateType.FLEXIBLE)
             ) {
                 try {
+                    @Suppress("DEPRECATION")
                     appUpdateManager?.startUpdateFlowForResult(
                         it,
                         AppUpdateType.FLEXIBLE,
@@ -230,21 +222,24 @@ class MainActivity : BasicActivity(), KodeinAware, InstallStateUpdatedListener,
             }
         }
     }
+
     override fun onResume() {
         super.onResume()
         binding.isPremium = true
-        ActPremiumAppConfig.getConfig {
-            lifecycleScope.launch(Dispatchers.Main) {
-                if (!it.shouldActPremium) {
-                    binding.isPremium = WhatsWebPreferences.isFullVersionEnabled
-                } else {
-                    binding.isPremium = true
+        lifecycleScope.launch {
+            ActPremiumAppConfig.getConfig {
+                lifecycleScope.launch(Dispatchers.Main) {
+                    if (!it.shouldActPremium) {
+                        binding.isPremium = WhatsWebPreferences.isFullVersionEnabled
+                    } else {
+                        binding.isPremium = true
+                    }
                 }
             }
         }
         appUpdateManager?.appUpdateInfo?.addOnSuccessListener {
             if (it.installStatus() == InstallStatus.DOWNLOADED) {
-                StartAppUpdateDialog.get(this@MainActivity) { dialog, which ->
+                StartAppUpdateDialog.get(this@MainActivity) { _, _ ->
                     appUpdateManager?.completeUpdate()
                     appUpdateManager?.unregisterListener(this@MainActivity)
                 }.showSafely(this@MainActivity)
@@ -276,7 +271,7 @@ class MainActivity : BasicActivity(), KodeinAware, InstallStateUpdatedListener,
     }
 
     private fun popupSnackbarForCompleteUpdate() {
-        analytics.log(eventName = "app_update_downloaded",itemName = "popupSnackbarForCompleteUpdate")
+        analytics.logEvent("app_update_downloaded", null)
         Snackbar.make(
             binding.parentLayout,
             getString(R.string.update_downloaded_message),
@@ -292,18 +287,16 @@ class MainActivity : BasicActivity(), KodeinAware, InstallStateUpdatedListener,
      */
 
     private fun onPurchasePremiumClicked() {
-        analytics.log(
-            eventName = "OnPurchaseClicked",
-            itemName = billingClient?.isReady.toString()
-        )
+        analytics.logEvent("OnPurchaseClicked", null)
         if (billingClient?.isReady == true) {
-            val queryPurchase = billingClient?.queryPurchases(BillingClient.SkuType.INAPP)
-            val queryPurchases = queryPurchase?.purchasesList
-            if (queryPurchases != null && queryPurchases.size > 0) {
-                showToastAndRestartActivity(getString(R.string.premium_unlocked))
-            } else initiatePurchase()
-        }
-        else {
+            queryExistingPurchases { purchases ->
+                if (purchases != null && purchases.isNotEmpty()) {
+                    showToastAndRestartActivity(getString(R.string.premium_unlocked))
+                } else {
+                    initiatePurchase()
+                }
+            }
+        } else {
             lifecycleScope.launch(Dispatchers.IO) {
                 billingClient =
                     BillingClient.newBuilder(this@MainActivity).enablePendingPurchases().setListener(
@@ -312,11 +305,13 @@ class MainActivity : BasicActivity(), KodeinAware, InstallStateUpdatedListener,
                 billingClient?.startConnection(object : BillingClientStateListener {
                     override fun onBillingSetupFinished(billingResult: BillingResult) {
                         if (billingResult.responseCode == BillingClient.BillingResponseCode.OK) {
-                            val queryPurchase = billingClient?.queryPurchases(BillingClient.SkuType.INAPP)
-                            val queryPurchases = queryPurchase?.purchasesList
-                            if (queryPurchases != null && queryPurchases.size > 0) {
-                                showToastAndRestartActivity(getString(R.string.premium_unlocked))
-                            } else initiatePurchase()
+                            queryExistingPurchases { purchases ->
+                                if (purchases != null && purchases.isNotEmpty()) {
+                                    showToastAndRestartActivity(getString(R.string.premium_unlocked))
+                                } else {
+                                    initiatePurchase()
+                                }
+                            }
                         } else {
                             toggleProgressDialog(false)
                             showToastIfActivityExists(getString(R.string.try_again))
@@ -326,11 +321,23 @@ class MainActivity : BasicActivity(), KodeinAware, InstallStateUpdatedListener,
                     override fun onBillingServiceDisconnected() {
                         toggleProgressDialog(false)
                     }
-
                 })
             }
         }
         toggleProgressDialog(true)
+    }
+
+    private fun queryExistingPurchases(callback: (List<Purchase>?) -> Unit) {
+        val params = QueryPurchasesParams.newBuilder()
+            .setProductType(BillingClient.ProductType.INAPP)
+            .build()
+        billingClient?.queryPurchasesAsync(params) { billingResult, purchases ->
+            if (billingResult.responseCode == BillingClient.BillingResponseCode.OK) {
+                callback(purchases)
+            } else {
+                callback(null)
+            }
+        }
     }
 
     private fun showToastAndRestartActivity(message: String) {
@@ -339,8 +346,10 @@ class MainActivity : BasicActivity(), KodeinAware, InstallStateUpdatedListener,
             toggleProgressDialog(false)
             showToastIfActivityExists(message)
             finish()
+            @Suppress("DEPRECATION")
             overridePendingTransition( 0, 0)
             startActivity(intent)
+            @Suppress("DEPRECATION")
             overridePendingTransition( 0, 0)
         }
     }
@@ -376,21 +385,30 @@ class MainActivity : BasicActivity(), KodeinAware, InstallStateUpdatedListener,
     }
 
     private fun initiatePurchase() = lifecycleScope.launch(Dispatchers.IO) {
-        val skuList: MutableList<String> = ArrayList()
-        skuList.add(FullVersionUtils.fullVersionPurchaseId)
-        val params = SkuDetailsParams.newBuilder()
-        params.setSkusList(skuList).setType(BillingClient.SkuType.INAPP)
-        billingClient?.querySkuDetailsAsync(
-            params.build()
-        ) { billingResult, skuDetailsList ->
+        val productList = listOf(
+            QueryProductDetailsParams.Product.newBuilder()
+                .setProductId(FullVersionUtils.fullVersionPurchaseId)
+                .setProductType(BillingClient.ProductType.INAPP)
+                .build()
+        )
+        val params = QueryProductDetailsParams.newBuilder()
+            .setProductList(productList)
+            .build()
+        billingClient?.queryProductDetailsAsync(params) { billingResult, productDetailsList ->
             if (billingResult.responseCode == BillingClient.BillingResponseCode.OK) {
-                if (skuDetailsList != null && skuDetailsList.size > 0) {
+                if (productDetailsList.isNotEmpty()) {
+                    val productDetailsParams = listOf(
+                        BillingFlowParams.ProductDetailsParams.newBuilder()
+                            .setProductDetails(productDetailsList[0])
+                            .build()
+                    )
                     val flowParams = BillingFlowParams.newBuilder()
-                        .setSkuDetails(skuDetailsList[0])
+                        .setProductDetailsParamsList(productDetailsParams)
                         .build()
-                    billingClient?.launchBillingFlow(this@MainActivity, flowParams)
+                    runOnUiThread {
+                        billingClient?.launchBillingFlow(this@MainActivity, flowParams)
+                    }
                 } else {
-                    //try to add item/product id "purchase" inside managed product in google play console
                     toggleProgressDialog(false)
                     showToastIfActivityExists(getString(R.string.purchase_item_not_found))
                 }
@@ -405,10 +423,10 @@ class MainActivity : BasicActivity(), KodeinAware, InstallStateUpdatedListener,
         if (billingResult.responseCode == BillingClient.BillingResponseCode.OK && purchases != null) {
             handlePurchases(purchases)
         } else if (billingResult.responseCode == BillingClient.BillingResponseCode.ITEM_ALREADY_OWNED) {
-            val queryAlreadyPurchasesResult = billingClient?.queryPurchases(BillingClient.SkuType.INAPP)
-            val alreadyPurchases = queryAlreadyPurchasesResult?.purchasesList
-            alreadyPurchases?.let { handlePurchases(it) } ?: run {
-                toggleProgressDialog(false)
+            queryExistingPurchases { alreadyPurchases ->
+                alreadyPurchases?.let { handlePurchases(it) } ?: run {
+                    toggleProgressDialog(false)
+                }
             }
         } else if (billingResult.responseCode == BillingClient.BillingResponseCode.USER_CANCELED) {
             toggleProgressDialog(false)
@@ -421,9 +439,7 @@ class MainActivity : BasicActivity(), KodeinAware, InstallStateUpdatedListener,
 
     private fun handlePurchases(purchases: List<Purchase>) {
         for (purchase in purchases) {
-            //if item is purchased
-            if (FullVersionUtils.fullVersionPurchaseId == purchase.skus[0] && purchase.purchaseState == Purchase.PurchaseState.PURCHASED) {
-                //if item is purchased and not acknowledged
+            if (FullVersionUtils.fullVersionPurchaseId == purchase.products[0] && purchase.purchaseState == Purchase.PurchaseState.PURCHASED) {
                 if (!purchase.isAcknowledged) {
                     val acknowledgePurchaseParams = AcknowledgePurchaseParams.newBuilder()
                         .setPurchaseToken(purchase.purchaseToken)
@@ -433,10 +449,10 @@ class MainActivity : BasicActivity(), KodeinAware, InstallStateUpdatedListener,
                     toggleProgressDialog(false)
                     showToastAndRestartActivity(getString(R.string.premium_unlocked))
                 }
-            } else if (FullVersionUtils.fullVersionPurchaseId == purchase.skus[0] && purchase.purchaseState == Purchase.PurchaseState.PENDING) {
+            } else if (FullVersionUtils.fullVersionPurchaseId == purchase.products[0] && purchase.purchaseState == Purchase.PurchaseState.PENDING) {
                 toggleProgressDialog(false)
                 showToastIfActivityExists(getString(R.string.pending_purchase))
-            } else if (FullVersionUtils.fullVersionPurchaseId == purchase.skus[0] && purchase.purchaseState == Purchase.PurchaseState.UNSPECIFIED_STATE) {
+            } else if (FullVersionUtils.fullVersionPurchaseId == purchase.products[0] && purchase.purchaseState == Purchase.PurchaseState.UNSPECIFIED_STATE) {
                 toggleProgressDialog(false)
                 showToastIfActivityExists(getString(R.string.purchase_status_not_known))
             }
@@ -446,8 +462,8 @@ class MainActivity : BasicActivity(), KodeinAware, InstallStateUpdatedListener,
     private var ackPurchase =
         AcknowledgePurchaseResponseListener { billingResult ->
             if (billingResult.responseCode == BillingClient.BillingResponseCode.OK) {
-                analytics.log(eventName = "OnProductPurchased")
-                showToastAndRestartActivity(getString(R.string.premium_unlocked) )
+                analytics.logEvent("OnProductPurchased", null)
+                showToastAndRestartActivity(getString(R.string.premium_unlocked))
             } else toggleProgressDialog(false)
         }
 

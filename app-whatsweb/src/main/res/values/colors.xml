@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="colorPrimary">#0B8E7F</color>
+    <color name="colorPrimaryDark">#08665C</color>
+    <color name="colorAccent">#0B8E7F</color>
+
     <color name="gray">#ece4e4</color>
 
     <color name="shimmer_bg">#dddddd</color>
@@ -39,4 +43,6 @@
 
     <color name="inactive">#C4C4C4</color>
     <color name="active">#50C2C9</color>
+
+    <color name="ic_launcher_background">#22BB5E</color>
 </resources>

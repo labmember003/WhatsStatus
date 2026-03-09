@@ -27,10 +27,6 @@ import kotlin.coroutines.suspendCoroutine
 class CustomWebView: WebView {
 
     companion object {
-        // Fix for issues on Android 6/7
-//        const val initialUserAgent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3112.113 Safari/537.36"
-//        const val initialUserAgent = "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:46.0) Gecko/20100101 Firefox/61.0"
-//        const val initialUserAgent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36"
         val WHATSAPP_WEB_URL
             get() = "https://web.whatsapp.com/\uD83C\uDF10/${Locale.getDefault().language}"
         private const val REQUEST_CODE_FILE_UPLOAD = 4321
@@ -81,7 +77,6 @@ class CustomWebView: WebView {
             webViewClient = NavWebViewClient()
 
             settings.apply {
-                //This the the enabling of the zoom controls
                 loadWithOverviewMode = true
                 useWideViewPort = true
                 builtInZoomControls = true
@@ -178,8 +173,8 @@ class CustomWebView: WebView {
                                 reader.readAsDataURL(blobData);
                                 reader.onloadend = function() {
                                     base64data = reader.result;
-                                    var uriString = Android.${JSInterface::getBase64FromBlobData.name}(base64data, '$mimetype', '$downloadName');
-                                    WebView.${this::onBlobDownloadCompleted.name}(uriString)
+                                    var uriString = Android.getBase64FromBlobData(base64data, '$mimetype', '$downloadName');
+                                    WebView.onBlobDownloadCompleted(uriString)
                                 }
                             }
                         };
@@ -197,7 +192,6 @@ class CustomWebView: WebView {
                     setDescription("Downloading file...")
                     setTitle(downloadName)
                     allowScanningByMediaScanner()
-                    //Notify client once download is completed!
                     setNotificationVisibility(DownloadManager.Request.VISIBILITY_VISIBLE_NOTIFY_COMPLETED)
                     setDestinationInExternalPublicDir(Environment.DIRECTORY_DOWNLOADS, downloadName)
                 }
@@ -250,16 +244,13 @@ class CustomWebView: WebView {
         onWhatsWebViewActionListener = listener
     }
 
-    /**
-     * @return If activity result was handled
-     */
     fun handleActivityResult(requestCode: Int, resultCode: Int, data: Intent?): Boolean {
         return when(requestCode) {
             REQUEST_CODE_FILE_UPLOAD -> {
-                return whatsWebChromeClient?.let {
+                whatsWebChromeClient?.let {
                     it.receiveFileUploadResult(resultCode, data)
-                    return@let true
-                } ?: false
+                    return true
+                } ?: return false
             }
             else -> false
         }

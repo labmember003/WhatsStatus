@@ -1,4 +1,4 @@
-package ui.status.fragments
+package com.geeksoftapps.whatsweb.app.ui.status.fragments
 
 import android.Manifest
 import android.content.ActivityNotFoundException
@@ -22,7 +22,7 @@ import com.geeksoftapps.whatsweb.commons.BasicFragment
 import com.geeksoftapps.whatsweb.commons.log
 import com.geeksoftapps.whatsweb.commons.toast
 import com.geeksoftapps.whatsweb.app.App
-
+import com.geeksoftapps.whatsweb.app.R
 import com.geeksoftapps.whatsweb.app.databinding.FragmentStatusSaverBinding
 import com.geeksoftapps.whatsweb.app.ui.status.adapters.StatusViewPagerAdapter
 import com.geeksoftapps.whatsweb.app.utils.WhatsWebPreferences
@@ -54,6 +54,12 @@ class StatusContainerFragment : BasicFragment(), KodeinAware {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
         acquirePermissions()
+
+        binding.ivBack.setOnClickListener {
+            (activity as? StatusSaverFragmentActions)?.onHomePress() ?: run {
+                activity?.finish()
+            }
+        }
     }
 
     override fun onResume() {
@@ -85,15 +91,6 @@ class StatusContainerFragment : BasicFragment(), KodeinAware {
         binding.tabs.getTabAt(1)?.setText(R.string.saved_statuses)
     }
 
-    override fun onActivityCreated(savedInstanceState: Bundle?) {
-        super.onActivityCreated(savedInstanceState)
-        binding.ivBack.setOnClickListener {
-            (activity as? StatusSaverFragmentActions)?.onHomePress() ?: run {
-                activity?.finish()
-            }
-        }
-    }
-
     fun onExternalStorageWritePermissionDenied() {
         binding.btnGrantPermission.visibility = View.VISIBLE
         binding.btnGrantPermission.setOnClickListener { }
@@ -116,7 +113,6 @@ class StatusContainerFragment : BasicFragment(), KodeinAware {
         super.onActivityResult(requestCode, resultCode, data)
         if (requestCode == REQUEST_CODE_SAF) {
             if (resultCode == AppCompatActivity.RESULT_OK && data != null) {
-                //this is the uri user has provided us
                 val treeUri: Uri? = data.data
                 if (treeUri != null) {
                     val uriString = Uri.decode(treeUri.toString())
@@ -193,8 +189,6 @@ class StatusContainerFragment : BasicFragment(), KodeinAware {
         try {
             startActivityForResult(intent, REQUEST_CODE_SAF)
         } catch (anfe: ActivityNotFoundException) {
-            //There is no file manager present to process this request
-            //finish
             toast("Sorry, we are not able to find any file manager in your phone. Please install a file manager or contactus.")
             activity?.finish()
         }

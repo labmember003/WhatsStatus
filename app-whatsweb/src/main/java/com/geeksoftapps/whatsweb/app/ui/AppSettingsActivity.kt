@@ -1,4 +1,4 @@
-package ui
+package com.geeksoftapps.whatsweb.app.ui
 
 import android.content.Intent
 import android.os.Bundle
@@ -13,14 +13,12 @@ import com.geeksoftapps.whatsweb.app.BuildConfig
 import com.google.android.gms.oss.licenses.OssLicensesMenuActivity
 import com.google.firebase.analytics.FirebaseAnalytics
 import com.geeksoftapps.whatsweb.commons.BasicActivity
-import com.geeksoftapps.whatsweb.commons.log
-
+import com.geeksoftapps.whatsweb.app.R
 import com.geeksoftapps.whatsweb.app.databinding.ActivitySettingsBinding
 import com.geeksoftapps.whatsweb.app.utils.CommonUtils
 import com.geeksoftapps.whatsweb.app.utils.WhatsWebPreferences
-import ui.utils.Constants
+import com.geeksoftapps.whatsweb.app.utils.Constants
 import java.util.*
-
 
 class AppSettingsActivity : BasicActivity() {
 
@@ -42,7 +40,7 @@ class AppSettingsActivity : BasicActivity() {
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         when (item.itemId) {
-            android.R.id.home -> onBackPressed()
+            android.R.id.home -> onBackPressedDispatcher.onBackPressed()
         }
         return super.onOptionsItemSelected(item)
     }
@@ -54,7 +52,7 @@ class AppSettingsActivity : BasicActivity() {
 
         override fun onCreatePreferences(savedInstanceState: Bundle?, rootKey: String?) {
             setPreferencesFromResource(R.xml.preferences, rootKey)
-            getAllPreferences().forEach {
+            getAllPreferences(preferenceScreen).forEach {
                 it.onPreferenceClickListener = this@SettingsFragment
                 it.onPreferenceChangeListener = this@SettingsFragment
                 setSummary(it)
@@ -72,8 +70,8 @@ class AppSettingsActivity : BasicActivity() {
             }
         }
 
-        override fun onPreferenceClick(preference: Preference?): Boolean {
-            return when(preference?.key) {
+        override fun onPreferenceClick(preference: Preference): Boolean {
+            return when(preference.key) {
                 getString(R.string.key_preference_bug_report) -> {
                     context?.let { CommonUtils.reportBug(it) }
                     true
@@ -104,12 +102,13 @@ class AppSettingsActivity : BasicActivity() {
             }
         }
 
-        override fun onPreferenceChange(preference: Preference?, newValue: Any?): Boolean {
-            return when(preference?.key) {
+        override fun onPreferenceChange(preference: Preference, newValue: Any?): Boolean {
+            return when(preference.key) {
                 getString(R.string.key_preference_dark_mode) -> {
                     val value = newValue as String
-                    firebaseAnalytics?.log(eventName = "SettingsFrag_darkModePrefChanged",
-                        itemId = value)
+                    firebaseAnalytics?.logEvent("SettingsFrag_darkModePrefChanged", Bundle().apply {
+                        putString("itemId", value)
+                    })
                     when(value) {
                         WhatsWebPreferences.DARK_MODE_ON -> {
                             AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_YES)
@@ -127,21 +126,16 @@ class AppSettingsActivity : BasicActivity() {
             }
         }
 
-        private fun getAllPreferences(): List<Preference> {
+        private fun getAllPreferences(preference: Preference): List<Preference> {
             val allPreferences = mutableListOf<Preference>()
-            val queue: Queue<Preference> = LinkedList()
-            queue.add(preferenceScreen)
-            while (!queue.isEmpty()) {
-                val preference = queue.poll()
-                if (preference is PreferenceCategory || preference is PreferenceGroup) {
-                    val group = (preference as PreferenceGroup)
-                    val count = group.preferenceCount
-                    for (i in 0 until count) {
-                        queue.add(group.getPreference(i))
-                    }
-                } else {
-                    allPreferences.add(preference)
+            if (preference is PreferenceCategory || preference is PreferenceGroup) {
+                val group = (preference as PreferenceGroup)
+                val count = group.preferenceCount
+                for (i in 0 until count) {
+                    allPreferences.addAll(getAllPreferences(group.getPreference(i)))
                 }
+            } else {
+                allPreferences.add(preference)
             }
             return allPreferences
         }

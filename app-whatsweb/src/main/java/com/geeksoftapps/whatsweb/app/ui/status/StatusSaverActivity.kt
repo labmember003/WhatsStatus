@@ -14,7 +14,6 @@ import com.geeksoftapps.whatsweb.app.ui.AppSettingsActivity
 import com.geeksoftapps.whatsweb.app.ui.status.fragments.StatusContainerFragment
 import com.geeksoftapps.whatsweb.commons.BasicActivity
 
-
 class StatusSaverActivity : BasicActivity(), StatusContainerFragment.StatusSaverFragmentActions {
 
     private lateinit var binding: ActivityStatusSaverBinding
@@ -39,7 +38,6 @@ class StatusSaverActivity : BasicActivity(), StatusContainerFragment.StatusSaver
     }
 
     override fun onBackPressed() {
-//        super.onBackPressed()
         finishAffinity()
     }
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {

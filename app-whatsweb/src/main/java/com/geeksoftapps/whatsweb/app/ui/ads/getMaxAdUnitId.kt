@@ -1,7 +1,4 @@
-package ui.ads
-
-import com.geeksoftapps.whatsweb.app.ui.ads.BannerAdLocation
-import com.geeksoftapps.whatsweb.app.ui.ads.InterstitialAdLocation
+package com.geeksoftapps.whatsweb.app.ui.ads
 
 fun getMaxBannerAdUnitId(bannerAdLocation: BannerAdLocation): String {
     return when(bannerAdLocation) {

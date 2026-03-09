@@ -32,7 +32,7 @@ android {
 
     kotlinOptions {
         jvmTarget = "1.8"
-        freeCompilerArgs += ["-Xopt-in=kotlin.RequiresOptIn"]
+        freeCompilerArgs += ["-opt-in=kotlin.RequiresOptIn"]
     }
 
     buildFeatures {
@@ -67,7 +67,7 @@ dependencies {
     api 'androidx.legacy:legacy-support-v4:1.0.0'
     api "androidx.preference:preference-ktx:$androidx_preference_version"
 
-    kapt "com.android.databinding:compiler:$gradle_version"
+    // Removed manual databinding compiler as AGP handles it
 
     api "androidx.lifecycle:lifecycle-viewmodel-ktx:$lifecycle_version"
     api "androidx.lifecycle:lifecycle-runtime-ktx:$lifecycle_version"

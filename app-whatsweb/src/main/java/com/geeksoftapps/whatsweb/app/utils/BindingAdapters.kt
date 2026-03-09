@@ -12,7 +12,8 @@ object BindingAdapters {
 
     @JvmStatic
     @BindingAdapter("savedStatusImage")
-    fun loadSavedStatusImage(view: ImageView, imagePath: Uri) {
+    fun loadSavedStatusImage(view: ImageView, imagePath: Uri?) {
+        if (imagePath == null) return
         Glide.with(view.context)
             .load(imagePath)
             .dontAnimate()

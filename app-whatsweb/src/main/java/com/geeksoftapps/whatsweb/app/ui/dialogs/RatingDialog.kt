@@ -8,10 +8,6 @@ import com.geeksoftapps.whatsweb.commons.toast
 
 import com.geeksoftapps.whatsweb.app.utils.CommonUtils
 import com.geeksoftapps.whatsweb.app.utils.Constants
-import com.geeksoftapps.whatsweb.app.utils.Constants.APP_RATE_DIALOG_INTERVAL
-import com.geeksoftapps.whatsweb.app.utils.Constants.APP_RATING_FLOW_V2
-import com.geeksoftapps.whatsweb.app.utils.Constants.RATING_THRESHOLD
-import com.geeksoftapps.whatsweb.app.utils.Constants.TOTAL_TIME_SPENT_THRESHOLD
 import com.geeksoftapps.whatsweb.app.utils.WhatsWebPreferences
 import com.geeksoftapps.whatsweb.app.utils.log
 import com.google.firebase.analytics.FirebaseAnalytics
@@ -45,19 +41,19 @@ object RatingDialog {
                 if (thresholdCleared) {
                     toast(activity.getString(R.string.rateUs))
                     FirebaseAnalytics.getInstance(App.getInstance())
-                        ?.log("rating_flow_submit_threshold_cleared", userRating.toString(), "threshold_cleared")
+                        .log("rating_flow_submit_threshold_cleared", userRating.toString(), "threshold_cleared")
 
                     WhatsWebPreferences.userRatedVersion = CommonUtils.getAppVersion(App.getInstance())
                 } else {
                     FirebaseAnalytics.getInstance(App.getInstance())
-                        ?.log("rating_flow", userRating.toString(), "threshold_not_cleared")
+                        .log("rating_flow", userRating.toString(), "threshold_not_cleared")
                 }
             }
             .onRatingBarFormSumbit { feedback ->
                 toast(activity.getString(R.string.send_feedback))
                 CommonUtils.sendFeedback(activity, "$feedback\n\nRating: $userRating")
                 FirebaseAnalytics.getInstance(App.getInstance())
-                    ?.log("rating_flow", userRating.toString(), "onRatingBarFormSumbit", feedback.toString())
+                    .log("rating_flow", userRating.toString(), "onRatingBarFormSumbit", feedback.toString())
             }
             .build()
     }
@@ -82,20 +78,20 @@ object RatingDialog {
     }
 
     private fun getRatingThreshold() = FirebaseRemoteConfig.getInstance().getValue(
-        RATING_THRESHOLD
+        Constants.RATING_THRESHOLD
     ).asDouble().toFloat()
 
     private fun totalAppTimeThreshold() = FirebaseRemoteConfig.getInstance().getValue(
-        TOTAL_TIME_SPENT_THRESHOLD
+        Constants.TOTAL_TIME_SPENT_THRESHOLD
     ).asLong()
 
     private fun isAppRatingFlowV2() = FirebaseRemoteConfig.getInstance().getValue(
-        APP_RATING_FLOW_V2
+        Constants.APP_RATING_FLOW_V2
     ).asBoolean()
 
     private fun hasUserRatedCurrentVersion() = WhatsWebPreferences.userRatedVersion == CommonUtils.getAppVersion(App.getInstance())
 
     private fun getAppRateDialogInterval() = FirebaseRemoteConfig.getInstance().getValue(
-        APP_RATE_DIALOG_INTERVAL
+        Constants.REMOTE_CONFIG_APP_RATE_DIALOG_INTERVAL
     ).asLong().toInt()
 }

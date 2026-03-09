@@ -3,6 +3,7 @@ package com.geeksoftapps.whatsweb.commons
 import android.os.Bundle
 import android.view.ViewGroup
 import androidx.appcompat.app.AppCompatActivity
+import com.google.firebase.analytics.FirebaseAnalytics
 import com.preference.PowerPreference
 
 data class BannerAdViewGroups(
@@ -17,6 +18,9 @@ abstract class BasicActivity: AppCompatActivity() {
     protected open val maxBannerAdUnitId = ""
     protected open val maxInterstitialAdUnitId = ""
 
+    protected val analytics: FirebaseAnalytics by lazy {
+        FirebaseAnalytics.getInstance(this)
+    }
 
     private var maxAdLoadAttempt = 0
     private var maxInterstitialAdLoadAttempt = 0

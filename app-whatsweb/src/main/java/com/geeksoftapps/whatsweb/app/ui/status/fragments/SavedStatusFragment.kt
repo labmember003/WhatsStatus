@@ -1,4 +1,4 @@
-package ui.status.fragments
+package com.geeksoftapps.whatsweb.app.ui.status.fragments
 
 import android.content.Context
 import android.content.Intent
@@ -18,9 +18,9 @@ import com.google.firebase.analytics.FirebaseAnalytics
 import com.geeksoftapps.whatsweb.commons.BasicFragment
 import com.geeksoftapps.whatsweb.commons.log
 
+import com.geeksoftapps.whatsweb.app.R
 import com.geeksoftapps.whatsweb.app.databinding.FragmentStatusBinding
 import com.geeksoftapps.whatsweb.app.ui.status.adapters.SavedStatusAdapter
-import ui.status.fragments.StatusContainerFragment.Companion.WHATSAPP_STORAGE_URI
 import com.geeksoftapps.whatsweb.app.ui.status.preview.StatusPreviewActivity
 import com.geeksoftapps.whatsweb.app.ui.status.viewmodels.StatusSaverViewModel
 import com.geeksoftapps.whatsweb.app.utils.logCrashlytics
@@ -56,10 +56,11 @@ class SavedStatusFragment : BasicFragment(), KodeinAware, SavedStatusAdapter.Eve
         binding.lifecycleOwner = viewLifecycleOwner
         return binding.root
     }
-    override fun onActivityCreated(savedInstanceState: Bundle?) {
-        super.onActivityCreated(savedInstanceState)
+    
+    override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
+        super.onViewCreated(view, savedInstanceState)
         
-        savedStatusAdapter = SavedStatusAdapter(context ?: activity)
+        savedStatusAdapter = SavedStatusAdapter(requireContext())
 
         binding.rvStatus.adapter = savedStatusAdapter
         binding.rvStatus.layoutManager = StaggeredGridLayoutManager(
@@ -70,7 +71,7 @@ class SavedStatusFragment : BasicFragment(), KodeinAware, SavedStatusAdapter.Eve
 
         savedStatusAdapter.setEventListener(this)
 
-        val uri = arguments?.getParcelable<Uri>(WHATSAPP_STORAGE_URI)
+        val uri = arguments?.getParcelable<Uri>(StatusContainerFragment.WHATSAPP_STORAGE_URI)
         if (uri == null) {
             logCrashlytics("uri is null in ${SavedStatusFragment::class.simpleName}")
             activity?.finish()
@@ -78,7 +79,7 @@ class SavedStatusFragment : BasicFragment(), KodeinAware, SavedStatusAdapter.Eve
         }
 
         if (uri.scheme == "file") {
-            whatsAppDocumentFile = DocumentFile.fromFile(File(uri.path))
+            whatsAppDocumentFile = DocumentFile.fromFile(File(uri.path!!))
         } else {
             whatsAppDocumentFile = DocumentFile.fromTreeUri(requireContext(), uri)
         }
@@ -114,16 +115,9 @@ class SavedStatusFragment : BasicFragment(), KodeinAware, SavedStatusAdapter.Eve
     }
 
     private fun startStatusPreview(statusFile: DocumentFile, type: Int) {
-        context?.let {
-            FirebaseAnalytics.getInstance(it)?.log("StatusSaverFrag_OnItemClick", itemId = when (type) {
-                StatusPreviewActivity.TYPE_UNSAVED -> "TYPE_UNSAVED"
-                StatusPreviewActivity.TYPE_SAVED -> "TYPE_SAVED"
-                else -> "TYPE_UNKNOWN"
-            })
-        }
         startActivity(
             Intent(context, StatusPreviewActivity::class.java).apply {
-                putExtra(WHATSAPP_STORAGE_URI, whatsAppDocumentFile?.uri)
+                putExtra(StatusContainerFragment.WHATSAPP_STORAGE_URI, whatsAppDocumentFile?.uri)
                 putExtra(StatusPreviewActivity.EXTRA_STATUS_NAME, statusFile.uri)
                 putExtra(StatusPreviewActivity.EXTRA_STATUS_TYPE, type)
             })

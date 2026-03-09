@@ -1,4 +1,4 @@
-package ui
+package com.geeksoftapps.whatsweb.app.ui
 
 import android.content.Intent
 import android.content.pm.PackageManager
@@ -7,15 +7,15 @@ import android.os.Bundle
 import android.view.MenuItem
 import androidx.databinding.DataBindingUtil
 import com.geeksoftapps.whatsweb.commons.*
-
+import com.geeksoftapps.whatsweb.app.R
 import com.geeksoftapps.whatsweb.app.databinding.ActivityDirectChatBinding
 import com.geeksoftapps.whatsweb.app.ui.ads.BannerAdLocation
 import com.geeksoftapps.whatsweb.app.ui.ads.InterstitialAdLocation
 import com.geeksoftapps.whatsweb.app.ui.dialogs.ChatHelpDialog
 import com.geeksoftapps.whatsweb.app.utils.CommonUtils
 import com.geeksoftapps.whatsweb.app.utils.WhatsWebPreferences
-import ui.ads.getMaxBannerAdUnitId
-import ui.ads.getMaxInterstitialAdUnitId
+import com.geeksoftapps.whatsweb.app.ui.ads.getMaxBannerAdUnitId
+import com.geeksoftapps.whatsweb.app.ui.ads.getMaxInterstitialAdUnitId
 import java.net.URLEncoder
 
 class ChatActivity : BasicActivity() {
@@ -52,12 +52,12 @@ class ChatActivity : BasicActivity() {
             if (isPhoneEmpty()) {
                 toast(getString(R.string.enter_a_phone_number))
             } else {
-                analytics.log(eventName = "DMFrag_OnSendClick")
+                analytics.logEvent("DMFrag_OnSendClick", null)
                 startDirectMessageIntent(phone, message)
             }
         }
         binding.btnDirectLink.setOnClickListener {
-            analytics.log(eventName = "DMFrag_OnDirectLinkClick")
+            analytics.logEvent("DMFrag_OnDirectLinkClick", null)
             if (isPhoneEmpty()) {
                 toast(getString(R.string.enter_a_phone_number))
             } else {
@@ -87,7 +87,7 @@ class ChatActivity : BasicActivity() {
                 } ?: run {
                     toast(getString(R.string.whatsapp_not_installed))
                 }
-            } catch (e: PackageManager.NameNotFoundException) {
+            } catch (e: Exception) {
                 toast(getString(R.string.whatsapp_not_installed))
             }
         }

@@ -17,11 +17,6 @@ import android.view.View
 import android.view.ViewOutlineProvider
 import androidx.appcompat.app.AlertDialog
 import com.geeksoftapps.whatsweb.app.R
-import com.geeksoftapps.whatsweb.app.utils.Constants.CLEANER_APP_ID
-import com.geeksoftapps.whatsweb.app.utils.Constants.DEVELOPER_EMAIL
-import com.geeksoftapps.whatsweb.app.utils.Constants.FEEDBACK_EMAIL
-import com.geeksoftapps.whatsweb.app.utils.Constants.QR_CODE_APP_ID
-import com.geeksoftapps.whatsweb.app.utils.Constants.RECOVER_MESSAGES_APP_ID
 import com.geeksoftapps.whatsweb.commons.toast
 import com.google.firebase.crashlytics.FirebaseCrashlytics
 import com.google.firebase.remoteconfig.FirebaseRemoteConfig
@@ -30,11 +25,11 @@ import java.net.URLEncoder
 
 object CommonUtils {
 
-    fun getQrCodeScannerId() = FirebaseRemoteConfig.getInstance().getString(QR_CODE_APP_ID)
+    fun getQrCodeScannerId() = FirebaseRemoteConfig.getInstance().getString(Constants.QR_CODE_APP_ID)
 
-    fun getCleanerId() = FirebaseRemoteConfig.getInstance().getString(CLEANER_APP_ID)
+    fun getCleanerId() = FirebaseRemoteConfig.getInstance().getString(Constants.CLEANER_APP_ID)
 
-    fun getRecoverMessagesId() = FirebaseRemoteConfig.getInstance().getString(RECOVER_MESSAGES_APP_ID)
+    fun getRecoverMessagesId() = FirebaseRemoteConfig.getInstance().getString(Constants.RECOVER_MESSAGES_APP_ID)
 
     fun copyToClipboard(context: Context?, text: String) {
         context?.run {
@@ -68,7 +63,7 @@ object CommonUtils {
     fun reportBug(context: Context) {
         val intent = Intent(Intent.ACTION_SENDTO)
         intent.data = Uri.parse("mailto:")
-        intent.putExtra(Intent.EXTRA_EMAIL, arrayOf(DEVELOPER_EMAIL))
+        intent.putExtra(Intent.EXTRA_EMAIL, arrayOf(Constants.DEVELOPER_EMAIL))
         intent.putExtra(
             Intent.EXTRA_SUBJECT,
             context.getString(R.string.preference_title_bug_report) + " for " + getAppName(
@@ -100,7 +95,7 @@ object CommonUtils {
     fun sendFeedback(context: Context, feedback: String = "") {
         val intent = Intent(Intent.ACTION_SENDTO)
         intent.data = Uri.parse("mailto:")
-        intent.putExtra(Intent.EXTRA_EMAIL, arrayOf(FEEDBACK_EMAIL))
+        intent.putExtra(Intent.EXTRA_EMAIL, arrayOf(Constants.FEEDBACK_EMAIL))
         intent.putExtra(
             Intent.EXTRA_SUBJECT,
             "${context.getString(R.string.regarding_app)} ${getAppName(context)}"
@@ -113,7 +108,7 @@ object CommonUtils {
         }
     }
 
-    fun share(context: Context, shareContent: String): Intent = Intent(Intent.ACTION_SEND)
+    fun share(context: Context, shareContent: String = ""): Intent = Intent(Intent.ACTION_SEND)
         .apply {
             putExtra(
                 Intent.EXTRA_TEXT,

@@ -1,4 +1,4 @@
-package ui.customwebview
+package com.geeksoftapps.whatsweb.app.ui.customwebview
 
 import android.Manifest
 import android.content.Context
@@ -38,8 +38,9 @@ import permissions.dispatcher.NeedsPermission
 import permissions.dispatcher.OnPermissionDenied
 import permissions.dispatcher.PermissionUtils
 import permissions.dispatcher.RuntimePermissions
-import ui.ads.getMaxBannerAdUnitId
-import ui.ads.getMaxInterstitialAdUnitId
+import com.geeksoftapps.whatsweb.app.ui.ads.getMaxBannerAdUnitId
+import com.geeksoftapps.whatsweb.app.ui.ads.getMaxInterstitialAdUnitId
+import com.geeksoftapps.whatsweb.app.R
 import kotlin.math.abs
 
 @RuntimePermissions

@@ -23,6 +23,10 @@
         <item name="materialAlertDialogTheme">@style/ThemeOverlay.App.MaterialAlertDialog</item>
     </style>
 
+    <style name="AppTheme.ItemSelector" parent="">
+        <item name="android:background">?attr/selectableItemBackground</item>
+    </style>
+
     <style name="CustomBottomSheetDialogTheme" parent="Theme.Design.Light.BottomSheetDialog">
         <item name="bottomSheetStyle">@style/TransparentBackgroundBottomSheetStyle</item>
     </style>

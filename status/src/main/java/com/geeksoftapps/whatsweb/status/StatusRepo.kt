@@ -21,7 +21,7 @@ class StatusRepo(
         if (!savedStatusFile.exists()) {
             savedStatusFile.mkdirs()
         }
-        savedStatusDocumentFile = DocumentFile.fromFile(savedStatusFile)
+        savedStatusDocumentFile = DocumentFile.fromFile(savedStatusFile)!!
     }
 
     private val statuses by lazy {
@@ -38,10 +38,10 @@ class StatusRepo(
 
     override suspend fun save(statusFile: DocumentFile): Boolean = suspendCoroutine { cont ->
         try {
-
+            val name = statusFile.name ?: System.currentTimeMillis().toString()
             FileUtils.copyInputStreamToFile(
                 context.contentResolver.openInputStream(statusFile.uri),
-                File(savedStatusFile, statusFile.name)
+                File(savedStatusFile, name)
             )
             refresh()
             cont.resume(true)
