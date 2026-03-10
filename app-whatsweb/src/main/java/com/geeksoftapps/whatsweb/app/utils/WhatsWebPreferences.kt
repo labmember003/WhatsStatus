@@ -27,6 +27,8 @@ object WhatsWebPreferences: PreferenceTypes() {
 
     var whatsAppStorageUri by String(res.getString(R.string.key_preference_whatsapp_storage_uri), "")
 
+    var whatsAppBusinessStorageUri by String("whatsapp_business_storage_uri", "")
+
     var userRatedVersion by String(res.getString(R.string.key_preference_user_rated_version), "")
 
     //In Seconds

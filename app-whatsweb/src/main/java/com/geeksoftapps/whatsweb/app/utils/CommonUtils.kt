@@ -68,7 +68,7 @@ object CommonUtils {
 
     fun reportBug(context: Context) {
         val intent = Intent(Intent.ACTION_SENDTO)
-        intent.data = Uri.parse("mailto:")
+        intent.data = "mailto:".toUri()
         intent.putExtra(Intent.EXTRA_EMAIL, arrayOf(DEVELOPER_EMAIL))
         intent.putExtra(
             Intent.EXTRA_SUBJECT,

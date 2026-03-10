@@ -6,4 +6,6 @@
     <color name="colorPrimary">#FF6750A4</color>
     <color name="colorPrimaryDark">#FF6750A4</color>
     <color name="colorAccent">#FF6750A4</color>
+    <color name="toggle_unselected_text">#8A94A8</color>
 </resources>
+

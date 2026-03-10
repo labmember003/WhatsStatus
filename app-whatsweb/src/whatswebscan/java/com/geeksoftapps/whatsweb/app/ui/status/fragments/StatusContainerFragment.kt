@@ -27,7 +27,9 @@ import com.geeksoftapps.whatsweb.app.R
 import com.geeksoftapps.whatsweb.app.databinding.FragmentStatusSaverBinding
 import com.geeksoftapps.whatsweb.app.ui.status.adapters.StatusViewPagerAdapter
 import com.geeksoftapps.whatsweb.app.utils.WhatsWebPreferences
+import com.geeksoftapps.whatsweb.status.business_scoped_storage_uri
 import com.geeksoftapps.whatsweb.status.status_scoped_storage_uri
+import com.geeksoftapps.whatsweb.status.whatsapp_business_storage_file
 import com.geeksoftapps.whatsweb.status.whatsapp_storage_file
 import org.kodein.di.KodeinAware
 import org.kodein.di.android.x.closestKodein
@@ -36,13 +38,19 @@ class StatusContainerFragment : BasicFragment(), KodeinAware {
     override val kodein by closestKodein()
 
     private val REQUEST_CODE_SAF = 12123
+    private val REQUEST_CODE_SAF_BUSINESS = 12124
 
     private lateinit var binding: FragmentStatusSaverBinding
+
+    // Tracks which app is currently selected in the toggle
+    private var isBusinessSelected = false
 
     companion object {
         val TAG: String = StatusContainerFragment::class.java.simpleName
         const val WHATSAPP_STORAGE_URI = "WHATSAPP_STORAGE_URI"
+        const val IS_BUSINESS = "IS_BUSINESS"
     }
+
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
@@ -54,6 +62,7 @@ class StatusContainerFragment : BasicFragment(), KodeinAware {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
+        setupToggle()
         acquirePermissions()
     }
 
@@ -62,21 +71,68 @@ class StatusContainerFragment : BasicFragment(), KodeinAware {
         (activity as? StatusSaverFragmentActions)?.setToolBarTitle(getString(R.string.app_name))
     }
 
-    private fun setUpViewPager(whatsAppStorageUri: Uri) {
-        val adapter =
-            StatusViewPagerAdapter(
-                childFragmentManager
-            )
+    // ─── Toggle  ──────────────────────────────────────────────────────────────
+
+    private fun setupToggle() {
+        selectWhatsApp()
+        binding.btnToggleWhatsApp.setOnClickListener {
+            if (isBusinessSelected) {
+                isBusinessSelected = false
+                selectWhatsApp()
+                acquirePermissions()
+            }
+        }
+        binding.btnToggleBusiness.setOnClickListener {
+            if (!isBusinessSelected) {
+                isBusinessSelected = true
+                selectBusiness()
+                acquireBusinessPermissions()
+            }
+        }
+    }
+
+    private fun selectWhatsApp() {
+        binding.btnToggleWhatsApp.setBackgroundResource(R.drawable.bg_toggle_selected)
+        binding.btnToggleWhatsApp.setTextColor(
+            ContextCompat.getColor(requireContext(), R.color.colorPrimary)
+        )
+        binding.btnToggleBusiness.setBackgroundColor(android.graphics.Color.TRANSPARENT)
+        binding.btnToggleBusiness.setTextColor(
+            ContextCompat.getColor(requireContext(), R.color.toggle_unselected_text)
+        )
+    }
+
+    private fun selectBusiness() {
+        binding.btnToggleBusiness.setBackgroundResource(R.drawable.bg_toggle_selected)
+        binding.btnToggleBusiness.setTextColor(
+            ContextCompat.getColor(requireContext(), R.color.colorPrimary)
+        )
+        binding.btnToggleWhatsApp.setBackgroundColor(android.graphics.Color.TRANSPARENT)
+        binding.btnToggleWhatsApp.setTextColor(
+            ContextCompat.getColor(requireContext(), R.color.toggle_unselected_text)
+        )
+    }
+
+    // ─── ViewPager ────────────────────────────────────────────────────────────
+
+    private fun setUpViewPager(whatsAppStorageUri: Uri, isBusiness: Boolean = false) {
+        val adapter = StatusViewPagerAdapter(childFragmentManager)
 
         adapter.addFragment(
             StatusFragment().apply {
-                arguments = Bundle().apply { putParcelable(WHATSAPP_STORAGE_URI, whatsAppStorageUri) }
+                arguments = Bundle().apply {
+                    putParcelable(WHATSAPP_STORAGE_URI, whatsAppStorageUri)
+                    putBoolean(IS_BUSINESS, isBusiness)
+                }
             }, getString(R.string.available_statuses)
         )
 
         adapter.addFragment(
             SavedStatusFragment().apply {
-                arguments = Bundle().apply { putParcelable(WHATSAPP_STORAGE_URI, whatsAppStorageUri) }
+                arguments = Bundle().apply {
+                    putParcelable(WHATSAPP_STORAGE_URI, whatsAppStorageUri)
+                    putBoolean(IS_BUSINESS, isBusiness)
+                }
             }, getString(R.string.saved_statuses)
         )
 
@@ -88,11 +144,6 @@ class StatusContainerFragment : BasicFragment(), KodeinAware {
 
     override fun onActivityCreated(savedInstanceState: Bundle?) {
         super.onActivityCreated(savedInstanceState)
-       /* binding.ivBack.setOnClickListener {
-            (activity as? StatusSaverFragmentActions)?.onHomePress() ?: run {
-                activity?.finish()
-            }
-        }*/
     }
 
     fun onExternalStorageWritePermissionDenied() {
@@ -109,49 +160,68 @@ class StatusContainerFragment : BasicFragment(), KodeinAware {
                 }
             )
             toast(getString(R.string.please_grant_storage_permissions))
-            it.setOnClickListener {  }
+            it.setOnClickListener { }
         }
     }
+
+    // ─── Activity Result ──────────────────────────────────────────────────────
 
     override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
         super.onActivityResult(requestCode, resultCode, data)
-        if (requestCode == REQUEST_CODE_SAF) {
-            if (resultCode == AppCompatActivity.RESULT_OK && data != null) {
-                //this is the uri user has provided us
-                val treeUri: Uri? = data.data
-                if (treeUri != null) {
-                    val uriString = Uri.decode(treeUri.toString())
-                    if (!uriString.endsWith("WhatsApp", true)) {
-                        acquirePermissions()
-                        return
-                    }
-                    val documentFile = DocumentFile.fromTreeUri(requireContext(), treeUri)
-                        ?.findFile("Media")
-                        ?.findFile(".Statuses")
-                    if (documentFile == null) {
-                        toast(getString(R.string.whatsapp_directory_does_not_contain_statuses))
-                        acquirePermissions()
-                        return
-                    }
-                    val takeFlags: Int = Intent.FLAG_GRANT_READ_URI_PERMISSION or
-                            Intent.FLAG_GRANT_WRITE_URI_PERMISSION
-                    activity?.contentResolver?.takePersistableUriPermission(treeUri,
-                        takeFlags)
-
-                    WhatsWebPreferences.whatsAppStorageUri = treeUri.toString()
-                    setUpViewPager(treeUri)
-                }
-            } else {
-                toast(getString(R.string.try_again))
-                activity?.finish()
-            }
+        when (requestCode) {
+            REQUEST_CODE_SAF -> handleSafResult(resultCode, data, isBusiness = false)
+            REQUEST_CODE_SAF_BUSINESS -> handleSafResult(resultCode, data, isBusiness = true)
         }
     }
 
+    private fun handleSafResult(resultCode: Int, data: Intent?, isBusiness: Boolean) {
+        if (resultCode == AppCompatActivity.RESULT_OK && data != null) {
+            val treeUri: Uri? = data.data
+            if (treeUri != null) {
+                val uriString = Uri.decode(treeUri.toString())
+                val expectedSuffix = if (isBusiness) "WhatsApp Business" else "WhatsApp"
+                if (!uriString.endsWith(expectedSuffix, ignoreCase = true)) {
+                    toast(
+                        if (isBusiness) getString(R.string.wa_business_directory_invalid)
+                        else getString(R.string.whatsapp_directory_does_not_contain_statuses)
+                    )
+                    if (isBusiness) acquireBusinessPermissions() else acquirePermissions()
+                    return
+                }
+                val documentFile = DocumentFile.fromTreeUri(requireContext(), treeUri)
+                    ?.findFile("Media")
+                    ?.findFile(".Statuses")
+                if (documentFile == null) {
+                    toast(getString(R.string.whatsapp_directory_does_not_contain_statuses))
+                    if (isBusiness) acquireBusinessPermissions() else acquirePermissions()
+                    return
+                }
+                val takeFlags: Int = Intent.FLAG_GRANT_READ_URI_PERMISSION or
+                        Intent.FLAG_GRANT_WRITE_URI_PERMISSION
+                activity?.contentResolver?.takePersistableUriPermission(treeUri, takeFlags)
+
+                if (isBusiness) {
+                    WhatsWebPreferences.whatsAppBusinessStorageUri = treeUri.toString()
+                } else {
+                    WhatsWebPreferences.whatsAppStorageUri = treeUri.toString()
+                }
+                setUpViewPager(treeUri, isBusiness)
+            }
+        } else {
+            toast(getString(R.string.try_again))
+            if (!isBusiness) activity?.finish()
+        }
+    }
+
+    // ─── Permissions — WhatsApp ───────────────────────────────────────────────
+
     private fun acquirePermissions() {
         if (Build.VERSION.SDK_INT <= Build.VERSION_CODES.Q) {
-            if (ContextCompat.checkSelfPermission(context ?: return,
-                    Manifest.permission.WRITE_EXTERNAL_STORAGE) != PackageManager.PERMISSION_GRANTED) {
+            if (ContextCompat.checkSelfPermission(
+                    context ?: return,
+                    Manifest.permission.WRITE_EXTERNAL_STORAGE
+                ) != PackageManager.PERMISSION_GRANTED
+            ) {
                 registerForActivityResult(ActivityResultContracts.RequestPermission()) { isGranted: Boolean ->
                     if (isGranted) {
                         setUpViewPager(DocumentFile.fromFile(whatsapp_storage_file).uri)
@@ -166,40 +236,95 @@ class StatusContainerFragment : BasicFragment(), KodeinAware {
             val uriString = WhatsWebPreferences.whatsAppStorageUri
             when {
                 uriString == "" -> {
-                    log( "uri not stored")
-                    openDocumentTree()
+                    log("uri not stored")
+                    openDocumentTree(isBusiness = false)
                 }
                 arePermissionsGranted(uriString) -> {
                     setUpViewPager(Uri.parse(uriString))
                 }
                 else -> {
                     log("uri permission not stored")
-                    openDocumentTree()
+                    openDocumentTree(isBusiness = false)
                 }
             }
         }
     }
 
+    // ─── Permissions — WhatsApp Business ──────────────────────────────────────
+
+    private fun acquireBusinessPermissions() {
+        if (Build.VERSION.SDK_INT <= Build.VERSION_CODES.Q) {
+            if (ContextCompat.checkSelfPermission(
+                    context ?: return,
+                    Manifest.permission.WRITE_EXTERNAL_STORAGE
+                ) != PackageManager.PERMISSION_GRANTED
+            ) {
+                registerForActivityResult(ActivityResultContracts.RequestPermission()) { isGranted: Boolean ->
+                    if (isGranted) {
+                        if (whatsapp_business_storage_file.exists()) {
+                            setUpViewPager(DocumentFile.fromFile(whatsapp_business_storage_file).uri, isBusiness = true)
+                        } else {
+                            toast(getString(R.string.wa_business_not_installed))
+                            isBusinessSelected = false
+                            selectWhatsApp()
+                        }
+                    }
+                }.launch(Manifest.permission.WRITE_EXTERNAL_STORAGE)
+            } else {
+                if (whatsapp_business_storage_file.exists()) {
+                    setUpViewPager(DocumentFile.fromFile(whatsapp_business_storage_file).uri, isBusiness = true)
+                } else {
+                    toast(getString(R.string.wa_business_not_installed))
+                    isBusinessSelected = false
+                    selectWhatsApp()
+                }
+            }
+        } else {
+            val uriString = WhatsWebPreferences.whatsAppBusinessStorageUri
+            when {
+                uriString == "" -> {
+                    log("business uri not stored")
+                    openDocumentTree(isBusiness = true)
+                }
+                arePermissionsGranted(uriString) -> {
+                    setUpViewPager(Uri.parse(uriString), isBusiness = true)
+                }
+                else -> {
+                    log("business uri permission not stored")
+                    openDocumentTree(isBusiness = true)
+                }
+            }
+        }
+    }
+
+    // ─── SAF Picker ───────────────────────────────────────────────────────────
+
     @RequiresApi(Build.VERSION_CODES.O)
-    private fun openDocumentTree() {
-        toast(getString(R.string.please_select_whatsapp_directory))
+    private fun openDocumentTree(isBusiness: Boolean) {
+        toast(
+            if (isBusiness) getString(R.string.please_select_wa_business_directory)
+            else getString(R.string.please_select_whatsapp_directory)
+        )
+        val initialUri = if (isBusiness) business_scoped_storage_uri else status_scoped_storage_uri
         val intent = Intent(Intent.ACTION_OPEN_DOCUMENT_TREE).apply {
-            putExtra(DocumentsContract.EXTRA_INITIAL_URI, Uri.parse(status_scoped_storage_uri))
+            putExtra(DocumentsContract.EXTRA_INITIAL_URI, Uri.parse(initialUri))
         }
         intent.addFlags(
             Intent.FLAG_GRANT_READ_URI_PERMISSION
                     or Intent.FLAG_GRANT_WRITE_URI_PERMISSION
                     or Intent.FLAG_GRANT_PERSISTABLE_URI_PERMISSION
-                    or Intent.FLAG_GRANT_PREFIX_URI_PERMISSION)
+                    or Intent.FLAG_GRANT_PREFIX_URI_PERMISSION
+        )
         try {
-            startActivityForResult(intent, REQUEST_CODE_SAF)
+            val requestCode = if (isBusiness) REQUEST_CODE_SAF_BUSINESS else REQUEST_CODE_SAF
+            startActivityForResult(intent, requestCode)
         } catch (anfe: ActivityNotFoundException) {
-            //There is no file manager present to process this request
-            //finish
-            toast("Sorry, we are not able to find any file manager in your phone. Please install a file manager or contactus.")
-            activity?.finish()
+            toast("Sorry, we are not able to find any file manager in your phone. Please install a file manager or contact us.")
+            if (!isBusiness) activity?.finish()
         }
     }
+
+    // ─── Helpers ──────────────────────────────────────────────────────────────
 
     private fun arePermissionsGranted(uriString: String): Boolean {
         val list = activity?.contentResolver?.persistedUriPermissions ?: return false
