@@ -1,3 +1,5 @@
+package com.geeksoftapps.whatsweb.app
+
 import android.content.ActivityNotFoundException
 import android.content.Intent
 import android.content.res.Configuration

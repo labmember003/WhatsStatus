@@ -6,7 +6,7 @@ object Constants {
     const val DEVELOPER_EMAIL = "geeksoftapps@gmail.com"
     const val FEEDBACK_EMAIL = DEVELOPER_EMAIL
 
-    const val FILE_PROVIDER_AUTHORITY = BuildConfig.APPLICATION_ID + ".provider"
+    val FILE_PROVIDER_AUTHORITY = BuildConfig.APPLICATION_ID + ".provider"
 
     const val PRIVACY_POLICY_URL = "https://sites.google.com/view/whatsweb-geeksoftapps"
 

@@ -9,7 +9,7 @@ object Constants {
 
     const val APP_RATE_DIALOG_INTERVAL = 10
 
-    const val FILE_PROVIDER_AUTHORITY = BuildConfig.APPLICATION_ID + ".provider"
+    val FILE_PROVIDER_AUTHORITY = BuildConfig.APPLICATION_ID + ".provider"
 
     const val PRIVACY_POLICY_URL = "https://sites.google.com/view/whatsweb-geeksoftapps"
     const val TERMS_CONDITIONS_URL = "https://sites.google.com/view/whatsweb-geeksoftapps/tnc"

@@ -1,7 +1,7 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 
 buildscript {
-    ext.kotlin_version = '1.8.21'
+    ext.kotlin_version = '1.9.24'
     ext.kodein_version = "6.5.5"
     ext.lifecycle_version = "2.5.1"
     ext.arch_version = "2.1.0"
@@ -13,12 +13,12 @@ buildscript {
     ext.material_version = "1.4.0"
     ext.power_preference_version = "2.1.0"
     ext.inapp_billing_version = '6.0.1'
-    ext.gradle_version = '7.4.2'
+    ext.gradle_version = '8.1.4'
     ext.touch_image_view_version = '2.3.2'
     ext.ccp_version = '2.5.0'
     ext.androidx_preference_version = '1.1.1'
-    ext.gms_version = '4.3.13'
-    ext.crashlytics_project_version = '2.9.1'
+    ext.gms_version = '4.4.1'
+    ext.crashlytics_project_version = '2.9.9'
     ext.facebook_audience_network_version = '6.8.0'
     ext.exoplayer_version = '2.14.0'
     ext.coroutines_version = '1.4.2'

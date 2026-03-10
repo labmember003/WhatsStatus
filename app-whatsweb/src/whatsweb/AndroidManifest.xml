@@ -50,31 +50,35 @@
         android:theme="@style/AppTheme">
         <activity
             android:exported="false"
-            android:name="com.geeksoftapps.app.AppSettingsActivity"
+            android:name="ui.AppSettingsActivity"
             android:label="@string/settings" />
         <activity
             android:exported="false"
             android:name=".ui.status.preview.StatusPreviewActivity" />
         <activity
             android:exported="false"
-            android:name="com.geeksoftapps.app.CustomWebViewActivity"
+            android:name="ui.customwebview.CustomWebViewActivity"
             android:configChanges="orientation|keyboard|keyboardHidden|screenLayout|screenSize"/>
-        <activity android:name="com.geeksoftapps.app.ChatActivity"
+        <activity android:name="ui.ChatActivity"
             android:windowSoftInputMode="adjustPan"
             android:exported="false"
             android:theme="@style/DirectChatActivityTheme"
             />
         <activity android:name="com.geeksoftapps.whatsweb.app.MainActivity"
-            android:exported="false"
+            android:exported="true"
             />
         <activity android:name="ui.status.StatusSaverActivity"
             android:exported="false"
             android:theme="@style/StatusSaverActivityTheme"/>
 
         <activity-alias
-            android:exported="false"
+            android:exported="true"
             android:name=".ui.Launcher"
             android:targetActivity="com.geeksoftapps.whatsweb.app.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
         </activity-alias>
 
         <provider
