@@ -18,6 +18,7 @@ import com.google.firebase.analytics.FirebaseAnalytics
 import com.geeksoftapps.whatsweb.commons.BasicFragment
 import com.geeksoftapps.whatsweb.commons.log
 
+import com.geeksoftapps.whatsweb.app.R
 import com.geeksoftapps.whatsweb.app.databinding.FragmentStatusBinding
 import com.geeksoftapps.whatsweb.app.utils.logCrashlytics
 import com.geeksoftapps.whatsweb.app.ui.status.adapters.StatusAdapter
@@ -116,11 +117,14 @@ class StatusFragment : BasicFragment(), KodeinAware, StatusAdapter.EventListener
 
     private fun startStatusPreview(statusFile: DocumentFile, type: Int) {
         context?.let {
-            FirebaseAnalytics.getInstance(it)?.log("StatusSaverFrag_OnItemClick", itemId = when (type) {
+            val eventName = "StatusSaverFrag_OnItemClick"
+            val itemId = when (type) {
                 StatusPreviewActivity.TYPE_UNSAVED -> "TYPE_UNSAVED"
                 StatusPreviewActivity.TYPE_SAVED -> "TYPE_SAVED"
                 else -> "TYPE_UNKNOWN"
-            })
+            }
+            val bundle = android.os.Bundle().apply { putString("item_id", itemId) }
+            FirebaseAnalytics.getInstance(it)?.logEvent(eventName, bundle)
         }
         startActivity(
             Intent(context, StatusPreviewActivity::class.java).apply {

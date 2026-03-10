@@ -10,6 +10,7 @@ import androidx.preference.PreferenceCategory
 import androidx.preference.PreferenceFragmentCompat
 import androidx.preference.PreferenceGroup
 import com.geeksoftapps.whatsweb.app.BuildConfig
+import com.geeksoftapps.whatsweb.app.R
 import com.google.android.gms.oss.licenses.OssLicensesMenuActivity
 import com.google.firebase.analytics.FirebaseAnalytics
 import com.geeksoftapps.whatsweb.commons.BasicActivity
@@ -108,8 +109,9 @@ class AppSettingsActivity : BasicActivity() {
             return when(preference?.key) {
                 getString(R.string.key_preference_dark_mode) -> {
                     val value = newValue as String
-                    firebaseAnalytics?.log(eventName = "SettingsFrag_darkModePrefChanged",
-                        itemId = value)
+                    android.os.Bundle().also { b -> b.putString("item_id", value) }.let { b ->
+                        firebaseAnalytics?.logEvent("SettingsFrag_darkModePrefChanged", b)
+                    }
                     when(value) {
                         WhatsWebPreferences.DARK_MODE_ON -> {
                             AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_YES)

@@ -21,6 +21,7 @@ import com.google.firebase.ktx.Firebase
 import com.google.firebase.remoteconfig.ktx.remoteConfig
 import com.geeksoftapps.whatsweb.commons.*
 
+import com.geeksoftapps.whatsweb.app.R
 import com.geeksoftapps.whatsweb.app.databinding.ActivityCustomWebViewBinding
 import com.geeksoftapps.whatsweb.app.ui.ads.*
 import com.geeksoftapps.whatsweb.app.ui.customwebview.CustomWebView

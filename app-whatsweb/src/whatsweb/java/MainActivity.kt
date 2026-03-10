@@ -18,6 +18,8 @@ import com.android.billingclient.api.BillingResult
 import com.android.billingclient.api.Purchase
 import com.android.billingclient.api.PurchasesUpdatedListener
 import com.android.billingclient.api.SkuDetailsParams
+import com.android.billingclient.api.QueryPurchasesParams
+import com.geeksoftapps.whatsweb.app.R
 
 import com.google.android.material.snackbar.Snackbar
 import com.google.android.play.core.appupdate.AppUpdateManager
@@ -44,7 +46,7 @@ import com.geeksoftapps.whatsweb.app.ui.ads.InterstitialAdLocation
 import com.geeksoftapps.whatsweb.app.ui.status.StatusSaverActivity
 import com.geeksoftapps.whatsweb.app.utils.WhatsWebPreferences
 import com.geeksoftapps.whatsweb.app.utils.CommonUtils
-import com.geeksoftapps.whatsweb.app.utils.FullVersionUtils
+import ui.utils.FullVersionUtils
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import org.kodein.di.KodeinAware
@@ -81,7 +83,7 @@ class MainActivity : BasicActivity(), KodeinAware, InstallStateUpdatedListener,
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = DataBindingUtil.setContentView(this, R.layout.activity_main)
-        RatingDialog.getDialog(this, true).show()
+        RatingDialog.getDialog(this, true)?.show()
         setLayout()
         setOnClickListeners()
         loadBillingClient()
@@ -132,7 +134,7 @@ class MainActivity : BasicActivity(), KodeinAware, InstallStateUpdatedListener,
         }
         binding.ivShare.setOnClickListener {
             try {
-                startActivity(CommonUtils.share(this))
+                startActivity(CommonUtils.share(this, getString(R.string.app_name)))
             } catch (anfe: ActivityNotFoundException) {
                 toast("Sorry, we are not able to find any mailing app in your phone. Please install a mailing app or contactus.")
             }
@@ -297,11 +299,15 @@ class MainActivity : BasicActivity(), KodeinAware, InstallStateUpdatedListener,
             itemName = billingClient?.isReady.toString()
         )
         if (billingClient?.isReady == true) {
-            val queryPurchase = billingClient?.queryPurchases(BillingClient.SkuType.INAPP)
-            val queryPurchases = queryPurchase?.purchasesList
-            if (queryPurchases != null && queryPurchases.size > 0) {
-                showToastAndRestartActivity(getString(R.string.premium_unlocked))
-            } else initiatePurchase()
+            billingClient?.queryPurchasesAsync(
+                QueryPurchasesParams.newBuilder().setProductType(BillingClient.ProductType.INAPP).build()
+            ) { billingResult, queryPurchases ->
+                if (billingResult.responseCode == BillingClient.BillingResponseCode.OK) {
+                    if (queryPurchases.isNotEmpty()) {
+                        showToastAndRestartActivity(getString(R.string.premium_unlocked))
+                    } else initiatePurchase()
+                }
+            }
         }
         else {
             lifecycleScope.launch(Dispatchers.IO) {
@@ -312,11 +318,13 @@ class MainActivity : BasicActivity(), KodeinAware, InstallStateUpdatedListener,
                 billingClient?.startConnection(object : BillingClientStateListener {
                     override fun onBillingSetupFinished(billingResult: BillingResult) {
                         if (billingResult.responseCode == BillingClient.BillingResponseCode.OK) {
-                            val queryPurchase = billingClient?.queryPurchases(BillingClient.SkuType.INAPP)
-                            val queryPurchases = queryPurchase?.purchasesList
-                            if (queryPurchases != null && queryPurchases.size > 0) {
-                                showToastAndRestartActivity(getString(R.string.premium_unlocked))
-                            } else initiatePurchase()
+                            billingClient?.queryPurchasesAsync(
+                                QueryPurchasesParams.newBuilder().setProductType(BillingClient.ProductType.INAPP).build()
+                            ) { _, queryPurchases ->
+                                if (queryPurchases.isNotEmpty()) {
+                                    showToastAndRestartActivity(getString(R.string.premium_unlocked))
+                                } else initiatePurchase()
+                            }
                         } else {
                             toggleProgressDialog(false)
                             showToastIfActivityExists(getString(R.string.try_again))
@@ -405,10 +413,14 @@ class MainActivity : BasicActivity(), KodeinAware, InstallStateUpdatedListener,
         if (billingResult.responseCode == BillingClient.BillingResponseCode.OK && purchases != null) {
             handlePurchases(purchases)
         } else if (billingResult.responseCode == BillingClient.BillingResponseCode.ITEM_ALREADY_OWNED) {
-            val queryAlreadyPurchasesResult = billingClient?.queryPurchases(BillingClient.SkuType.INAPP)
-            val alreadyPurchases = queryAlreadyPurchasesResult?.purchasesList
-            alreadyPurchases?.let { handlePurchases(it) } ?: run {
-                toggleProgressDialog(false)
+            billingClient?.queryPurchasesAsync(
+                QueryPurchasesParams.newBuilder().setProductType(BillingClient.ProductType.INAPP).build()
+            ) { _, alreadyPurchases ->
+                if (alreadyPurchases.isNotEmpty()) {
+                    handlePurchases(alreadyPurchases)
+                } else {
+                    toggleProgressDialog(false)
+                }
             }
         } else if (billingResult.responseCode == BillingClient.BillingResponseCode.USER_CANCELED) {
             toggleProgressDialog(false)

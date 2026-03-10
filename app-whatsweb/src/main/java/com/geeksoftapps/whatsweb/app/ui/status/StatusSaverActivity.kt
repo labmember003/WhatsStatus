@@ -10,8 +10,8 @@ import androidx.databinding.DataBindingUtil
 import androidx.fragment.app.Fragment
 import com.geeksoftapps.whatsweb.app.R
 import com.geeksoftapps.whatsweb.app.databinding.ActivityStatusSaverBinding
-import com.geeksoftapps.whatsweb.app.ui.AppSettingsActivity
-import com.geeksoftapps.whatsweb.app.ui.status.fragments.StatusContainerFragment
+import ui.AppSettingsActivity
+import ui.status.fragments.StatusContainerFragment
 import com.geeksoftapps.whatsweb.commons.BasicActivity
 
 

@@ -23,6 +23,7 @@ import com.geeksoftapps.whatsweb.commons.log
 import com.geeksoftapps.whatsweb.commons.toast
 import com.geeksoftapps.whatsweb.app.App
 
+import com.geeksoftapps.whatsweb.app.R
 import com.geeksoftapps.whatsweb.app.databinding.FragmentStatusSaverBinding
 import com.geeksoftapps.whatsweb.app.ui.status.adapters.StatusViewPagerAdapter
 import com.geeksoftapps.whatsweb.app.utils.WhatsWebPreferences

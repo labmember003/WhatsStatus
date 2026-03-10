@@ -17,6 +17,7 @@ abstract class BasicActivity: AppCompatActivity() {
     protected open val maxBannerAdUnitId = ""
     protected open val maxInterstitialAdUnitId = ""
 
+    val analytics = Analytics()
 
     private var maxAdLoadAttempt = 0
     private var maxInterstitialAdLoadAttempt = 0

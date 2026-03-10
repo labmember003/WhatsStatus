@@ -102,4 +102,8 @@
         <item name="cornerSize">10dp</item>
     </style>
 
+    <style name="AppTheme.ItemSelector" parent="">
+        <item name="android:background">?attr/selectableItemBackground</item>
+    </style>
+
 </resources>

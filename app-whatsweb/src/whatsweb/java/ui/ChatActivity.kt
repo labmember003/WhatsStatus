@@ -8,6 +8,7 @@ import android.view.MenuItem
 import androidx.databinding.DataBindingUtil
 import com.geeksoftapps.whatsweb.commons.*
 
+import com.geeksoftapps.whatsweb.app.R
 import com.geeksoftapps.whatsweb.app.databinding.ActivityDirectChatBinding
 import com.geeksoftapps.whatsweb.app.ui.ads.BannerAdLocation
 import com.geeksoftapps.whatsweb.app.ui.ads.InterstitialAdLocation
