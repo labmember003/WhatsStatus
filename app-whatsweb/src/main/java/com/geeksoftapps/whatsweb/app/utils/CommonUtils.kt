@@ -53,12 +53,12 @@ object CommonUtils {
     fun getAppVersion(context: Context): String {
         val manager = context.packageManager
         val info = manager.getPackageInfo(context.packageName, PackageManager.GET_ACTIVITIES)
-        return info.versionName
+        return info.versionName.orEmpty()
     }
 
     fun openBrowser(context: Context, url: String) {
         val browserIntent = Intent(Intent.ACTION_VIEW)
-        browserIntent.data = Uri.parse(url)
+        browserIntent.data = url.toUri()
         try {
             context.startActivity(browserIntent)
         } catch (e: ActivityNotFoundException) {

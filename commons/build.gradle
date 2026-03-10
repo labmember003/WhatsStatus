@@ -7,12 +7,12 @@ apply plugin: "kotlin-kapt"
 apply plugin: 'kotlinx-serialization'
 
 android {
-    compileSdkVersion 34
+    compileSdkVersion 36
 
 
     defaultConfig {
         minSdkVersion 22
-        targetSdkVersion 34
+        targetSdkVersion 36
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         consumerProguardFiles 'consumer-rules.pro'

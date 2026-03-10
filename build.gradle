@@ -2,11 +2,12 @@
 
 buildscript {
     ext.kotlin_version = '1.9.24'
+    ext.ksp_version = '1.9.24-1.0.20'
     ext.kodein_version = "6.5.5"
     ext.lifecycle_version = "2.5.1"
     ext.arch_version = "2.1.0"
     ext.permissionsdispatcher_version = "4.9.1"
-    ext.glide_version = "4.13.1"
+    ext.glide_version = "4.16.0"
     ext.threetenabp_version = "1.2.1"
     ext.osslicense_plugin_version = "0.10.4"
     ext.osslicense_version = "17.0.0"
@@ -41,6 +42,7 @@ buildscript {
         classpath "com.google.gms:google-services:$gms_version"
         classpath "com.google.firebase:firebase-crashlytics-gradle:$crashlytics_project_version"
         classpath "org.jetbrains.kotlin:kotlin-serialization:$kotlin_version"
+        classpath "com.google.devtools.ksp:com.google.devtools.ksp.gradle.plugin:$ksp_version"
         // NOTE: Do not place your application dependencies here; they belong
         // in the individual module build.gradle files
     }

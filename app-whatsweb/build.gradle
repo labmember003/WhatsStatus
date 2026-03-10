@@ -4,6 +4,8 @@ apply plugin: 'kotlin-android'
 
 apply plugin: "kotlin-kapt"
 
+apply plugin: 'com.google.devtools.ksp'
+
 apply plugin: 'com.google.android.gms.oss-licenses-plugin'
 
 apply plugin: 'com.google.gms.google-services'
@@ -115,13 +117,11 @@ dependencies {
     implementation 'com.google.android.play:app-update-ktx:2.1.0'
     kapt "com.github.permissions-dispatcher:permissionsdispatcher-processor:$permissionsdispatcher_version"
 
-    kapt "com.github.bumptech.glide:compiler:$glide_version"
+    ksp "com.github.bumptech.glide:ksp:$glide_version"
 
     implementation "com.airbnb.android:lottie:$lottie_version"
 
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.5'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
-
-    kapt "com.github.bumptech.glide:compiler:$glide_version"
 }
