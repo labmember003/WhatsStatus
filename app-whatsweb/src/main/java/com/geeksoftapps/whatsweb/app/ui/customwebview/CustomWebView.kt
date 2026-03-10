@@ -10,6 +10,7 @@ import android.os.Environment
 import android.util.AttributeSet
 import android.webkit.*
 import com.geeksoftapps.whatsweb.app.R
+import com.geeksoftapps.whatsweb.app.utils.Constants
 import com.google.firebase.crashlytics.FirebaseCrashlytics
 import com.google.firebase.ktx.Firebase
 import com.google.firebase.remoteconfig.ktx.remoteConfig
@@ -18,7 +19,6 @@ import com.geeksoftapps.whatsweb.commons.toast
 import okhttp3.Headers.Companion.toHeaders
 import okhttp3.OkHttpClient
 import okhttp3.Request
-import com.geeksoftapps.whatsweb.app.utils.Constants
 import java.io.IOException
 import java.util.*
 import kotlin.coroutines.resume

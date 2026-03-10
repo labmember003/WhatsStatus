@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:63364793215:android:ae593ba89925c8baa1904a",
         "android_client_info": {
-          "package_name": "com.codekraftapps.whatsweb"
+          "package_name": "com.falcon.whatscan"
         }
       },
       "oauth_client": [
@@ -38,7 +38,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:63364793215:android:514d2e20d0a701f1a1904a",
         "android_client_info": {
-          "package_name": "com.codekraftapps.whatsweb.debug"
+          "package_name": "com.falcon.whatscan.debug"
         }
       },
       "oauth_client": [

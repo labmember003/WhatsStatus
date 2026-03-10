@@ -26,6 +26,7 @@ import com.geeksoftapps.whatsweb.commons.toast
 import com.google.firebase.crashlytics.FirebaseCrashlytics
 import com.google.firebase.remoteconfig.FirebaseRemoteConfig
 import java.net.URLEncoder
+import androidx.core.net.toUri
 
 
 object CommonUtils {
@@ -99,7 +100,7 @@ object CommonUtils {
 
     fun sendFeedback(context: Context, feedback: String = "") {
         val intent = Intent(Intent.ACTION_SENDTO)
-        intent.data = Uri.parse("mailto:")
+        intent.data = "mailto:".toUri()
         intent.putExtra(Intent.EXTRA_EMAIL, arrayOf(FEEDBACK_EMAIL))
         intent.putExtra(
             Intent.EXTRA_SUBJECT,

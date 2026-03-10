@@ -1,4 +1,4 @@
-package ui.ads
+package com.geeksoftapps.whatsweb.app.ui.ads
 
 import com.geeksoftapps.whatsweb.app.ui.ads.BannerAdLocation
 import com.geeksoftapps.whatsweb.app.ui.ads.InterstitialAdLocation

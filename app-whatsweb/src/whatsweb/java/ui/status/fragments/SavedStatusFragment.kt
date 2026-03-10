@@ -1,4 +1,4 @@
-package ui.status.fragments
+package com.geeksoftapps.whatsweb.app.ui.status.fragments
 
 import android.content.Context
 import android.content.Intent

@@ -7,7 +7,6 @@ import com.geeksoftapps.whatsweb.app.R
 import com.geeksoftapps.whatsweb.commons.toast
 
 import com.geeksoftapps.whatsweb.app.utils.CommonUtils
-import com.geeksoftapps.whatsweb.app.utils.Constants
 import com.geeksoftapps.whatsweb.app.utils.Constants.APP_RATE_DIALOG_INTERVAL
 import com.geeksoftapps.whatsweb.app.utils.Constants.APP_RATING_FLOW_V2
 import com.geeksoftapps.whatsweb.app.utils.Constants.RATING_THRESHOLD

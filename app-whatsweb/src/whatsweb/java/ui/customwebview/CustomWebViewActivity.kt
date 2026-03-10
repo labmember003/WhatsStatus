@@ -1,4 +1,4 @@
-package ui.customwebview
+package com.geeksoftapps.whatsweb.app.ui.customwebview
 
 import android.Manifest
 import android.content.Context

@@ -1,4 +1,4 @@
-package ui
+package com.geeksoftapps.whatsweb.app.ui
 
 import android.content.Intent
 import android.os.Bundle

@@ -18,8 +18,8 @@ import com.geeksoftapps.whatsweb.commons.log
 
 import com.geeksoftapps.whatsweb.app.databinding.ActivitySettingsBinding
 import com.geeksoftapps.whatsweb.app.utils.CommonUtils
-import com.geeksoftapps.whatsweb.app.utils.WhatsWebPreferences
 import com.geeksoftapps.whatsweb.app.utils.Constants
+import com.geeksoftapps.whatsweb.app.utils.WhatsWebPreferences
 import com.geeksoftapps.whatsweb.app.utils.log
 import java.util.*
 

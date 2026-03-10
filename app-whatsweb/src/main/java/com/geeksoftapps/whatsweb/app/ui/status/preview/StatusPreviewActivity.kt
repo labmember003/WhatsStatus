@@ -13,8 +13,9 @@ import com.geeksoftapps.whatsweb.commons.log
 import com.geeksoftapps.whatsweb.commons.media.MediaActivity
 import com.geeksoftapps.whatsweb.commons.toast
 
-import ui.status.fragments.StatusContainerFragment.Companion.WHATSAPP_STORAGE_URI
+import com.geeksoftapps.whatsweb.app.ui.status.fragments.StatusContainerFragment.Companion.WHATSAPP_STORAGE_URI
 import com.geeksoftapps.whatsweb.app.ui.status.viewmodels.StatusPreviewViewModel
+import com.geeksoftapps.whatsweb.app.utils.Constants
 import com.geeksoftapps.whatsweb.app.utils.logCrashlytics
 import com.geeksoftapps.whatsweb.status.IStatusRepo
 import com.geeksoftapps.whatsweb.status.StatusRepo
@@ -24,7 +25,6 @@ import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
 import org.kodein.di.KodeinAware
 import org.kodein.di.android.closestKodein
-import com.geeksoftapps.whatsweb.app.utils.Constants
 import java.io.File
 import java.net.URI
 import kotlin.properties.Delegates

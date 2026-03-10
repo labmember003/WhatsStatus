@@ -1,4 +1,4 @@
-package ui.status.fragments
+package com.geeksoftapps.whatsweb.app.ui.status.fragments
 
 import android.Manifest
 import android.content.ActivityNotFoundException
