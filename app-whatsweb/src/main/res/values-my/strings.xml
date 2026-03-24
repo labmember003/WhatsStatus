@@ -103,7 +103,6 @@
     <string name="download_recover_messages_app">Recover Messages အက်ပ်ကို ဒေါင်းလုဒ်လုပ်ပါ။</string>
     <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">ဤအင်္ဂါရပ်ကို အသုံးပြုရန်၊ သင်သည် အခြားအက်ပ်အား play store မှ ဒေါင်းလုဒ်လုပ်ရန် လိုအပ်သည်။ Play Store ဖွင့်ပြီး အက်ပ်ဒေါင်းလုဒ်လုပ်ရန် OK ကိုနှိပ်ပါ။</string>
     <string name="cancel">မလုပ်တော့</string>
-    <string name="ad_space">ကြော်ငြာအာကာသ</string>
     <string name="status">အဆင့်အတန်း</string>
     <string name="theme">အပြင်အဆင်</string>
     <string name="more_apps">နောက်ထပ်အက်ပ်များ</string>

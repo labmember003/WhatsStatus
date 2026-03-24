@@ -103,7 +103,6 @@
     <string name="download_recover_messages_app">Мессеж сэргээх програмыг татаж аваарай</string>
     <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Энэ функцийг ашиглахын тулд та play store-оос өөр програм татаж авах хэрэгтэй. OK товчийг дарж, тоглоомын дэлгүүрийг нээж, програмыг татаж авна уу.</string>
     <string name="cancel">Цуцлах</string>
-    <string name="ad_space">Зар сурталчилгааны орон зай</string>
     <string name="status">Статус</string>
     <string name="theme">Сэдэв</string>
     <string name="more_apps">Илүү их апп-ууд</string>

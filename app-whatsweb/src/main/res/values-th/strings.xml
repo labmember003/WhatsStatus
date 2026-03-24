@@ -103,7 +103,6 @@
     <string name="download_recover_messages_app">ดาวน์โหลดแอปกู้คืนข้อความ</string>
     <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">หากต้องการใช้ฟีเจอร์นี้ คุณต้องดาวน์โหลดแอปอื่นจาก play store คลิกตกลงเพื่อเปิด play store และดาวน์โหลดแอพ</string>
     <string name="cancel">ยกเลิก</string>
-    <string name="ad_space">พื้นที่โฆษณา</string>
     <string name="status">สถานะ</string>
     <string name="theme">ธีม</string>
     <string name="more_apps">แอพเพิ่มเติม</string>

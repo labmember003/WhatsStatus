@@ -103,7 +103,6 @@
     <string name="download_recover_messages_app">메시지 복구 앱 다운로드</string>
     <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">이 기능을 사용하려면 플레이 스토어에서 다른 앱을 다운로드해야 합니다. 확인을 클릭하여 Play 스토어를 열고 앱을 다운로드합니다.</string>
     <string name="cancel">취소</string>
-    <string name="ad_space">광고 공간</string>
     <string name="status">상태</string>
     <string name="theme">주제</string>
     <string name="more_apps">더 많은 애플 리케이션</string>

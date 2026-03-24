@@ -1,30 +1,16 @@
 package com.geeksoftapps.whatsweb.commons
 
 import android.os.Bundle
-import android.view.ViewGroup
 import androidx.appcompat.app.AppCompatActivity
 import com.preference.PowerPreference
 
-data class BannerAdViewGroups(
-    val bannerAdViewGroup: ViewGroup,
-    val bannerContainer: ViewGroup
-)
-
-private val MAX_ATTEMPTS = 4
-
 abstract class BasicActivity: AppCompatActivity() {
-    protected open val isAdsEnabled: Boolean = false
-    protected open val maxBannerAdUnitId = ""
-    protected open val maxInterstitialAdUnitId = ""
 
     val analytics = Analytics()
 
-    private var maxAdLoadAttempt = 0
-    private var maxInterstitialAdLoadAttempt = 0
     private var finishOnResume = false
     protected var onCreateTimeStamp: Long = 0
 
-    open fun getBannerAdView(): BannerAdViewGroups? = null
 
 
 

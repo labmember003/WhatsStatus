@@ -103,7 +103,6 @@
     <string name="download_recover_messages_app">メッセージ回復アプリをダウンロード</string>
     <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">この機能を使用するには、Play ストアから別のアプリをダウンロードする必要があります。 [OK] をクリックして Play ストアを開き、アプリをダウンロードします。</string>
     <string name="cancel">キャンセル</string>
-    <string name="ad_space">広告スペース</string>
     <string name="status">スターテス</string>
     <string name="theme">テーマ</string>
     <string name="more_apps">より多くのアプリケーション</string>
