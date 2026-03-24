@@ -4,6 +4,8 @@ import android.content.Intent
 import android.os.Bundle
 import android.view.MenuItem
 import androidx.appcompat.app.AppCompatDelegate
+import androidx.core.view.ViewCompat
+import androidx.core.view.WindowInsetsCompat
 import androidx.databinding.DataBindingUtil
 import androidx.preference.Preference
 import androidx.preference.PreferenceCategory
@@ -11,17 +13,14 @@ import androidx.preference.PreferenceFragmentCompat
 import androidx.preference.PreferenceGroup
 import com.geeksoftapps.whatsweb.app.BuildConfig
 import com.geeksoftapps.whatsweb.app.R
-import com.google.android.gms.oss.licenses.OssLicensesMenuActivity
-import com.google.firebase.analytics.FirebaseAnalytics
-import com.geeksoftapps.whatsweb.commons.BasicActivity
-import com.geeksoftapps.whatsweb.commons.log
-
 import com.geeksoftapps.whatsweb.app.databinding.ActivitySettingsBinding
 import com.geeksoftapps.whatsweb.app.utils.CommonUtils
 import com.geeksoftapps.whatsweb.app.utils.Constants
 import com.geeksoftapps.whatsweb.app.utils.WhatsWebPreferences
-import com.geeksoftapps.whatsweb.app.utils.log
-import java.util.*
+import com.geeksoftapps.whatsweb.commons.BasicActivity
+import com.google.android.gms.oss.licenses.OssLicensesMenuActivity
+import java.util.LinkedList
+import java.util.Queue
 
 
 class AppSettingsActivity : BasicActivity() {
@@ -40,6 +39,13 @@ class AppSettingsActivity : BasicActivity() {
 
         setSupportActionBar(binding.toolbar)
         supportActionBar?.setDisplayHomeAsUpEnabled(false)
+
+        // Handle window insets for proper status bar spacing
+        ViewCompat.setOnApplyWindowInsetsListener(binding.toolbar) { v, insets ->
+            val systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars())
+            v.setPadding(0, systemBars.top, 0, 0)
+            insets
+        }
     }
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {

@@ -2,6 +2,8 @@ package com.geeksoftapps.whatsweb.app
 
 import android.content.Intent
 import android.os.Bundle
+import androidx.core.view.ViewCompat
+import androidx.core.view.WindowInsetsCompat
 import androidx.databinding.DataBindingUtil
 import com.android.billingclient.api.BillingResult
 import com.android.billingclient.api.Purchase
@@ -9,21 +11,13 @@ import com.android.billingclient.api.PurchasesUpdatedListener
 import com.geeksoftapps.whatsweb.app.databinding.ActivityMainBinding
 import com.geeksoftapps.whatsweb.app.ui.dialogs.RatingDialog
 import com.geeksoftapps.whatsweb.app.ui.dialogs.StartAppUpdateDialog
-import com.geeksoftapps.whatsweb.app.ui.status.StatusSaverActivity
-import com.geeksoftapps.whatsweb.app.utils.WhatsWebPreferences
-import com.geeksoftapps.whatsweb.app.utils.log
 import com.geeksoftapps.whatsweb.app.utils.showSafely
 import com.geeksoftapps.whatsweb.commons.BasicActivity
 import com.geeksoftapps.whatsweb.commons.toast
 import com.google.android.play.core.appupdate.AppUpdateManager
-import com.google.android.play.core.appupdate.AppUpdateManagerFactory
 import com.google.android.play.core.install.InstallState
 import com.google.android.play.core.install.InstallStateUpdatedListener
-import com.google.android.play.core.install.model.AppUpdateType
 import com.google.android.play.core.install.model.InstallStatus
-import com.google.android.play.core.install.model.UpdateAvailability
-import com.google.firebase.crashlytics.ktx.crashlytics
-import com.google.firebase.ktx.Firebase
 import org.kodein.di.KodeinAware
 import org.kodein.di.android.closestKodein
 
@@ -39,30 +33,16 @@ class MainActivity : BasicActivity(), KodeinAware, InstallStateUpdatedListener,
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = DataBindingUtil.setContentView(this, R.layout.activity_main)
+        
+        // Handle window insets for proper status bar spacing
+        ViewCompat.setOnApplyWindowInsetsListener(binding.tvAppName) { v, insets ->
+            val systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars())
+            v.setPadding(v.paddingLeft, systemBars.top, v.paddingRight, v.paddingBottom)
+            insets
+        }
+        
         startActivity(Intent(this, MainActivityWalk::class.java))
         RatingDialog.getDialog(this, true)?.show()
-    }
-
-    private fun initiateAppUpdateManager() {
-        appUpdateManager = AppUpdateManagerFactory.create(this@MainActivity)
-        appUpdateManager?.registerListener(this@MainActivity)
-
-        appUpdateManager?.appUpdateInfo?.addOnSuccessListener {
-            if (it.updateAvailability() == UpdateAvailability.UPDATE_AVAILABLE &&
-                it.isUpdateTypeAllowed(AppUpdateType.FLEXIBLE)
-            ) {
-                try {
-                    appUpdateManager?.startUpdateFlowForResult(
-                        it,
-                        AppUpdateType.FLEXIBLE,
-                        this@MainActivity,
-                        REQUEST_CODE_FLEXIBLE_UPDATE
-                    )
-                } catch (e: Exception) {
-                    Firebase.crashlytics.recordException(e)
-                }
-            }
-        }
     }
 
     override fun onResume() {

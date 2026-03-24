@@ -6,7 +6,6 @@ import androidx.databinding.BindingAdapter
 import com.bumptech.glide.Glide
 import com.bumptech.glide.load.engine.DiskCacheStrategy
 import com.geeksoftapps.whatsweb.app.R
-import java.util.*
 
 object BindingAdapters {
 

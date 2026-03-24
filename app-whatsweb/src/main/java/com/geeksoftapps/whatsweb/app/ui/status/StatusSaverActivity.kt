@@ -8,6 +8,8 @@ import android.view.Menu
 import android.view.MenuItem
 import androidx.databinding.DataBindingUtil
 import androidx.fragment.app.Fragment
+import androidx.core.view.ViewCompat
+import androidx.core.view.WindowInsetsCompat
 import com.geeksoftapps.whatsweb.app.R
 import com.geeksoftapps.whatsweb.app.databinding.ActivityStatusSaverBinding
 import com.geeksoftapps.whatsweb.app.ui.AppSettingsActivity
@@ -22,6 +24,13 @@ class StatusSaverActivity : BasicActivity(), StatusContainerFragment.StatusSaver
         super.onCreate(savedInstanceState)
         binding = DataBindingUtil.setContentView(this, R.layout.activity_status_saver)
         setSupportActionBar(binding.toolbar)
+
+        // Handle window insets for proper status bar spacing
+        ViewCompat.setOnApplyWindowInsetsListener(binding.toolbar) { v, insets ->
+            val systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars())
+            v.setPadding(0, systemBars.top, 0, 0)
+            insets
+        }
 
         val sharedPreferences = getSharedPreferences("sharedPreferencesFileName", Context.MODE_PRIVATE)
         val editor: SharedPreferences.Editor = sharedPreferences.edit()
