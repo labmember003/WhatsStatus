@@ -49,6 +49,9 @@ class DirectoryGuideDialogFragment : DialogFragment() {
         val dialog = super.onCreateDialog(savedInstanceState)
         dialog.requestWindowFeature(Window.FEATURE_NO_TITLE)
         dialog.window?.setBackgroundDrawable(ColorDrawable(Color.TRANSPARENT))
+        dialog.setCancelable(false)
+        dialog.setCanceledOnTouchOutside(false)
+        isCancelable = false
         return dialog
     }
 
