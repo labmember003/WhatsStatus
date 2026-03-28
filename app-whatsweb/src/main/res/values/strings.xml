@@ -128,4 +128,16 @@
     <string name="desc_fourth">Discover engaging WhatsApp statuses, adding a touch of inspiration to your day.</string>
 
     <string name="app_name" translatable="false">Whats Web</string>
+
+    <!-- Directory guide dialog -->
+    <string name="guide_title" translatable="false">How to Select WhatsApp Folder</string>
+    <string name="guide_step_1_of_2" translatable="false">Step 1 of 2</string>
+    <string name="guide_step_2_of_2" translatable="false">Step 2 of 2</string>
+    <string name="guide_step1_instruction" translatable="false">Find and tap on the <b>\"WhatsApp\"</b> folder in the list.</string>
+    <string name="guide_step2_instruction" translatable="false">Now tap the <b>\"USE THIS FOLDER\"</b> button at the bottom to grant access.</string>
+    <string name="guide_next" translatable="false">Next</string>
+    <string name="guide_back" translatable="false">Back</string>
+    <string name="guide_got_it" translatable="false">Got it, Open Picker</string>
+    <string name="guide_screenshot_desc" translatable="false">Guide screenshot</string>
+
 </resources>

@@ -301,10 +301,14 @@ class StatusContainerFragment : BasicFragment(), KodeinAware {
 
     @RequiresApi(Build.VERSION_CODES.O)
     private fun openDocumentTree(isBusiness: Boolean) {
-        toast(
-            if (isBusiness) getString(R.string.please_select_wa_business_directory)
-            else getString(R.string.please_select_whatsapp_directory)
-        )
+        // Show the visual guide dialog first, then launch the SAF picker
+        DirectoryGuideDialogFragment.newInstance(isBusiness) {
+            launchDocumentTreePicker(isBusiness)
+        }.show(childFragmentManager, "directory_guide")
+    }
+
+    @RequiresApi(Build.VERSION_CODES.O)
+    private fun launchDocumentTreePicker(isBusiness: Boolean) {
         val initialUri = if (isBusiness) business_scoped_storage_uri else status_scoped_storage_uri
         val intent = Intent(Intent.ACTION_OPEN_DOCUMENT_TREE).apply {
             putExtra(DocumentsContract.EXTRA_INITIAL_URI, Uri.parse(initialUri))
