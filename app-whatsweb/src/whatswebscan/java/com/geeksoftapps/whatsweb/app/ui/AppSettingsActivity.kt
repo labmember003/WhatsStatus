@@ -38,7 +38,7 @@ class AppSettingsActivity : BasicActivity() {
             .commit()
 
         setSupportActionBar(binding.toolbar)
-        supportActionBar?.setDisplayHomeAsUpEnabled(false)
+        supportActionBar?.setDisplayHomeAsUpEnabled(true)
 
         // Handle window insets for proper status bar spacing
         ViewCompat.setOnApplyWindowInsetsListener(binding.toolbar) { v, insets ->
@@ -119,7 +119,7 @@ class AppSettingsActivity : BasicActivity() {
                             AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_FOLLOW_SYSTEM)
                         }
                     }
-                    return true
+                    true
                 }
                 else -> true
             }
@@ -138,7 +138,9 @@ class AppSettingsActivity : BasicActivity() {
                         queue.add(group.getPreference(i))
                     }
                 } else {
-                    allPreferences.add(preference)
+                    if (preference != null) {
+                        allPreferences.add(preference)
+                    }
                 }
             }
             return allPreferences
