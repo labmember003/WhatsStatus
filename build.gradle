@@ -13,7 +13,7 @@ buildscript {
     ext.osslicense_version = "17.0.0"
     ext.material_version = "1.4.0"
     ext.power_preference_version = "2.1.0"
-    ext.inapp_billing_version = '6.0.1'
+    ext.inapp_billing_version = '7.1.1'
     ext.gradle_version = '8.1.4'
     ext.touch_image_view_version = '2.3.2'
     ext.ccp_version = '2.5.0'
