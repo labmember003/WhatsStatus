@@ -1,6 +1,6 @@
 <resources>
     <string name="app_update_alert_dialog_title">Eguneraketa osatu da</string>
-    <string name="app_update_alert_dialog_subtitle">Berrabiarazi aplikazioa eguneraketak aplikatzeko...</string>
+    <string name="app_update_alert_dialog_subtitle">Berrabiarazi aplikazioa eguneraketak aplikatzeko…</string>
     <string name="help">Laguntza</string>
     <string name="cleaner">Garbitzailea</string>
     <string name="status_saver">Egoera-aurrezlea</string>
@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Deskargatu Qr Scanner aplikazioa</string>
     <string name="share_content">Presta zaitez WhatsApp-eko kontu berdinera bi telefono edo tablet ezberdinetan sartzeko modurik azkarrena ezagutzeko, dena doan! Deskargatu eta instalatu aplikazioa orain.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Hautatu zure WhatsApp Business karpeta</string>
+    <string name="wa_business_directory_invalid">Karpetak ez du WhatsApp Business-en itxura. Mesedez, saiatu berriro.</string>
+    <string name="wa_business_not_installed">Badirudi WhatsApp Business ez dagoela instalatuta.</string>
+    <string name="heading_one">Gorde azkarra</string>
+    <string name="heading_two">Partekatu berehala</string>
+    <string name="heading_three">Deskargatu konexiorik gabe</string>
+    <string name="heading_fourth">Arakatu eta Gozatu</string>
+    <string name="desc_one">Babestu zure WhatsApp-eko egoera gogokoenak ukitu batekin, une gogokoenak zure esku egongo direla ziurtatuz.</string>
+    <string name="desc_two">Zabaldu poza WhatsApp-eko egoerak zuzenean aplikaziotik lagunekin eta senideekin partekatuz.</string>
+    <string name="desc_three">Hartu eta gorde WhatsApp-eko egoerak zure gailuan edozein unetan sartzeko, baita Interneteko konexiorik gabe ere.</string>
+    <string name="desc_fourth">Ezagutu WhatsApp-eko egoera erakargarriak, zure egunean inspirazio ukitu bat gehituz.</string>
 </resources>

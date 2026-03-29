@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Tikiake Qr Scanner App</string>
     <string name="share_content">Kia rite ki te wheako i te huarahi tere ki te uru ki te putea WhatsApp kotahi i runga i nga waea atamai rereke e rua, i nga papa ranei, katoa mo te kore utu! Tikiake me te tāuta i te taupānga ināianei.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Tīpakohia to kōpaki Pakihi WhatsApp</string>
+    <string name="wa_business_directory_invalid">Kaore te ahua o te kōpaki ki te Pakihi WhatsApp. Me ngana ano.</string>
+    <string name="wa_business_not_installed">Ko te Pakihi WhatsApp kaore i te whakauruhia.</string>
+    <string name="heading_one">Tiaki Tere</string>
+    <string name="heading_two">Tiri Inamata</string>
+    <string name="heading_three">Tikiake Tuimotu</string>
+    <string name="heading_fourth">Torotoro me te pai</string>
+    <string name="desc_one">Whakaorangia o ahuatanga WhatsApp tino pai ma te paato, me te whakarite kei o maihao nga wa e arohaina ana.</string>
+    <string name="desc_two">Horahia te koa ma te tohatoha i nga ahuatanga o WhatsApp mai i te taupānga me o hoa me te whanau.</string>
+    <string name="desc_three">Hopu me te penapena i nga mana o WhatsApp i runga i to taputapu mo nga wa katoa, ahakoa kaore he hononga ipurangi.</string>
+    <string name="desc_fourth">Tirohia nga ahuatanga o te WhatsApp, me te taapiri i te whakaaweoho ki to ra.</string>
 </resources>

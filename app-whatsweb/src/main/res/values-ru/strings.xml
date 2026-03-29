@@ -197,4 +197,15 @@
 
     <string name="directly_message_anyone_without_saving_phone_as_contact"/>
 
+    <string name="please_select_wa_business_directory">Выберите папку WhatsApp Business.</string>
+    <string name="wa_business_directory_invalid">Папка не похожа на WhatsApp Business. Пожалуйста, попробуйте еще раз.</string>
+    <string name="wa_business_not_installed">WhatsApp Business, похоже, не установлен.</string>
+    <string name="heading_one">Быстрое сохранение</string>
+    <string name="heading_two">Поделитесь мгновенно</string>
+    <string name="heading_three">Скачать оффлайн</string>
+    <string name="heading_fourth">Исследуйте и наслаждайтесь</string>
+    <string name="desc_one">Защитите свои любимые статусы WhatsApp одним касанием, чтобы памятные моменты всегда были у вас под рукой.</string>
+    <string name="desc_two">Дарите радость, делясь статусами WhatsApp прямо из приложения с друзьями и семьей.</string>
+    <string name="desc_three">Сохраняйте статусы WhatsApp на своем устройстве, чтобы иметь к ним доступ в любое время, даже без подключения к Интернету.</string>
+    <string name="desc_fourth">Откройте для себя интересные статусы WhatsApp, которые добавят вдохновения в ваш день.</string>
 </resources>

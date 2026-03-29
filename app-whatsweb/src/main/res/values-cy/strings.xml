@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Dadlwythwch Ap Sganiwr Qr</string>
     <string name="share_content">Paratowch i brofi\'r ffordd gyflymaf o gael mynediad i\'r un cyfrif WhatsApp ar ddau ffôn clyfar neu lechen wahanol, i gyd am ddim! Dadlwythwch a gosodwch yr app nawr.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Dewiswch eich ffolder WhatsApp Business</string>
+    <string name="wa_business_directory_invalid">Nid yw ffolder yn edrych fel WhatsApp Business. Ceisiwch eto.</string>
+    <string name="wa_business_not_installed">Nid yw\'n ymddangos bod WhatsApp Business wedi\'i osod.</string>
+    <string name="heading_one">Arbed Cyflym</string>
+    <string name="heading_two">Rhannwch ar unwaith</string>
+    <string name="heading_three">Lawrlwythwch All-lein</string>
+    <string name="heading_fourth">Archwiliwch a Mwynhewch</string>
+    <string name="desc_one">Sicrhewch eich hoff statws WhatsApp gyda thap, gan sicrhau bod eiliadau annwyl bob amser ar flaenau eich bysedd.</string>
+    <string name="desc_two">Lledaenwch llawenydd trwy rannu statws WhatsApp yn uniongyrchol o\'r app gyda ffrindiau a theulu.</string>
+    <string name="desc_three">Dal a storio statws WhatsApp ar eich dyfais ar gyfer mynediad unrhyw bryd, hyd yn oed heb gysylltiad rhyngrwyd.</string>
+    <string name="desc_fourth">Darganfyddwch statws WhatsApp deniadol, gan ychwanegu ychydig o ysbrydoliaeth i\'ch diwrnod.</string>
 </resources>

@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">ჩამოტვირთეთ Qr სკანერის აპლიკაცია</string>
     <string name="share_content">მოემზადეთ, რომ გამოსცადოთ ერთი და იგივე WhatsApp ანგარიშზე წვდომა ორ სხვადასხვა სმარტფონზე ან ტაბლეტზე, ეს ყველაფერი უფასოდ! ჩამოტვირთეთ და დააინსტალირეთ აპლიკაცია ახლავე.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">აირჩიეთ თქვენი WhatsApp Business საქაღალდე</string>
+    <string name="wa_business_directory_invalid">საქაღალდე არ ჰგავს WhatsApp Business-ს. გთხოვთ, სცადოთ ხელახლა.</string>
+    <string name="wa_business_not_installed">WhatsApp Business, როგორც ჩანს, არ არის დაინსტალირებული.</string>
+    <string name="heading_one">სწრაფი შენახვა</string>
+    <string name="heading_two">გააზიარეთ მყისიერად</string>
+    <string name="heading_three">ჩამოტვირთეთ ხაზგარეშე</string>
+    <string name="heading_fourth">გამოიკვლიეთ და ისიამოვნეთ</string>
+    <string name="desc_one">დაიცავით თქვენი საყვარელი WhatsApp სტატუსები შეხებით, დარწმუნდით, რომ საყვარელი მომენტები ყოველთვის თქვენს ხელთაა.</string>
+    <string name="desc_two">გაავრცელეთ სიხარული WhatsApp-ის სტატუსების პირდაპირ აპიდან მეგობრებთან და ოჯახის წევრებთან გაზიარებით.</string>
+    <string name="desc_three">გადაიღეთ და შეინახეთ WhatsApp სტატუსები თქვენს მოწყობილობაზე ნებისმიერ დროს წვდომისთვის, თუნდაც ინტერნეტის გარეშე.</string>
+    <string name="desc_fourth">აღმოაჩინეთ WhatsApp-ის მიმზიდველი სტატუსები, დაამატეთ შთაგონება თქვენს დღეს.</string>
 </resources>

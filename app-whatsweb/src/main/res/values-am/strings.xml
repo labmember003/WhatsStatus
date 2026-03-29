@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">የQr ስካነር መተግበሪያን ያውርዱ</string>
     <string name="share_content">ተመሳሳዩን የዋትስአፕ አካውንት በሁለት የተለያዩ ስማርትፎኖች ወይም ታብሌቶች ለመጠቀም ፈጣኑን መንገድ ለመለማመድ ይዘጋጁ፣ ሁሉም በነጻ! መተግበሪያውን አሁን ያውርዱ እና ይጫኑት።</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">የ WhatsApp ንግድ አቃፊዎን ይምረጡ</string>
+    <string name="wa_business_directory_invalid">አቃፊ የ WhatsApp ንግድ አይመስልም። እባክህ እንደገና ሞክር።</string>
+    <string name="wa_business_not_installed">WhatsApp ቢዝነስ የተጫነ አይመስልም።</string>
+    <string name="heading_one">ፈጣን አስቀምጥ</string>
+    <string name="heading_two">ወዲያውኑ አጋራ</string>
+    <string name="heading_three">ከመስመር ውጭ ያውርዱ</string>
+    <string name="heading_fourth">ያስሱ እና ይደሰቱ</string>
+    <string name="desc_one">የሚወዷቸውን የዋትስአፕ ሁኔታዎችን በመንካት ያስጠብቁ፣የሚወዷቸው ጊዜያት ሁል ጊዜ በእጅዎ መዳፍ ላይ መሆናቸውን ያረጋግጡ።</string>
+    <string name="desc_two">ከመተግበሪያው በቀጥታ ከጓደኞች እና ቤተሰብ ጋር የ WhatsApp ሁኔታዎችን በማጋራት ደስታን ያሰራጩ።</string>
+    <string name="desc_three">የበይነመረብ ግንኙነት ባይኖርም ለማንኛውም ጊዜ ለመድረስ የዋትስአፕ ሁኔታዎችን ያንሱ እና ያከማቹ።</string>
+    <string name="desc_fourth">በእርስዎ ቀን ላይ መነሳሳትን በማከል አሳታፊ የ WhatsApp ሁኔታዎችን ያግኙ።</string>
 </resources>

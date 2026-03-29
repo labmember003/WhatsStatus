@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Qr skaner programmasyny göçürip alyň</string>
     <string name="share_content">Iki dürli smartfonda ýa-da planşetde şol bir WhatsApp hasabyna girmegiň iň çalt usulyny başdan geçirmäge taýyn boluň! Programmany indi göçürip alyň.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">“WhatsApp Business” bukjasyny saýlaň</string>
+    <string name="wa_business_directory_invalid">Papka, WhatsApp Business-a meňzemeýär. Gaýtadan synanyşmagyňyzy haýyş edýäris.</string>
+    <string name="wa_business_not_installed">“WhatsApp Business” gurnalan ýaly däl.</string>
+    <string name="heading_one">Çalt tygşytlamak</string>
+    <string name="heading_two">Derrew paýlaşyň</string>
+    <string name="heading_three">Oflayn göçürip alyň</string>
+    <string name="heading_fourth">Gözläň we lezzet alyň</string>
+    <string name="desc_one">Halaýan “WhatsApp” statuslaryňyzy kran bilen berkidiň, iň gowy pursatlaryň elmydama eliňizde bolmagyny üpjün ediň.</string>
+    <string name="desc_two">“WhatsApp” ýagdaýlaryny göni programmadan dostlaryňyz we maşgalaňyz bilen paýlaşyp, şatlygy ýaýradyň.</string>
+    <string name="desc_three">Islendik wagt, hatda internet birikmesiz hem enjamyňyzda WhatsApp ýagdaýlaryny ele alyň we saklaň.</string>
+    <string name="desc_fourth">Günüňize ylham goşup, WhatsApp ýagdaýlaryny gyzyklandyryň.</string>
 </resources>

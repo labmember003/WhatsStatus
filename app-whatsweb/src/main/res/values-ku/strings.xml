@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">App Qr Scanner dakêşin</string>
     <string name="share_content">Amade bibin ku hûn riya herî bilez biceribînin ku hûn bigihîjin heman hesabê WhatsApp-ê li ser du têlefon an tabletên cûda, hemî belaş! Niha sepanê dakêşin û saz bikin.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Peldanka Karsaziya WhatsApp ya xwe hilbijêrin</string>
+    <string name="wa_business_directory_invalid">Peldank mîna Karsaziya WhatsApp-ê naxuye. Ji kerema xwe dîsa biceribîne.</string>
+    <string name="wa_business_not_installed">WhatsApp Business nayê saz kirin.</string>
+    <string name="heading_one">Bilez Save</string>
+    <string name="heading_two">Di cih de parve bikin</string>
+    <string name="heading_three">Daxistin Offline</string>
+    <string name="heading_fourth">Bikolin û kêf bikin</string>
+    <string name="desc_one">Statûyên xweyên bijare yên WhatsApp-ê bi tapekê ewle bikin, pê ewle bibin ku kêliyên hêja her gav li ber tiliyên we ne.</string>
+    <string name="desc_two">Bi parvekirina statûyên WhatsApp-ê rasterast ji serîlêdanê bi heval û malbata xwe re şahiyê belav bikin.</string>
+    <string name="desc_three">Ji bo gihîştina her dem, tewra bêyî girêdanek înternetê, statûyên WhatsApp-ê li ser cîhaza xwe bigirin û hilînin.</string>
+    <string name="desc_fourth">Statûyên WhatsApp-ê yên balkêş vedîtin, îlhamek li roja xwe zêde bikin.</string>
 </resources>

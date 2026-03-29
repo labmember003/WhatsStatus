@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Lataa QR-skannerisovellus</string>
     <string name="share_content">Valmistaudu kokemaan nopein tapa käyttää samaa WhatsApp-tiliä kahdella eri älypuhelimella tai tabletilla, kaikki ilmaiseksi! Lataa ja asenna sovellus nyt.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Valitse WhatsApp Business -kansiosi</string>
+    <string name="wa_business_directory_invalid">Kansio ei näytä WhatsApp Businessilta. Yritä uudelleen.</string>
+    <string name="wa_business_not_installed">WhatsApp Business ei näytä olevan asennettuna.</string>
+    <string name="heading_one">Nopea tallennus</string>
+    <string name="heading_two">Jaa heti</string>
+    <string name="heading_three">Lataa offline-tilassa</string>
+    <string name="heading_fourth">Tutki ja nauti</string>
+    <string name="desc_one">Suojaa WhatsApp-suosikkitilasi napauttamalla, jolloin rakastetut hetket ovat aina käden ulottuvilla.</string>
+    <string name="desc_two">Levitä iloa jakamalla WhatsApp-tilat suoraan sovelluksesta ystävien ja perheen kanssa.</string>
+    <string name="desc_three">Tallenna ja tallenna WhatsApp-tilat laitteellesi milloin tahansa, jopa ilman Internet-yhteyttä.</string>
+    <string name="desc_fourth">Löydä kiinnostavia WhatsApp-tiloja ja lisää ripauksen inspiraatiota päivääsi.</string>
 </resources>

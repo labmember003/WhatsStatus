@@ -1,6 +1,6 @@
 <resources>
     <string name="app_update_alert_dialog_title">Kumpleto na ang pag-update</string>
-    <string name="app_update_alert_dialog_subtitle">I-restart ang app para maglapat ng mga update...</string>
+    <string name="app_update_alert_dialog_subtitle">I-restart ang app para maglapat ng mga update…</string>
     <string name="help">Tulong</string>
     <string name="cleaner">Mas malinis</string>
     <string name="status_saver">Status Saver</string>
@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">I-download ang Qr Scanner App</string>
     <string name="share_content">Humanda upang maranasan ang pinakamabilis na paraan upang ma-access ang parehong WhatsApp account sa dalawang magkaibang smartphone o tablet, lahat ay libre! I-download at i-install ang app ngayon.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Piliin ang iyong folder ng WhatsApp Business</string>
+    <string name="wa_business_directory_invalid">Ang folder ay hindi mukhang WhatsApp Business. Pakisubukang muli.</string>
+    <string name="wa_business_not_installed">Mukhang hindi naka-install ang WhatsApp Business.</string>
+    <string name="heading_one">Mabilis na I-save</string>
+    <string name="heading_two">Ibahagi Agad</string>
+    <string name="heading_three">I-download ang Offline</string>
+    <string name="heading_fourth">Mag-explore at Mag-enjoy</string>
+    <string name="desc_one">I-secure ang iyong mga paboritong WhatsApp status sa pamamagitan ng pag-tap, na tinitiyak na laging nasa iyong mga daliri ang mga itinatangi na sandali.</string>
+    <string name="desc_two">Ikalat ang kagalakan sa pamamagitan ng pagbabahagi ng mga status sa WhatsApp nang direkta mula sa app sa mga kaibigan at pamilya.</string>
+    <string name="desc_three">Kunin at iimbak ang mga status ng WhatsApp sa iyong device para sa anumang oras na pag-access, kahit na walang koneksyon sa internet.</string>
+    <string name="desc_fourth">Tuklasin ang mga nakakaengganyong WhatsApp status, na nagdaragdag ng inspirasyon sa iyong araw.</string>
 </resources>

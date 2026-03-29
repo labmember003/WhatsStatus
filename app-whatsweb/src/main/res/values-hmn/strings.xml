@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Rub tawm Qr Scanner App</string>
     <string name="share_content">Npaj kom muaj txoj hauv kev nrawm tshaj plaws kom nkag mus rau tib tus lej WhatsApp ntawm ob lub xov tooj sib txawv lossis ntsiav tshuaj, txhua yam pub dawb! Download tau thiab nruab lub app tam sim no.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Xaiv koj WhatsApp lag luam nplaub tshev</string>
+    <string name="wa_business_directory_invalid">Folder tsis zoo li WhatsApp Lag Luam. Thov rov sim dua.</string>
+    <string name="wa_business_not_installed">WhatsApp lag luam zoo li tsis tau teeb tsa.</string>
+    <string name="heading_one">Ceev ceev</string>
+    <string name="heading_two">Qhia tawm tam sim</string>
+    <string name="heading_three">Download Offline</string>
+    <string name="heading_fourth">Tshawb nrhiav thiab txaus siab</string>
+    <string name="desc_one">Ruaj ntseg koj nyiam WhatsApp xwm txheej nrog tus kais, kom ntseeg tau tias lub sijhawm nyiam nyob ntawm koj lub ntsis ntiv tes.</string>
+    <string name="desc_two">Tshaj tawm kev xyiv fab los ntawm kev sib koom WhatsApp xwm txheej ncaj qha los ntawm lub app nrog phooj ywg thiab tsev neeg.</string>
+    <string name="desc_three">Khaws thiab khaws WhatsApp xwm txheej ntawm koj lub cuab yeej rau txhua lub sijhawm nkag, txawm tias tsis muaj kev sib txuas hauv internet.</string>
+    <string name="desc_fourth">Tshawb nrhiav kev koom nrog WhatsApp xwm txheej, ntxiv qhov kov ntawm kev tshoov siab rau koj hnub.</string>
 </resources>

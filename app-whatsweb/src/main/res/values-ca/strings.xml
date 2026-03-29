@@ -1,6 +1,6 @@
 <resources>
     <string name="app_update_alert_dialog_title">L\'actualització s\'ha completat</string>
-    <string name="app_update_alert_dialog_subtitle">Reinicieu l\'aplicació per aplicar actualitzacions...</string>
+    <string name="app_update_alert_dialog_subtitle">Reinicieu l\'aplicació per aplicar actualitzacions…</string>
     <string name="help">Ajuda</string>
     <string name="cleaner">Netejador</string>
     <string name="status_saver">Estalviador d\'estat</string>
@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Descarrega l\'aplicació Qr Scanner</string>
     <string name="share_content">Prepareu-vos per experimentar la manera més ràpida d\'accedir al mateix compte de WhatsApp en dos telèfons intel·ligents o tauletes diferents, tot gratis! Baixeu i instal·leu l\'aplicació ara.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Seleccioneu la vostra carpeta de WhatsApp Business</string>
+    <string name="wa_business_directory_invalid">La carpeta no s\'assembla a WhatsApp Business. Si us plau, torna-ho a provar.</string>
+    <string name="wa_business_not_installed">Sembla que WhatsApp Business no està instal·lat.</string>
+    <string name="heading_one">Desa ràpid</string>
+    <string name="heading_two">Comparteix a l\'instant</string>
+    <string name="heading_three">Baixeu fora de línia</string>
+    <string name="heading_fourth">Explora i gaudeix</string>
+    <string name="desc_one">Assegureu els vostres estats preferits de WhatsApp amb un toc, assegurant-vos que els moments estimats estiguin sempre al vostre abast.</string>
+    <string name="desc_two">Difoneu l\'alegria compartint els estats de WhatsApp directament des de l\'aplicació amb amics i familiars.</string>
+    <string name="desc_three">Captura i emmagatzema els estats de WhatsApp al teu dispositiu per accedir-hi en qualsevol moment, fins i tot sense connexió a Internet.</string>
+    <string name="desc_fourth">Descobreix estats de WhatsApp atractius, afegint un toc d\'inspiració al teu dia.</string>
 </resources>

@@ -1,6 +1,6 @@
 <resources>
     <string name="app_update_alert_dialog_title">De update is voltooid</string>
-    <string name="app_update_alert_dialog_subtitle">Start de app opnieuw om updates toe te passen...</string>
+    <string name="app_update_alert_dialog_subtitle">Start de app opnieuw om updates toe te passen…</string>
     <string name="help">Hulp</string>
     <string name="cleaner">Schoner</string>
     <string name="status_saver">Statusbesparing</string>
@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Qr Scanner-app downloaden</string>
     <string name="share_content">Maak je klaar om de snelste manier te ervaren om toegang te krijgen tot hetzelfde WhatsApp-account op twee verschillende smartphones of tablets, helemaal gratis! Download en installeer de app nu.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Selecteer je WhatsApp Business-map</string>
+    <string name="wa_business_directory_invalid">Map lijkt niet op WhatsApp Business. Probeer het opnieuw.</string>
+    <string name="wa_business_not_installed">WhatsApp Business lijkt niet geïnstalleerd te zijn.</string>
+    <string name="heading_one">Snel opslaan</string>
+    <string name="heading_two">Deel direct</string>
+    <string name="heading_three">Offline downloaden</string>
+    <string name="heading_fourth">Ontdek en geniet</string>
+    <string name="desc_one">Beveilig je favoriete WhatsApp-statussen met één tik, zodat je dierbare momenten altijd binnen handbereik zijn.</string>
+    <string name="desc_two">Verspreid vreugde door WhatsApp-statussen rechtstreeks vanuit de app te delen met vrienden en familie.</string>
+    <string name="desc_three">Leg WhatsApp-statussen vast en bewaar ze op uw apparaat, zodat u er altijd toegang toe heeft, zelfs zonder internetverbinding.</string>
+    <string name="desc_fourth">Ontdek boeiende WhatsApp-statussen en voeg een vleugje inspiratie toe aan je dag.</string>
 </resources>

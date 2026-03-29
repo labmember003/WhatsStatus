@@ -1,6 +1,6 @@
 <resources>
     <string name="app_update_alert_dialog_title">A actualización completouse</string>
-    <string name="app_update_alert_dialog_subtitle">Reinicia a aplicación para aplicar actualizacións...</string>
+    <string name="app_update_alert_dialog_subtitle">Reinicia a aplicación para aplicar actualizacións…</string>
     <string name="help">Axuda</string>
     <string name="cleaner">Limpador</string>
     <string name="status_saver">Aforro de estado</string>
@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Descargar Qr Scanner App</string>
     <string name="share_content">Prepárate para experimentar o xeito máis rápido de acceder á mesma conta de WhatsApp en dous teléfonos intelixentes ou tabletas diferentes, todo de balde! Descarga e instala a aplicación agora.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Selecciona o teu cartafol WhatsApp Business</string>
+    <string name="wa_business_directory_invalid">O cartafol non se parece a WhatsApp Business. Téntao de novo.</string>
+    <string name="wa_business_not_installed">Parece que WhatsApp Business non está instalado.</string>
+    <string name="heading_one">Gardar rápido</string>
+    <string name="heading_two">Comparte ao instante</string>
+    <string name="heading_three">Descargar sen conexión</string>
+    <string name="heading_fourth">Explora e disfruta</string>
+    <string name="desc_one">Asegura os teus estados favoritos de WhatsApp cun toque, asegurando que os momentos queridos estean sempre ao teu alcance.</string>
+    <string name="desc_two">Difunde a alegría compartindo os estados de WhatsApp directamente desde a aplicación con amigos e familiares.</string>
+    <string name="desc_three">Captura e almacena os estados de WhatsApp no ​​teu dispositivo para acceder en calquera momento, mesmo sen conexión a Internet.</string>
+    <string name="desc_fourth">Descobre estados de WhatsApp atractivos, engadindo un toque de inspiración ao teu día.</string>
 </resources>

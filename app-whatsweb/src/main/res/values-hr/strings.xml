@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Preuzmite aplikaciju Qr Scanner</string>
     <string name="share_content">Pripremite se iskusiti najbrži način pristupa istom WhatsApp računu na dva različita pametna telefona ili tableta, sve besplatno! Preuzmite i instalirajte aplikaciju sada.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Odaberite svoju WhatsApp Business mapu</string>
+    <string name="wa_business_directory_invalid">Mapa ne izgleda kao WhatsApp Business. Molimo pokušajte ponovo.</string>
+    <string name="wa_business_not_installed">Čini se da WhatsApp Business nije instaliran.</string>
+    <string name="heading_one">Brzo spremanje</string>
+    <string name="heading_two">Podijelite odmah</string>
+    <string name="heading_three">Preuzmite izvan mreže</string>
+    <string name="heading_fourth">Istražite i uživajte</string>
+    <string name="desc_one">Osigurajte svoje omiljene WhatsApp statuse dodirom, osiguravajući da su vam dragi trenuci uvijek na dohvat ruke.</string>
+    <string name="desc_two">Širite radost dijeljenjem WhatsApp statusa izravno iz aplikacije s prijateljima i obitelji.</string>
+    <string name="desc_three">Snimite i pohranite WhatsApp statuse na svom uređaju za pristup u bilo kojem trenutku, čak i bez internetske veze.</string>
+    <string name="desc_fourth">Otkrijte privlačne WhatsApp statuse koji će vašem danu dodati dašak inspiracije.</string>
 </resources>

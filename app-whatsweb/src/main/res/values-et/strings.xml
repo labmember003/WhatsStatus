@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Laadige alla QR-skanneri rakendus</string>
     <string name="share_content">Olge valmis kogema kiireimat viisi, kuidas pääseda samale WhatsAppi kontole kahes erinevas nutitelefonis või tahvelarvutis – seda kõike tasuta! Laadige rakendus alla ja installige kohe.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Valige oma WhatsApp Businessi kaust</string>
+    <string name="wa_business_directory_invalid">Kaust ei näe välja nagu WhatsApp Business. Palun proovi uuesti.</string>
+    <string name="wa_business_not_installed">Näib, et WhatsApp Business pole installitud.</string>
+    <string name="heading_one">Kiire salvestamine</string>
+    <string name="heading_two">Jagage kohe</string>
+    <string name="heading_three">Laadige alla võrguühenduseta</string>
+    <string name="heading_fourth">Uurige ja nautige</string>
+    <string name="desc_one">Kindlustage oma WhatsAppi lemmikolekud puudutusega, tagades, et kallid hetked on alati teie käeulatuses.</string>
+    <string name="desc_two">Levitage rõõmu, jagades WhatsAppi olekuid otse rakendusest sõprade ja perega.</string>
+    <string name="desc_three">Jäädvustage ja salvestage oma seadmesse WhatsAppi olekud, et pääseda igal ajal juurde, isegi ilma Interneti-ühenduseta.</string>
+    <string name="desc_fourth">Avastage põnevaid WhatsAppi olekuid, lisades oma päevale inspiratsiooni.</string>
 </resources>

@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Qr сканер колдонмосун жүктөп алыңыз</string>
     <string name="share_content">Эки башка смартфондо же планшетте бир эле WhatsApp аккаунтуна кирүүнүн эң тез ыкмасын колдонууга даяр болуңуз, бардыгы бекер! Колдонмону азыр жүктөп алып, орнотуңуз.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">WhatsApp Business папкаңызды тандаңыз</string>
+    <string name="wa_business_directory_invalid">Папка WhatsApp бизнесине окшош эмес. Сураныч, кайра аракет кылыңыз.</string>
+    <string name="wa_business_not_installed">WhatsApp Business орнотулган эмес окшойт.</string>
+    <string name="heading_one">Тез сактоо</string>
+    <string name="heading_two">Заматта бөлүшүү</string>
+    <string name="heading_three">Оффлайн жүктөп алыңыз</string>
+    <string name="heading_fourth">Изилдөө жана ырахат алуу</string>
+    <string name="desc_one">Сүйүктүү WhatsApp статустарыңызды таптап коюңуз.</string>
+    <string name="desc_two">Достор жана үй-бүлө менен түздөн-түз колдонмодон WhatsApp статустарын бөлүшүү менен кубанычты таратыңыз.</string>
+    <string name="desc_three">Интернетке туташпастан да каалаган убакта жетүү үчүн түзмөгүңүздө WhatsApp статустарын тартып алыңыз жана сактаңыз.</string>
+    <string name="desc_fourth">Кызыктуу WhatsApp статустарын таап, күнүңүзгө шыктандыруучу тийүү кошуу.</string>
 </resources>

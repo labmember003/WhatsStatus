@@ -197,4 +197,15 @@
 
     <string name="directly_message_anyone_without_saving_phone_as_contact"/>
 
+    <string name="please_select_wa_business_directory">Pilih folder Perniagaan WhatsApp anda</string>
+    <string name="wa_business_directory_invalid">Folder tidak kelihatan seperti WhatsApp Business. Sila cuba lagi.</string>
+    <string name="wa_business_not_installed">WhatsApp Business nampaknya tidak dipasang.</string>
+    <string name="heading_one">Cepat Simpan</string>
+    <string name="heading_two">Kongsi Serta-merta</string>
+    <string name="heading_three">Muat turun Luar Talian</string>
+    <string name="heading_fourth">Teroka dan Nikmati</string>
+    <string name="desc_one">Lindungi status WhatsApp kegemaran anda dengan satu ketikan, memastikan detik-detik yang dihargai sentiasa di hujung jari anda.</string>
+    <string name="desc_two">Sebarkan kegembiraan dengan berkongsi status WhatsApp terus daripada apl dengan rakan dan keluarga.</string>
+    <string name="desc_three">Tangkap dan simpan status WhatsApp pada peranti anda untuk akses bila-bila masa, walaupun tanpa sambungan internet.</string>
+    <string name="desc_fourth">Temui status WhatsApp yang menarik, menambahkan sentuhan inspirasi pada hari anda.</string>
 </resources>

@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Tsitsani pulogalamu ya Qr Scanner</string>
     <string name="share_content">Konzekerani kukhala ndi njira yachangu kwambiri yopezera akaunti ya WhatsApp yomweyi pama foni awiri kapena mapiritsi, zonse zaulere! Koperani ndi kukhazikitsa pulogalamu tsopano.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Sankhani chikwatu chanu cha WhatsApp Business</string>
+    <string name="wa_business_directory_invalid">Foda sikuwoneka ngati WhatsApp Business. Chonde yesaninso.</string>
+    <string name="wa_business_not_installed">WhatsApp Business sikuwoneka kuti yakhazikitsidwa.</string>
+    <string name="heading_one">Kusunga Mwamsanga</string>
+    <string name="heading_two">Gawani Nthawi yomweyo</string>
+    <string name="heading_three">Tsitsani Offline</string>
+    <string name="heading_fourth">Onani ndi Kusangalala</string>
+    <string name="desc_one">Tetezani zidziwitso zomwe mumakonda pa WhatsApp ndikudina, kuwonetsetsa kuti nthawi zomwe mumakonda zili m\'manja mwanu.</string>
+    <string name="desc_two">Falitsa chisangalalo pogawana ma status a WhatsApp mwachindunji kuchokera pa pulogalamuyi ndi abwenzi ndi abale.</string>
+    <string name="desc_three">Jambulani ndi kusunga ziwerengero za WhatsApp pazida zanu kuti mupeze nthawi iliyonse, ngakhale popanda intaneti.</string>
+    <string name="desc_fourth">Dziwani zambiri zamagulu a WhatsApp, ndikuwonjezera kudzoza kwa tsiku lanu.</string>
 </resources>

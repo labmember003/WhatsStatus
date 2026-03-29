@@ -1,6 +1,6 @@
 <resources>
     <string name="app_update_alert_dialog_title">更新完成</string>
-    <string name="app_update_alert_dialog_subtitle">重新启动应用程序以应用更新...</string>
+    <string name="app_update_alert_dialog_subtitle">重新启动应用程序以应用更新…</string>
     <string name="help">帮助</string>
     <string name="cleaner">清洁工</string>
     <string name="status_saver">状态保护程序</string>
@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">下载二维码扫描器应用程序</string>
     <string name="share_content">准备好体验在两部不同的智能手机或平板电脑上访问同一个 WhatsApp 帐户的最快方式，全部免费！立即下载并安装该应用程序。</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">“”</string>
+    <string name="please_select_wa_business_directory">选择您的 WhatsApp Business 文件夹</string>
+    <string name="wa_business_directory_invalid">文件夹看起来不像 WhatsApp Business。请再试一次。</string>
+    <string name="wa_business_not_installed">WhatsApp Business 似乎未安装。</string>
+    <string name="heading_one">快速保存</string>
+    <string name="heading_two">即时分享</string>
+    <string name="heading_three">离线下载</string>
+    <string name="heading_fourth">探索并享受</string>
+    <string name="desc_one">只需轻按一下即可保护您最喜爱的 WhatsApp 状态，确保珍贵时刻始终触手可及。</string>
+    <string name="desc_two">直接从应用程序与朋友和家人分享 WhatsApp 状态，传播欢乐。</string>
+    <string name="desc_three">在您的设备上捕获并存储 WhatsApp 状态，以便随时访问，即使没有互联网连接也是如此。</string>
+    <string name="desc_fourth">发现引人入胜的 WhatsApp 状态，为您的一天增添一丝灵感。</string>
 </resources>

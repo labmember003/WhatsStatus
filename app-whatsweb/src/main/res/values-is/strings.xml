@@ -1,6 +1,6 @@
 <resources>
     <string name="app_update_alert_dialog_title">Uppfærslu er lokið</string>
-    <string name="app_update_alert_dialog_subtitle">Endurræstu forritið til að nota uppfærslur...</string>
+    <string name="app_update_alert_dialog_subtitle">Endurræstu forritið til að nota uppfærslur…</string>
     <string name="help">Hjálp</string>
     <string name="cleaner">Hreinari</string>
     <string name="status_saver">Stöðusparnaður</string>
@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Sæktu QR Scanner app</string>
     <string name="share_content">Vertu tilbúinn til að upplifa fljótlegasta leiðin til að fá aðgang að sama WhatsApp reikningnum á tveimur mismunandi snjallsímum eða spjaldtölvum, allt ókeypis! Sæktu og settu upp appið núna.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Veldu WhatsApp Business möppuna þína</string>
+    <string name="wa_business_directory_invalid">Mappan lítur ekki út eins og WhatsApp Business. Vinsamlegast reyndu aftur.</string>
+    <string name="wa_business_not_installed">WhatsApp Business virðist ekki vera uppsett.</string>
+    <string name="heading_one">Fljótur vistun</string>
+    <string name="heading_two">Deildu samstundis</string>
+    <string name="heading_three">Sækja án nettengingar</string>
+    <string name="heading_fourth">Skoðaðu og njóttu</string>
+    <string name="desc_one">Tryggðu þér uppáhalds WhatsApp stöðuna þína með snertingu og tryggðu að dýrmætar stundir séu alltaf innan seilingar.</string>
+    <string name="desc_two">Dreifðu gleði með því að deila WhatsApp stöðunum beint úr appinu með vinum og fjölskyldu.</string>
+    <string name="desc_three">Taktu og geymdu WhatsApp stöður í tækinu þínu til að fá aðgang hvenær sem er, jafnvel án nettengingar.</string>
+    <string name="desc_fourth">Uppgötvaðu grípandi WhatsApp stöður, bættu smá innblástur við daginn þinn.</string>
 </resources>

@@ -1,6 +1,6 @@
 <resources>
     <string name="app_update_alert_dialog_title">L\'aghjurnamentu hè cumpletu</string>
-    <string name="app_update_alert_dialog_subtitle">Riavvia l\'app per applicà l\'aghjurnamenti...</string>
+    <string name="app_update_alert_dialog_subtitle">Riavvia l\'app per applicà l\'aghjurnamenti…</string>
     <string name="help">Aiutu</string>
     <string name="cleaner">Cleaner</string>
     <string name="status_saver">Status Saver</string>
@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Scaricate l\'app Qr Scanner</string>
     <string name="share_content">Preparate à sperimentà u modu più veloce per accede à u stessu contu WhatsApp nantu à dui smartphones o tablette sfarenti, tuttu gratuitamente! Scaricate è installate l\'app avà.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Sceglite u vostru cartulare WhatsApp Business</string>
+    <string name="wa_business_directory_invalid">U cartulare ùn pare micca WhatsApp Business. Per piacè pruvate di novu.</string>
+    <string name="wa_business_not_installed">WhatsApp Business ùn pare micca esse stallatu.</string>
+    <string name="heading_one">Salvà rapidu</string>
+    <string name="heading_two">Condividi istantaneamente</string>
+    <string name="heading_three">Scaricate Offline</string>
+    <string name="heading_fourth">Esplora è divertite</string>
+    <string name="desc_one">Assicurate i vostri stati di WhatsApp preferiti cun un toccu, assicurendu chì i mumenti cari sò sempre à a vostra manu.</string>
+    <string name="desc_two">Spread a gioia spartendu i stati WhatsApp direttamente da l\'app cù l\'amichi è a famiglia.</string>
+    <string name="desc_three">Cattura è almacenà i stati di WhatsApp in u vostru dispositivu per accessu in ogni mumentu, ancu senza una cunnessione Internet.</string>
+    <string name="desc_fourth">Scopre stati di WhatsApp impegni, aghjunghjendu un toccu d\'ispirazione à u vostru ghjornu.</string>
 </resources>

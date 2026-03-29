@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Qr سايىلىغۇچ دېتالىنى چۈشۈرۈڭ</string>
     <string name="share_content">ئوخشاش بولمىغان ئىككى خىل ئەقلىي ئىقتىدارلىق تېلېفون ياكى تاختا كومپيۇتېردا ئوخشاش WhatsApp ھېساباتىغا ئېرىشىشنىڭ ئەڭ تېز ئۇسۇلىنى ھېس قىلىشقا تەييارلىق قىلىڭ ، ھەممىسى ھەقسىز! بۇ دېتالنى ھازىر چۈشۈرۈپ قاچىلاڭ.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">WhatsApp سودا ھۆججەت قىسقۇچىڭىزنى تاللاڭ</string>
+    <string name="wa_business_directory_invalid">ھۆججەت قىسقۇچ WhatsApp كەسپىگە ئوخشىمايدۇ. قايتا سىناڭ.</string>
+    <string name="wa_business_not_installed">WhatsApp Business قاچىلانمىغاندەك قىلىدۇ.</string>
+    <string name="heading_one">تېز ساقلاش</string>
+    <string name="heading_two">دەرھال ھەمبەھىرلەڭ</string>
+    <string name="heading_three">توردىن چۈشۈرۈڭ</string>
+    <string name="heading_fourth">ئىزدىنىش ۋە ھۇزۇرلىنىش</string>
+    <string name="desc_one">ئۆزىڭىز ياقتۇرىدىغان WhatsApp ھالىتىنى چېكىش ئارقىلىق بىخەتەر قىلىڭ ، قەدىرلىك دەقىقىلەرنىڭ ھەمىشە قولىڭىزدا بولۇشىغا كاپالەتلىك قىلىڭ.</string>
+    <string name="desc_two">WhatsApp ھالىتىنى دوستلار ۋە تۇغقانلار بىلەن بىۋاسىتە ئەپتىن ھەمبەھىرلەش ئارقىلىق خۇشاللىق تارقىتىڭ.</string>
+    <string name="desc_three">ئۈسكۈنىڭىزدىكى WhatsApp ھالىتىنى تورغا ئۇلىمىسىڭىزمۇ خالىغان ۋاقىتتا زىيارەت قىلىڭ.</string>
+    <string name="desc_fourth">جەلپ قىلىش كۈچىگە ئىگە WhatsApp ھالىتىنى بايقايسىز ، كۈنىڭىزگە ئىلھام بېغىشلايدۇ.</string>
 </resources>

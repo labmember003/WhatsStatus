@@ -1,6 +1,6 @@
 <resources>
     <string name="app_update_alert_dialog_title">Яңарту тәмамланды</string>
-    <string name="app_update_alert_dialog_subtitle">Яңартулар куллану өчен кушымтаны яңадан эшләтеп җибәрегез ...</string>
+    <string name="app_update_alert_dialog_subtitle">Яңартулар куллану өчен кушымтаны яңадан эшләтеп җибәрегез …</string>
     <string name="help">Ярдәм итегез</string>
     <string name="cleaner">Чистартучы</string>
     <string name="status_saver">Статус саклаучы</string>
@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Qr сканер кушымтасын йөкләү</string>
     <string name="share_content">Ике төрле смартфонда яки планшетта бер үк WhatsApp счетына керү өчен иң тиз юлны татып карарга әзерләнегез! Кушымтаны хәзер йөкләү һәм урнаштыру.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">WhatsApp Бизнес папкасын сайлагыз</string>
+    <string name="wa_business_directory_invalid">Папка WhatsApp Бизнеска охшамый. Зинһар, кабатлап карагыз.</string>
+    <string name="wa_business_not_installed">WhatsApp Бизнес урнаштырылган кебек түгел.</string>
+    <string name="heading_one">Тиз саклагыз</string>
+    <string name="heading_two">Шунда ук бүлешегез</string>
+    <string name="heading_three">Оффлайн йөкләү</string>
+    <string name="heading_fourth">Эзләнү һәм ләззәтләнү</string>
+    <string name="desc_one">Яраткан WhatsApp статусларыгызны кран белән тәэмин итегез, кадерле мизгелләр һәрвакыт сезнең кулыгызда.</string>
+    <string name="desc_two">Дуслар һәм туганнар белән кушымтадан WhatsApp статусларын бүлешеп шатлык таратыгыз.</string>
+    <string name="desc_three">Ватсап статусын җайланмагызда теләсә кайсы вакытта керү өчен, хәтта интернетка тоташмыйча саклагыз.</string>
+    <string name="desc_fourth">Сезнең көнегезгә илһам өстәп, WhatsApp статусларын җәлеп итегез.</string>
 </resources>

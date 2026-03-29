@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Ampidino ny fampiharana Qr Scanner</string>
     <string name="share_content">Miomàna hiaina ny fomba haingana indrindra hidirana amin\'ny kaonty WhatsApp mitovy amin\'ny finday na takelaka roa samy hafa, maimaim-poana avokoa! Ampidino ary apetraho izao ny fampiharana.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Safidio ny lahatahiry WhatsApp Business anao</string>
+    <string name="wa_business_directory_invalid">Tsy mitovy amin\'ny WhatsApp Business ny folder. Andramo indray azafady.</string>
+    <string name="wa_business_not_installed">Toa tsy napetraka ny WhatsApp Business.</string>
+    <string name="heading_one">Tehirizo haingana</string>
+    <string name="heading_two">Zarao avy hatrany</string>
+    <string name="heading_three">Misintona an-tserasera</string>
+    <string name="heading_fourth">Diniho ary ankafizo</string>
+    <string name="desc_one">Arovy ny sata WhatsApp ankafizinao amin\'ny paompy iray, miantoka fa eo am-pelatananao foana ny fotoana ankamamianao.</string>
+    <string name="desc_two">Aparitaho ny hafaliana amin\'ny fizarana sata WhatsApp mivantana avy amin\'ny fampiharana amin\'ny namana sy fianakaviana.</string>
+    <string name="desc_three">Alao sy tehirizo ny sata WhatsApp amin\'ny fitaovanao mba hidirana amin\'ny fotoana rehetra, na dia tsy misy fifandraisana Internet aza.</string>
+    <string name="desc_fourth">Mahita sata WhatsApp mahasarika, manampy aingam-panahy amin\'ny andronao.</string>
 </resources>

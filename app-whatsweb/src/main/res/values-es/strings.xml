@@ -2,7 +2,7 @@
 
     <string name="app_update_alert_dialog_title">La actualización está completa</string>
 
-    <string name="app_update_alert_dialog_subtitle">Reinicia la aplicación para aplicar las actualizaciones...</string>
+    <string name="app_update_alert_dialog_subtitle">Reinicia la aplicación para aplicar las actualizaciones…</string>
 
     <string name="help">Ayuda</string>
 
@@ -197,4 +197,15 @@
 
     <string name="directly_message_anyone_without_saving_phone_as_contact" />
 
+    <string name="please_select_wa_business_directory">Selecciona tu carpeta de WhatsApp Business</string>
+    <string name="wa_business_directory_invalid">La carpeta no se parece a WhatsApp Business. Por favor inténtalo de nuevo.</string>
+    <string name="wa_business_not_installed">Parece que WhatsApp Business no está instalado.</string>
+    <string name="heading_one">Guardado rápido</string>
+    <string name="heading_two">Comparte al instante</string>
+    <string name="heading_three">Descargar sin conexión</string>
+    <string name="heading_fourth">Explora y disfruta</string>
+    <string name="desc_one">Protege tus estados favoritos de WhatsApp con un toque, asegurando que los momentos más preciados estén siempre a tu alcance.</string>
+    <string name="desc_two">Transmita alegría compartiendo estados de WhatsApp directamente desde la aplicación con amigos y familiares.</string>
+    <string name="desc_three">Capture y almacene los estados de WhatsApp en su dispositivo para acceder a ellos en cualquier momento, incluso sin conexión a Internet.</string>
+    <string name="desc_fourth">Descubra atractivos estados de WhatsApp que agregarán un toque de inspiración a su día.</string>
 </resources>

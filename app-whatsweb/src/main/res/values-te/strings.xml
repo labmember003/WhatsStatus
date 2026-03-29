@@ -1,6 +1,6 @@
 <resources>
     <string name="app_update_alert_dialog_title">నవీకరణ పూర్తయింది</string>
-    <string name="app_update_alert_dialog_subtitle">అప్‌డేట్‌లను వర్తింపజేయడానికి యాప్‌ని రీస్టార్ట్ చేయండి...</string>
+    <string name="app_update_alert_dialog_subtitle">అప్‌డేట్‌లను వర్తింపజేయడానికి యాప్‌ని రీస్టార్ట్ చేయండి…</string>
     <string name="help">సహాయం</string>
     <string name="cleaner">క్లీనర్</string>
     <string name="status_saver">స్థితి సేవర్</string>
@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Qr స్కానర్ యాప్‌ను డౌన్‌లోడ్ చేయండి</string>
     <string name="share_content">రెండు వేర్వేరు స్మార్ట్‌ఫోన్‌లు లేదా టాబ్లెట్‌లలో ఒకే WhatsApp ఖాతాను యాక్సెస్ చేయడానికి వేగవంతమైన మార్గాన్ని అనుభవించడానికి సిద్ధంగా ఉండండి! యాప్‌ని ఇప్పుడే డౌన్‌లోడ్ చేసి, ఇన్‌స్టాల్ చేయండి.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">మీ WhatsApp Business ఫోల్డర్‌ని ఎంచుకోండి</string>
+    <string name="wa_business_directory_invalid">ఫోల్డర్ WhatsApp వ్యాపారం వలె కనిపించడం లేదు. దయచేసి మళ్లీ ప్రయత్నించండి.</string>
+    <string name="wa_business_not_installed">WhatsApp వ్యాపారం ఇన్‌స్టాల్ చేయబడినట్లు కనిపించడం లేదు.</string>
+    <string name="heading_one">త్వరిత సేవ్</string>
+    <string name="heading_two">తక్షణమే షేర్ చేయండి</string>
+    <string name="heading_three">ఆఫ్‌లైన్‌లో డౌన్‌లోడ్ చేయండి</string>
+    <string name="heading_fourth">అన్వేషించండి మరియు ఆనందించండి</string>
+    <string name="desc_one">మీకు ఇష్టమైన వాట్సాప్ స్టేటస్‌లను ఒక ట్యాప్‌తో సురక్షితం చేసుకోండి, ప్రతిష్టాత్మకమైన క్షణాలు ఎల్లప్పుడూ మీ చేతివేళ్ల వద్ద ఉండేలా చూసుకోండి.</string>
+    <string name="desc_two">యాప్ నుండి నేరుగా స్నేహితులు మరియు కుటుంబ సభ్యులతో WhatsApp స్థితిగతులను పంచుకోవడం ద్వారా ఆనందాన్ని పంచండి.</string>
+    <string name="desc_three">ఇంటర్నెట్ కనెక్షన్ లేకుండా కూడా ఎప్పుడైనా యాక్సెస్ కోసం మీ పరికరంలో WhatsApp స్థితిగతులను క్యాప్చర్ చేయండి మరియు నిల్వ చేయండి.</string>
+    <string name="desc_fourth">ఆకర్షణీయమైన WhatsApp స్థితిగతులను కనుగొనండి, మీ రోజుకి స్ఫూర్తిని జోడిస్తుంది.</string>
 </resources>

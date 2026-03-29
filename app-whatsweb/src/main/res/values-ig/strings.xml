@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Budata ngwa nyocha Qr</string>
     <string name="share_content">Jikere ka ị nweta ụzọ kachasị ọsọ iji nweta otu akaụntụ WhatsApp na ekwentị ma ọ bụ mbadamba abụọ dị iche iche, niile n\'efu! Budata ma wụnye ngwa ugbu a.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Họrọ folda azụmahịa WhatsApp gị</string>
+    <string name="wa_business_directory_invalid">nchekwa adịghị ka WhatsApp Business. Biko nwaa ọzọ.</string>
+    <string name="wa_business_not_installed">WhatsApp Business eyighị ka etinyere ya.</string>
+    <string name="heading_one">Chekwa ngwa ngwa</string>
+    <string name="heading_two">Kekọrịta ozugbo</string>
+    <string name="heading_three">Budata anọghị n\'ịntanetị</string>
+    <string name="heading_fourth">Chọgharịa ma nwee obi ụtọ</string>
+    <string name="desc_one">Jiri mgbatụ chekwaa ọnọdụ WhatsApp ọkacha mmasị gị, na-ahụ na oge ndị a ma ama na-adị mgbe niile n\'aka gị.</string>
+    <string name="desc_two">Gbasaa ọṅụ site na isoro ndị enyi na ezinụlọ kekọrịta ọkwa WhatsApp ozugbo site na ngwa ahụ.</string>
+    <string name="desc_three">Were ma chekwaa ọkwa WhatsApp na ngwaọrụ gị maka ịnweta oge ọ bụla, ọbụlagodi na enweghị njikọ ịntanetị.</string>
+    <string name="desc_fourth">Chọpụta ọkwa WhatsApp na-etinye aka, na-agbakwunye mmetụ nke mkpali n\'ụbọchị gị.</string>
 </resources>

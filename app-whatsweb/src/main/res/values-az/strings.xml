@@ -1,6 +1,6 @@
 <resources>
     <string name="app_update_alert_dialog_title">Yeniləmə tamamlandı</string>
-    <string name="app_update_alert_dialog_subtitle">Güncəlləmələri tətbiq etmək üçün proqramı yenidən başladın...</string>
+    <string name="app_update_alert_dialog_subtitle">Güncəlləmələri tətbiq etmək üçün proqramı yenidən başladın…</string>
     <string name="help">Kömək edin</string>
     <string name="cleaner">Təmizləyici</string>
     <string name="status_saver">Status Saver</string>
@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Qr Scanner Proqramını yükləyin</string>
     <string name="share_content">İki fərqli smartfon və ya planşetdə eyni WhatsApp hesabına pulsuz daxil olmağın ən sürətli yolunu yaşamağa hazır olun! Proqramı indi endirin və quraşdırın.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">WhatsApp Business qovluğunuzu seçin</string>
+    <string name="wa_business_directory_invalid">Qovluq WhatsApp Business-ə bənzəmir. Yenidən cəhd edin.</string>
+    <string name="wa_business_not_installed">WhatsApp Business quraşdırılmayıb.</string>
+    <string name="heading_one">Tez Saxla</string>
+    <string name="heading_two">Dərhal Paylaşın</string>
+    <string name="heading_three">Oflayn yükləyin</string>
+    <string name="heading_fourth">Kəşf edin və həzz alın</string>
+    <string name="desc_one">Sevimli anların həmişə parmaklarınızın ucunda olmasını təmin edərək, sevimli WhatsApp statuslarınızı bir kliklə təmin edin.</string>
+    <string name="desc_two">WhatsApp statuslarını dostlarınız və ailənizlə birbaşa tətbiqdən paylaşaraq sevinci yayın.</string>
+    <string name="desc_three">İstənilən vaxt, hətta internet bağlantısı olmadan da daxil olmaq üçün WhatsApp statuslarını çəkin və cihazınızda saxlayın.</string>
+    <string name="desc_fourth">Gününüzə ilham toxunuşu əlavə edərək, maraqlı WhatsApp statuslarını kəşf edin.</string>
 </resources>

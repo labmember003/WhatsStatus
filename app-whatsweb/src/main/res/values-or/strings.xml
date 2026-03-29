@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Qr ସ୍କାନର୍ ଆପ୍ ଡାଉନଲୋଡ୍ କରନ୍ତୁ |</string>
     <string name="share_content">ଦୁଇଟି ଭିନ୍ନ ସ୍ମାର୍ଟଫୋନ୍ କିମ୍ବା ଟାବଲେଟରେ ସମାନ ହ୍ ats ାଟସ୍ ଆପ୍ ଆକାଉଣ୍ଟକୁ ପ୍ରବେଶ କରିବାର ଦ୍ରୁତତମ ଉପାୟ ଅନୁଭବ କରିବାକୁ ପ୍ରସ୍ତୁତ ହୁଅ, ସମସ୍ତେ ମାଗଣାରେ! ବର୍ତ୍ତମାନ ଆପ୍ ଡାଉନଲୋଡ୍ ଏବଂ ଇନଷ୍ଟଲ୍ କରନ୍ତୁ |</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">ଆପଣଙ୍କର ହ୍ ats ାଟସ୍ ଆପ୍ ବ୍ୟବସାୟ ଫୋଲ୍ଡର୍ ଚୟନ କରନ୍ତୁ |</string>
+    <string name="wa_business_directory_invalid">ଫୋଲ୍ଡର ହ୍ ats ାଟସ୍ ଆପ୍ ବ୍ୟବସାୟ ପରି ଦେଖାଯାଏ ନାହିଁ | ଦୟାକରି ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ |</string>
+    <string name="wa_business_not_installed">ହ୍ ats ାଟସ୍ ଆପ୍ ସଂସ୍ଥାପିତ ହୋଇଥିବା ପରି ମନେ ହେଉନାହିଁ।</string>
+    <string name="heading_one">ଶୀଘ୍ର ସଞ୍ଚୟ କରନ୍ତୁ |</string>
+    <string name="heading_two">ତତକ୍ଷଣାତ୍ ଅଂଶୀଦାର କରନ୍ତୁ |</string>
+    <string name="heading_three">ଅଫଲାଇନ୍ ଡାଉନଲୋଡ୍ କରନ୍ତୁ |</string>
+    <string name="heading_fourth">ଏକ୍ସପ୍ଲୋର୍ କରନ୍ତୁ ଏବଂ ଉପଭୋଗ କରନ୍ତୁ |</string>
+    <string name="desc_one">ଏକ ଟ୍ୟାପ୍ ସହିତ ଆପଣଙ୍କର ପ୍ରିୟ ହ୍ ats ାଟସ୍ ଆପ୍ ସ୍ଥିତିକୁ ସୁରକ୍ଷିତ କରନ୍ତୁ, ସୁନିଶ୍ଚିତ ମୂହୁର୍ତ୍ତଗୁଡିକ ସର୍ବଦା ଆପଣଙ୍କ ଆଙ୍ଗୁଠିରେ ଅଛି |</string>
+    <string name="desc_two">ହ୍ ats ାଟସ୍ ଆପ୍ ସ୍ଥିତିକୁ ସାଙ୍ଗ ଏବଂ ପରିବାର ସହିତ ସିଧାସଳଖ ସେୟାର କରି ଆନନ୍ଦ ବିସ୍ତାର କରନ୍ତୁ |</string>
+    <string name="desc_three">ଇଣ୍ଟରନେଟ୍ ସଂଯୋଗ ବିନା ମଧ୍ୟ ଯେକ time ଣସି ସମୟରେ ପ୍ରବେଶ ପାଇଁ ହ୍ ats ାଟସ୍ ଆପ୍ ସ୍ଥିତିକୁ କ୍ୟାପଚର ଏବଂ ଷ୍ଟୋର୍ କରନ୍ତୁ |</string>
+    <string name="desc_fourth">ଆପଣଙ୍କ ଦିନରେ ପ୍ରେରଣା ସ୍ପର୍ଶ ଯୋଗକରି ହ୍ ats ାଟସ୍ ଆପ୍ ସ୍ଥିତିକୁ ଆବିଷ୍କାର କରନ୍ତୁ |</string>
 </resources>

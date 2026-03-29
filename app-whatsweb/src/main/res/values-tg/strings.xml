@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Замимаи Qr Scanner -ро зеркашӣ кунед</string>
     <string name="share_content">Омода шавед, ки роҳи зудтарини дастрасӣ ба як ҳисоби WhatsApp дар ду смартфон ё планшетҳои гуногунро ройгон истифода баред! Ҳоло барномаро зеркашӣ ва насб кунед.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Папкаи тиҷорати WhatsApp-и худро интихоб кунед</string>
+    <string name="wa_business_directory_invalid">Папка ба WhatsApp Business монанд нест. Лутфан бори дигар кӯшиш кунед.</string>
+    <string name="wa_business_not_installed">Чунин ба назар мерасад, ки WhatsApp Business насб нашудааст.</string>
+    <string name="heading_one">Захираи зуд</string>
+    <string name="heading_two">Ба таври фаврӣ мубодила кунед</string>
+    <string name="heading_three">Офлайн зеркашӣ кунед</string>
+    <string name="heading_fourth">Кашф кунед ва лаззат баред</string>
+    <string name="desc_one">Ҳолатҳои дӯстдоштаи WhatsApp-и худро бо як клик муҳофизат кунед, то лаҳзаҳои азиз ҳамеша дар дасти шумо бошанд.</string>
+    <string name="desc_two">Бо мубодилаи статусҳои WhatsApp мустақиман аз барнома бо дӯстон ва оила шодиро паҳн кунед.</string>
+    <string name="desc_three">Ҳолатҳои WhatsApp-ро дар дастгоҳи худ сабт кунед ва захира кунед, то дастрасии ҳама вақт, ҳатто бидуни пайвасти интернет.</string>
+    <string name="desc_fourth">Ҳолатҳои ҷолиби WhatsApp-ро кашф кунед ва ба рӯзи худ як илҳом илова кунед.</string>
 </resources>

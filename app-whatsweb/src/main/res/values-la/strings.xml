@@ -1,6 +1,6 @@
 <resources>
     <string name="app_update_alert_dialog_title">Renovatio est completum</string>
-    <string name="app_update_alert_dialog_subtitle">Sileo app adhibere updates ...</string>
+    <string name="app_update_alert_dialog_subtitle">Sileo app adhibere updates …</string>
     <string name="help">Auxilium</string>
     <string name="cleaner">Lautus</string>
     <string name="status_saver">Status Save</string>
@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Download Qr Scanner App</string>
     <string name="share_content">Parate experiri quam celerrime accedere ad idem whatsapp rationem in duabus Suspendisse vel tabulis, omnes gratis! Download and install the app nunc.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\" \"</string>
+    <string name="please_select_wa_business_directory">Select tuum whatsapp Business folder</string>
+    <string name="wa_business_directory_invalid">Folder non tamquam whatsapp Business. Quaeso, iterum conare.</string>
+    <string name="wa_business_not_installed">Whatsapp Business non videtur institui.</string>
+    <string name="heading_one">Velox Servo</string>
+    <string name="heading_two">Participes continuo</string>
+    <string name="heading_three">Download Offline</string>
+    <string name="heading_fourth">Explore ac perfruere</string>
+    <string name="desc_one">Secure ventus whatsapp status cum sonum, fovens momenta fovenda semper ad digitos tuos.</string>
+    <string name="desc_two">Gaudium communicando whatsapp status directe ex app cum amicis et familia.</string>
+    <string name="desc_three">Capere et reponunt status whatsapp in fabrica tuo quolibet accessu, etiam sine conexio.</string>
+    <string name="desc_fourth">Invenire ineunt whatsapp status, tactus inspirationis ad dies addit.</string>
 </resources>

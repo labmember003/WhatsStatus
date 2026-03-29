@@ -1,6 +1,6 @@
 <resources>
     <string name="app_update_alert_dialog_title">अपडेट पूर्ण झाले</string>
-    <string name="app_update_alert_dialog_subtitle">अपडेट लागू करण्यासाठी अॅप रीस्टार्ट करा...</string>
+    <string name="app_update_alert_dialog_subtitle">अपडेट लागू करण्यासाठी अॅप रीस्टार्ट करा…</string>
     <string name="help">मदत करा</string>
     <string name="cleaner">क्लिनर</string>
     <string name="status_saver">स्टेटस सेव्हर</string>
@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">क्यूआर स्कॅनर अॅप डाउनलोड करा</string>
     <string name="share_content">दोन भिन्न स्मार्टफोन किंवा टॅब्लेटवर समान WhatsApp खात्यात प्रवेश करण्याचा सर्वात जलद मार्ग अनुभवण्यासाठी सज्ज व्हा, सर्व काही विनामूल्य! आता अॅप डाउनलोड आणि स्थापित करा.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">तुमचे WhatsApp Business फोल्डर निवडा</string>
+    <string name="wa_business_directory_invalid">फोल्डर WhatsApp व्यवसायासारखे दिसत नाही. कृपया पुन्हा प्रयत्न करा.</string>
+    <string name="wa_business_not_installed">WhatsApp Business इंस्टॉल केलेले दिसत नाही.</string>
+    <string name="heading_one">जलद जतन करा</string>
+    <string name="heading_two">झटपट शेअर करा</string>
+    <string name="heading_three">ऑफलाइन डाउनलोड करा</string>
+    <string name="heading_fourth">एक्सप्लोर करा आणि आनंद घ्या</string>
+    <string name="desc_one">तुमचे आवडते व्हॉट्सॲप स्टेटस एका टॅपने सुरक्षित करा, हे सुनिश्चित करा की प्रिय क्षण नेहमी तुमच्या बोटांच्या टोकावर आहेत.</string>
+    <string name="desc_two">ॲपवरून थेट मित्र आणि कुटुंबासह WhatsApp स्थिती शेअर करून आनंद पसरवा.</string>
+    <string name="desc_three">इंटरनेट कनेक्शन नसतानाही कधीही ॲक्सेस करण्यासाठी तुमच्या डिव्हाइसवर WhatsApp स्थिती कॅप्चर करा आणि स्टोअर करा.</string>
+    <string name="desc_fourth">तुमच्या दिवसाला प्रेरणा देणारी आकर्षक WhatsApp स्थिती शोधा.</string>
 </resources>

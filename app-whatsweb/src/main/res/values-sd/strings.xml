@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">ڊائون لوڊ ڪريو Qr اسڪينر ايپ</string>
     <string name="share_content">ٻن مختلف اسمارٽ فونز يا ٽيبلٽس تي هڪ ئي WhatsApp اڪائونٽ تائين رسائي حاصل ڪرڻ لاءِ تيز ترين طريقو تجربو ڪرڻ لاءِ تيار ٿي وڃو، سڀ مفت ۾! ھاڻي ايپ ڊائون لوڊ ۽ انسٽال ڪريو.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">پنھنجي WhatsApp ڪاروباري فولڊر چونڊيو</string>
+    <string name="wa_business_directory_invalid">فولڊر WhatsApp Business وانگر نٿو لڳي. مهرباني ڪري ٻيهر ڪوشش ڪريو.</string>
+    <string name="wa_business_not_installed">WhatsApp Business انسٽال ٿيل نٿو لڳي.</string>
+    <string name="heading_one">جلدي محفوظ ڪريو</string>
+    <string name="heading_two">فوري طور تي حصيداري ڪريو</string>
+    <string name="heading_three">آف لائن ڊائون لوڊ ڪريو</string>
+    <string name="heading_fourth">دريافت ڪريو ۽ لطف اندوز ڪريو</string>
+    <string name="desc_one">پنهنجي پسنديده WhatsApp اسٽيٽس کي هڪ ٽيپ سان محفوظ ڪريو، يقيني بڻايو ته پيارا لمحا هميشه توهان جي آڱرين تي آهن.</string>
+    <string name="desc_two">WhatsApp اسٽيٽس کي سڌو سنئون ايپ مان دوستن ۽ ڪٽنب سان شيئر ڪري خوشي پکڙيو.</string>
+    <string name="desc_three">ڪنهن به وقت تائين رسائي لاءِ توهان جي ڊوائيس تي WhatsApp اسٽيٽس کي پڪڙي ۽ اسٽور ڪريو، جيتوڻيڪ انٽرنيٽ ڪنيڪشن کان سواءِ.</string>
+    <string name="desc_fourth">دريافت ڪريو مشغول WhatsApp اسٽيٽس، توهان جي ڏينهن ۾ الهام جو هڪ ٽچ شامل ڪندي.</string>
 </resources>

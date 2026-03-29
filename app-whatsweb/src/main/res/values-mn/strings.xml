@@ -1,6 +1,6 @@
 <resources>
     <string name="app_update_alert_dialog_title">Шинэчлэлт дууслаа</string>
-    <string name="app_update_alert_dialog_subtitle">Шинэчлэлтүүдийг хэрэгжүүлэхийн тулд програмыг дахин эхлүүлнэ үү...</string>
+    <string name="app_update_alert_dialog_subtitle">Шинэчлэлтүүдийг хэрэгжүүлэхийн тулд програмыг дахин эхлүүлнэ үү…</string>
     <string name="help">Туслаач</string>
     <string name="cleaner">Цэвэрлэгч</string>
     <string name="status_saver">Статус хэмнэгч</string>
@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Qr Scanner програмыг татаж авах</string>
     <string name="share_content">Хоёр өөр ухаалаг гар утас эсвэл таблет дээр нэг WhatsApp данс руу нэвтрэх хамгийн хурдан аргыг ашиглахад бэлэн байгаарай! Одоо програмыг татаж аваад суулгана уу.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">WhatsApp Business хавтасаа сонгоно уу</string>
+    <string name="wa_business_directory_invalid">Фолдер нь WhatsApp Business шиг харагдахгүй байна. Дахин оролдоно уу.</string>
+    <string name="wa_business_not_installed">WhatsApp Business суулгаагүй бололтой.</string>
+    <string name="heading_one">Түргэн хадгалах</string>
+    <string name="heading_two">Шууд хуваалцах</string>
+    <string name="heading_three">Офлайнаар татаж авах</string>
+    <string name="heading_fourth">Судалж, сайхан өнгөрүүлээрэй</string>
+    <string name="desc_one">Дуртай WhatsApp статусаа товшилтоор хамгаалж, нандин мөчүүд үргэлж таны гарт байх болно.</string>
+    <string name="desc_two">WhatsApp-ын статусыг найз нөхөд, гэр бүлийнхэнтэйгээ апп дээрээс шууд хуваалцаж баяр баясгаланг түгээгээрэй.</string>
+    <string name="desc_three">Интернэт холболтгүй байсан ч хүссэн үедээ хандахын тулд WhatsApp-ын статусыг авч, төхөөрөмж дээрээ хадгалаарай.</string>
+    <string name="desc_fourth">WhatsApp-ийн сонирхол татахуйц статустай танилцаж, өдөртөө урам зориг нэмээрэй.</string>
 </resources>

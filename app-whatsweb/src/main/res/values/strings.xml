@@ -127,7 +127,7 @@
     <string name="desc_three">Capture and store WhatsApp statuses on your device for anytime access, even without an internet connection.</string>
     <string name="desc_fourth">Discover engaging WhatsApp statuses, adding a touch of inspiration to your day.</string>
 
-    <string name="app_name" translatable="false">Whats Web</string>
+    <string name="app_name" translatable="false">Status Saver</string>
 
     <!-- Directory guide dialog -->
     <string name="guide_title" translatable="false">How to Select WhatsApp Folder</string>

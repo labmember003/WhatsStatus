@@ -1,6 +1,6 @@
 <resources>
     <string name="app_update_alert_dialog_title">Opdatering is voltooi</string>
-    <string name="app_update_alert_dialog_subtitle">Herbegin die toepassing om opdaterings toe te pas...</string>
+    <string name="app_update_alert_dialog_subtitle">Herbegin die toepassing om opdaterings toe te pas…</string>
     <string name="help">Help</string>
     <string name="cleaner">Skoner</string>
     <string name="status_saver">Statusbesparer</string>
@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Laai QR-skandeerder-app af</string>
     <string name="share_content">Maak gereed om die vinnigste manier te ervaar om toegang tot dieselfde WhatsApp-rekening op twee verskillende slimfone of tablette te kry, alles gratis! Laai die toepassing nou af en installeer dit.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Kies jou WhatsApp Business-lêergids</string>
+    <string name="wa_business_directory_invalid">Die gids lyk nie soos WhatsApp Business nie. Probeer asseblief weer.</string>
+    <string name="wa_business_not_installed">Dit lyk of WhatsApp Business nie geïnstalleer is nie.</string>
+    <string name="heading_one">Vinnige stoor</string>
+    <string name="heading_two">Deel Onmiddellik</string>
+    <string name="heading_three">Laai vanlyn af</string>
+    <string name="heading_fourth">Verken en geniet</string>
+    <string name="desc_one">Beveilig jou gunsteling WhatsApp-statusse met \'n tik, en verseker dat gekoesterde oomblikke altyd by jou vingers is.</string>
+    <string name="desc_two">Versprei vreugde deur WhatsApp-statusse direk vanaf die toepassing met vriende en familie te deel.</string>
+    <string name="desc_three">Vang en stoor WhatsApp-statusse op jou toestel vir enige tyd toegang, selfs sonder \'n internetverbinding.</string>
+    <string name="desc_fourth">Ontdek innemende WhatsApp-statusse en voeg \'n tikkie inspirasie by jou dag.</string>
 </resources>

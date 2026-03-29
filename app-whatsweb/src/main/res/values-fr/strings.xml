@@ -197,4 +197,15 @@
 
     <string name="directly_message_anyone_without_saving_phone_as_contact" />
 
+    <string name="please_select_wa_business_directory">Sélectionnez votre dossier WhatsApp Business</string>
+    <string name="wa_business_directory_invalid">Le dossier ne ressemble pas à WhatsApp Business. Veuillez réessayer.</string>
+    <string name="wa_business_not_installed">WhatsApp Business ne semble pas être installé.</string>
+    <string name="heading_one">Sauvegarde rapide</string>
+    <string name="heading_two">Partager instantanément</string>
+    <string name="heading_three">Télécharger hors ligne</string>
+    <string name="heading_fourth">Explorez et profitez</string>
+    <string name="desc_one">Sécurisez vos statuts WhatsApp préférés d\'un simple toucher, garantissant que les moments précieux sont toujours à portée de main.</string>
+    <string name="desc_two">Répandez la joie en partageant les statuts WhatsApp directement depuis l\'application avec vos amis et votre famille.</string>
+    <string name="desc_three">Capturez et stockez les statuts WhatsApp sur votre appareil pour un accès à tout moment, même sans connexion Internet.</string>
+    <string name="desc_fourth">Découvrez des statuts WhatsApp attrayants, ajoutant une touche d\'inspiration à votre journée.</string>
 </resources>

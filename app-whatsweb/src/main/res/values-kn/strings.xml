@@ -1,6 +1,6 @@
 <resources>
     <string name="app_update_alert_dialog_title">ನವೀಕರಣ ಪೂರ್ಣಗೊಂಡಿದೆ</string>
-    <string name="app_update_alert_dialog_subtitle">ನವೀಕರಣಗಳನ್ನು ಅನ್ವಯಿಸಲು ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಮರುಪ್ರಾರಂಭಿಸಿ...</string>
+    <string name="app_update_alert_dialog_subtitle">ನವೀಕರಣಗಳನ್ನು ಅನ್ವಯಿಸಲು ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಮರುಪ್ರಾರಂಭಿಸಿ…</string>
     <string name="help">ಸಹಾಯ</string>
     <string name="cleaner">ಕ್ಲೀನರ್</string>
     <string name="status_saver">ಸ್ಥಿತಿ ಸೇವರ್</string>
@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Qr ಸ್ಕ್ಯಾನರ್ ಅಪ್ಲಿಕೇಶನ್ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ</string>
     <string name="share_content">ಎರಡು ವಿಭಿನ್ನ ಸ್ಮಾರ್ಟ್‌ಫೋನ್‌ಗಳು ಅಥವಾ ಟ್ಯಾಬ್ಲೆಟ್‌ಗಳಲ್ಲಿ ಒಂದೇ WhatsApp ಖಾತೆಯನ್ನು ಪ್ರವೇಶಿಸುವ ವೇಗದ ಮಾರ್ಗವನ್ನು ಅನುಭವಿಸಲು ಸಿದ್ಧರಾಗಿ, ಎಲ್ಲವೂ ಉಚಿತವಾಗಿ! ಇದೀಗ ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ ಮತ್ತು ಸ್ಥಾಪಿಸಿ.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">ನಿಮ್ಮ WhatsApp ವ್ಯಾಪಾರ ಫೋಲ್ಡರ್ ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="wa_business_directory_invalid">ಫೋಲ್ಡರ್ WhatsApp ವ್ಯಾಪಾರದಂತೆ ಕಾಣುತ್ತಿಲ್ಲ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="wa_business_not_installed">WhatsApp ಬ್ಯುಸಿನೆಸ್ ಅನ್ನು ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿದಂತೆ ಕಾಣುತ್ತಿಲ್ಲ.</string>
+    <string name="heading_one">ತ್ವರಿತ ಉಳಿತಾಯ</string>
+    <string name="heading_two">ತಕ್ಷಣ ಹಂಚಿಕೊಳ್ಳಿ</string>
+    <string name="heading_three">ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ</string>
+    <string name="heading_fourth">ಅನ್ವೇಷಿಸಿ ಮತ್ತು ಆನಂದಿಸಿ</string>
+    <string name="desc_one">ನಿಮ್ಮ ಮೆಚ್ಚಿನ WhatsApp ಸ್ಟೇಟಸ್‌ಗಳನ್ನು ಟ್ಯಾಪ್ ಮೂಲಕ ಸುರಕ್ಷಿತಗೊಳಿಸಿ, ಪಾಲಿಸಬೇಕಾದ ಕ್ಷಣಗಳು ಯಾವಾಗಲೂ ನಿಮ್ಮ ಬೆರಳ ತುದಿಯಲ್ಲಿವೆ ಎಂದು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ.</string>
+    <string name="desc_two">ಸ್ನೇಹಿತರು ಮತ್ತು ಕುಟುಂಬದೊಂದಿಗೆ ಅಪ್ಲಿಕೇಶನ್‌ನಿಂದ ನೇರವಾಗಿ WhatsApp ಸ್ಥಿತಿಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳುವ ಮೂಲಕ ಸಂತೋಷವನ್ನು ಹರಡಿ.</string>
+    <string name="desc_three">ಇಂಟರ್ನೆಟ್ ಸಂಪರ್ಕವಿಲ್ಲದಿದ್ದರೂ ಸಹ ಯಾವುದೇ ಸಮಯದಲ್ಲಿ ಪ್ರವೇಶಕ್ಕಾಗಿ ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ WhatsApp ಸ್ಥಿತಿಗಳನ್ನು ಸೆರೆಹಿಡಿಯಿರಿ ಮತ್ತು ಸಂಗ್ರಹಿಸಿ.</string>
+    <string name="desc_fourth">ತೊಡಗಿಸಿಕೊಳ್ಳುವ WhatsApp ಸ್ಥಿತಿಗಳನ್ನು ಅನ್ವೇಷಿಸಿ, ನಿಮ್ಮ ದಿನಕ್ಕೆ ಸ್ಫೂರ್ತಿಯ ಸ್ಪರ್ಶವನ್ನು ಸೇರಿಸಿ.</string>
 </resources>

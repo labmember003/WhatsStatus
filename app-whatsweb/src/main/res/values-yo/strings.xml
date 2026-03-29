@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Ṣe igbasilẹ App Scanner Qr</string>
     <string name="share_content">Mura lati ni iriri ọna ti o yara julọ lati wọle si akọọlẹ WhatsApp kanna lori awọn fonutologbolori meji tabi awọn tabulẹti, gbogbo rẹ ni ọfẹ! Ṣe igbasilẹ ati fi app naa sori ẹrọ ni bayi.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Yan folda Iṣowo WhatsApp rẹ</string>
+    <string name="wa_business_directory_invalid">Folda ko dabi Iṣowo WhatsApp. Jọwọ gbiyanju lẹẹkansi.</string>
+    <string name="wa_business_not_installed">Iṣowo WhatsApp ko dabi pe a fi sori ẹrọ.</string>
+    <string name="heading_one">Fipamọ ni kiakia</string>
+    <string name="heading_two">Pin Lẹsẹkẹsẹ</string>
+    <string name="heading_three">Ṣe igbasilẹ Aisinipo</string>
+    <string name="heading_fourth">Ye ati Gbadun</string>
+    <string name="desc_one">Ṣe aabo awọn ipo WhatsApp ayanfẹ rẹ pẹlu tẹ ni kia kia, ni idaniloju pe awọn akoko ti o nifẹ nigbagbogbo wa ni ika ọwọ rẹ.</string>
+    <string name="desc_two">Tan ayọ nipa pinpin awọn ipo WhatsApp taara lati inu ohun elo pẹlu awọn ọrẹ ati ẹbi.</string>
+    <string name="desc_three">Yaworan ati tọju awọn ipo WhatsApp sori ẹrọ rẹ fun iraye si nigbakugba, paapaa laisi asopọ intanẹẹti kan.</string>
+    <string name="desc_fourth">Ṣe afẹri awọn ipo WhatsApp ikopa, fifi ifọwọkan ti awokose si ọjọ rẹ.</string>
 </resources>

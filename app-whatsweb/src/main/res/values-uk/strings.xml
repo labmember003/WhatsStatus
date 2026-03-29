@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Завантажте додаток Qr Scanner</string>
     <string name="share_content">Будьте готові випробувати найшвидший спосіб отримати доступ до одного облікового запису WhatsApp на двох різних смартфонах або планшетах, і все це безкоштовно! Завантажте та встановіть програму зараз.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Виберіть свою папку WhatsApp Business</string>
+    <string name="wa_business_directory_invalid">Папка не схожа на WhatsApp Business. Спробуйте ще раз.</string>
+    <string name="wa_business_not_installed">Здається, WhatsApp Business не встановлено.</string>
+    <string name="heading_one">Швидке збереження</string>
+    <string name="heading_two">Поділіться миттєво</string>
+    <string name="heading_three">Завантажити офлайн</string>
+    <string name="heading_fourth">Досліджуйте та насолоджуйтесь</string>
+    <string name="desc_one">Захистіть свої улюблені статуси WhatsApp одним дотиком, гарантуючи, що заповітні моменти завжди будуть у вас під рукою.</string>
+    <string name="desc_two">Поширюйте радість, ділячись статусами WhatsApp прямо з програми з друзями та родиною.</string>
+    <string name="desc_three">Записуйте та зберігайте статуси WhatsApp на своєму пристрої для доступу в будь-який час, навіть без підключення до Інтернету.</string>
+    <string name="desc_fourth">Відкрийте для себе цікаві статуси WhatsApp, які додадуть нотку натхнення вашому дню.</string>
 </resources>

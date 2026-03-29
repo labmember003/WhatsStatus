@@ -1,6 +1,6 @@
 <resources>
     <string name="app_update_alert_dialog_title">Mizajou fini</string>
-    <string name="app_update_alert_dialog_subtitle">Rekòmanse aplikasyon an pou aplike mizajou...</string>
+    <string name="app_update_alert_dialog_subtitle">Rekòmanse aplikasyon an pou aplike mizajou…</string>
     <string name="help">Ede</string>
     <string name="cleaner">Cleaner</string>
     <string name="status_saver">Sovè Estati</string>
@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Telechaje aplikasyon Qr Scanner</string>
     <string name="share_content">Pare w pou w fè eksperyans fason ki pi rapid pou w jwenn aksè nan menm kont WhatsApp la sou de diferan smartphone oswa tablèt, tout gratis! Telechaje epi enstale aplikasyon an kounye a.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Chwazi dosye WhatsApp biznis ou a</string>
+    <string name="wa_business_directory_invalid">Dosye pa sanble WhatsApp Business. Tanpri eseye ankò.</string>
+    <string name="wa_business_not_installed">WhatsApp Business sanble pa enstale.</string>
+    <string name="heading_one">Sove rapid</string>
+    <string name="heading_two">Pataje imedyatman</string>
+    <string name="heading_three">Telechaje Offline</string>
+    <string name="heading_fourth">Eksplore ak jwi</string>
+    <string name="desc_one">Sekirize estati WhatsApp pi renmen ou yo ak yon tiyo, asire moman w renmen yo toujou nan men ou.</string>
+    <string name="desc_two">Gaye kè kontan lè w pataje estati WhatsApp dirèkteman nan aplikasyon an ak zanmi ak fanmi.</string>
+    <string name="desc_three">Kaptire epi estoke estati WhatsApp sou aparèy ou an pou aksè nenpòt lè, menm san yon koneksyon entènèt.</string>
+    <string name="desc_fourth">Dekouvri sitiyasyon WhatsApp enteresan, ajoute yon touche enspirasyon nan jounen ou.</string>
 </resources>

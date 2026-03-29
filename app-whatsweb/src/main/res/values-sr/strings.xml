@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Преузмите апликацију Кр Сцаннер</string>
     <string name="share_content">Спремите се да доживите најбржи начин да приступите истом ВхатсАпп налогу на два различита паметна телефона или таблета, све бесплатно! Преузмите и инсталирајте апликацију сада.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Изаберите директоријум ВхатсАпп Бусинесс</string>
+    <string name="wa_business_directory_invalid">Фолдер не изгледа као ВхатсАпп Бусинесс. Покушајте поново.</string>
+    <string name="wa_business_not_installed">Изгледа да ВхатсАпп Бусинесс није инсталиран.</string>
+    <string name="heading_one">Куицк Саве</string>
+    <string name="heading_two">Делите одмах</string>
+    <string name="heading_three">Преузми ван мреже</string>
+    <string name="heading_fourth">Истражите и уживајте</string>
+    <string name="desc_one">Осигурајте своје омиљене ВхатсАпп статусе једним додиром, осигуравајући да су вам драги тренуци увек на дохват руке.</string>
+    <string name="desc_two">Ширите радост тако што ћете поделити ВхатсАпп статусе директно из апликације са пријатељима и породицом.</string>
+    <string name="desc_three">Снимите и сачувајте ВхатсАпп статусе на свом уређају за приступ у било ком тренутку, чак и без интернет везе.</string>
+    <string name="desc_fourth">Откријте занимљиве ВхатсАпп статусе, додајући дашак инспирације вашем дану.</string>
 </resources>

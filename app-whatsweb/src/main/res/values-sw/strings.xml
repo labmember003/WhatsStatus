@@ -1,6 +1,6 @@
 <resources>
     <string name="app_update_alert_dialog_title">Usasishaji umekamilika</string>
-    <string name="app_update_alert_dialog_subtitle">Anzisha tena programu ili kutumia masasisho...</string>
+    <string name="app_update_alert_dialog_subtitle">Anzisha tena programu ili kutumia masasisho…</string>
     <string name="help">Msaada</string>
     <string name="cleaner">Kisafishaji</string>
     <string name="status_saver">Kiokoa Hali</string>
@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Pakua Programu ya Qr Scanner</string>
     <string name="share_content">Jitayarishe kupata njia ya haraka zaidi ya kufikia akaunti ile ile ya WhatsApp kwenye simu mahiri au kompyuta kibao mbili tofauti, zote bila malipo! Pakua na usakinishe programu sasa.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Chagua folda yako ya Biashara ya WhatsApp</string>
+    <string name="wa_business_directory_invalid">Folda haifanani na Biashara ya WhatsApp. Tafadhali jaribu tena.</string>
+    <string name="wa_business_not_installed">Biashara ya WhatsApp haionekani kusakinishwa.</string>
+    <string name="heading_one">Hifadhi Haraka</string>
+    <string name="heading_two">Shiriki Mara Moja</string>
+    <string name="heading_three">Pakua Nje ya Mtandao</string>
+    <string name="heading_fourth">Chunguza na Ufurahie</string>
+    <string name="desc_one">Linda hali zako uzipendazo za WhatsApp kwa kugusa, hakikisha nyakati unazopenda ziko mikononi mwako kila wakati.</string>
+    <string name="desc_two">Sambaza furaha kwa kushiriki hali za WhatsApp moja kwa moja kutoka kwa programu na marafiki na familia.</string>
+    <string name="desc_three">Nasa na uhifadhi hali za WhatsApp kwenye kifaa chako kwa ufikiaji wakati wowote, hata bila muunganisho wa intaneti.</string>
+    <string name="desc_fourth">Gundua hali zinazohusika za WhatsApp, na kuongeza mguso wa msukumo kwa siku yako.</string>
 </resources>

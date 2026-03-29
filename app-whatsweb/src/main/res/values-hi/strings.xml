@@ -197,4 +197,15 @@
 
     <string name="directly_message_anyone_without_saving_phone_as_contact" />
 
+    <string name="please_select_wa_business_directory">अपना व्हाट्सएप बिजनेस फोल्डर चुनें</string>
+    <string name="wa_business_directory_invalid">फ़ोल्डर WhatsApp Business जैसा नहीं दिखता. कृपया पुन: प्रयास करें।</string>
+    <string name="wa_business_not_installed">ऐसा लगता है कि WhatsApp Business इंस्टॉल नहीं हुआ है.</string>
+    <string name="heading_one">तत्काल बचत</string>
+    <string name="heading_two">तुरंत साझा करें</string>
+    <string name="heading_three">ऑफ़लाइन डाउनलोड करें</string>
+    <string name="heading_fourth">अन्वेषण करें और आनंद लें</string>
+    <string name="desc_one">अपने पसंदीदा व्हाट्सएप स्टेटस को एक टैप से सुरक्षित करें, यह सुनिश्चित करते हुए कि यादगार पल हमेशा आपकी उंगलियों पर हों।</string>
+    <string name="desc_two">ऐप से सीधे दोस्तों और परिवार के साथ व्हाट्सएप स्टेटस साझा करके खुशी फैलाएं।</string>
+    <string name="desc_three">किसी भी समय एक्सेस के लिए व्हाट्सएप स्टेटस को अपने डिवाइस पर कैप्चर करें और स्टोर करें, यहां तक ​​कि इंटरनेट कनेक्शन के बिना भी।</string>
+    <string name="desc_fourth">अपने दिन में प्रेरणा का स्पर्श जोड़ते हुए आकर्षक व्हाट्सएप स्टेटस खोजें।</string>
 </resources>

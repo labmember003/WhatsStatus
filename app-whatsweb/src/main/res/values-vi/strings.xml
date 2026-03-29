@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Tải xuống ứng dụng máy quét Qr</string>
     <string name="share_content">Hãy sẵn sàng trải nghiệm cách nhanh nhất để truy cập cùng một tài khoản WhatsApp trên hai điện thoại thông minh hoặc máy tính bảng khác nhau, tất cả đều miễn phí! Tải xuống và cài đặt ứng dụng ngay bây giờ.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Chọn thư mục WhatsApp Business của bạn</string>
+    <string name="wa_business_directory_invalid">Thư mục trông không giống WhatsApp Business. Vui lòng thử lại.</string>
+    <string name="wa_business_not_installed">WhatsApp Business dường như chưa được cài đặt.</string>
+    <string name="heading_one">Lưu nhanh</string>
+    <string name="heading_two">Chia sẻ ngay lập tức</string>
+    <string name="heading_three">Tải xuống ngoại tuyến</string>
+    <string name="heading_fourth">Khám phá và tận hưởng</string>
+    <string name="desc_one">Bảo mật trạng thái WhatsApp yêu thích của bạn chỉ bằng một cú chạm, đảm bảo những khoảnh khắc đáng trân trọng luôn trong tầm tay bạn.</string>
+    <string name="desc_two">Lan tỏa niềm vui bằng cách chia sẻ trạng thái WhatsApp trực tiếp từ ứng dụng với bạn bè và gia đình.</string>
+    <string name="desc_three">Ghi lại và lưu trữ trạng thái WhatsApp trên thiết bị của bạn để truy cập bất cứ lúc nào, ngay cả khi không có kết nối internet.</string>
+    <string name="desc_fourth">Khám phá các trạng thái hấp dẫn của WhatsApp, thêm cảm hứng cho ngày của bạn.</string>
 </resources>

@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Zazzage App na Scanner na Qr</string>
     <string name="share_content">Yi shiri don sanin hanya mafi sauri don samun damar shiga asusun WhatsApp iri ɗaya akan wayoyi ko kwamfutar hannu daban-daban guda biyu, duk kyauta! Zazzage kuma shigar da app yanzu.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Zaɓi babban fayil ɗin kasuwanci na WhatsApp</string>
+    <string name="wa_business_directory_invalid">Babban fayil baya kama da Kasuwancin WhatsApp. Da fatan za a sake gwadawa.</string>
+    <string name="wa_business_not_installed">Ba a shigar da Kasuwancin WhatsApp ba.</string>
+    <string name="heading_one">Ajiye mai sauri</string>
+    <string name="heading_two">Raba Nan take</string>
+    <string name="heading_three">Zazzage Wajen Layi</string>
+    <string name="heading_fourth">Bincika ku ji daɗi</string>
+    <string name="desc_one">Tabbatar da matsayin WhatsApp da kuka fi so tare da taɓawa, tabbatar da lokacin da ake so koyaushe suna kan yatsanku.</string>
+    <string name="desc_two">Yada farin ciki ta hanyar raba matsayin WhatsApp kai tsaye daga app tare da abokai da dangi.</string>
+    <string name="desc_three">Ɗauki da adana matsayi na WhatsApp akan na\'urarka don samun damar kowane lokaci, koda ba tare da haɗin intanet ba.</string>
+    <string name="desc_fourth">Gano matsayi na WhatsApp masu jan hankali, ƙara taɓar sha\'awa ga ranar ku.</string>
 </resources>

@@ -1,6 +1,6 @@
 <resources>
     <string name="app_update_alert_dialog_title">အပ်ဒိတ် ပြီးပါပြီ။</string>
-    <string name="app_update_alert_dialog_subtitle">အပ်ဒိတ်များကို အသုံးပြုရန် အက်ပ်ကို ပြန်လည်စတင်ပါ...</string>
+    <string name="app_update_alert_dialog_subtitle">အပ်ဒိတ်များကို အသုံးပြုရန် အက်ပ်ကို ပြန်လည်စတင်ပါ…</string>
     <string name="help">ကူညီကြပါ</string>
     <string name="cleaner">သန့်စင်သည်။</string>
     <string name="status_saver">Status Saver</string>
@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Qr Scanner အက်ပ်ကို ဒေါင်းလုဒ်လုပ်ပါ။</string>
     <string name="share_content">မတူညီသောစမတ်ဖုန်း သို့မဟုတ် တက်ဘလက်နှစ်ခုတွင် တူညီသော WhatsApp အကောင့်ကို ဝင်ရောက်ရန် အမြန်ဆုံးနည်းလမ်းကို တွေ့ကြုံခံစားရန် အဆင်သင့်ပြင်ဆင်လိုက်ပါ။ အက်ပ်ကို ယခုဒေါင်းလုဒ်လုပ်ပြီး ထည့်သွင်းပါ။</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">သင်၏ WhatsApp Business ဖိုဒါကို ရွေးပါ။</string>
+    <string name="wa_business_directory_invalid">Folder သည် WhatsApp Business နှင့် မတူပါ။ ထပ်စမ်းကြည့်ပါ။</string>
+    <string name="wa_business_not_installed">WhatsApp Business ကို ထည့်သွင်းပုံမပေါ်ပါ။</string>
+    <string name="heading_one">အမြန်သိမ်းဆည်းပါ။</string>
+    <string name="heading_two">ချက်ချင်းမျှဝေပါ။</string>
+    <string name="heading_three">အော့ဖ်လိုင်းဒေါင်းလုဒ်လုပ်ပါ။</string>
+    <string name="heading_fourth">စူးစမ်းပြီး ခံစားပါ။</string>
+    <string name="desc_one">သင်နှစ်သက်သော WhatsApp အခြေအနေများကို တစ်ချက်တို့ရုံဖြင့် လုံခြုံအောင်ပြုလုပ်ပါ၊ မြတ်နိုးရသောအချိန်များသည် သင့်လက်ချောင်းထိပ်တွင် အမြဲရှိနေကြောင်း သေချာစေပါသည်။</string>
+    <string name="desc_two">WhatsApp အခြေအနေများကို သူငယ်ချင်းများနှင့် မိသားစုများနှင့် အက်ပ်မှ တိုက်ရိုက်မျှဝေခြင်းဖြင့် ပျော်ရွှင်မှုကို ဖြန့်ဝေပါ။</string>
+    <string name="desc_three">အင်တာနက်ချိတ်ဆက်မှုမရှိဘဲ အချိန်မရွေးဝင်ရောက်အသုံးပြုနိုင်ရန် သင့်စက်ပစ္စည်းပေါ်တွင် WhatsApp အခြေအနေများကို ဖမ်းယူပြီး သိမ်းဆည်းပါ။</string>
+    <string name="desc_fourth">ဆွဲဆောင်မှုရှိသော WhatsApp အခြေအနေများကို ရှာဖွေပါ၊ သင့်တစ်နေ့တာအတွက် လှုံ့ဆော်မှုတစ်ခု ထပ်လောင်းပါ။</string>
 </resources>

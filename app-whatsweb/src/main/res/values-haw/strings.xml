@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Hoʻoiho iā Qr Scanner App</string>
     <string name="share_content">E mākaukau e ʻike i ke ala wikiwiki loa e komo ai i ka moʻokāki WhatsApp like ma nā kelepona ʻelua a i ʻole nā ​​​​papa, nā mea āpau! Hoʻoiho a hoʻokomo i ka polokalamu i kēia manawa.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">E koho i kāu waihona ʻoihana WhatsApp</string>
+    <string name="wa_business_directory_invalid">ʻAʻole like ka waihona me WhatsApp Business. E ʻoluʻolu e hoʻāʻo hou.</string>
+    <string name="wa_business_not_installed">ʻAʻole ʻike ʻia ʻo WhatsApp Business.</string>
+    <string name="heading_one">Mālama wikiwiki</string>
+    <string name="heading_two">Kaʻana koke</string>
+    <string name="heading_three">Hoʻoiho pahemo</string>
+    <string name="heading_fourth">E ʻimi a hauʻoli</string>
+    <string name="desc_one">Hoʻopaʻa i kāu mau kūlana WhatsApp punahele me kahi paʻi, e hōʻoia i nā manawa aloha i nā manawa a pau ma kou manamana lima.</string>
+    <string name="desc_two">E hoʻolaha i ka hauʻoli ma ka kaʻana like ʻana i nā kūlana WhatsApp mai ka app me nā hoaaloha a me ka ʻohana.</string>
+    <string name="desc_three">Hopu a mālama i nā kūlana WhatsApp ma kāu kelepona no ke komo ʻana i kēlā me kēia manawa, ʻoiai me ka ʻole o kahi pilina pūnaewele.</string>
+    <string name="desc_fourth">E ʻike i ka hoʻopili ʻana i nā kūlana WhatsApp, e hoʻohui i kahi paʻi o ka hoʻoikaika i kou lā.</string>
 </resources>

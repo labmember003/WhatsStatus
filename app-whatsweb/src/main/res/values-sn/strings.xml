@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Dhawunirodha Qr Scanner App</string>
     <string name="share_content">Gadzirira kuona iyo inokurumidza nzira yekuwana iyo yakafanana WhatsApp account pane maviri akasiyana mafoni kana mahwendefa, zvese zvemahara! Dhawunirodha uye isa iyo app izvozvi.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Sarudza yako WhatsApp Bhizinesi folda</string>
+    <string name="wa_business_directory_invalid">Folder haina kuita seWhatsApp Bhizinesi. Ndapota edza zvakare.</string>
+    <string name="wa_business_not_installed">Bhizinesi reWhatsApp hariite kunge rakaiswa.</string>
+    <string name="heading_one">Quick Save</string>
+    <string name="heading_two">Govera Pakarepo</string>
+    <string name="heading_three">Dhaunirodha Offline</string>
+    <string name="heading_fourth">Ongorora uye Nakidzwa</string>
+    <string name="desc_one">Chengetedza ako aunofarira WhatsApp zvimiro nepombi, kuve nechokwadi chekuti nguva dzinokosheswa dzinogara dziri pamunwe wako.</string>
+    <string name="desc_two">Paridza mufaro nekugovana zvimiro zveWhatsApp zvakananga kubva kuapp neshamwari uye nemhuri.</string>
+    <string name="desc_three">Bata uye chengetedza WhatsApp zvimiro pane chako kifaa kuti uwane chero nguva, kunyangwe pasina internet yekubatanidza.</string>
+    <string name="desc_fourth">Ziva zvinobata WhatsApp zvimiro, uchiwedzera kubata kwekurudziro kuzuva rako.</string>
 </resources>

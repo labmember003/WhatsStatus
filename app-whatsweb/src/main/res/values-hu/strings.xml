@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Töltse le a QR-szkenner alkalmazást</string>
     <string name="share_content">Készüljön fel arra, hogy megtapasztalja a leggyorsabb módja annak, hogy ugyanazt a WhatsApp-fiókot elérje két különböző okostelefonon vagy táblagépen, mindezt ingyen! Töltse le és telepítse az alkalmazást most.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Válassza ki a WhatsApp Business mappát</string>
+    <string name="wa_business_directory_invalid">A mappa nem úgy néz ki, mint a WhatsApp Business. Kérjük, próbálja újra.</string>
+    <string name="wa_business_not_installed">Úgy tűnik, hogy a WhatsApp Business nincs telepítve.</string>
+    <string name="heading_one">Gyors mentés</string>
+    <string name="heading_two">Azonnali megosztás</string>
+    <string name="heading_three">Letöltés Offline</string>
+    <string name="heading_fourth">Fedezze fel és élvezze</string>
+    <string name="desc_one">Egy koppintással biztosíthatja kedvenc WhatsApp-státuszait, így a dédelgetett pillanatok mindig kéznél lesznek.</string>
+    <string name="desc_two">Ossza meg örömét a WhatsApp állapotok közvetlenül az alkalmazásból való megosztásával barátaival és családjával.</string>
+    <string name="desc_three">Rögzítse és tárolja a WhatsApp állapotait eszközén, hogy bármikor elérhesse, még internetkapcsolat nélkül is.</string>
+    <string name="desc_fourth">Fedezze fel a lebilincselő WhatsApp állapotokat, és adjon hozzá egy kis inspirációt a napjához.</string>
 </resources>

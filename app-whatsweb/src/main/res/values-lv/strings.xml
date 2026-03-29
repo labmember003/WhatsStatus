@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Lejupielādējiet lietotni QR skeneris</string>
     <string name="share_content">Sagatavojieties piedzīvot ātrāko veidu, kā bez maksas piekļūt vienam un tam pašam WhatsApp kontam divos dažādos viedtālruņos vai planšetdatoros! Lejupielādējiet un instalējiet lietotni tūlīt.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Atlasiet savu WhatsApp Business mapi</string>
+    <string name="wa_business_directory_invalid">Mape neizskatās pēc WhatsApp Business. Lūdzu, mēģiniet vēlreiz.</string>
+    <string name="wa_business_not_installed">Šķiet, ka WhatsApp Business nav instalēts.</string>
+    <string name="heading_one">Ātrā saglabāšana</string>
+    <string name="heading_two">Kopīgojiet uzreiz</string>
+    <string name="heading_three">Lejupielādēt bezsaistē</string>
+    <string name="heading_fourth">Izpētiet un izbaudiet</string>
+    <string name="desc_one">Nodrošiniet savus iecienītākos WhatsApp statusus ar pieskārienu, nodrošinot, ka lolotie mirkļi vienmēr ir rokas stiepiena attālumā.</string>
+    <string name="desc_two">Izplatiet prieku, kopīgojot WhatsApp statusus tieši no lietotnes ar draugiem un ģimeni.</string>
+    <string name="desc_three">Uzņemiet un saglabājiet WhatsApp statusus savā ierīcē, lai tie varētu piekļūt jebkurā laikā, pat bez interneta savienojuma.</string>
+    <string name="desc_fourth">Atklājiet saistošos WhatsApp statusus, pievienojot savai dienai iedvesmu.</string>
 </resources>

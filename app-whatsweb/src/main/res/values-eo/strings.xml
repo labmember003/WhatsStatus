@@ -1,6 +1,6 @@
 <resources>
     <string name="app_update_alert_dialog_title">Ĝisdatigo estas kompleta</string>
-    <string name="app_update_alert_dialog_subtitle">Rekomencu la apon por apliki ĝisdatigojn...</string>
+    <string name="app_update_alert_dialog_subtitle">Rekomencu la apon por apliki ĝisdatigojn…</string>
     <string name="help">Helpu</string>
     <string name="cleaner">Purigisto</string>
     <string name="status_saver">Statusa Ŝparanto</string>
@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Elŝutu Qr-Skanilo-Apon</string>
     <string name="share_content">Preparu sperti la plej rapidan manieron aliri la saman WhatsApp-konton sur du malsamaj saĝtelefonoj aŭ tabulkomputiloj, ĉio senpage! Elŝutu kaj instalu la apon nun.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Elektu vian WhatsApp Business-dosierujon</string>
+    <string name="wa_business_directory_invalid">Dosierujo ne aspektas kiel WhatsApp Business. Bonvolu provi denove.</string>
+    <string name="wa_business_not_installed">WhatsApp Business ŝajnas ne instalita.</string>
+    <string name="heading_one">Rapida Konservi</string>
+    <string name="heading_two">Kunhavigu Tuj</string>
+    <string name="heading_three">Elŝutu eksterrete</string>
+    <string name="heading_fourth">Esploru kaj Ĝuu</string>
+    <string name="desc_one">Sekurigu viajn plej ŝatatajn WhatsApp-statutojn per frapeto, certigante ke ŝatataj momentoj ĉiam estas ĉe viaj fingroj.</string>
+    <string name="desc_two">Disvastigu ĝojon dividante WhatsApp-statuojn rekte de la app kun amikoj kaj familio.</string>
+    <string name="desc_three">Kaptu kaj konservu WhatsApp-statusojn en via aparato por iam ajn aliro, eĉ sen interreta konekto.</string>
+    <string name="desc_fourth">Malkovru allogajn statusojn de WhatsApp, aldonante tuŝon de inspiro al via tago.</string>
 </resources>

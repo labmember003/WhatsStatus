@@ -1,6 +1,6 @@
 <resources>
     <string name="app_update_alert_dialog_title">ການອັບເດດສຳເລັດແລ້ວ</string>
-    <string name="app_update_alert_dialog_subtitle">ຣີສະຕາດແອັບເພື່ອນຳໃຊ້ການອັບເດດ...</string>
+    <string name="app_update_alert_dialog_subtitle">ຣີສະຕາດແອັບເພື່ອນຳໃຊ້ການອັບເດດ…</string>
     <string name="help">ຊ່ວຍເຫຼືອ</string>
     <string name="cleaner">ສະອາດ</string>
     <string name="status_saver">ຕົວປະຢັດສະຖານະ</string>
@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">ດາວໂຫລດແອັບ Qr Scanner</string>
     <string name="share_content">ກຽມພ້ອມທີ່ຈະປະສົບກັບວິທີທີ່ໄວທີ່ສຸດໃນການເຂົ້າເຖິງບັນຊີ WhatsApp ດຽວກັນໃນສອງໂທລະສັບສະຫຼາດຫຼືແທັບເລັດທີ່ແຕກຕ່າງກັນ, ທັງຫມົດຟຣີ! ດາວ​ນ​໌​ໂຫລດ​ແລະ​ຕິດ​ຕັ້ງ app ໃນ​ປັດ​ຈຸ​ບັນ​.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">ເລືອກໂຟນເດີ WhatsApp ທຸລະກິດຂອງທ່ານ</string>
+    <string name="wa_business_directory_invalid">ໂຟນເດີບໍ່ຄືກັບ WhatsApp ທຸລະກິດ. ກະລຸນາລອງອີກຄັ້ງ.</string>
+    <string name="wa_business_not_installed">ທຸລະກິດ WhatsApp ເບິ່ງຄືວ່າບໍ່ໄດ້ຕິດຕັ້ງ.</string>
+    <string name="heading_one">ບັນທຶກດ່ວນ</string>
+    <string name="heading_two">ແບ່ງປັນທັນທີ</string>
+    <string name="heading_three">ດາວໂຫລດອອບໄລນ໌</string>
+    <string name="heading_fourth">ສຳຫຼວດ ແລະເພີດເພີນ</string>
+    <string name="desc_one">ຮັບປະກັນສະຖານະ WhatsApp ທີ່ທ່ານມັກດ້ວຍການແຕະ, ໃຫ້ແນ່ໃຈວ່າຊ່ວງເວລາທີ່ຮັກແພງຢູ່ປາຍນິ້ວມືຂອງທ່ານສະເໝີ.</string>
+    <string name="desc_two">ແຜ່​ຄວາມ​ສຸກ​ໂດຍ​ການ​ແບ່ງ​ປັນ​ສະ​ຖາ​ນະ​ພາບ WhatsApp ໄດ້​ໂດຍ​ກົງ​ຈາກ app ກັບ​ຫມູ່​ເພື່ອນ​ແລະ​ຄອບ​ຄົວ​.</string>
+    <string name="desc_three">ບັນທຶກ ແລະເກັບຮັກສາສະຖານະ WhatsApp ໃນອຸປະກອນຂອງທ່ານສໍາລັບການເຂົ້າເຖິງໄດ້ທຸກເວລາ, ເຖິງແມ່ນວ່າບໍ່ມີການເຊື່ອມຕໍ່ອິນເຕີເນັດ.</string>
+    <string name="desc_fourth">ຄົ້ນພົບສະຖານະ WhatsApp ທີ່ມີສ່ວນຮ່ວມ, ເພີ່ມການສໍາພັດຂອງແຮງບັນດານໃຈໃຫ້ກັບມື້ຂອງທ່ານ.</string>
 </resources>

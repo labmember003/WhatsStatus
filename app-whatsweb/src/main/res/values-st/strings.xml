@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Khoasolla Qr Scanner App</string>
     <string name="share_content">Itokisetse ho ba le mokhoa o potlakileng oa ho fihlella ak\'haonte e tšoanang ea WhatsApp ho li-smartphones kapa matlapa a mabeli, kaofela mahala! Khoasolla le ho kenya sesebelisoa hona joale.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Khetha foldara ea hau ea Khoebo ea WhatsApp</string>
+    <string name="wa_business_directory_invalid">Sephutheli ha se shebahale joalo ka Khoebo ea WhatsApp. Ka kopo, leka hape.</string>
+    <string name="wa_business_not_installed">Khoebo ea WhatsApp ha e bonahale e kentsoe.</string>
+    <string name="heading_one">Boloka ka Potlako</string>
+    <string name="heading_two">Arolelana Hang-hang</string>
+    <string name="heading_three">Khoasolla Offline</string>
+    <string name="heading_fourth">Lekola \'me U Natefeloe</string>
+    <string name="desc_one">Sireletsa lintlha tsa hau tsa WhatsApp tseo u li ratang ka ho penya, ho netefatsa hore linako tseo u li ratang li lula li le matsohong a hau.</string>
+    <string name="desc_two">Jala thabo ka ho arolelana maemo a WhatsApp ka kotloloho ho tsoa sesebelisoa le metsoalle le ba lelapa.</string>
+    <string name="desc_three">Tšoara \'me u boloke li-status tsa WhatsApp sesebelisoa sa hau bakeng sa ho fihlella nako efe kapa efe, le ntle le khokahano ea inthanete.</string>
+    <string name="desc_fourth">Fumana maemo a hohelang a WhatsApp, a eketsa tšusumetso ea letsatsi la hau.</string>
 </resources>

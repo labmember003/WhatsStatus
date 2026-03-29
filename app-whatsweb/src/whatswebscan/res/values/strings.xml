@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name" translatable="false">Whats Web</string>
-    <string name="whatsapp">WhatsApp</string>
-    <string name="whatsapp_business">Business</string>
+    <string name="app_name" translatable="false">Status Saver</string>
+    <string name="whatsapp" translatable="false">WhatsApp</string>
+    <string name="whatsapp_business" translatable="false">Business</string>
     <string name="please_select_wa_business_directory">Select your WhatsApp Business folder</string>
     <string name="wa_business_directory_invalid">Folder doesn\'t look like WhatsApp Business. Please try again.</string>
     <string name="wa_business_not_installed">WhatsApp Business doesn\'t seem to be installed.</string>

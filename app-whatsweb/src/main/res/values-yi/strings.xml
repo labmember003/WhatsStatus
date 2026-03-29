@@ -1,6 +1,6 @@
 <resources>
     <string name="app_update_alert_dialog_title">דער דערהייַנטיקן איז גאַנץ</string>
-    <string name="app_update_alert_dialog_subtitle">ריסטאַרט די אַפּ צו צולייגן דערהייַנטיקונגען ...</string>
+    <string name="app_update_alert_dialog_subtitle">ריסטאַרט די אַפּ צו צולייגן דערהייַנטיקונגען …</string>
     <string name="help">הילף</string>
     <string name="cleaner">קלינער</string>
     <string name="status_saver">סטאַטוס סאַווער</string>
@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">אראפקאפיע די QR סקאַננער אַפּ</string>
     <string name="share_content">גרייט זיך צו דערפאַרונג די פאַסטאַסט וועג צו אַקסעס דער זעלביקער ווהאַצאַפּפּ חשבון אויף צוויי פאַרשידענע סמאַרטפאָנעס אָדער טאַבלאַץ, אַלע פֿאַר פריי! אראפקאפיע און ינסטאַלירן די אַפּ איצט.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">סעלעקטירן דיין ווהאַצאַפּפּ ביזנעס טעקע</string>
+    <string name="wa_business_directory_invalid">טעקע טוט נישט קוקן ווי ווהאַצאַפּפּ ביזנעס. ביטע פּרוּווט ווידער.</string>
+    <string name="wa_business_not_installed">ווהאַצאַפּפּ ביזנעס קען נישט זיין אינסטאַלירן.</string>
+    <string name="heading_one">שנעל היט</string>
+    <string name="heading_two">ייַנטיילן גלייך</string>
+    <string name="heading_three">אראפקאפיע אָפפלינע</string>
+    <string name="heading_fourth">ויספאָרשן און הנאה</string>
+    <string name="desc_one">זיכער דיין באַליבסטע ווהאַצאַפּפּ סטאַטוסעס מיט אַ צאַפּן, ינשורינג טשערישט מאָומאַנץ זענען שטענדיק אין דיין פינגגערטיפּס.</string>
+    <string name="desc_two">פאַרשפּרייטן פרייד דורך ייַנטיילונג ווהאַצאַפּפּ סטאַטוסעס גלייַך פֿון די אַפּ מיט פרענדז און משפּחה.</string>
+    <string name="desc_three">כאַפּן און קראָם ווהאַצאַפּפּ סטאַטוסעס אויף דיין מיטל פֿאַר עניטיים אַקסעס, אפילו אָן אַן אינטערנעט פֿאַרבינדונג.</string>
+    <string name="desc_fourth">אַנטדעקן ענגיידזשינג ווהאַצאַפּפּ סטאַטוסעס, אַדינג אַ ריר פון ינספּיראַציע צו דיין טאָג.</string>
 </resources>

@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Pag-download sa Qr Scanner App</string>
     <string name="share_content">Pag-andam aron masinati ang labing paspas nga paagi aron ma-access ang parehas nga WhatsApp account sa duha nga lainlaing mga smartphone o tablet, tanan libre! I-download ug i-install ang app karon.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Pilia ang imong WhatsApp Business folder</string>
+    <string name="wa_business_directory_invalid">Ang folder dili sama sa WhatsApp Business. Palihug sulayi pag-usab.</string>
+    <string name="wa_business_not_installed">Ang WhatsApp Business daw wala ma-install.</string>
+    <string name="heading_one">Dali nga Pagtipig</string>
+    <string name="heading_two">Ipakigbahin dayon</string>
+    <string name="heading_three">Pag-download sa Offline</string>
+    <string name="heading_fourth">Pag-usisa ug Paglingaw</string>
+    <string name="desc_one">I-secure ang imong paborito nga mga status sa WhatsApp gamit ang usa ka gripo, pagsiguro nga ang gimahal nga mga higayon kanunay nga naa sa imong mga tudlo.</string>
+    <string name="desc_two">Ipakaylap ang kalipay pinaagi sa pagpaambit sa mga status sa WhatsApp direkta gikan sa app sa mga higala ug pamilya.</string>
+    <string name="desc_three">Pagkuha ug pagtipig sa mga status sa WhatsApp sa imong aparato alang sa bisan unsang oras nga pag-access, bisan kung wala’y koneksyon sa internet.</string>
+    <string name="desc_fourth">Pagdiskobre sa makapadani nga mga status sa WhatsApp, pagdugang usa ka paghikap sa inspirasyon sa imong adlaw.</string>
 </resources>

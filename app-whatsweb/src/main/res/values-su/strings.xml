@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Unduh Aplikasi Qr Scanner</string>
     <string name="share_content">Siap ngalaman cara panggancangna pikeun ngakses akun WhatsApp anu sami dina dua smartphone atanapi tablet anu béda, sadayana gratis! Unduh sareng pasang aplikasina ayeuna.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Pilih folder WhatsApp Business anjeun</string>
+    <string name="wa_business_directory_invalid">Polder henteu siga WhatsApp Business. Mangga cobian deui.</string>
+    <string name="wa_business_not_installed">WhatsApp Business sigana henteu dipasang.</string>
+    <string name="heading_one">Simpen Gancang</string>
+    <string name="heading_two">Bagikeun Instan</string>
+    <string name="heading_three">Unduh offline</string>
+    <string name="heading_fourth">Ngajalajah jeung ngarasakeun</string>
+    <string name="desc_one">Amankeun status WhatsApp karesep anjeun kalayan ketok, mastikeun momen anu dipikacinta sok aya dina jari anjeun.</string>
+    <string name="desc_two">Nyebarkeun kabagjaan ku ngabagi status WhatsApp langsung tina aplikasi sareng réréncangan sareng kulawarga.</string>
+    <string name="desc_three">Candak sareng simpen status WhatsApp dina alat anjeun kanggo aksés iraha waé, sanaos tanpa sambungan internét.</string>
+    <string name="desc_fourth">Panggihan status WhatsApp anu pikaresepeun, nambihan sentuhan inspirasi pikeun dinten anjeun.</string>
 </resources>

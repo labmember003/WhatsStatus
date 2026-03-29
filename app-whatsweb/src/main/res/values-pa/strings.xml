@@ -1,6 +1,6 @@
 <resources>
     <string name="app_update_alert_dialog_title">ਅੱਪਡੇਟ ਪੂਰਾ ਹੋ ਗਿਆ ਹੈ</string>
-    <string name="app_update_alert_dialog_subtitle">ਅੱਪਡੇਟ ਲਾਗੂ ਕਰਨ ਲਈ ਐਪ ਨੂੰ ਰੀਸਟਾਰਟ ਕਰੋ...</string>
+    <string name="app_update_alert_dialog_subtitle">ਅੱਪਡੇਟ ਲਾਗੂ ਕਰਨ ਲਈ ਐਪ ਨੂੰ ਰੀਸਟਾਰਟ ਕਰੋ…</string>
     <string name="help">ਮਦਦ ਕਰੋ</string>
     <string name="cleaner">ਕਲੀਨਰ</string>
     <string name="status_saver">ਸਥਿਤੀ ਸੇਵਰ</string>
@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Qr ਸਕੈਨਰ ਐਪ ਡਾਊਨਲੋਡ ਕਰੋ</string>
     <string name="share_content">ਦੋ ਵੱਖ-ਵੱਖ ਸਮਾਰਟਫ਼ੋਨਾਂ ਜਾਂ ਟੈਬਲੇਟਾਂ \'ਤੇ ਇੱਕੋ WhatsApp ਖਾਤੇ ਤੱਕ ਪਹੁੰਚ ਕਰਨ ਦੇ ਸਭ ਤੋਂ ਤੇਜ਼ ਤਰੀਕੇ ਦਾ ਅਨੁਭਵ ਕਰਨ ਲਈ ਤਿਆਰ ਹੋ ਜਾਓ, ਇਹ ਸਭ ਮੁਫ਼ਤ ਵਿੱਚ! ਹੁਣੇ ਐਪ ਨੂੰ ਡਾਊਨਲੋਡ ਅਤੇ ਸਥਾਪਿਤ ਕਰੋ।</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">ਆਪਣਾ WhatsApp ਵਪਾਰ ਫੋਲਡਰ ਚੁਣੋ</string>
+    <string name="wa_business_directory_invalid">ਫੋਲਡਰ WhatsApp ਵਪਾਰ ਵਰਗਾ ਨਹੀਂ ਲੱਗਦਾ। ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
+    <string name="wa_business_not_installed">WhatsApp ਬਿਜ਼ਨਸ ਇੰਸਟੌਲ ਨਹੀਂ ਹੋਇਆ ਜਾਪਦਾ ਹੈ।</string>
+    <string name="heading_one">ਤੇਜ਼ ਸੇਵ</string>
+    <string name="heading_two">ਤੁਰੰਤ ਸਾਂਝਾ ਕਰੋ</string>
+    <string name="heading_three">ਔਫਲਾਈਨ ਡਾਊਨਲੋਡ ਕਰੋ</string>
+    <string name="heading_fourth">ਪੜਚੋਲ ਕਰੋ ਅਤੇ ਆਨੰਦ ਲਓ</string>
+    <string name="desc_one">ਇੱਕ ਟੈਪ ਨਾਲ ਆਪਣੇ ਮਨਪਸੰਦ WhatsApp ਸਥਿਤੀਆਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ, ਇਹ ਯਕੀਨੀ ਬਣਾਉਂਦੇ ਹੋਏ ਕਿ ਪਿਆਰੇ ਪਲ ਹਮੇਸ਼ਾ ਤੁਹਾਡੀਆਂ ਉਂਗਲਾਂ \'ਤੇ ਹਨ।</string>
+    <string name="desc_two">ਦੋਸਤਾਂ ਅਤੇ ਪਰਿਵਾਰ ਨਾਲ ਐਪ ਤੋਂ ਸਿੱਧੇ WhatsApp ਸਥਿਤੀਆਂ ਨੂੰ ਸਾਂਝਾ ਕਰਕੇ ਖੁਸ਼ੀ ਫੈਲਾਓ।</string>
+    <string name="desc_three">ਕਿਸੇ ਵੀ ਸਮੇਂ ਐਕਸੈਸ ਲਈ ਆਪਣੀ ਡਿਵਾਈਸ \'ਤੇ WhatsApp ਸਥਿਤੀਆਂ ਨੂੰ ਕੈਪਚਰ ਅਤੇ ਸਟੋਰ ਕਰੋ, ਭਾਵੇਂ ਇੰਟਰਨੈਟ ਕਨੈਕਸ਼ਨ ਤੋਂ ਬਿਨਾਂ।</string>
+    <string name="desc_fourth">ਤੁਹਾਡੇ ਦਿਨ ਲਈ ਪ੍ਰੇਰਨਾ ਦੀ ਇੱਕ ਛੋਹ ਜੋੜਦੇ ਹੋਏ, ਦਿਲਚਸਪ WhatsApp ਸਥਿਤੀਆਂ ਦੀ ਖੋਜ ਕਰੋ।</string>
 </resources>

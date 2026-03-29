@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Luchdaich a-nuas app qr scanner</string>
     <string name="share_content">Dèan deiseil gus eòlas fhaighinn air an dòigh as luaithe air faighinn chun aon chunntas WhatsApp air dà fhònaichean sgairteil no tablaidean eadar-dhealaichte, uile an-asgaidh! Luchdaich sìos agus stàlaich an aplacaid a-nis.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Tagh am pasgan WhatsApp Business agad</string>
+    <string name="wa_business_directory_invalid">Chan eil am pasgan coltach ri WhatsApp Business. Feuch ris a-rithist.</string>
+    <string name="wa_business_not_installed">Chan eil e coltach gu bheil WhatsApp Business air a chuir a-steach.</string>
+    <string name="heading_one">Sàbhail gu sgiobalta</string>
+    <string name="heading_two">Co-roinn sa bhad</string>
+    <string name="heading_three">Luchdaich sìos Offline</string>
+    <string name="heading_fourth">Rannsaich agus faigh tlachd</string>
+    <string name="desc_one">Dèan tèarainte air na h-inbhean WhatsApp as fheàrr leat le tap, a’ dèanamh cinnteach gu bheil amannan measail an-còmhnaidh aig do chorragan.</string>
+    <string name="desc_two">Sgaoil gàirdeachas le bhith a ’roinneadh inbhean WhatsApp gu dìreach bhon app le caraidean is teaghlach.</string>
+    <string name="desc_three">Glac agus stòraich inbhean WhatsApp air an inneal agad airson faighinn a-steach uair sam bith, eadhon às aonais ceangal eadar-lìn.</string>
+    <string name="desc_fourth">Faigh a-mach inbhean tarraingeach WhatsApp, a’ cur beagan brosnachaidh ris an latha agad.</string>
 </resources>

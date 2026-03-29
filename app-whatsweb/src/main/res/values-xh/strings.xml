@@ -1,6 +1,6 @@
 <resources>
     <string name="app_update_alert_dialog_title">Uhlaziyo lugqityiwe</string>
-    <string name="app_update_alert_dialog_subtitle">Qala ngokutsha usetyenziso ukuze ufake uhlaziyo...</string>
+    <string name="app_update_alert_dialog_subtitle">Qala ngokutsha usetyenziso ukuze ufake uhlaziyo…</string>
     <string name="help">Nceda</string>
     <string name="cleaner">Umcoci</string>
     <string name="status_saver">Umgcini wesimo</string>
@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Khuphela i-Qr Scanner App</string>
     <string name="share_content">Zilungiselele ukufumana eyona ndlela ikhawulezayo yokufikelela kwiakhawunti efanayo ye-WhatsApp kwii-smartphones okanye iitafile ezimbini ezahlukeneyo, zonke simahla! Khuphela kwaye ufake i-app ngoku.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Khetha ifolda yakho ye-WhatsApp Business</string>
+    <string name="wa_business_directory_invalid">Isiqulathi seefayili asibonakali njengeShishini likaWhatsApp. Nceda zama kwakhona.</string>
+    <string name="wa_business_not_installed">Ishishini likaWhatsApp alibonakali ngathi lifakiwe.</string>
+    <string name="heading_one">Gcina ngokukhawuleza</string>
+    <string name="heading_two">Yabelana Ngoko nangoko</string>
+    <string name="heading_three">Khuphela ngaphandle kweintanethi</string>
+    <string name="heading_fourth">Phonononga kwaye Wonwabe</string>
+    <string name="desc_one">Khusela iimeko zakho ezizithandayo ze-WhatsApp ngokucofa, uqinisekise ukuba amaxesha axabisekileyo ahlala esesandleni sakho.</string>
+    <string name="desc_two">Yandisa uvuyo ngokwabelana ngeemeko ze-WhatsApp ngokuthe ngqo kwi-app kunye nabahlobo kunye nosapho.</string>
+    <string name="desc_three">Thatha kwaye ugcine isimo se-WhatsApp kwisixhobo sakho ngalo naliphi na ixesha ukufikelela, nangaphandle koqhagamshelo lwe-intanethi.</string>
+    <string name="desc_fourth">Fumana ubume be-WhatsApp obubandakanyayo, ukongeza uchuku lwenkuthazo kumhla wakho.</string>
 </resources>

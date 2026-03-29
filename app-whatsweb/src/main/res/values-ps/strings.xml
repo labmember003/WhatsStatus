@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">د Qr سکینر اپلیکیشن ډاونلوډ کړئ</string>
     <string name="share_content">په دوه مختلف سمارټ فونونو یا ټابلیټونو کې ورته WhatsApp حساب ته د لاسرسي ترټولو ګړندۍ لارې تجربه کولو لپاره چمتو اوسئ ، ټول وړیا! همدا اوس اپلیکیشن ډاونلوډ او نصب کړئ.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">خپل د WhatsApp سوداګرۍ فولډر غوره کړئ</string>
+    <string name="wa_business_directory_invalid">فولډر د WhatsApp سوداګرۍ په څیر نه ښکاري. مهرباني وکړئ بیا هڅه وکړئ.</string>
+    <string name="wa_business_not_installed">د WhatsApp سوداګرۍ داسې نه ښکاري چې نصب شوی وي.</string>
+    <string name="heading_one">چټک خوندي کول</string>
+    <string name="heading_two">په فوري توګه شریک کړئ</string>
+    <string name="heading_three">آف لائن ډاونلوډ کړئ</string>
+    <string name="heading_fourth">وپلټئ او خوند واخلئ</string>
+    <string name="desc_one">خپل د خوښې WhatsApp حالتونه په یو ټچ سره خوندي کړئ، ډاډ ترلاسه کړئ چې خوندورې شیبې تل ستاسو په ګوتو کې وي.</string>
+    <string name="desc_two">د ملګرو او کورنۍ سره مستقیم د اپلیکیشن څخه د WhatsApp حالتونو شریکولو سره خوښي خپره کړئ.</string>
+    <string name="desc_three">د هر وخت لاسرسي لپاره ستاسو په وسیله کې د WhatsApp حالتونه ونیسئ او ذخیره کړئ، حتی د انټرنیټ اتصال پرته.</string>
+    <string name="desc_fourth">په زړه پورې WhatsApp حالتونه ومومئ، ستاسو ورځې ته د الهام لمس اضافه کول.</string>
 </resources>

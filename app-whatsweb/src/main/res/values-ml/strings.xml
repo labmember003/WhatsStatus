@@ -1,6 +1,6 @@
 <resources>
     <string name="app_update_alert_dialog_title">അപ്ഡേറ്റ് പൂർത്തിയായി</string>
-    <string name="app_update_alert_dialog_subtitle">അപ്‌ഡേറ്റുകൾ പ്രയോഗിക്കാൻ ആപ്പ് റീസ്‌റ്റാർട്ട് ചെയ്യുക...</string>
+    <string name="app_update_alert_dialog_subtitle">അപ്‌ഡേറ്റുകൾ പ്രയോഗിക്കാൻ ആപ്പ് റീസ്‌റ്റാർട്ട് ചെയ്യുക…</string>
     <string name="help">സഹായം</string>
     <string name="cleaner">ക്ലീനർ</string>
     <string name="status_saver">സ്റ്റാറ്റസ് സേവർ</string>
@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Qr സ്കാനർ ആപ്പ് ഡൗൺലോഡ് ചെയ്യുക</string>
     <string name="share_content">രണ്ട് വ്യത്യസ്ത സ്‌മാർട്ട്‌ഫോണുകളിലോ ടാബ്‌ലെറ്റുകളിലോ ഒരേ വാട്ട്‌സ്ആപ്പ് അക്കൗണ്ട് ആക്‌സസ് ചെയ്യാനുള്ള അതിവേഗ മാർഗം അനുഭവിക്കാൻ തയ്യാറാകൂ, എല്ലാം സൗജന്യമായി! ഇപ്പോൾ ആപ്പ് ഡൗൺലോഡ് ചെയ്ത് ഇൻസ്റ്റാൾ ചെയ്യുക.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">നിങ്ങളുടെ WhatsApp ബിസിനസ് ഫോൾഡർ തിരഞ്ഞെടുക്കുക</string>
+    <string name="wa_business_directory_invalid">ഫോൾഡർ WhatsApp ബിസിനസ് പോലെ തോന്നുന്നില്ല. ദയവായി വീണ്ടും ശ്രമിക്കുക.</string>
+    <string name="wa_business_not_installed">WhatsApp ബിസിനസ്സ് ഇൻസ്റ്റാൾ ചെയ്തതായി തോന്നുന്നില്ല.</string>
+    <string name="heading_one">ദ്രുത സംരക്ഷിക്കുക</string>
+    <string name="heading_two">തൽക്ഷണം പങ്കിടുക</string>
+    <string name="heading_three">ഓഫ്‌ലൈനായി ഡൗൺലോഡ് ചെയ്യുക</string>
+    <string name="heading_fourth">പര്യവേക്ഷണം ചെയ്ത് ആസ്വദിക്കൂ</string>
+    <string name="desc_one">നിങ്ങളുടെ പ്രിയപ്പെട്ട വാട്ട്‌സ്ആപ്പ് സ്റ്റാറ്റസുകൾ ഒരു ടാപ്പിലൂടെ സുരക്ഷിതമാക്കുക, പ്രിയപ്പെട്ട നിമിഷങ്ങൾ എല്ലായ്പ്പോഴും നിങ്ങളുടെ വിരൽത്തുമ്പിലുണ്ടെന്ന് ഉറപ്പാക്കുക.</string>
+    <string name="desc_two">ആപ്പിൽ നിന്ന് നേരിട്ട് സുഹൃത്തുക്കളുമായും കുടുംബാംഗങ്ങളുമായും WhatsApp സ്റ്റാറ്റസുകൾ പങ്കിട്ടുകൊണ്ട് സന്തോഷം പകരുക.</string>
+    <string name="desc_three">ഇൻ്റർനെറ്റ് കണക്ഷൻ ഇല്ലാതെ പോലും നിങ്ങളുടെ ഉപകരണത്തിൽ വാട്ട്‌സ്ആപ്പ് സ്റ്റാറ്റസുകൾ ക്യാപ്‌ചർ ചെയ്‌ത് സംഭരിക്കുക.</string>
+    <string name="desc_fourth">നിങ്ങളുടെ ദിവസത്തിന് പ്രചോദനം നൽകുന്ന വാട്ട്‌സ്ആപ്പ് സ്റ്റാറ്റസുകൾ കണ്ടെത്തൂ.</string>
 </resources>

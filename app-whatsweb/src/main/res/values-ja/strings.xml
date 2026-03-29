@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Qrスキャナーアプリをダウンロード</string>
     <string name="share_content">2 つの異なるスマートフォンまたはタブレットで同じ WhatsApp アカウントにアクセスする最速の方法をすべて無料で体験する準備をしましょう!今すぐアプリをダウンロードしてインストールしてください。</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">WhatsApp ビジネスフォルダーを選択してください</string>
+    <string name="wa_business_directory_invalid">フォルダーは WhatsApp Business のように見えません。もう一度試してください。</string>
+    <string name="wa_business_not_installed">WhatsApp Business がインストールされていないようです。</string>
+    <string name="heading_one">クイックセーブ</string>
+    <string name="heading_two">すぐに共有</string>
+    <string name="heading_three">オフラインでダウンロード</string>
+    <string name="heading_fourth">探検して楽しむ</string>
+    <string name="desc_one">タップするだけでお気に入りの WhatsApp ステータスを保護し、大切な瞬間をいつでもすぐに確認できるようにします。</string>
+    <string name="desc_two">WhatsApp のステータスをアプリから直接友人や家族と共有して、喜びを広げましょう。</string>
+    <string name="desc_three">WhatsApp のステータスをキャプチャしてデバイスに保存すると、インターネット接続がなくてもいつでもアクセスできます。</string>
+    <string name="desc_fourth">魅力的な WhatsApp のステータスを見つけて、あなたの一日にちょっとしたインスピレーションを加えましょう。</string>
 </resources>

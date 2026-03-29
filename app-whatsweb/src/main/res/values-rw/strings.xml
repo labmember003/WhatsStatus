@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Kuramo Qr Scanner</string>
     <string name="share_content">Witegure kwibonera uburyo bwihuse bwo kugera kuri konte imwe ya WhatsApp kuri terefone ebyiri zitandukanye cyangwa tableti, byose kubuntu! Kuramo kandi ushyireho porogaramu ubu.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Hitamo ububiko bwubucuruzi bwa WhatsApp</string>
+    <string name="wa_business_directory_invalid">Ububiko ntabwo busa nubucuruzi bwa WhatsApp. Nyamuneka gerageza.</string>
+    <string name="wa_business_not_installed">Ubucuruzi bwa WhatsApp ntabwo busa nkaho bwashyizweho.</string>
+    <string name="heading_one">Bika vuba</string>
+    <string name="heading_two">Sangira Ako kanya</string>
+    <string name="heading_three">Kuramo Offline</string>
+    <string name="heading_fourth">Shakisha kandi Wishimire</string>
+    <string name="desc_one">Shira umutekano kuri WhatsApp ukunda ukoresheje kanda, urebe ko ibihe byiza bihora murutoki.</string>
+    <string name="desc_two">Gukwirakwiza umunezero mugabana statut za WhatsApp biturutse kuri porogaramu n\'inshuti n\'umuryango.</string>
+    <string name="desc_three">Gufata no kubika statut ya WhatsApp kubikoresho byawe kugirango ubone umwanya uwariwo wose, kabone niyo waba udafite umurongo wa interineti.</string>
+    <string name="desc_fourth">Menya ibintu bikurura WhatsApp, wongereho gukoraho imbaraga kumunsi wawe.</string>
 </resources>

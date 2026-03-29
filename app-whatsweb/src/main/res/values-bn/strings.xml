@@ -1,6 +1,6 @@
 <resources>
     <string name="app_update_alert_dialog_title">আপডেট সম্পূর্ণ</string>
-    <string name="app_update_alert_dialog_subtitle">আপডেটগুলি প্রয়োগ করতে অ্যাপটি পুনরায় চালু করুন...</string>
+    <string name="app_update_alert_dialog_subtitle">আপডেটগুলি প্রয়োগ করতে অ্যাপটি পুনরায় চালু করুন…</string>
     <string name="help">সাহায্য</string>
     <string name="cleaner">পরিষ্কারক</string>
     <string name="status_saver">স্ট্যাটাস সেভার</string>
@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Qr Scanner অ্যাপ ডাউনলোড করুন</string>
     <string name="share_content">দুটি ভিন্ন স্মার্টফোন বা ট্যাবলেটে একই হোয়াটসঅ্যাপ অ্যাকাউন্ট অ্যাক্সেস করার দ্রুততম উপায় উপভোগ করার জন্য প্রস্তুত হন, সব বিনামূল্যে! এখনই অ্যাপটি ডাউনলোড এবং ইনস্টল করুন।</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">আপনার WhatsApp ব্যবসা ফোল্ডার নির্বাচন করুন</string>
+    <string name="wa_business_directory_invalid">ফোল্ডারটি WhatsApp ব্যবসার মত দেখাচ্ছে না। আবার চেষ্টা করুন.</string>
+    <string name="wa_business_not_installed">WhatsApp ব্যবসা ইনস্টল করা আছে বলে মনে হচ্ছে না।</string>
+    <string name="heading_one">দ্রুত সংরক্ষণ করুন</string>
+    <string name="heading_two">সাথে সাথে শেয়ার করুন</string>
+    <string name="heading_three">অফলাইনে ডাউনলোড করুন</string>
+    <string name="heading_fourth">অন্বেষণ এবং উপভোগ করুন</string>
+    <string name="desc_one">একটি আলতো চাপ দিয়ে আপনার প্রিয় হোয়াটসঅ্যাপ স্ট্যাটাসগুলি সুরক্ষিত করুন, লালিত মুহূর্তগুলি সর্বদা আপনার নখদর্পণে রয়েছে তা নিশ্চিত করুন৷</string>
+    <string name="desc_two">অ্যাপ থেকে সরাসরি হোয়াটসঅ্যাপ স্ট্যাটাস শেয়ার করে বন্ধু এবং পরিবারের সাথে আনন্দ ছড়িয়ে দিন।</string>
+    <string name="desc_three">আপনার ডিভাইসে হোয়াটসঅ্যাপ স্ট্যাটাস ক্যাপচার এবং সঞ্চয় করুন যেকোনো সময় অ্যাক্সেসের জন্য, এমনকি ইন্টারনেট সংযোগ ছাড়াই।</string>
+    <string name="desc_fourth">আকর্ষক হোয়াটসঅ্যাপ স্ট্যাটাস আবিষ্কার করুন, আপনার দিনে অনুপ্রেরণা যোগ করুন।</string>
 </resources>

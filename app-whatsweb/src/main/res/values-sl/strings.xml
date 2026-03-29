@@ -1,6 +1,6 @@
 <resources>
     <string name="app_update_alert_dialog_title">Posodobitev je končana</string>
-    <string name="app_update_alert_dialog_subtitle">Znova zaženite aplikacijo, da uporabite posodobitve ...</string>
+    <string name="app_update_alert_dialog_subtitle">Znova zaženite aplikacijo, da uporabite posodobitve …</string>
     <string name="help">pomoč</string>
     <string name="cleaner">Čistilec</string>
     <string name="status_saver">Status Saver</string>
@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Prenesite aplikacijo Qr Scanner</string>
     <string name="share_content">Pripravite se na izkušnjo najhitrejšega načina dostopa do istega računa WhatsApp na dveh različnih pametnih telefonih ali tablicah, vse brezplačno! Prenesite in namestite aplikacijo zdaj.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Izberite svojo mapo WhatsApp Business</string>
+    <string name="wa_business_directory_invalid">Mapa ni videti kot WhatsApp Business. prosim poskusite ponovno</string>
+    <string name="wa_business_not_installed">Zdi se, da WhatsApp Business ni nameščen.</string>
+    <string name="heading_one">Hitro shranjevanje</string>
+    <string name="heading_two">Delite takoj</string>
+    <string name="heading_three">Prenos brez povezave</string>
+    <string name="heading_fourth">Raziskujte in uživajte</string>
+    <string name="desc_one">Zavarujte svoje najljubše statuse WhatsApp z dotikom in zagotovite, da so cenjeni trenutki vedno na dosegu roke.</string>
+    <string name="desc_two">Širite veselje z deljenjem statusov WhatsApp neposredno iz aplikacije s prijatelji in družino.</string>
+    <string name="desc_three">Zajemite in shranite stanja WhatsApp v svojo napravo za kadar koli dostop, tudi brez internetne povezave.</string>
+    <string name="desc_fourth">Odkrijte privlačna stanja WhatsApp, ki vašemu dnevu dodajo kanček navdiha.</string>
 </resources>

@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Ներբեռնեք Qr Scanner հավելվածը</string>
     <string name="share_content">Պատրաստվեք զգալու նույն WhatsApp հաշիվը երկու տարբեր սմարթֆոնների կամ պլանշետների վրա մուտք գործելու ամենաարագ ճանապարհը՝ բոլորը անվճար: Ներբեռնեք և տեղադրեք հավելվածը հիմա:</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Ընտրեք ձեր WhatsApp Business թղթապանակը</string>
+    <string name="wa_business_directory_invalid">Թղթապանակը նման չէ WhatsApp Business-ին: Խնդրում ենք կրկին փորձել:</string>
+    <string name="wa_business_not_installed">WhatsApp Business-ը կարծես թե տեղադրված չէ։</string>
+    <string name="heading_one">Արագ պահպանում</string>
+    <string name="heading_two">Անմիջապես կիսվեք</string>
+    <string name="heading_three">Ներբեռնեք անցանց</string>
+    <string name="heading_fourth">Ուսումնասիրեք և վայելեք</string>
+    <string name="desc_one">Ապահովեք ձեր սիրելի WhatsApp կարգավիճակները մի հպումով, ապահովելով, որ նվիրական պահերը միշտ ձեր մատների տակ են:</string>
+    <string name="desc_two">Ուրախություն տարածեք՝ WhatsApp-ի կարգավիճակները անմիջապես հավելվածից կիսելով ընկերների և ընտանիքի հետ:</string>
+    <string name="desc_three">Ձեռք բերեք և պահեք WhatsApp-ի կարգավիճակները ձեր սարքում՝ ցանկացած ժամանակ մուտք գործելու համար, նույնիսկ առանց ինտերնետ կապի:</string>
+    <string name="desc_fourth">Բացահայտեք WhatsApp-ի գրավիչ կարգավիճակները՝ ավելացնելով ձեր օրվա ոգեշնչման շունչը:</string>
 </resources>

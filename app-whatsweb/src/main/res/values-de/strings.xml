@@ -197,4 +197,15 @@
 
     <string name="directly_message_anyone_without_saving_phone_as_contact" />
 
+    <string name="please_select_wa_business_directory">Wählen Sie Ihren WhatsApp Business-Ordner aus</string>
+    <string name="wa_business_directory_invalid">Der Ordner sieht nicht wie WhatsApp Business aus. Bitte versuchen Sie es erneut.</string>
+    <string name="wa_business_not_installed">WhatsApp Business scheint nicht installiert zu sein.</string>
+    <string name="heading_one">Schnell speichern</string>
+    <string name="heading_two">Sofort teilen</string>
+    <string name="heading_three">Offline herunterladen</string>
+    <string name="heading_fourth">Entdecken und genießen</string>
+    <string name="desc_one">Sichern Sie Ihre Lieblings-WhatsApp-Status mit einem Fingertipp und stellen Sie sicher, dass Sie wertvolle Momente immer zur Hand haben.</string>
+    <string name="desc_two">Verbreiten Sie Freude, indem Sie WhatsApp-Status direkt aus der App mit Freunden und Familie teilen.</string>
+    <string name="desc_three">Erfassen und speichern Sie WhatsApp-Status auf Ihrem Gerät, sodass Sie jederzeit darauf zugreifen können, auch ohne Internetverbindung.</string>
+    <string name="desc_fourth">Entdecken Sie ansprechende WhatsApp-Statusmeldungen, die Ihrem Tag einen Hauch von Inspiration verleihen.</string>
 </resources>

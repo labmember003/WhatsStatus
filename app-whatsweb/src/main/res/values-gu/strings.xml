@@ -1,6 +1,6 @@
 <resources>
     <string name="app_update_alert_dialog_title">અપડેટ પૂર્ણ થયું</string>
-    <string name="app_update_alert_dialog_subtitle">અપડેટ્સ લાગુ કરવા માટે એપ્લિકેશનને ફરીથી પ્રારંભ કરો...</string>
+    <string name="app_update_alert_dialog_subtitle">અપડેટ્સ લાગુ કરવા માટે એપ્લિકેશનને ફરીથી પ્રારંભ કરો…</string>
     <string name="help">મદદ</string>
     <string name="cleaner">ક્લીનર</string>
     <string name="status_saver">સ્ટેટસ સેવર</string>
@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Qr Scanner એપ ડાઉનલોડ કરો</string>
     <string name="share_content">બે અલગ-અલગ સ્માર્ટફોન અથવા ટેબ્લેટ પર સમાન WhatsApp એકાઉન્ટને ઍક્સેસ કરવાની સૌથી ઝડપી રીતનો અનુભવ કરવા માટે તૈયાર રહો, બધું મફતમાં! હવે એપ ડાઉનલોડ કરો અને ઇન્સ્ટોલ કરો.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">તમારું WhatsApp Business ફોલ્ડર પસંદ કરો</string>
+    <string name="wa_business_directory_invalid">ફોલ્ડર WhatsApp Business જેવું લાગતું નથી. કૃપા કરીને ફરી પ્રયાસ કરો.</string>
+    <string name="wa_business_not_installed">WhatsApp Business ઇન્સ્ટોલ કરેલ હોય તેવું લાગતું નથી.</string>
+    <string name="heading_one">ઝડપી સાચવો</string>
+    <string name="heading_two">તરત જ શેર કરો</string>
+    <string name="heading_three">ઑફલાઇન ડાઉનલોડ કરો</string>
+    <string name="heading_fourth">અન્વેષણ કરો અને આનંદ લો</string>
+    <string name="desc_one">તમારા મનપસંદ WhatsApp સ્ટેટસને એક ટૅપ વડે સુરક્ષિત કરો, ખાતરી કરો કે પ્રિય પળો હંમેશા તમારી આંગળીના ટેરવે છે.</string>
+    <string name="desc_two">મિત્રો અને કુટુંબીજનો સાથે એપ્લિકેશનમાંથી સીધા જ WhatsApp સ્ટેટસ શેર કરીને આનંદ ફેલાવો.</string>
+    <string name="desc_three">કોઈપણ સમયે ઍક્સેસ કરવા માટે તમારા ઉપકરણ પર WhatsApp સ્ટેટસ કૅપ્ચર અને સ્ટોર કરો, ઇન્ટરનેટ કનેક્શન વિના પણ.</string>
+    <string name="desc_fourth">તમારા દિવસ માટે પ્રેરણાનો સ્પર્શ ઉમેરીને આકર્ષક WhatsApp સ્ટેટસ શોધો.</string>
 </resources>

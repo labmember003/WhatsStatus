@@ -1,6 +1,6 @@
 <resources>
     <string name="app_update_alert_dialog_title">Update is kompleet</string>
-    <string name="app_update_alert_dialog_subtitle">Start de app opnij om updates oan te passen ...</string>
+    <string name="app_update_alert_dialog_subtitle">Start de app opnij om updates oan te passen …</string>
     <string name="help">Help</string>
     <string name="cleaner">Cleaner</string>
     <string name="status_saver">Status Saver</string>
@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Download de QR-scanner-app</string>
     <string name="share_content">Meitsje jo klear om de rapste manier te belibjen om tagong te krijen ta itselde WhatsApp-akkount op twa ferskillende smartphones of tablets, allegear fergees! Download en ynstallearje de app no.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Selektearje jo WhatsApp Business map</string>
+    <string name="wa_business_directory_invalid">Map liket net op WhatsApp Business. Besykje it nochris.</string>
+    <string name="wa_business_not_installed">WhatsApp Business liket net ynstalleare te wêzen.</string>
+    <string name="heading_one">Fluch bewarje</string>
+    <string name="heading_two">Diele Daliks</string>
+    <string name="heading_three">Download Offline</string>
+    <string name="heading_fourth">Ferkenne en genietsje</string>
+    <string name="desc_one">Befeiligje jo favorite WhatsApp-statusen mei in kraan, soargje derfoar dat koestere mominten altyd binnen jo fingertoppen binne.</string>
+    <string name="desc_two">Spried freugde troch WhatsApp-statussen direkt fan \'e app te dielen mei freonen en famylje.</string>
+    <string name="desc_three">Fange en bewarje WhatsApp-statussen op jo apparaat foar tagong op elk momint, sels sûnder in ynternetferbining.</string>
+    <string name="desc_fourth">Untdek boeiende WhatsApp-statussen, foegje in touch fan ynspiraasje ta oan jo dei.</string>
 </resources>

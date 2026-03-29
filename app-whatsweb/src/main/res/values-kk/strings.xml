@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Qr сканері қолданбасын жүктеп алыңыз</string>
     <string name="share_content">Екі түрлі смартфонда немесе планшетте бір WhatsApp тіркелгісіне қол жеткізудің ең жылдам әдісін пайдалануға дайын болыңыз, барлығы тегін! Қолданбаны қазір жүктеп алып, орнатыңыз.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">WhatsApp Business қалтаңызды таңдаңыз</string>
+    <string name="wa_business_directory_invalid">Қалта WhatsApp бизнесіне ұқсамайды. Қайталап көріңіз.</string>
+    <string name="wa_business_not_installed">WhatsApp Business орнатылмаған сияқты.</string>
+    <string name="heading_one">Жылдам сақтау</string>
+    <string name="heading_two">Бірден бөлісу</string>
+    <string name="heading_three">Офлайн жүктеп алыңыз</string>
+    <string name="heading_fourth">Зерттеу және ләззат алыңыз</string>
+    <string name="desc_one">Таңдаулы WhatsApp күйлерін түрту арқылы қорғаңыз, бұл қымбат сәттер әрқашан сіздің қолыңызда болуын қамтамасыз етіңіз.</string>
+    <string name="desc_two">WhatsApp күйлерін тікелей қолданбадан достарыңызбен және отбасыңызбен бөлісу арқылы қуаныш сыйлаңыз.</string>
+    <string name="desc_three">Кез келген уақытта, тіпті интернет қосылымынсыз да қол жеткізу үшін WhatsApp күйлерін құрылғыңызға түсіріңіз және сақтаңыз.</string>
+    <string name="desc_fourth">Күніңізге шабыт беретін қызықты WhatsApp күйлерін табыңыз.</string>
 </resources>

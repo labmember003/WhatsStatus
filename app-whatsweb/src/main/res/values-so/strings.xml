@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Soo deji Qr Scanner App</string>
     <string name="share_content">U diyaargarow inaad khibrad u yeelatid habka ugu dhaqsaha badan ee aad ku geli karto isla xisaabta WhatsApp-ka laba taleefan oo casri ah ama tablets oo kala duwan, dhammaantood waa bilaash! Soo deji oo rakib abka hadda.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Dooro galkaaga Ganacsiga WhatsApp</string>
+    <string name="wa_business_directory_invalid">Faylku uma eka sida Ganacsiga WhatsApp. Fadlan isku day mar kale</string>
+    <string name="wa_business_not_installed">Ganacsiga WhatsApp uma eka mid la rakibay.</string>
+    <string name="heading_one">Keyd degdeg ah</string>
+    <string name="heading_two">La wadaag isla markiiba</string>
+    <string name="heading_three">Soo dejiso khadka tooska ah</string>
+    <string name="heading_fourth">Baadh oo ku raaxayso</string>
+    <string name="desc_one">Ku hubso heerka WhatsApp-ka aad jeceshahay taabasho, adoo hubinaya in waqtiyada qaaliga ah ay had iyo jeer ku jiraan farahaaga.</string>
+    <string name="desc_two">Faafi farxada adiga oo si toos ah ula wadaagaya heerka WhatsApp-ka asxaabta iyo qoyska.</string>
+    <string name="desc_three">Qabo oo ku kaydi heerarka WhatsApp qalabkaaga wakhti kasta, xitaa iyada oo aan lahayn xidhiidh internet.</string>
+    <string name="desc_fourth">Soo ogow xaaladaha WhatsApp ka hawlgelinta, ku dar taabashada dhiirigelinta maalintaada.</string>
 </resources>

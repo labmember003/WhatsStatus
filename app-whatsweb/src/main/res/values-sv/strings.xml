@@ -1,6 +1,6 @@
 <resources>
     <string name="app_update_alert_dialog_title">Uppdateringen är klar</string>
-    <string name="app_update_alert_dialog_subtitle">Starta om appen för att tillämpa uppdateringar...</string>
+    <string name="app_update_alert_dialog_subtitle">Starta om appen för att tillämpa uppdateringar…</string>
     <string name="help">Hjälp</string>
     <string name="cleaner">Rengöringsmedel</string>
     <string name="status_saver">Statussparare</string>
@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Ladda ner appen QR Scanner</string>
     <string name="share_content">Gör dig redo att uppleva det snabbaste sättet att komma åt samma WhatsApp-konto på två olika smartphones eller surfplattor, helt gratis! Ladda ner och installera appen nu.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Välj din WhatsApp Business-mapp</string>
+    <string name="wa_business_directory_invalid">Mappen ser inte ut som WhatsApp Business. Försök igen.</string>
+    <string name="wa_business_not_installed">WhatsApp Business verkar inte vara installerat.</string>
+    <string name="heading_one">Snabbspara</string>
+    <string name="heading_two">Dela direkt</string>
+    <string name="heading_three">Ladda ner offline</string>
+    <string name="heading_fourth">Utforska och njut</string>
+    <string name="desc_one">Säkra dina favoritstatusar på WhatsApp med ett tryck och se till att älskade ögonblick alltid finns till hands.</string>
+    <string name="desc_two">Sprid glädje genom att dela WhatsApp-statusar direkt från appen med vänner och familj.</string>
+    <string name="desc_three">Fånga och lagra WhatsApp-statusar på din enhet för åtkomst när som helst, även utan internetanslutning.</string>
+    <string name="desc_fourth">Upptäck engagerande WhatsApp-statusar, lägg till en touch av inspiration till din dag.</string>
 </resources>

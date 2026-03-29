@@ -197,4 +197,15 @@
 
     <string name="directly_message_anyone_without_saving_phone_as_contact"/>
 
+    <string name="please_select_wa_business_directory">WhatsApp Business klasörünüzü seçin</string>
+    <string name="wa_business_directory_invalid">Klasör WhatsApp Business\'a benzemiyor. Lütfen tekrar deneyin.</string>
+    <string name="wa_business_not_installed">WhatsApp Business yüklü görünmüyor.</string>
+    <string name="heading_one">Hızlı Kaydet</string>
+    <string name="heading_two">Anında Paylaş</string>
+    <string name="heading_three">Çevrimdışı İndir</string>
+    <string name="heading_fourth">Keşfedin ve Keyfini Çıkarın</string>
+    <string name="desc_one">En sevdiğiniz WhatsApp durumlarını bir dokunuşla güvence altına alarak değerli anların her zaman parmaklarınızın ucunda olmasını sağlayın.</string>
+    <string name="desc_two">WhatsApp durumlarını doğrudan uygulamadan arkadaşlarınız ve ailenizle paylaşarak neşeyi yayın.</string>
+    <string name="desc_three">İnternet bağlantısı olmasa bile istediğiniz zaman erişebilmek için WhatsApp durumlarını cihazınızda yakalayın ve saklayın.</string>
+    <string name="desc_fourth">Gününüze ilham veren ilgi çekici WhatsApp durumlarını keşfedin.</string>
 </resources>

@@ -1,6 +1,6 @@
 <resources>
     <string name="app_update_alert_dialog_title">L-aġġornament huwa lest</string>
-    <string name="app_update_alert_dialog_subtitle">Ibda mill-ġdid l-app biex tapplika aġġornamenti...</string>
+    <string name="app_update_alert_dialog_subtitle">Ibda mill-ġdid l-app biex tapplika aġġornamenti…</string>
     <string name="help">Għajnuna</string>
     <string name="cleaner">Cleaner</string>
     <string name="status_saver">Status Saver</string>
@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Niżżel l-App Qr Scanner</string>
     <string name="share_content">Lestu biex tesperjenza l-aktar mod mgħaġġel biex taċċessa l-istess kont WhatsApp fuq żewġ smartphones jew tablets differenti, kollha b\'xejn! Niżżel u installa l-app issa.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Agħżel il-folder tiegħek WhatsApp Business</string>
+    <string name="wa_business_directory_invalid">Folder ma jidhirx qisu WhatsApp Business. Jekk jogħġbok erġa\' pprova.</string>
+    <string name="wa_business_not_installed">WhatsApp Business ma jidhirx li hu installat.</string>
+    <string name="heading_one">Ħlief malajr</string>
+    <string name="heading_two">Aqsam Istantanjament</string>
+    <string name="heading_three">Niżżel Offline</string>
+    <string name="heading_fourth">Esplora u Igawdu</string>
+    <string name="desc_one">Żgura l-istatus favorit tiegħek ta\' WhatsApp b\'vit, u tiżgura li l-mumenti għeżież ikunu dejjem fuq ponot subgħajk.</string>
+    <string name="desc_two">Ifrex il-ferħ billi taqsam l-istatus ta\' WhatsApp direttament mill-app mal-ħbieb u l-familja.</string>
+    <string name="desc_three">Aqbad u aħżen l-istatus ta\' WhatsApp fuq it-tagħmir tiegħek għal aċċess f\'kull ħin, anke mingħajr konnessjoni tal-internet.</string>
+    <string name="desc_fourth">Skopri statusi ta\' WhatsApp impenjattivi, u żżid touch ta\' ispirazzjoni fil-ġurnata tiegħek.</string>
 </resources>

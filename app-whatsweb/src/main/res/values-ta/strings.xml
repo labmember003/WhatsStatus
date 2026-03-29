@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Qr ஸ்கேனர் பயன்பாட்டைப் பதிவிறக்கவும்</string>
     <string name="share_content">இரண்டு வெவ்வேறு ஸ்மார்ட்போன்கள் அல்லது டேப்லெட்களில் ஒரே WhatsApp கணக்கை அணுகுவதற்கான விரைவான வழியை அனுபவிக்க தயாராகுங்கள், அனைத்தும் இலவசமாக! இப்போது பயன்பாட்டைப் பதிவிறக்கி நிறுவவும்.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">உங்கள் WhatsApp வணிக கோப்புறையைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="wa_business_directory_invalid">கோப்புறை வாட்ஸ்அப் பிசினஸ் போல் இல்லை. மீண்டும் முயற்சிக்கவும்.</string>
+    <string name="wa_business_not_installed">WhatsApp Business நிறுவப்பட்டதாகத் தெரியவில்லை.</string>
+    <string name="heading_one">விரைவான சேமிப்பு</string>
+    <string name="heading_two">உடனடியாக பகிரவும்</string>
+    <string name="heading_three">ஆஃப்லைனில் பதிவிறக்கவும்</string>
+    <string name="heading_fourth">ஆராய்ந்து மகிழுங்கள்</string>
+    <string name="desc_one">உங்கள் விருப்பமான வாட்ஸ்அப் நிலைகளை ஒரு தட்டினால் பாதுகாக்கவும், நேசத்துக்குரிய தருணங்கள் எப்போதும் உங்கள் விரல் நுனியில் இருப்பதை உறுதிசெய்யவும்.</string>
+    <string name="desc_two">பயன்பாட்டிலிருந்து நேரடியாக நண்பர்கள் மற்றும் குடும்பத்தினருடன் WhatsApp நிலைகளைப் பகிர்வதன் மூலம் மகிழ்ச்சியைப் பரப்புங்கள்.</string>
+    <string name="desc_three">இணைய இணைப்பு இல்லாவிட்டாலும், எந்த நேரத்திலும் அணுகுவதற்கு உங்கள் சாதனத்தில் WhatsApp நிலைகளைப் பதிவுசெய்து சேமிக்கவும்.</string>
+    <string name="desc_fourth">உங்கள் நாளுக்கு உத்வேகம் தரும் வகையில் WhatsApp நிலைகளைக் கண்டறியவும்.</string>
 </resources>

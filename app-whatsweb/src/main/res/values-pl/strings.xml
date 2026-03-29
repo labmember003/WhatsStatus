@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Pobierz aplikację Qr Scanner</string>
     <string name="share_content">Przygotuj się na najszybszy sposób uzyskiwania dostępu do tego samego konta WhatsApp na dwóch różnych smartfonach lub tabletach, wszystko za darmo! Pobierz i zainstaluj aplikację teraz.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Wybierz folder WhatsApp Business</string>
+    <string name="wa_business_directory_invalid">Folder nie wygląda jak WhatsApp Business. Spróbuj ponownie.</string>
+    <string name="wa_business_not_installed">Wygląda na to, że WhatsApp Business nie jest zainstalowany.</string>
+    <string name="heading_one">Szybki zapis</string>
+    <string name="heading_two">Udostępnij natychmiast</string>
+    <string name="heading_three">Pobierz offline</string>
+    <string name="heading_fourth">Przeglądaj i ciesz się</string>
+    <string name="desc_one">Zabezpiecz swoje ulubione statusy WhatsApp jednym dotknięciem, dzięki czemu cenne chwile będą zawsze na wyciągnięcie ręki.</string>
+    <string name="desc_two">Rozbudzaj radość, udostępniając statusy WhatsApp bezpośrednio z aplikacji znajomym i rodzinie.</string>
+    <string name="desc_three">Przechwytuj i przechowuj statusy WhatsApp na swoim urządzeniu, aby mieć do nich dostęp w dowolnym momencie, nawet bez połączenia z Internetem.</string>
+    <string name="desc_fourth">Odkryj wciągające statusy WhatsApp, które dodadzą inspiracji Twojemu dniu.</string>
 </resources>

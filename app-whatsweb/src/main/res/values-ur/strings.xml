@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">کیو آر سکینر ایپ ڈاؤن لوڈ کریں۔</string>
     <string name="share_content">دو مختلف اسمارٹ فونز یا ٹیبلٹس پر ایک ہی WhatsApp اکاؤنٹ تک رسائی کے تیز ترین طریقے کا تجربہ کرنے کے لیے تیار ہوجائیں، یہ سب کچھ مفت میں! ایپ کو ابھی ڈاؤن لوڈ اور انسٹال کریں۔</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">اپنا واٹس ایپ بزنس فولڈر منتخب کریں۔</string>
+    <string name="wa_business_directory_invalid">فولڈر WhatsApp بزنس جیسا نہیں لگتا ہے۔ براہ کرم دوبارہ کوشش کریں۔</string>
+    <string name="wa_business_not_installed">ایسا لگتا ہے کہ WhatsApp Business انسٹال نہیں ہے۔</string>
+    <string name="heading_one">فوری محفوظ کریں۔</string>
+    <string name="heading_two">فوری طور پر اشتراک کریں۔</string>
+    <string name="heading_three">آف لائن ڈاؤن لوڈ کریں۔</string>
+    <string name="heading_fourth">دریافت کریں اور لطف اٹھائیں۔</string>
+    <string name="desc_one">اپنے پسندیدہ WhatsApp سٹیٹس کو ایک تھپتھپا کر محفوظ کریں، اس بات کو یقینی بناتے ہوئے کہ پیارے لمحات ہمیشہ آپ کی انگلی پر ہوں۔</string>
+    <string name="desc_two">دوستوں اور خاندان والوں کے ساتھ ایپ سے براہ راست WhatsApp کے اسٹیٹس کا اشتراک کرکے خوشی پھیلائیں۔</string>
+    <string name="desc_three">کسی بھی وقت رسائی کے لیے اپنے آلے پر واٹس ایپ اسٹیٹس کیپچر اور اسٹور کریں، یہاں تک کہ انٹرنیٹ کنکشن کے بغیر۔</string>
+    <string name="desc_fourth">آپ کے دن میں حوصلہ افزائی کرتے ہوئے WhatsApp کے دلکش اسٹیٹس دریافت کریں۔</string>
 </resources>

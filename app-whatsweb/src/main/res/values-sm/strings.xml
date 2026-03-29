@@ -1,6 +1,6 @@
 <resources>
     <string name="app_update_alert_dialog_title">Ua mae\'a le fa\'afouga</string>
-    <string name="app_update_alert_dialog_subtitle">Toe amata le app e fa\'aoga fa\'afouga...</string>
+    <string name="app_update_alert_dialog_subtitle">Toe amata le app e fa\'aoga fa\'afouga…</string>
     <string name="help">Fesoasoani</string>
     <string name="cleaner">Fa\'amama</string>
     <string name="status_saver">Fa\'asao Tulaga</string>
@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">La\'u mai le Qr Scanner App</string>
     <string name="share_content">Sauni e iloa le auala sili ona vave e maua ai le tala WhatsApp tutusa i luga o telefoni feaveaʻi e lua poʻo papa, e leai se totogi! La\'u mai ma fa\'apipi\'i le app nei.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Filifili lau WhatsApp Business folder</string>
+    <string name="wa_business_directory_invalid">O le faila e le pei o WhatsApp Business. Fa\'amolemole toe taumafai.</string>
+    <string name="wa_business_not_installed">WhatsApp Business e foliga mai e le faʻapipiʻiina.</string>
+    <string name="heading_one">Faasao vave</string>
+    <string name="heading_two">Faasoa Vave</string>
+    <string name="heading_three">La\'u mai luga ole Initaneti</string>
+    <string name="heading_fourth">Saili ma Fiafia</string>
+    <string name="desc_one">Faʻamautu tulaga e te fiafia i ai WhatsApp i se tap, faʻamautinoa o taimi faʻapitoa o loʻo i ai pea i ou tamatamai lima.</string>
+    <string name="desc_two">Faʻasalalau le fiafia e ala i le faʻasoa saʻo o tulaga WhatsApp mai le app ma uo ma aiga.</string>
+    <string name="desc_three">Pu\'e ma teu tulaga WhatsApp i lau masini mo so\'o se taimi avanoa, tusa lava pe leai se initaneti.</string>
+    <string name="desc_fourth">Saili tulaga faʻafeiloaʻi WhatsApp, faʻaopoopoina se paʻi o musumusuga i lou aso.</string>
 </resources>

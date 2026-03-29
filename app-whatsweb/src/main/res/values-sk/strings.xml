@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Stiahnite si aplikáciu Qr Scanner</string>
     <string name="share_content">Pripravte sa zažiť najrýchlejší spôsob prístupu k rovnakému účtu WhatsApp na dvoch rôznych smartfónoch alebo tabletoch, a to všetko zadarmo! Stiahnite si a nainštalujte aplikáciu teraz.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Vyberte priečinok WhatsApp Business</string>
+    <string name="wa_business_directory_invalid">Priečinok nevyzerá ako WhatsApp Business. Skúste to znova.</string>
+    <string name="wa_business_not_installed">Zdá sa, že WhatsApp Business nie je nainštalovaný.</string>
+    <string name="heading_one">Rýchle uloženie</string>
+    <string name="heading_two">Zdieľajte okamžite</string>
+    <string name="heading_three">Stiahnuť offline</string>
+    <string name="heading_fourth">Preskúmajte a užívajte si</string>
+    <string name="desc_one">Zabezpečte si svoje obľúbené stavy WhatsApp klepnutím a zaistite, že vzácne chvíle budete mať vždy na dosah ruky.</string>
+    <string name="desc_two">Rozdávajte radosť zdieľaním statusov WhatsApp priamo z aplikácie s priateľmi a rodinou.</string>
+    <string name="desc_three">Zachyťte a uložte stavy WhatsApp na svojom zariadení, aby ste k nim mali kedykoľvek prístup, dokonca aj bez internetového pripojenia.</string>
+    <string name="desc_fourth">Objavte pútavé statusy WhatsApp a dodajte svojmu dňu nádych inšpirácie.</string>
 </resources>

@@ -1,6 +1,6 @@
 <resources>
     <string name="app_update_alert_dialog_title">ការធ្វើបច្ចុប្បន្នភាពបានបញ្ចប់</string>
-    <string name="app_update_alert_dialog_subtitle">ចាប់ផ្តើមកម្មវិធីឡើងវិញ ដើម្បីអនុវត្តការអាប់ដេត...</string>
+    <string name="app_update_alert_dialog_subtitle">ចាប់ផ្តើមកម្មវិធីឡើងវិញ ដើម្បីអនុវត្តការអាប់ដេត…</string>
     <string name="help">ជំនួយ</string>
     <string name="cleaner">អ្នកសម្អាត</string>
     <string name="status_saver">ធាតុរក្សាស្ថានភាព</string>
@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">ទាញយកកម្មវិធីម៉ាស៊ីនស្កេន Qr</string>
     <string name="share_content">ត្រៀមខ្លួនដើម្បីទទួលបានបទពិសោធន៍ពីវិធីលឿនបំផុតដើម្បីចូលប្រើគណនី WhatsApp ដូចគ្នានៅលើស្មាតហ្វូន ឬថេប្លេតពីរផ្សេងគ្នា ទាំងអស់ដោយឥតគិតថ្លៃ! ទាញយក និងដំឡើងកម្មវិធីឥឡូវនេះ។</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">ជ្រើសរើសថត WhatsApp Business របស់អ្នក។</string>
+    <string name="wa_business_directory_invalid">ថតមិនដូច WhatsApp Business ទេ។ សូមព្យាយាមម្តងទៀត។</string>
+    <string name="wa_business_not_installed">WhatsApp Business ហាក់ដូចជាមិនត្រូវបានដំឡើងទេ។</string>
+    <string name="heading_one">រក្សាទុករហ័ស</string>
+    <string name="heading_two">ចែករំលែកភ្លាមៗ</string>
+    <string name="heading_three">ទាញយកក្រៅបណ្តាញ</string>
+    <string name="heading_fourth">រុករក និងរីករាយ</string>
+    <string name="desc_one">ធានាស្ថានភាព WhatsApp ដែលអ្នកចូលចិត្តដោយការចុច ធានាថាពេលវេលាដ៏គួរឱ្យស្រលាញ់គឺតែងតែនៅចុងម្រាមដៃរបស់អ្នក។</string>
+    <string name="desc_two">ចែករំលែកភាពរីករាយដោយការចែករំលែកស្ថានភាព WhatsApp ដោយផ្ទាល់ពីកម្មវិធីជាមួយមិត្តភក្តិ និងក្រុមគ្រួសារ។</string>
+    <string name="desc_three">ចាប់យក និងរក្សាទុកស្ថានភាព WhatsApp នៅលើឧបករណ៍របស់អ្នកសម្រាប់ការចូលប្រើបានគ្រប់ពេល ទោះបីជាគ្មានការតភ្ជាប់អ៊ីនធឺណិតក៏ដោយ។</string>
+    <string name="desc_fourth">ស្វែងយល់ពីស្ថានភាព WhatsApp ដែលទាក់ទាញ ដោយបន្ថែមការលើកទឹកចិត្តដល់ថ្ងៃរបស់អ្នក។</string>
 </resources>

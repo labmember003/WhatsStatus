@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Shkarkoni aplikacionin Qr Scanner</string>
     <string name="share_content">Bëhuni gati të përjetoni mënyrën më të shpejtë për të hyrë në të njëjtën llogari WhatsApp në dy telefona inteligjentë ose tabletë të ndryshëm, të gjitha falas! Shkarkoni dhe instaloni aplikacionin tani.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Zgjidhni dosjen tuaj WhatsApp Business</string>
+    <string name="wa_business_directory_invalid">Dosja nuk duket si WhatsApp Business. Ju lutemi provoni përsëri.</string>
+    <string name="wa_business_not_installed">WhatsApp Business nuk duket të jetë i instaluar.</string>
+    <string name="heading_one">Ruajtje e shpejtë</string>
+    <string name="heading_two">Ndani në çast</string>
+    <string name="heading_three">Shkarkoni Offline</string>
+    <string name="heading_fourth">Eksploroni dhe shijoni</string>
+    <string name="desc_one">Siguroni statuset tuaja të preferuara të WhatsApp me një trokitje, duke siguruar që momentet e dashura të jenë gjithmonë në majë të gishtave.</string>
+    <string name="desc_two">Përhapni gëzim duke ndarë statuset e WhatsApp direkt nga aplikacioni me miqtë dhe familjen.</string>
+    <string name="desc_three">Kapni dhe ruani statuset e WhatsApp në pajisjen tuaj për qasje në çdo kohë, edhe pa një lidhje interneti.</string>
+    <string name="desc_fourth">Zbuloni statuse tërheqëse të WhatsApp, duke shtuar një prekje frymëzimi në ditën tuaj.</string>
 </resources>

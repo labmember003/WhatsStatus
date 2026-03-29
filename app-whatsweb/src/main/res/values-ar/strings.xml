@@ -2,7 +2,7 @@
 
     <string name="app_update_alert_dialog_title">اكتمل التحديث</string>
 
-    <string name="app_update_alert_dialog_subtitle">أعد تشغيل التطبيق لتطبيق التحديثات ...</string>
+    <string name="app_update_alert_dialog_subtitle">أعد تشغيل التطبيق لتطبيق التحديثات …</string>
 
     <string name="help">مساعدة</string>
 
@@ -197,4 +197,15 @@
 
     <string name="directly_message_anyone_without_saving_phone_as_contact" />
 
+    <string name="please_select_wa_business_directory">حدد مجلد واتساب للأعمال الخاص بك</string>
+    <string name="wa_business_directory_invalid">لا يبدو المجلد مثل WhatsApp Business. يرجى المحاولة مرة أخرى.</string>
+    <string name="wa_business_not_installed">يبدو أن تطبيق WhatsApp Business غير مثبت.</string>
+    <string name="heading_one">حفظ سريع</string>
+    <string name="heading_two">شارك على الفور</string>
+    <string name="heading_three">تحميل غير متصل</string>
+    <string name="heading_fourth">استكشاف والاستمتاع</string>
+    <string name="desc_one">قم بتأمين حالات WhatsApp المفضلة لديك بنقرة واحدة، مما يضمن أن اللحظات العزيزة تكون دائمًا في متناول يدك.</string>
+    <string name="desc_two">انشر الفرح من خلال مشاركة حالات الواتساب مباشرة من التطبيق مع الأصدقاء والعائلة.</string>
+    <string name="desc_three">التقط حالات WhatsApp وقم بتخزينها على جهازك للوصول إليها في أي وقت، حتى بدون الاتصال بالإنترنت.</string>
+    <string name="desc_fourth">اكتشف حالات WhatsApp الجذابة، مما يضيف لمسة من الإلهام إلى يومك.</string>
 </resources>

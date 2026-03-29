@@ -114,4 +114,15 @@
     <string name="download_qrcodescanner">Κατεβάστε την εφαρμογή Qr Scanner</string>
     <string name="share_content">Ετοιμαστείτε να ζήσετε τον πιο γρήγορο τρόπο πρόσβασης στον ίδιο λογαριασμό WhatsApp σε δύο διαφορετικά smartphone ή tablet, όλα δωρεάν! Κατεβάστε και εγκαταστήστε την εφαρμογή τώρα.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Επιλέξτε τον φάκελο WhatsApp Business</string>
+    <string name="wa_business_directory_invalid">Ο φάκελος δεν μοιάζει με το WhatsApp Business. Δοκιμάστε ξανά.</string>
+    <string name="wa_business_not_installed">Το WhatsApp Business δεν φαίνεται να είναι εγκατεστημένο.</string>
+    <string name="heading_one">Γρήγορη αποθήκευση</string>
+    <string name="heading_two">Μοιραστείτε άμεσα</string>
+    <string name="heading_three">Λήψη εκτός σύνδεσης</string>
+    <string name="heading_fourth">Εξερευνήστε και απολαύστε</string>
+    <string name="desc_one">Ασφαλίστε τις αγαπημένες σας καταστάσεις WhatsApp με ένα άγγιγμα, διασφαλίζοντας ότι οι αγαπημένες στιγμές είναι πάντα στα χέρια σας.</string>
+    <string name="desc_two">Σκορπίστε τη χαρά μοιράζεστε καταστάσεις WhatsApp απευθείας από την εφαρμογή με φίλους και οικογένεια.</string>
+    <string name="desc_three">Καταγράψτε και αποθηκεύστε τις καταστάσεις WhatsApp στη συσκευή σας για πρόσβαση ανά πάσα στιγμή, ακόμη και χωρίς σύνδεση στο διαδίκτυο.</string>
+    <string name="desc_fourth">Ανακαλύψτε συναρπαστικές καταστάσεις WhatsApp, προσθέτοντας μια πινελιά έμπνευσης στην ημέρα σας.</string>
 </resources>
