@@ -4,10 +4,6 @@
 
     <application>
         <activity
-            android:exported="false"
-            android:name=".MainActivity">
-        </activity>
-        <activity
             android:exported="true"
             android:name=".MainActivityWalk">
             <intent-filter>
@@ -22,16 +18,6 @@
             android:exported="false"
             android:name=".ui.AppSettingsActivity"
             android:label="@string/settings" />
-        <activity
-            android:theme="@style/DirectChatActivityTheme"
-            android:exported="false"
-            android:name=".ui.customwebview.CustomWebViewActivity"
-            android:configChanges="orientation|keyboard|keyboardHidden|screenLayout|screenSize"/>
-        <activity android:name=".ui.ChatActivity"
-            android:windowSoftInputMode="adjustPan"
-            android:exported="false"
-            android:theme="@style/DirectChatActivityTheme"
-            />
 
         <provider
             android:name="androidx.core.content.FileProvider"

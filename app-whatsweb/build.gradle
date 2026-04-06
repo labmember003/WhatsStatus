@@ -66,13 +66,13 @@ android {
         whatswebscan {
             dimension "default"
             applicationId "com.falcon.whatscan"
-            versionCode 100007002
+            versionCode 100007003
             // 1 (versioning scheme)
             // 00 (major version)
             // 02 (minor version)
             // 05 (patch version)
             // 00 spare for betas/RCs
-            versionName "2.0.0"
+            versionName "3.0.0"
         }
     }
     sourceSets {
@@ -96,12 +96,8 @@ dependencies {
 
     implementation 'androidx.annotation:annotation:1.2.0'
 
-    implementation "com.hbb20:ccp:$ccp_version"
-
     implementation "androidx.appcompat:appcompat:$appcompat_version"
     implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
-
-    implementation "com.squareup.okhttp3:okhttp:4.9.3"
 
     implementation "org.jetbrains.kotlinx:kotlinx-serialization-json:1.1.0"
 
@@ -111,11 +107,7 @@ dependencies {
     implementation 'com.google.firebase:firebase-analytics-ktx'
     implementation 'com.google.firebase:firebase-config-ktx'
 
-    implementation 'androidx.gridlayout:gridlayout:1.0.0'
-
     implementation "com.github.permissions-dispatcher:permissionsdispatcher:$permissionsdispatcher_version"
-//    implementation 'com.google.android.play:core-ktx:1.10.3'
-    implementation 'com.google.android.play:app-update-ktx:2.1.0'
     kapt "com.github.permissions-dispatcher:permissionsdispatcher-processor:$permissionsdispatcher_version"
 
     ksp "com.github.bumptech.glide:ksp:$glide_version"

@@ -21,9 +21,6 @@ object WhatsWebPreferences: PreferenceTypes() {
     var darkMode
             by String(res.getString(R.string.key_preference_dark_mode), DARK_MODE_SYSTEM_DEFAULT)
 
-    var isKeyboardEnabled by Boolean(res.getString(R.string.key_preference_keyboard_enabled), true)
-
-    var isWebViewFullscreenEnabled by Boolean(res.getString(R.string.key_preference_webview_fullscreen_enabled), false)
 
     var whatsAppStorageUri by String(res.getString(R.string.key_preference_whatsapp_storage_uri), "")
 

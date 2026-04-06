@@ -18,18 +18,37 @@
             android:orientation="horizontal"
             app:shimmer_duration="800">
 
-            <androidx.gridlayout.widget.GridLayout
-                app:useDefaultMargins="true"
-                app:rowCount="2"
-                app:columnCount="2"
+            <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                app:orientation="horizontal">
-                <include layout="@layout/status_saved_placeholder_layout" />
-                <include layout="@layout/status_saved_placeholder_layout" />
-                <include layout="@layout/status_saved_placeholder_layout" />
-                <include layout="@layout/status_saved_placeholder_layout" />
-            </androidx.gridlayout.widget.GridLayout>
+                android:orientation="vertical">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+                    <include layout="@layout/status_saved_placeholder_layout"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+                    <include layout="@layout/status_saved_placeholder_layout"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+                    <include layout="@layout/status_saved_placeholder_layout"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+                    <include layout="@layout/status_saved_placeholder_layout"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1" />
+                </LinearLayout>
+            </LinearLayout>
 
         </com.facebook.shimmer.ShimmerFrameLayout>
 
