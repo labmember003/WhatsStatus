@@ -31,6 +31,9 @@ import com.geeksoftapps.whatsweb.status.business_scoped_storage_uri
 import com.geeksoftapps.whatsweb.status.status_scoped_storage_uri
 import com.geeksoftapps.whatsweb.status.whatsapp_business_storage_file
 import com.geeksoftapps.whatsweb.status.whatsapp_storage_file
+import com.google.android.gms.ads.AdRequest
+import com.google.android.gms.ads.AdSize
+import com.google.android.gms.ads.AdView
 import org.kodein.di.KodeinAware
 import org.kodein.di.android.x.closestKodein
 
@@ -41,6 +44,9 @@ class StatusContainerFragment : BasicFragment(), KodeinAware {
     private val REQUEST_CODE_SAF_BUSINESS = 12124
 
     private lateinit var binding: FragmentStatusSaverBinding
+
+    // AdMob banner
+    private var adView: AdView? = null
 
     // Tracks which app is currently selected in the toggle
     private var isBusinessSelected = false
@@ -63,12 +69,31 @@ class StatusContainerFragment : BasicFragment(), KodeinAware {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
         setupToggle()
+        loadBannerAd()
         acquirePermissions()
     }
 
     override fun onResume() {
         super.onResume()
         (activity as? StatusSaverFragmentActions)?.setToolBarTitle(getString(R.string.app_name))
+    }
+
+    // ─── Banner Ad ─────────────────────────────────────────────────────────────
+
+    private fun loadBannerAd() {
+        adView = AdView(requireContext()).apply {
+            setAdSize(AdSize.BANNER)
+            adUnitId = getString(R.string.admob_banner_ad_unit_id)
+        }
+        binding.bannerContainer.removeAllViews()
+        binding.bannerContainer.addView(adView)
+        adView?.loadAd(AdRequest.Builder().build())
+    }
+
+    override fun onDestroyView() {
+        adView?.destroy()
+        adView = null
+        super.onDestroyView()
     }
 
     // ─── Toggle  ──────────────────────────────────────────────────────────────

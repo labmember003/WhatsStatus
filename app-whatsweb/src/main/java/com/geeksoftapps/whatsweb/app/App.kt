@@ -9,6 +9,7 @@ import com.geeksoftapps.whatsweb.status.IStatusRepo
 import com.geeksoftapps.whatsweb.status.StatusRepo
 import com.geeksoftapps.whatsweb.status.whatsapp_saved_status_file
 import com.google.firebase.crashlytics.FirebaseCrashlytics
+import com.google.android.gms.ads.MobileAds
 import com.jakewharton.threetenabp.AndroidThreeTen
 import com.preference.PowerPreference
 import kotlinx.coroutines.CoroutineExceptionHandler
@@ -72,6 +73,7 @@ class App: Application(), KodeinAware {
         internalStorageDir = filesDir
         PowerPreference.init(this)
         AndroidThreeTen.init(this)
+        MobileAds.initialize(this) {}
         setUpDarkMode()
     }
 

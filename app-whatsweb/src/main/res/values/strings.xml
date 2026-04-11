@@ -78,4 +78,9 @@
     <string name="guide_got_it" translatable="false">Got it, Open Picker</string>
     <string name="guide_screenshot_desc" translatable="false">Guide screenshot</string>
 
+    <!-- AdMob IDs — REPLACE these with your real IDs from the AdMob console before publishing -->
+    <!-- The values below are Google-provided TEST IDs. They will show test ads only. -->
+    <string name="admob_app_id" translatable="false">ca-app-pub-7683902216769416~9535667759</string>
+    <string name="admob_banner_ad_unit_id" translatable="false">ca-app-pub-7683902216769416/3795152269</string>
+
 </resources>
