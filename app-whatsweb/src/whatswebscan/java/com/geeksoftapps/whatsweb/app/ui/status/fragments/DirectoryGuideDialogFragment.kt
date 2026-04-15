@@ -31,16 +31,22 @@ class DirectoryGuideDialogFragment : DialogFragment() {
 
     private var currentStep = 0
     private var onGuideComplete: (() -> Unit)? = null
+    private var onGuideCancel: (() -> Unit)? = null
 
     companion object {
         private const val ARG_IS_BUSINESS = "is_business"
 
-        fun newInstance(isBusiness: Boolean, onComplete: () -> Unit): DirectoryGuideDialogFragment {
+        fun newInstance(
+            isBusiness: Boolean,
+            onCancel: (() -> Unit)? = null,
+            onComplete: () -> Unit
+        ): DirectoryGuideDialogFragment {
             return DirectoryGuideDialogFragment().apply {
                 arguments = Bundle().apply {
                     putBoolean(ARG_IS_BUSINESS, isBusiness)
                 }
                 onGuideComplete = onComplete
+                onGuideCancel = onCancel
             }
         }
     }
@@ -49,10 +55,15 @@ class DirectoryGuideDialogFragment : DialogFragment() {
         val dialog = super.onCreateDialog(savedInstanceState)
         dialog.requestWindowFeature(Window.FEATURE_NO_TITLE)
         dialog.window?.setBackgroundDrawable(ColorDrawable(Color.TRANSPARENT))
-        dialog.setCancelable(false)
-        dialog.setCanceledOnTouchOutside(false)
-        isCancelable = false
+        // Allow dismissal so we can handle cancel (e.g. back press / tap outside)
+        dialog.setCanceledOnTouchOutside(true)
+        isCancelable = true
         return dialog
+    }
+
+    override fun onCancel(dialog: android.content.DialogInterface) {
+        super.onCancel(dialog)
+        onGuideCancel?.invoke()
     }
 
     override fun onCreateView(

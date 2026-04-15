@@ -360,7 +360,19 @@ class StatusContainerFragment : BasicFragment(), KodeinAware {
     @RequiresApi(Build.VERSION_CODES.O)
     private fun openDocumentTree(isBusiness: Boolean) {
         // Show the visual guide dialog first, then launch the SAF picker
-        DirectoryGuideDialogFragment.newInstance(isBusiness) {
+        val onCancel: (() -> Unit)? = if (isBusiness) {
+            {
+                // User dismissed the guide — switch back to normal WhatsApp tab
+                isBusinessSelected = false
+                selectWhatsApp()
+                acquirePermissions()
+            }
+        } else null
+
+        DirectoryGuideDialogFragment.newInstance(
+            isBusiness = isBusiness,
+            onCancel = onCancel
+        ) {
             launchDocumentTreePicker(isBusiness)
         }.show(childFragmentManager, "directory_guide")
     }
