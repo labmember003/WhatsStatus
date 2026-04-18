@@ -55,9 +55,11 @@ class DirectoryGuideDialogFragment : DialogFragment() {
         val dialog = super.onCreateDialog(savedInstanceState)
         dialog.requestWindowFeature(Window.FEATURE_NO_TITLE)
         dialog.window?.setBackgroundDrawable(ColorDrawable(Color.TRANSPARENT))
-        // Allow dismissal so we can handle cancel (e.g. back press / tap outside)
-        dialog.setCanceledOnTouchOutside(true)
-        isCancelable = true
+        val isBusiness = arguments?.getBoolean(ARG_IS_BUSINESS, false) ?: false
+        // WhatsApp: non-dismissable (user must grant permission)
+        // Business: dismissable (cancel switches back to WhatsApp tab)
+        dialog.setCanceledOnTouchOutside(isBusiness)
+        isCancelable = isBusiness
         return dialog
     }
 
