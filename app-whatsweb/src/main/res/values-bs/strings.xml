@@ -103,7 +103,6 @@
     <string name="download_recover_messages_app">Preuzmite aplikaciju Recover Messages</string>
     <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Da biste koristili ovu funkciju, morate preuzeti drugu aplikaciju iz Play trgovine. Kliknite OK da otvorite Play Store i preuzmete aplikaciju.</string>
     <string name="cancel">Otkaži</string>
-    <string name="ad_space">Oglasni prostor</string>
     <string name="status">Status</string>
     <string name="theme">Tema</string>
     <string name="more_apps">Više aplikacija</string>
@@ -115,4 +114,15 @@
     <string name="download_qrcodescanner">Preuzmite aplikaciju Qr Scanner</string>
     <string name="share_content">Spremite se da doživite najbrži način pristupa istom WhatsApp računu na dva različita pametna telefona ili tableta, sve besplatno! Preuzmite i instalirajte aplikaciju sada.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Odaberite svoju WhatsApp Business fasciklu</string>
+    <string name="wa_business_directory_invalid">Fascikla ne izgleda kao WhatsApp Business. Molimo pokušajte ponovo.</string>
+    <string name="wa_business_not_installed">Čini se da WhatsApp Business nije instaliran.</string>
+    <string name="heading_one">Quick Save</string>
+    <string name="heading_two">Podijelite odmah</string>
+    <string name="heading_three">Preuzmite van mreže</string>
+    <string name="heading_fourth">Istražite i uživajte</string>
+    <string name="desc_one">Osigurajte svoje omiljene WhatsApp statuse jednim dodirom, osiguravajući da su vam dragocjeni trenuci uvijek na dohvat ruke.</string>
+    <string name="desc_two">Širite radost dijeljenjem WhatsApp statusa direktno iz aplikacije s prijateljima i porodicom.</string>
+    <string name="desc_three">Snimite i pohranite WhatsApp statuse na svom uređaju za pristup u bilo koje vrijeme, čak i bez internetske veze.</string>
+    <string name="desc_fourth">Otkrijte zanimljive WhatsApp statuse, dodajući dašak inspiracije vašem danu.</string>
 </resources>

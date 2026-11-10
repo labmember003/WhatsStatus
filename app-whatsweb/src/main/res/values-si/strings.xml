@@ -1,6 +1,6 @@
 <resources>
     <string name="app_update_alert_dialog_title">යාවත්කාලීන කිරීම සම්පූර්ණයි</string>
-    <string name="app_update_alert_dialog_subtitle">යාවත්කාලීන යෙදීමට යෙදුම නැවත ආරම්භ කරන්න...</string>
+    <string name="app_update_alert_dialog_subtitle">යාවත්කාලීන යෙදීමට යෙදුම නැවත ආරම්භ කරන්න…</string>
     <string name="help">උදව්</string>
     <string name="cleaner">පිරිසිදු කරන්නා</string>
     <string name="status_saver">තත්ව සුරැකුම</string>
@@ -103,7 +103,6 @@
     <string name="download_recover_messages_app">Recover Messages යෙදුම බාගන්න</string>
     <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">මෙම විශේෂාංගය භාවිතා කිරීමට, ඔබ Play store වෙතින් වෙනත් යෙදුමක් බාගත කළ යුතුය. Play store විවෘත කිරීමට සහ යෙදුම බාගත කිරීමට OK ක්ලික් කරන්න.</string>
     <string name="cancel">අවලංගු කරන්න</string>
-    <string name="ad_space">දැන්වීම් අවකාශය</string>
     <string name="status">තත්ත්වය</string>
     <string name="theme">තේමාව</string>
     <string name="more_apps">තවත් යෙදුම්</string>
@@ -115,4 +114,15 @@
     <string name="download_qrcodescanner">Qr ස්කෑනර් යෙදුම බාගන්න</string>
     <string name="share_content">විවිධ ස්මාර්ට් ෆෝන් හෝ ටැබ්ලට් දෙකකින් එකම WhatsApp ගිණුමට ප්‍රවේශ වීමේ වේගවත්ම ක්‍රමය අත්විඳීමට සූදානම් වන්න! දැන් යෙදුම බාගත කර ස්ථාපනය කරන්න.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">ඔබගේ WhatsApp ව්‍යාපාර ෆෝල්ඩරය තෝරන්න</string>
+    <string name="wa_business_directory_invalid">ෆෝල්ඩරය WhatsApp ව්‍යාපාර මෙන් නොපෙනේ. කරුණාකර නැවත උත්සාහ කරන්න.</string>
+    <string name="wa_business_not_installed">WhatsApp ව්‍යාපාර ස්ථාපනය කර ඇති බවක් නොපෙනේ.</string>
+    <string name="heading_one">ඉක්මන් සුරැකීම</string>
+    <string name="heading_two">ක්ෂණිකව බෙදාගන්න</string>
+    <string name="heading_three">නොබැඳිව බාගන්න</string>
+    <string name="heading_fourth">ගවේෂණය කර විනෝද වන්න</string>
+    <string name="desc_one">ඔබේ ප්‍රියතම WhatsApp තත්ත්‍වයන් තට්ටු කිරීමකින් සුරක්ෂිත කරන්න, ආදරණීය අවස්ථා සැමවිටම ඔබේ ඇඟිලි තුඩුවල ඇති බව සහතික කර ගන්න.</string>
+    <string name="desc_two">යෙදුමෙන් කෙලින්ම මිතුරන් සහ පවුලේ අය සමඟ WhatsApp තත්ත්වයන් බෙදාගැනීමෙන් ප්‍රීතිය පතුරුවන්න.</string>
+    <string name="desc_three">අන්තර්ජාල සම්බන්ධතාවයක් නොමැතිව වුවද, ඕනෑම වේලාවක ප්‍රවේශය සඳහා ඔබගේ උපාංගයේ WhatsApp තත්ත්වයන් ග්‍රහණය කර ගබඩා කරන්න.</string>
+    <string name="desc_fourth">ඔබේ දවසට ආශ්වාදයක් එක් කරමින් ආකර්ෂණීය WhatsApp තත්ත්වයන් සොයා ගන්න.</string>
 </resources>

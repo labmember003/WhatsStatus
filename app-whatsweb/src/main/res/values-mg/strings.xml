@@ -103,7 +103,6 @@
     <string name="download_recover_messages_app">Ampidino ny App Recover Messages</string>
     <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Raha hampiasa an\'io endri-javatra io ianao dia mila misintona fampiharana hafa avy amin\'ny fivarotana play. Tsindrio OK hanokatra fivarotana play sy hisintona fampiharana.</string>
     <string name="cancel">hanafoana</string>
-    <string name="ad_space">Espace doka</string>
     <string name="status">sata</string>
     <string name="theme">FOTO-KEVITRA</string>
     <string name="more_apps">Apps bebe kokoa</string>
@@ -115,4 +114,15 @@
     <string name="download_qrcodescanner">Ampidino ny fampiharana Qr Scanner</string>
     <string name="share_content">Miomàna hiaina ny fomba haingana indrindra hidirana amin\'ny kaonty WhatsApp mitovy amin\'ny finday na takelaka roa samy hafa, maimaim-poana avokoa! Ampidino ary apetraho izao ny fampiharana.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Safidio ny lahatahiry WhatsApp Business anao</string>
+    <string name="wa_business_directory_invalid">Tsy mitovy amin\'ny WhatsApp Business ny folder. Andramo indray azafady.</string>
+    <string name="wa_business_not_installed">Toa tsy napetraka ny WhatsApp Business.</string>
+    <string name="heading_one">Tehirizo haingana</string>
+    <string name="heading_two">Zarao avy hatrany</string>
+    <string name="heading_three">Misintona an-tserasera</string>
+    <string name="heading_fourth">Diniho ary ankafizo</string>
+    <string name="desc_one">Arovy ny sata WhatsApp ankafizinao amin\'ny paompy iray, miantoka fa eo am-pelatananao foana ny fotoana ankamamianao.</string>
+    <string name="desc_two">Aparitaho ny hafaliana amin\'ny fizarana sata WhatsApp mivantana avy amin\'ny fampiharana amin\'ny namana sy fianakaviana.</string>
+    <string name="desc_three">Alao sy tehirizo ny sata WhatsApp amin\'ny fitaovanao mba hidirana amin\'ny fotoana rehetra, na dia tsy misy fifandraisana Internet aza.</string>
+    <string name="desc_fourth">Mahita sata WhatsApp mahasarika, manampy aingam-panahy amin\'ny andronao.</string>
 </resources>

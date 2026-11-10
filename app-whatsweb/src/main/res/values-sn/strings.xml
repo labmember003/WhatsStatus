@@ -103,7 +103,6 @@
     <string name="download_recover_messages_app">Dhawunirodha Dzorera Mameseji App</string>
     <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Kuti ushandise chinhu ichi, unofanirwa kudhawunirodha imwe app kubva play store. Dzvanya OK kuti uvhure play store uye download app.</string>
     <string name="cancel">Kanzura</string>
-    <string name="ad_space">Ad Space</string>
     <string name="status">Status</string>
     <string name="theme">Theme</string>
     <string name="more_apps">More Apps</string>
@@ -115,4 +114,15 @@
     <string name="download_qrcodescanner">Dhawunirodha Qr Scanner App</string>
     <string name="share_content">Gadzirira kuona iyo inokurumidza nzira yekuwana iyo yakafanana WhatsApp account pane maviri akasiyana mafoni kana mahwendefa, zvese zvemahara! Dhawunirodha uye isa iyo app izvozvi.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Sarudza yako WhatsApp Bhizinesi folda</string>
+    <string name="wa_business_directory_invalid">Folder haina kuita seWhatsApp Bhizinesi. Ndapota edza zvakare.</string>
+    <string name="wa_business_not_installed">Bhizinesi reWhatsApp hariite kunge rakaiswa.</string>
+    <string name="heading_one">Quick Save</string>
+    <string name="heading_two">Govera Pakarepo</string>
+    <string name="heading_three">Dhaunirodha Offline</string>
+    <string name="heading_fourth">Ongorora uye Nakidzwa</string>
+    <string name="desc_one">Chengetedza ako aunofarira WhatsApp zvimiro nepombi, kuve nechokwadi chekuti nguva dzinokosheswa dzinogara dziri pamunwe wako.</string>
+    <string name="desc_two">Paridza mufaro nekugovana zvimiro zveWhatsApp zvakananga kubva kuapp neshamwari uye nemhuri.</string>
+    <string name="desc_three">Bata uye chengetedza WhatsApp zvimiro pane chako kifaa kuti uwane chero nguva, kunyangwe pasina internet yekubatanidza.</string>
+    <string name="desc_fourth">Ziva zvinobata WhatsApp zvimiro, uchiwedzera kubata kwekurudziro kuzuva rako.</string>
 </resources>

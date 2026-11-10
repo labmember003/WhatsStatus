@@ -103,7 +103,6 @@
     <string name="download_recover_messages_app">Recover Messages қолданбасын жүктеп алыңыз</string>
     <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Бұл мүмкіндікті пайдалану үшін сізге ойын дүкенінен басқа қолданбаны жүктеп алу қажет. Ойын дүкенін ашу және қолданбаны жүктеп алу үшін OK түймесін басыңыз.</string>
     <string name="cancel">Болдырмау</string>
-    <string name="ad_space">Жарнама кеңістігі</string>
     <string name="status">Күй</string>
     <string name="theme">Тақырып</string>
     <string name="more_apps">Қосымша қолданбалар</string>
@@ -115,4 +114,15 @@
     <string name="download_qrcodescanner">Qr сканері қолданбасын жүктеп алыңыз</string>
     <string name="share_content">Екі түрлі смартфонда немесе планшетте бір WhatsApp тіркелгісіне қол жеткізудің ең жылдам әдісін пайдалануға дайын болыңыз, барлығы тегін! Қолданбаны қазір жүктеп алып, орнатыңыз.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">WhatsApp Business қалтаңызды таңдаңыз</string>
+    <string name="wa_business_directory_invalid">Қалта WhatsApp бизнесіне ұқсамайды. Қайталап көріңіз.</string>
+    <string name="wa_business_not_installed">WhatsApp Business орнатылмаған сияқты.</string>
+    <string name="heading_one">Жылдам сақтау</string>
+    <string name="heading_two">Бірден бөлісу</string>
+    <string name="heading_three">Офлайн жүктеп алыңыз</string>
+    <string name="heading_fourth">Зерттеу және ләззат алыңыз</string>
+    <string name="desc_one">Таңдаулы WhatsApp күйлерін түрту арқылы қорғаңыз, бұл қымбат сәттер әрқашан сіздің қолыңызда болуын қамтамасыз етіңіз.</string>
+    <string name="desc_two">WhatsApp күйлерін тікелей қолданбадан достарыңызбен және отбасыңызбен бөлісу арқылы қуаныш сыйлаңыз.</string>
+    <string name="desc_three">Кез келген уақытта, тіпті интернет қосылымынсыз да қол жеткізу үшін WhatsApp күйлерін құрылғыңызға түсіріңіз және сақтаңыз.</string>
+    <string name="desc_fourth">Күніңізге шабыт беретін қызықты WhatsApp күйлерін табыңыз.</string>
 </resources>

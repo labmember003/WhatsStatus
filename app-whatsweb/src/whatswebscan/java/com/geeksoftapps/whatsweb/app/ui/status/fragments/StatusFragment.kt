@@ -22,10 +22,12 @@ import com.geeksoftapps.whatsweb.commons.log
 import com.geeksoftapps.whatsweb.app.databinding.FragmentStatusBinding
 import com.geeksoftapps.whatsweb.app.utils.logCrashlytics
 import com.geeksoftapps.whatsweb.app.ui.status.adapters.StatusAdapter
+import com.geeksoftapps.whatsweb.app.ui.status.fragments.StatusContainerFragment.Companion.IS_BUSINESS
 import com.geeksoftapps.whatsweb.app.ui.status.fragments.StatusContainerFragment.Companion.WHATSAPP_STORAGE_URI
 import com.geeksoftapps.whatsweb.app.ui.status.preview.StatusPreviewActivity
 import com.geeksoftapps.whatsweb.app.ui.status.viewmodels.StatusSaverViewModel
 import com.geeksoftapps.whatsweb.app.utils.log
+import com.geeksoftapps.whatsweb.status.whatsapp_business_saved_status_file
 import com.geeksoftapps.whatsweb.status.whatsapp_saved_status_file
 import com.geeksoftapps.whatsweb.status.IStatusRepo
 import com.geeksoftapps.whatsweb.status.StatusRepo
@@ -94,7 +96,10 @@ class StatusFragment : BasicFragment(), KodeinAware, StatusAdapter.EventListener
         statusRepo = StatusRepo(
             requireContext(),
             statusDocumentFile,
-            whatsapp_saved_status_file
+            if (arguments?.getBoolean(IS_BUSINESS, false) == true)
+                whatsapp_business_saved_status_file
+            else
+                whatsapp_saved_status_file
         )
         statussaverViewModel = StatusSaverViewModel(statusRepo)
         bindUI()

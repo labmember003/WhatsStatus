@@ -1,6 +1,6 @@
 <resources>
     <string name="app_update_alert_dialog_title">Актуализацията е завършена</string>
-    <string name="app_update_alert_dialog_subtitle">Рестартирайте приложението, за да приложите актуализации...</string>
+    <string name="app_update_alert_dialog_subtitle">Рестартирайте приложението, за да приложите актуализации…</string>
     <string name="help">Помогне</string>
     <string name="cleaner">Чистач</string>
     <string name="status_saver">Запазване на състоянието</string>
@@ -103,7 +103,6 @@
     <string name="download_recover_messages_app">Изтеглете приложението за възстановяване на съобщения</string>
     <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">За да използвате тази функция, трябва да изтеглите друго приложение от Play Store. Щракнете върху OK, за да отворите Play Store и да изтеглите приложението.</string>
     <string name="cancel">Отказ</string>
-    <string name="ad_space">Рекламно пространство</string>
     <string name="status">Статус</string>
     <string name="theme">Тема</string>
     <string name="more_apps">Още приложения</string>
@@ -115,4 +114,15 @@
     <string name="download_qrcodescanner">Изтеглете приложението Qr Scanner</string>
     <string name="share_content">Пригответе се да изпитате най-бързия начин за достъп до един и същ акаунт в WhatsApp на два различни смартфона или таблета, всичко това безплатно! Изтеглете и инсталирайте приложението сега.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Изберете вашата папка WhatsApp Business</string>
+    <string name="wa_business_directory_invalid">Папката не прилича на WhatsApp Business. Моля, опитайте отново.</string>
+    <string name="wa_business_not_installed">WhatsApp Business изглежда не е инсталиран.</string>
+    <string name="heading_one">Бързо запазване</string>
+    <string name="heading_two">Споделете незабавно</string>
+    <string name="heading_three">Изтегляне офлайн</string>
+    <string name="heading_fourth">Изследвайте и се наслаждавайте</string>
+    <string name="desc_one">Осигурете любимите си статуси в WhatsApp с докосване, като гарантирате, че ценните моменти са винаги на една ръка разстояние.</string>
+    <string name="desc_two">Разпространете радост, като споделяте статуси на WhatsApp директно от приложението с приятели и семейство.</string>
+    <string name="desc_three">Заснемайте и съхранявайте статуси на WhatsApp на вашето устройство за достъп по всяко време, дори без интернет връзка.</string>
+    <string name="desc_fourth">Открийте ангажиращи статуси в WhatsApp, добавяйки нотка вдъхновение към деня ви.</string>
 </resources>

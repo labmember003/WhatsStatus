@@ -103,7 +103,6 @@
     <string name="download_recover_messages_app">Ṣe igbasilẹ Ohun elo Awọn ifiranṣẹ Bọsipọ</string>
     <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Lati lo ẹya yii, o nilo lati ṣe igbasilẹ ohun elo miiran lati ibi itaja itaja. Tẹ O DARA lati ṣii itaja itaja ati ṣe igbasilẹ app.</string>
     <string name="cancel">Fagilee</string>
-    <string name="ad_space">Aaye Ipolowo</string>
     <string name="status">Ipo</string>
     <string name="theme">Akori</string>
     <string name="more_apps">Awọn ohun elo diẹ sii</string>
@@ -115,4 +114,15 @@
     <string name="download_qrcodescanner">Ṣe igbasilẹ App Scanner Qr</string>
     <string name="share_content">Mura lati ni iriri ọna ti o yara julọ lati wọle si akọọlẹ WhatsApp kanna lori awọn fonutologbolori meji tabi awọn tabulẹti, gbogbo rẹ ni ọfẹ! Ṣe igbasilẹ ati fi app naa sori ẹrọ ni bayi.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Yan folda Iṣowo WhatsApp rẹ</string>
+    <string name="wa_business_directory_invalid">Folda ko dabi Iṣowo WhatsApp. Jọwọ gbiyanju lẹẹkansi.</string>
+    <string name="wa_business_not_installed">Iṣowo WhatsApp ko dabi pe a fi sori ẹrọ.</string>
+    <string name="heading_one">Fipamọ ni kiakia</string>
+    <string name="heading_two">Pin Lẹsẹkẹsẹ</string>
+    <string name="heading_three">Ṣe igbasilẹ Aisinipo</string>
+    <string name="heading_fourth">Ye ati Gbadun</string>
+    <string name="desc_one">Ṣe aabo awọn ipo WhatsApp ayanfẹ rẹ pẹlu tẹ ni kia kia, ni idaniloju pe awọn akoko ti o nifẹ nigbagbogbo wa ni ika ọwọ rẹ.</string>
+    <string name="desc_two">Tan ayọ nipa pinpin awọn ipo WhatsApp taara lati inu ohun elo pẹlu awọn ọrẹ ati ẹbi.</string>
+    <string name="desc_three">Yaworan ati tọju awọn ipo WhatsApp sori ẹrọ rẹ fun iraye si nigbakugba, paapaa laisi asopọ intanẹẹti kan.</string>
+    <string name="desc_fourth">Ṣe afẹri awọn ipo WhatsApp ikopa, fifi ifọwọkan ti awokose si ọjọ rẹ.</string>
 </resources>

@@ -1,6 +1,5 @@
 package com.geeksoftapps.whatsweb.app.utils
 
-import android.app.Activity
 import android.content.ActivityNotFoundException
 import android.content.ClipData
 import android.content.ClipboardManager
@@ -10,32 +9,19 @@ import android.content.pm.PackageManager
 import android.content.res.Configuration
 import android.content.res.Resources
 import android.graphics.Outline
-import android.net.ConnectivityManager
-import android.net.Uri
 import android.os.Build
 import android.view.View
 import android.view.ViewOutlineProvider
-import androidx.appcompat.app.AlertDialog
+import androidx.core.net.toUri
 import com.geeksoftapps.whatsweb.app.R
-import com.geeksoftapps.whatsweb.app.utils.Constants.CLEANER_APP_ID
 import com.geeksoftapps.whatsweb.app.utils.Constants.DEVELOPER_EMAIL
 import com.geeksoftapps.whatsweb.app.utils.Constants.FEEDBACK_EMAIL
-import com.geeksoftapps.whatsweb.app.utils.Constants.QR_CODE_APP_ID
-import com.geeksoftapps.whatsweb.app.utils.Constants.RECOVER_MESSAGES_APP_ID
 import com.geeksoftapps.whatsweb.commons.toast
 import com.google.firebase.crashlytics.FirebaseCrashlytics
-import com.google.firebase.remoteconfig.FirebaseRemoteConfig
 import java.net.URLEncoder
-import androidx.core.net.toUri
 
 
 object CommonUtils {
-
-    fun getQrCodeScannerId() = FirebaseRemoteConfig.getInstance().getString(QR_CODE_APP_ID)
-
-    fun getCleanerId() = FirebaseRemoteConfig.getInstance().getString(CLEANER_APP_ID)
-
-    fun getRecoverMessagesId() = FirebaseRemoteConfig.getInstance().getString(RECOVER_MESSAGES_APP_ID)
 
     fun copyToClipboard(context: Context?, text: String) {
         context?.run {
@@ -53,12 +39,12 @@ object CommonUtils {
     fun getAppVersion(context: Context): String {
         val manager = context.packageManager
         val info = manager.getPackageInfo(context.packageName, PackageManager.GET_ACTIVITIES)
-        return info.versionName
+        return info.versionName.orEmpty()
     }
 
     fun openBrowser(context: Context, url: String) {
         val browserIntent = Intent(Intent.ACTION_VIEW)
-        browserIntent.data = Uri.parse(url)
+        browserIntent.data = url.toUri()
         try {
             context.startActivity(browserIntent)
         } catch (e: ActivityNotFoundException) {
@@ -68,7 +54,7 @@ object CommonUtils {
 
     fun reportBug(context: Context) {
         val intent = Intent(Intent.ACTION_SENDTO)
-        intent.data = Uri.parse("mailto:")
+        intent.data = "mailto:".toUri()
         intent.putExtra(Intent.EXTRA_EMAIL, arrayOf(DEVELOPER_EMAIL))
         intent.putExtra(
             Intent.EXTRA_SUBJECT,
@@ -136,16 +122,6 @@ object CommonUtils {
         }
     }
 
-    fun startNewActivity(context: Context, packageName: String) {
-        var intent = context.packageManager.getLaunchIntentForPackage(packageName)
-        if (intent == null) {
-            intent = Intent(Intent.ACTION_VIEW)
-            intent.data = Uri.parse("market://details?id=$packageName")
-        }
-        intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
-        context.startActivity(Intent.createChooser(intent, "..."))
-    }
-
     fun isDarkMode(context: Context): Boolean {
         return when(WhatsWebPreferences.darkMode) {
             WhatsWebPreferences.DARK_MODE_OFF -> false
@@ -180,27 +156,9 @@ object CommonUtils {
         view.clipToOutline = true
     }
 
-    fun Activity.openThirdPartyAppPlayStore(packageName: String, title: String, message: String) {
-        val isAppInstalled =
-            CommonUtils.isPackageInstalled(packageName, packageManager)
-        if (isAppInstalled) {
-            startNewActivity(this, packageName)
-        } else {
-            AlertDialog.Builder(this)
-                .setTitle(title)
-                .setMessage(message)
-                .setPositiveButton(R.string.ok) { dialog, which ->
-                    startNewActivity(this, packageName)
-                }.setNegativeButton(R.string.cancel) { dialog, which ->
-                    dialog.dismiss()
-                }
-                .showSafely(this)
-        }
-    }
-
     fun isNetworkAvailable(context: Context): Boolean {
         val connectivityManager =
-            context.getSystemService(Context.CONNECTIVITY_SERVICE) as ConnectivityManager
+            context.getSystemService(Context.CONNECTIVITY_SERVICE) as android.net.ConnectivityManager
         val activeNetworkInfo = connectivityManager.activeNetworkInfo
         return activeNetworkInfo != null && activeNetworkInfo.isConnected
     }

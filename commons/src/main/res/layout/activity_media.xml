@@ -5,6 +5,7 @@
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:fitsSystemWindows="true"
         tools:context=".media.MediaActivity"
         android:background="@color/black">
 
@@ -33,7 +34,10 @@
             android:id="@+id/ivShare"
             android:layout_width="32dp"
             android:layout_height="32dp"
-            android:layout_margin="24dp"
+            android:layout_marginStart="24dp"
+            android:layout_marginEnd="24dp"
+            android:layout_marginTop="24dp"
+            android:layout_marginBottom="48dp"
             android:src="@drawable/ic_share_white_24dp"
             app:layout_constraintBottom_toTopOf="@id/bannerContainer"
             app:layout_constraintEnd_toStartOf="@+id/ivSave" />
@@ -42,7 +46,10 @@
             android:id="@+id/ivDelete"
             android:layout_width="32dp"
             android:layout_height="32dp"
-            android:layout_margin="24dp"
+            android:layout_marginStart="24dp"
+            android:layout_marginEnd="24dp"
+            android:layout_marginTop="24dp"
+            android:layout_marginBottom="48dp"
             android:tint="@color/white"
             android:src="@drawable/ic_delete_black_24dp"
             app:layout_constraintBottom_toTopOf="@id/bannerContainer"
@@ -53,7 +60,10 @@
             android:src="@drawable/ic_save_white_24dp"
             android:layout_width="32dp"
             android:layout_height="32dp"
-            android:layout_margin="24dp"
+            android:layout_marginStart="24dp"
+            android:layout_marginEnd="24dp"
+            android:layout_marginTop="24dp"
+            android:layout_marginBottom="48dp"
             app:layout_constraintBottom_toTopOf="@id/bannerContainer"
             app:layout_constraintEnd_toStartOf="@id/ivDelete" />
 

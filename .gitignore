@@ -226,3 +226,7 @@ fabric.properties
 keys/
 .idea/
 /.safedk
+# local upload-key signing (never commit)
+keystore.properties
+*.jks
+*.keystore

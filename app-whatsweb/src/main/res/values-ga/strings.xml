@@ -103,7 +103,6 @@
     <string name="download_recover_messages_app">Íosluchtaigh app ghnóthú teachtaireachtaí</string>
     <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Chun an ghné seo a úsáid, ní mór duit aip eile a íoslódáil ón siopa súgartha. Cliceáil OK chun an siopa súgartha a oscailt agus an aip a íoslódáil.</string>
     <string name="cancel">Cealaigh</string>
-    <string name="ad_space">Spás Fógraí</string>
     <string name="status">Stádas</string>
     <string name="theme">Téama</string>
     <string name="more_apps">Tuilleadh Apps</string>
@@ -115,4 +114,15 @@
     <string name="download_qrcodescanner">Íosluchtaigh app scanóir qr</string>
     <string name="share_content">Faigh réidh le taithí a fháil ar an mbealach is tapúla chun rochtain a fháil ar an gcuntas WhatsApp céanna ar dhá fhón cliste nó táibléad éagsúla, go léir saor in aisce! Íoslódáil agus suiteáil an app anois.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Roghnaigh do fhillteán WhatsApp Business</string>
+    <string name="wa_business_directory_invalid">Níl cuma ar fhillteán WhatsApp Business. Bain triail eile as.</string>
+    <string name="wa_business_not_installed">Is cosúil nach bhfuil WhatsApp Business suiteáilte.</string>
+    <string name="heading_one">Sábháil Tapa</string>
+    <string name="heading_two">Comhroinn Láithreach</string>
+    <string name="heading_three">Íosluchtaigh gan an Idirlíon</string>
+    <string name="heading_fourth">Déan iniúchadh agus taitneamh a bhaint as</string>
+    <string name="desc_one">Cinntigh do stádais WhatsApp is fearr leat le sconna, ag cinntiú go mbíonn chuimhneacháin chothabhartha i gcónaí ar do mhéar.</string>
+    <string name="desc_two">Scaip an-áthas trí stádas WhatsApp a roinnt go díreach ón app le cairde agus le teaghlach.</string>
+    <string name="desc_three">Gabh agus stóráil stádais WhatsApp ar do ghléas le haghaidh rochtain am ar bith, fiú gan nasc idirlín.</string>
+    <string name="desc_fourth">Faigh amach stádais WhatsApp tarraingteach, ag cur lámh inspioráide le do lá.</string>
 </resources>

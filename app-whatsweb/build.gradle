@@ -4,6 +4,8 @@ apply plugin: 'kotlin-android'
 
 apply plugin: "kotlin-kapt"
 
+apply plugin: 'com.google.devtools.ksp'
+
 apply plugin: 'com.google.android.gms.oss-licenses-plugin'
 
 apply plugin: 'com.google.gms.google-services'
@@ -13,11 +15,11 @@ apply plugin: 'com.google.firebase.crashlytics'
 apply plugin: 'kotlinx-serialization'
 
 android {
-    compileSdkVersion 34
+    compileSdkVersion 36
     defaultConfig {
         applicationId "com.whatsweb.droid"
         minSdkVersion 22
-        targetSdkVersion 34
+        targetSdkVersion 36
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
 
         compileOptions {
@@ -27,10 +29,26 @@ android {
 
         lintOptions {
             baseline file("lint-baseline.xml")
+            disable 'MissingTranslation'
         }
         buildFeatures {
             dataBinding true
             buildConfig true
+        }
+    }
+    // Upload-key signing from a local, gitignored keystore.properties (storeFile, storePassword, keyAlias, keyPassword).
+    // Without that file, release builds stay debug-signed (as before) and must be signed in Android Studio.
+    def keystorePropsFile = rootProject.file("keystore.properties")
+    def keystoreProps = new Properties()
+    if (keystorePropsFile.exists()) keystorePropsFile.withInputStream { keystoreProps.load(it) }
+    signingConfigs {
+        if (keystorePropsFile.exists()) {
+            upload {
+                storeFile file(keystoreProps["storeFile"])
+                storePassword keystoreProps["storePassword"]
+                keyAlias keystoreProps["keyAlias"]
+                keyPassword keystoreProps["keyPassword"]
+            }
         }
     }
     buildTypes {
@@ -38,7 +56,7 @@ android {
             minifyEnabled true
             shrinkResources true
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
-            signingConfig signingConfigs.debug
+            signingConfig keystorePropsFile.exists() ? signingConfigs.upload : signingConfigs.debug
         }
         debug {
             minifyEnabled false
@@ -54,44 +72,25 @@ android {
 
     kotlinOptions {
         jvmTarget = "1.8"
-        freeCompilerArgs += ["-Xopt-in=kotlin.RequiresOptIn"]
+        freeCompilerArgs += ["-opt-in=kotlin.RequiresOptIn"]
     }
 
     flavorDimensions "default"
 
     productFlavors {
-        whatsweb {
-            dimension "default"
-            applicationId "com.falcon.whatscan"
-            versionCode 100000002
-            // 1 (versioning scheme)
-            // 00 (major version)
-            // 02 (minor version)
-            // 05 (patch version)
-            // 00 spare for betas/RCs
-            versionName "1.0.1"
-        }
         whatswebscan {
             dimension "default"
             applicationId "com.falcon.whatscan"
-            versionCode 100007001
+            versionCode 100007006
             // 1 (versioning scheme)
             // 00 (major version)
             // 02 (minor version)
             // 05 (patch version)
             // 00 spare for betas/RCs
-            versionName "1.0.7"
+            versionName "3.0.4"
         }
     }
     sourceSets {
-        whatsweb {
-            java {
-                srcDirs 'src/whatsweb/java'
-            }
-            res {
-                srcDirs 'src/whatsweb/res'
-            }
-        }
         whatswebscan {
             java {
                 srcDirs 'src/whatswebscan/java'
@@ -102,6 +101,10 @@ android {
         }
     }
     namespace 'com.geeksoftapps.whatsweb.app'
+    lint {
+        // Many locales still carry strings that were removed from the default locale; harmless leftovers.
+        disable 'ExtraTranslation'
+    }
 }
 
 dependencies {
@@ -112,12 +115,8 @@ dependencies {
 
     implementation 'androidx.annotation:annotation:1.2.0'
 
-    implementation "com.hbb20:ccp:$ccp_version"
-
     implementation "androidx.appcompat:appcompat:$appcompat_version"
     implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
-
-    implementation "com.squareup.okhttp3:okhttp:4.9.3"
 
     implementation "org.jetbrains.kotlinx:kotlinx-serialization-json:1.1.0"
 
@@ -127,20 +126,17 @@ dependencies {
     implementation 'com.google.firebase:firebase-analytics-ktx'
     implementation 'com.google.firebase:firebase-config-ktx'
 
-    implementation 'androidx.gridlayout:gridlayout:1.0.0'
-
     implementation "com.github.permissions-dispatcher:permissionsdispatcher:$permissionsdispatcher_version"
-//    implementation 'com.google.android.play:core-ktx:1.10.3'
-    implementation 'com.google.android.play:app-update-ktx:2.1.0'
     kapt "com.github.permissions-dispatcher:permissionsdispatcher-processor:$permissionsdispatcher_version"
 
-    kapt "com.github.bumptech.glide:compiler:$glide_version"
+    ksp "com.github.bumptech.glide:ksp:$glide_version"
 
     implementation "com.airbnb.android:lottie:$lottie_version"
+
+    // Google Mobile Ads (AdMob)
+    implementation 'com.google.android.gms:play-services-ads:23.6.0'
 
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.5'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
-
-    kapt "com.github.bumptech.glide:compiler:$glide_version"
 }

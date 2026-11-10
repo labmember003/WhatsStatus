@@ -103,7 +103,6 @@
     <string name="download_recover_messages_app">Recover Messages ilovasini yuklab oling</string>
     <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Ushbu xususiyatdan foydalanish uchun siz o\'yin do\'konidan boshqa ilovani yuklab olishingiz kerak. Play do\'konini ochish va ilovani yuklab olish uchun OK tugmasini bosing.</string>
     <string name="cancel">Bekor qilish</string>
-    <string name="ad_space">Reklama maydoni</string>
     <string name="status">Holat</string>
     <string name="theme">Mavzu</string>
     <string name="more_apps">Boshqa ilovalar</string>
@@ -115,4 +114,15 @@
     <string name="download_qrcodescanner">Qr Scanner ilovasini yuklab oling</string>
     <string name="share_content">Ikki xil smartfon yoki planshetda bir xil WhatsApp hisobiga kirishning eng tezkor usulini bepul sinab ko\'rishga tayyor bo\'ling! Ilovani hozir yuklab oling va o\'rnating.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">WhatsApp Business jildingizni tanlang</string>
+    <string name="wa_business_directory_invalid">Jild WhatsApp Business-ga o\'xshamaydi. Iltimos, qayta urinib koʻring.</string>
+    <string name="wa_business_not_installed">WhatsApp Business o\'rnatilmaganga o\'xshaydi.</string>
+    <string name="heading_one">Tez saqlash</string>
+    <string name="heading_two">Darhol ulashing</string>
+    <string name="heading_three">Oflayn yuklab oling</string>
+    <string name="heading_fourth">O\'rganing va rohatlaning</string>
+    <string name="desc_one">Sevimli lahzalar doimo sizning qo\'lingizda bo\'lishini ta\'minlab, sevimli WhatsApp statuslaringizni bir teginish bilan himoyalang.</string>
+    <string name="desc_two">WhatsApp statuslarini to\'g\'ridan-to\'g\'ri ilovadan do\'stlaringiz va oilangiz bilan baham ko\'rish orqali quvonchni tarqating.</string>
+    <string name="desc_three">Istalgan vaqtda, hatto internetga ulanmasdan ham kirish uchun WhatsApp holatini yozib oling va qurilmangizga saqlang.</string>
+    <string name="desc_fourth">Qiziqarli WhatsApp statuslarini kashf qiling va kuningizga ilhom qo\'shing.</string>
 </resources>

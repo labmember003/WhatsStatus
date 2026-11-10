@@ -9,6 +9,8 @@ import com.geeksoftapps.whatsweb.status.IStatusRepo
 import com.geeksoftapps.whatsweb.status.StatusRepo
 import com.geeksoftapps.whatsweb.status.whatsapp_saved_status_file
 import com.google.firebase.crashlytics.FirebaseCrashlytics
+import com.google.android.gms.ads.MobileAds
+import java.util.concurrent.atomic.AtomicBoolean
 import com.jakewharton.threetenabp.AndroidThreeTen
 import com.preference.PowerPreference
 import kotlinx.coroutines.CoroutineExceptionHandler
@@ -47,6 +49,8 @@ class App: Application(), KodeinAware {
             return internalStorageDir
         }
 
+        /** True once [MobileAds.initialize] callback has fired. */
+        val isMobileAdsInitialized = AtomicBoolean(false)
     }
 
     val coroutineExceptionHandler = CoroutineExceptionHandler { coroutineContext, throwable ->
@@ -72,6 +76,13 @@ class App: Application(), KodeinAware {
         internalStorageDir = filesDir
         PowerPreference.init(this)
         AndroidThreeTen.init(this)
+
+        // Initialize AdMob on background thread to avoid main-thread timeout
+        Thread {
+            MobileAds.initialize(this) {
+                isMobileAdsInitialized.set(true)
+            }
+        }.start()
         setUpDarkMode()
     }
 

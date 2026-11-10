@@ -1,6 +1,6 @@
 <resources>
     <string name="app_update_alert_dialog_title">Actualizarea este finalizată</string>
-    <string name="app_update_alert_dialog_subtitle">Reporniți aplicația pentru a aplica actualizări...</string>
+    <string name="app_update_alert_dialog_subtitle">Reporniți aplicația pentru a aplica actualizări…</string>
     <string name="help">Ajutor</string>
     <string name="cleaner">Curățător</string>
     <string name="status_saver">Economizor de stare</string>
@@ -103,7 +103,6 @@
     <string name="download_recover_messages_app">Descărcați aplicația Recover Messages</string>
     <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Pentru a utiliza această funcție, trebuie să descărcați o altă aplicație din Play Store. Faceți clic pe OK pentru a deschide Play Store și a descărca aplicația.</string>
     <string name="cancel">Anulare</string>
-    <string name="ad_space">Spațiu publicitar</string>
     <string name="status">stare</string>
     <string name="theme">Temă</string>
     <string name="more_apps">Mai multe aplicatii</string>
@@ -115,4 +114,15 @@
     <string name="download_qrcodescanner">Descărcați aplicația Qr Scanner</string>
     <string name="share_content">Pregătește-te să experimentezi cel mai rapid mod de a accesa același cont WhatsApp pe două smartphone-uri sau tablete diferite, totul gratuit! Descărcați și instalați aplicația acum.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Selectați folderul WhatsApp Business</string>
+    <string name="wa_business_directory_invalid">Folderul nu arată ca WhatsApp Business. Vă rugăm să încercați din nou.</string>
+    <string name="wa_business_not_installed">WhatsApp Business nu pare să fie instalat.</string>
+    <string name="heading_one">Salvare rapidă</string>
+    <string name="heading_two">Distribuie instantaneu</string>
+    <string name="heading_three">Descărcați offline</string>
+    <string name="heading_fourth">Explorează și bucură-te</string>
+    <string name="desc_one">Asigurați-vă stările WhatsApp preferate cu o atingere, asigurându-vă că momentele dragi sunt întotdeauna la îndemână.</string>
+    <string name="desc_two">Răspândiți bucurie prin partajarea stărilor WhatsApp direct din aplicație cu prietenii și familia.</string>
+    <string name="desc_three">Capturați și stocați stările WhatsApp pe dispozitivul dvs. pentru acces oricând, chiar și fără o conexiune la internet.</string>
+    <string name="desc_fourth">Descoperiți stări interesante WhatsApp, adăugând un plus de inspirație zilei tale.</string>
 </resources>

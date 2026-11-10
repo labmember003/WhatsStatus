@@ -1,6 +1,6 @@
 <resources>
     <string name="app_update_alert_dialog_title">Ukubuyekeza kuqediwe</string>
-    <string name="app_update_alert_dialog_subtitle">Qala kabusha uhlelo lokusebenza ukuze usebenzise izibuyekezo...</string>
+    <string name="app_update_alert_dialog_subtitle">Qala kabusha uhlelo lokusebenza ukuze usebenzise izibuyekezo…</string>
     <string name="help">Usizo</string>
     <string name="cleaner">Isihlanzi</string>
     <string name="status_saver">Isilondolozi Sesimo</string>
@@ -103,7 +103,6 @@
     <string name="download_recover_messages_app">Landa Uhlelo Lokusebenza Lwemilayezo Yokubuyisela</string>
     <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Ukuze usebenzise lesi sici, udinga ukulanda olunye uhlelo lokusebenza ku-Play Store. Chofoza okuthi KULUNGILE ukuze uvule i-play store futhi ulande uhlelo lokusebenza.</string>
     <string name="cancel">Khansela</string>
-    <string name="ad_space">Isikhala Sesikhangiso</string>
     <string name="status">Isimo</string>
     <string name="theme">Itimu</string>
     <string name="more_apps">Izinhlelo zokusebenza eziningi</string>
@@ -115,4 +114,15 @@
     <string name="download_qrcodescanner">Landa i-Qr Scanner App</string>
     <string name="share_content">Lungela ukuthola indlela eshesha kakhulu yokufinyelela i-akhawunti efanayo ye-WhatsApp kuma-smartphone noma amaphilisi amabili ahlukene, konke mahhala! Landa futhi ufake uhlelo lokusebenza manje.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Khetha ifolda yakho ye-WhatsApp Business</string>
+    <string name="wa_business_directory_invalid">Ifolda ayibukeki njengebhizinisi le-WhatsApp. Sicela uzame futhi.</string>
+    <string name="wa_business_not_installed">I-WhatsApp Business ayibonakali ifakiwe.</string>
+    <string name="heading_one">Ukulondoloza Ngokushesha</string>
+    <string name="heading_two">Yabelana Ngokushesha</string>
+    <string name="heading_three">Landa ungaxhunyiwe ku-inthanethi</string>
+    <string name="heading_fourth">Hlola futhi Ujabule</string>
+    <string name="desc_one">Vikela isimo sakho se-WhatsApp esiyintandokazi ngokuthepha, uqinisekisa ukuthi izikhathi ezithandekayo zihlala zisesandleni sakho.</string>
+    <string name="desc_two">Sabalalisa injabulo ngokwabelana ngezimo ze-WhatsApp ngokuqondile kusuka kuhlelo lokusebenza nabangani nomndeni.</string>
+    <string name="desc_three">Thwebula futhi ugcine izimo ze-WhatsApp kudivayisi yakho ukuze uzifinyelele noma kunini, ngisho nangaphandle koxhumano lwe-inthanethi.</string>
+    <string name="desc_fourth">Zitholele izimo ze-WhatsApp ezihehayo, ezingeza ukuthinta kogqozi osukwini lwakho.</string>
 </resources>

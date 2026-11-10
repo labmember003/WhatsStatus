@@ -103,7 +103,6 @@
     <string name="download_recover_messages_app">Atsisiųskite programą „Atkurti pranešimus“.</string>
     <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Norėdami naudotis šia funkcija, turite atsisiųsti kitą programą iš „Play“ parduotuvės. Spustelėkite Gerai, kad atidarytumėte žaidimų parduotuvę ir atsisiųstumėte programą.</string>
     <string name="cancel">Atšaukti</string>
-    <string name="ad_space">Skelbimų erdvė</string>
     <string name="status">Būsena</string>
     <string name="theme">tema</string>
     <string name="more_apps">Daugiau programėlių</string>
@@ -115,4 +114,15 @@
     <string name="download_qrcodescanner">Atsisiųskite QR skaitytuvo programą</string>
     <string name="share_content">Pasiruoškite išbandyti greičiausią būdą pasiekti tą pačią WhatsApp paskyrą dviejuose skirtinguose išmaniuosiuose telefonuose ar planšetiniuose kompiuteriuose – visa tai nemokamai! Atsisiųskite ir įdiekite programą dabar.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Pasirinkite savo WhatsApp Business aplanką</string>
+    <string name="wa_business_directory_invalid">Aplankas neatrodo kaip „WhatsApp Business“. Bandykite dar kartą.</string>
+    <string name="wa_business_not_installed">„WhatsApp Business“, atrodo, neįdiegta.</string>
+    <string name="heading_one">Greitas išsaugojimas</string>
+    <string name="heading_two">Bendrinkite akimirksniu</string>
+    <string name="heading_three">Atsisiųskite neprisijungę</string>
+    <string name="heading_fourth">Tyrinėkite ir mėgaukitės</string>
+    <string name="desc_one">Užtikrinkite mėgstamas WhatsApp būsenas bakstelėdami, kad brangios akimirkos visada būtų po ranka.</string>
+    <string name="desc_two">Skleiskite džiaugsmą bendrindami WhatsApp būsenas tiesiai iš programos su draugais ir šeima.</string>
+    <string name="desc_three">Užfiksuokite ir išsaugokite WhatsApp būsenas savo įrenginyje, kad galėtumėte bet kada pasiekti, net ir be interneto ryšio.</string>
+    <string name="desc_fourth">Atraskite patrauklių „WhatsApp“ būsenų ir suteiksite savo dienai įkvėpimo.</string>
 </resources>

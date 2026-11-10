@@ -103,7 +103,6 @@
     <string name="download_recover_messages_app">Спампаваць праграму для аднаўлення паведамленняў</string>
     <string name="to_use_this_feature_you_need_to_download_another_app_from_play_store_click_ok_to_open_play_store_and_download_app">Каб выкарыстоўваць гэту функцыю, вам трэба спампаваць іншую праграму з Play Store. Націсніце OK, каб адкрыць Play Store і загрузіць праграму.</string>
     <string name="cancel">Адмяніць</string>
-    <string name="ad_space">Рэкламная прастора</string>
     <string name="status">Статус</string>
     <string name="theme">Тэма</string>
     <string name="more_apps">Больш прыкладанняў</string>
@@ -115,4 +114,15 @@
     <string name="download_qrcodescanner">Спампаваць праграму Qr Scanner</string>
     <string name="share_content">Будзьце гатовыя выпрабаваць самы хуткі спосаб атрымаць доступ да аднаго і таго ж уліковага запісу WhatsApp на двух розных смартфонах або планшэтах, усё бясплатна! Спампуйце і ўсталюйце праграму зараз.</string>
     <string name="directly_message_anyone_without_saving_phone_as_contact">\"\"</string>
+    <string name="please_select_wa_business_directory">Выберыце папку WhatsApp Business</string>
+    <string name="wa_business_directory_invalid">Папка не падобная на WhatsApp Business. Калі ласка, паспрабуйце яшчэ раз.</string>
+    <string name="wa_business_not_installed">Здаецца, WhatsApp Business не ўсталёўваецца.</string>
+    <string name="heading_one">Хуткае захаванне</string>
+    <string name="heading_two">Падзяліцеся імгненна</string>
+    <string name="heading_three">Спампаваць па-за сеткай</string>
+    <string name="heading_fourth">Даследуйце і атрымлівайце асалоду ад</string>
+    <string name="desc_one">Абараніце свае любімыя статусы WhatsApp адным націскам, гарантуючы, што запаветныя моманты заўсёды будуць у вас пад рукой.</string>
+    <string name="desc_two">Распаўсюджвайце радасць, дзелячыся статусамі WhatsApp непасрэдна з праграмы з сябрамі і сям\'ёй.</string>
+    <string name="desc_three">Захоплівайце і захоўвайце статусы WhatsApp на прыладзе для доступу ў любы час, нават без падлучэння да Інтэрнэту.</string>
+    <string name="desc_fourth">Адкрыйце для сябе цікавыя статусы WhatsApp, якія дадаюць нотку натхнення ў ваш дзень.</string>
 </resources>

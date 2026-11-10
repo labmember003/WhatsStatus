@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_guide_dialog"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <!-- Title -->
+    <TextView
+        android:id="@+id/tvGuideTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/guide_title"
+        android:textColor="#FF6750A4"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <!-- Step indicator text -->
+    <TextView
+        android:id="@+id/tvStepIndicator"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:gravity="center"
+        android:textColor="#757575"
+        android:textSize="14sp" />
+
+    <!-- Screenshot image (cropped via matrix in code) -->
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        app:cardBackgroundColor="#F5F5F5"
+        app:cardCornerRadius="12dp"
+        app:cardElevation="2dp">
+
+        <ImageView
+            android:id="@+id/ivGuideScreenshot"
+            android:layout_width="match_parent"
+            android:layout_height="360dp"
+            android:contentDescription="@string/guide_screenshot_desc"
+            android:scaleType="matrix" />
+
+    </androidx.cardview.widget.CardView>
+
+    <!-- Instruction text -->
+    <TextView
+        android:id="@+id/tvGuideInstruction"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:gravity="center"
+        android:lineSpacingExtra="4dp"
+        android:textColor="#424242"
+        android:textSize="15sp" />
+
+    <!-- Dot indicators -->
+    <LinearLayout
+        android:id="@+id/dotContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <View
+            android:id="@+id/dot1"
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:background="@drawable/bg_guide_dot_active" />
+
+        <View
+            android:id="@+id/dot2"
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:layout_marginStart="8dp"
+            android:background="@drawable/bg_guide_dot_inactive" />
+
+    </LinearLayout>
+
+    <!-- Buttons row -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnGuidePrevious"
+            style="@style/Widget.MaterialComponents.Button.TextButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:minHeight="48dp"
+            android:layout_weight="1"
+            android:text="@string/guide_back"
+            android:textColor="#757575"
+            android:visibility="gone" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnGuideNext"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:minHeight="48dp"
+            android:layout_weight="1"
+            android:backgroundTint="#FF6750A4"
+            android:text="@string/guide_next"
+            android:textColor="#FFFFFF"
+            app:cornerRadius="12dp" />
+
+    </LinearLayout>
+
+</LinearLayout>
