@@ -36,12 +36,27 @@ android {
             buildConfig true
         }
     }
+    // Upload-key signing from a local, gitignored keystore.properties (storeFile, storePassword, keyAlias, keyPassword).
+    // Without that file, release builds stay debug-signed (as before) and must be signed in Android Studio.
+    def keystorePropsFile = rootProject.file("keystore.properties")
+    def keystoreProps = new Properties()
+    if (keystorePropsFile.exists()) keystorePropsFile.withInputStream { keystoreProps.load(it) }
+    signingConfigs {
+        if (keystorePropsFile.exists()) {
+            upload {
+                storeFile file(keystoreProps["storeFile"])
+                storePassword keystoreProps["storePassword"]
+                keyAlias keystoreProps["keyAlias"]
+                keyPassword keystoreProps["keyPassword"]
+            }
+        }
+    }
     buildTypes {
         release {
             minifyEnabled true
             shrinkResources true
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
-            signingConfig signingConfigs.debug
+            signingConfig keystorePropsFile.exists() ? signingConfigs.upload : signingConfigs.debug
         }
         debug {
             minifyEnabled false
@@ -66,13 +81,13 @@ android {
         whatswebscan {
             dimension "default"
             applicationId "com.falcon.whatscan"
-            versionCode 100007005
+            versionCode 100007006
             // 1 (versioning scheme)
             // 00 (major version)
             // 02 (minor version)
             // 05 (patch version)
             // 00 spare for betas/RCs
-            versionName "3.0.3"
+            versionName "3.0.4"
         }
     }
     sourceSets {
@@ -86,6 +101,10 @@ android {
         }
     }
     namespace 'com.geeksoftapps.whatsweb.app'
+    lint {
+        // Many locales still carry strings that were removed from the default locale; harmless leftovers.
+        disable 'ExtraTranslation'
+    }
 }
 
 dependencies {

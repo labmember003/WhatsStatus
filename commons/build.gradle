@@ -98,7 +98,7 @@ dependencies {
 
     api "com.github.AliAsadi:PowerPreference:$power_preference_version"
 
-    api "com.android.billingclient:billing:$inapp_billing_version"
+    // Play Billing removed in 3.0.4: the app never used it, and Play requires Billing 8+ (minSdk 23) from Aug 2026.
 
 
     implementation "com.google.android.play:review:2.0.1"
