@@ -31,5 +31,10 @@
         app:key="@string/key_preference_privacy_policy"
         app:title="@string/preference_title_privacy_policy">
     </Preference>
+    <Preference
+        app:iconSpaceReserved="false"
+        app:isPreferenceVisible="false"
+        app:key="ad_privacy_choices"
+        app:title="Ad privacy choices"/>
 
 </PreferenceScreen>

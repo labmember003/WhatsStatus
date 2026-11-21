@@ -32,6 +32,9 @@ class StatusSaverActivity : BasicActivity(), StatusContainerFragment.StatusSaver
             insets
         }
 
+        // Ads wait for consent (the form only appears where the law needs it, e.g. EEA/UK)
+        com.geeksoftapps.whatsweb.app.Ads.gatherConsent(this)
+
         val sharedPreferences = getSharedPreferences("sharedPreferencesFileName", Context.MODE_PRIVATE)
         val editor: SharedPreferences.Editor = sharedPreferences.edit()
         editor.putBoolean("isInitLaunch", false)

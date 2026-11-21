@@ -32,7 +32,7 @@ import com.geeksoftapps.whatsweb.status.status_scoped_storage_uri
 import com.geeksoftapps.whatsweb.status.whatsapp_business_storage_file
 import com.geeksoftapps.whatsweb.status.whatsapp_storage_file
 import com.google.android.gms.ads.AdListener
-import com.google.android.gms.ads.AdRequest
+import com.geeksoftapps.whatsweb.app.Ads
 import com.google.android.gms.ads.AdSize
 import com.google.android.gms.ads.AdView
 import com.google.android.gms.ads.LoadAdError
@@ -51,8 +51,6 @@ class StatusContainerFragment : BasicFragment(), KodeinAware {
 
     // AdMob banner
     private var adView: AdView? = null
-    private val adHandler = Handler(Looper.getMainLooper())
-    private var adRetryCount = 0
 
     // Tracks which app is currently selected in the toggle
     private var isBusinessSelected = false
@@ -93,17 +91,10 @@ class StatusContainerFragment : BasicFragment(), KodeinAware {
     // ─── Banner Ad ─────────────────────────────────────────────────────────────
 
     private fun loadBannerAd() {
-        // Wait until MobileAds SDK is initialized before loading
-        if (!App.isMobileAdsInitialized.get()) {
-            adRetryCount++
-            if (adRetryCount <= 15) {
-                adHandler.postDelayed({ loadBannerAd() }, 1000)
-            }
-            return
-        }
-
+        // Anchored adaptive banner: full width, height picked by Google for this screen
+        val widthDp = resources.configuration.screenWidthDp
         adView = AdView(requireContext()).apply {
-            setAdSize(AdSize.BANNER)
+            setAdSize(AdSize.getCurrentOrientationAnchoredAdaptiveBannerAdSize(requireContext(), widthDp))
             adUnitId = getString(R.string.admob_banner_ad_unit_id)
         }
 
@@ -119,11 +110,10 @@ class StatusContainerFragment : BasicFragment(), KodeinAware {
 
         binding.bannerContainer.removeAllViews()
         binding.bannerContainer.addView(adView)
-        adView?.loadAd(AdRequest.Builder().build())
+        adView?.let { Ads.load(it) }   // waits for consent and the SDK, however long that takes
     }
 
     override fun onDestroyView() {
-        adHandler.removeCallbacksAndMessages(null)
         adView?.destroy()
         adView = null
         super.onDestroyView()

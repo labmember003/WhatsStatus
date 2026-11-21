@@ -66,6 +66,8 @@ class AppSettingsActivity : BasicActivity() {
                 it.onPreferenceChangeListener = this@SettingsFragment
                 setSummary(it)
             }
+            findPreference<Preference>("ad_privacy_choices")?.isVisible =
+                com.geeksoftapps.whatsweb.app.Ads.privacyOptionsRequired(requireContext())
         }
 
         private fun setSummary(preference: Preference) {
@@ -82,6 +84,10 @@ class AppSettingsActivity : BasicActivity() {
                     //Show a dialog and get feedback and post it somewhere else
                     //no need to clutter email
                     context?.let { CommonUtils.reportBug(it) }
+                    true
+                }
+                "ad_privacy_choices" -> {
+                    activity?.let { com.geeksoftapps.whatsweb.app.Ads.showPrivacyOptions(it) }
                     true
                 }
                 getString(R.string.key_preference_open_source_licenses) -> {
