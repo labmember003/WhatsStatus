@@ -9,7 +9,7 @@ object Constants {
 
     const val FILE_PROVIDER_AUTHORITY = BuildConfig.APPLICATION_ID + ".provider"
 
-    const val PRIVACY_POLICY_URL = "https://sites.google.com/view/whatsscanfalcon/home"
+    const val PRIVACY_POLICY_URL = "https://falcontechlab.vercel.app/status-saver/privacy/"
 
     //Firebase Remote Config
     const val DISABLE_APP_UPDATE = "disable_app_update"
