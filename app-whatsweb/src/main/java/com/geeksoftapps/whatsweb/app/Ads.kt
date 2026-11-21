@@ -2,6 +2,7 @@ package com.geeksoftapps.whatsweb.app
 
 import android.app.Activity
 import android.content.Context
+import android.provider.Settings
 import android.os.Handler
 import android.os.Looper
 import com.google.android.gms.ads.AdRequest
@@ -52,6 +53,8 @@ object Ads {
 
     private fun refresh(context: Context, info: ConsentInformation) {
         onPrivacyOptionsChanged?.invoke(privacyOptionsRequired(context))
+        // Never request ads on Google's test devices (Play pre-launch report / Firebase Test Lab robots tap things)
+        if (inTestLab(context)) return
         if (info.canRequestAds() && started.compareAndSet(false, true)) {
             val app = context.applicationContext
             Thread {
@@ -65,4 +68,7 @@ object Ads {
             }.start()
         }
     }
+
+    private fun inTestLab(context: Context): Boolean =
+        "true" == Settings.System.getString(context.contentResolver, "firebase.test.lab")
 }
