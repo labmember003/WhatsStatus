@@ -125,4 +125,10 @@
     <string name="desc_two">મિત્રો અને કુટુંબીજનો સાથે એપ્લિકેશનમાંથી સીધા જ WhatsApp સ્ટેટસ શેર કરીને આનંદ ફેલાવો.</string>
     <string name="desc_three">કોઈપણ સમયે ઍક્સેસ કરવા માટે તમારા ઉપકરણ પર WhatsApp સ્ટેટસ કૅપ્ચર અને સ્ટોર કરો, ઇન્ટરનેટ કનેક્શન વિના પણ.</string>
     <string name="desc_fourth">તમારા દિવસ માટે પ્રેરણાનો સ્પર્શ ઉમેરીને આકર્ષક WhatsApp સ્ટેટસ શોધો.</string>
+
+    <!-- Group Status (3.2.0) -->
+    <string name="group_status_tip_title">ગ્રુપ સ્ટેટસ પણ સેવ કરો</string>
+    <string name="group_status_tip_body">%1$s માં કોઈ ગ્રુપનું સ્ટેટસ ખોલો, પછી સેવ કરવા અહીં પાછા આવો.</string>
+    <string name="open_whatsapp">%1$s ખોલો</string>
+    <string name="no_status_hint">પહેલા %1$s માં કોઈ સ્ટેટસ અથવા ગ્રુપ સ્ટેટસ જુઓ. તે અહીં દેખાશે.</string>
 </resources>

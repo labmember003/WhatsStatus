@@ -208,4 +208,10 @@
     <string name="desc_two">Espalhe alegria compartilhando status do WhatsApp diretamente do aplicativo com amigos e familiares.</string>
     <string name="desc_three">Capture e armazene os status do WhatsApp no ​​seu dispositivo para acesso a qualquer momento, mesmo sem conexão com a internet.</string>
     <string name="desc_fourth">Descubra status envolventes do WhatsApp, adicionando um toque de inspiração ao seu dia.</string>
+
+    <!-- Group Status (3.2.0) -->
+    <string name="group_status_tip_title">Também funciona com estados de grupo</string>
+    <string name="group_status_tip_body">Abra o estado de um grupo no %1$s e volte aqui para o guardar.</string>
+    <string name="open_whatsapp">Abrir %1$s</string>
+    <string name="no_status_hint">Veja primeiro um estado ou estado de grupo no %1$s. Vai aparecer aqui.</string>
 </resources>

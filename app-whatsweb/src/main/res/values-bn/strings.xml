@@ -125,4 +125,10 @@
     <string name="desc_two">অ্যাপ থেকে সরাসরি হোয়াটসঅ্যাপ স্ট্যাটাস শেয়ার করে বন্ধু এবং পরিবারের সাথে আনন্দ ছড়িয়ে দিন।</string>
     <string name="desc_three">আপনার ডিভাইসে হোয়াটসঅ্যাপ স্ট্যাটাস ক্যাপচার এবং সঞ্চয় করুন যেকোনো সময় অ্যাক্সেসের জন্য, এমনকি ইন্টারনেট সংযোগ ছাড়াই।</string>
     <string name="desc_fourth">আকর্ষক হোয়াটসঅ্যাপ স্ট্যাটাস আবিষ্কার করুন, আপনার দিনে অনুপ্রেরণা যোগ করুন।</string>
+
+    <!-- Group Status (3.2.0) -->
+    <string name="group_status_tip_title">গ্রুপ স্ট্যাটাসও সেভ হয়</string>
+    <string name="group_status_tip_body">%1$s-এ কোনো গ্রুপের স্ট্যাটাস খুলুন, তারপর সেভ করতে এখানে ফিরে আসুন।</string>
+    <string name="open_whatsapp">%1$s খুলুন</string>
+    <string name="no_status_hint">প্রথমে %1$s-এ কোনো স্ট্যাটাস বা গ্রুপ স্ট্যাটাস দেখুন। সেটি এখানে দেখা যাবে।</string>
 </resources>

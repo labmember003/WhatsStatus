@@ -208,4 +208,10 @@
     <string name="desc_two">WhatsApp durumlarını doğrudan uygulamadan arkadaşlarınız ve ailenizle paylaşarak neşeyi yayın.</string>
     <string name="desc_three">İnternet bağlantısı olmasa bile istediğiniz zaman erişebilmek için WhatsApp durumlarını cihazınızda yakalayın ve saklayın.</string>
     <string name="desc_fourth">Gününüze ilham veren ilgi çekici WhatsApp durumlarını keşfedin.</string>
+
+    <!-- Group Status (3.2.0) -->
+    <string name="group_status_tip_title">Grup Durumu da çalışır</string>
+    <string name="group_status_tip_body">%1$s\'ta bir grubun durumunu açın, sonra kaydetmek için buraya dönün.</string>
+    <string name="open_whatsapp">%1$s\'ı aç</string>
+    <string name="no_status_hint">Önce %1$s\'ta bir durum veya Grup Durumu izleyin. Burada görünecek.</string>
 </resources>

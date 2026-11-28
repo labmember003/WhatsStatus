@@ -208,4 +208,10 @@
     <string name="desc_two">ऐप से सीधे दोस्तों और परिवार के साथ व्हाट्सएप स्टेटस साझा करके खुशी फैलाएं।</string>
     <string name="desc_three">किसी भी समय एक्सेस के लिए व्हाट्सएप स्टेटस को अपने डिवाइस पर कैप्चर करें और स्टोर करें, यहां तक ​​कि इंटरनेट कनेक्शन के बिना भी।</string>
     <string name="desc_fourth">अपने दिन में प्रेरणा का स्पर्श जोड़ते हुए आकर्षक व्हाट्सएप स्टेटस खोजें।</string>
+
+    <!-- Group Status (3.2.0) -->
+    <string name="group_status_tip_title">ग्रुप स्टेटस भी सेव करें</string>
+    <string name="group_status_tip_body">%1$s में किसी ग्रुप का स्टेटस खोलें, फिर उसे सेव करने के लिए यहाँ वापस आएँ।</string>
+    <string name="open_whatsapp">%1$s खोलें</string>
+    <string name="no_status_hint">पहले %1$s में कोई स्टेटस या ग्रुप स्टेटस देखें। वह यहाँ दिखेगा।</string>
 </resources>

@@ -125,4 +125,10 @@
     <string name="desc_two">دوستوں اور خاندان والوں کے ساتھ ایپ سے براہ راست WhatsApp کے اسٹیٹس کا اشتراک کرکے خوشی پھیلائیں۔</string>
     <string name="desc_three">کسی بھی وقت رسائی کے لیے اپنے آلے پر واٹس ایپ اسٹیٹس کیپچر اور اسٹور کریں، یہاں تک کہ انٹرنیٹ کنکشن کے بغیر۔</string>
     <string name="desc_fourth">آپ کے دن میں حوصلہ افزائی کرتے ہوئے WhatsApp کے دلکش اسٹیٹس دریافت کریں۔</string>
+
+    <!-- Group Status (3.2.0) -->
+    <string name="group_status_tip_title">گروپ اسٹیٹس بھی محفوظ کریں</string>
+    <string name="group_status_tip_body">%1$s میں کسی گروپ کا اسٹیٹس کھولیں، پھر اسے محفوظ کرنے کے لیے یہاں واپس آئیں۔</string>
+    <string name="open_whatsapp">%1$s کھولیں</string>
+    <string name="no_status_hint">پہلے %1$s میں کوئی اسٹیٹس یا گروپ اسٹیٹس دیکھیں۔ وہ یہاں نظر آئے گا۔</string>
 </resources>

@@ -125,4 +125,10 @@
     <string name="desc_two">Ikalat ang kagalakan sa pamamagitan ng pagbabahagi ng mga status sa WhatsApp nang direkta mula sa app sa mga kaibigan at pamilya.</string>
     <string name="desc_three">Kunin at iimbak ang mga status ng WhatsApp sa iyong device para sa anumang oras na pag-access, kahit na walang koneksyon sa internet.</string>
     <string name="desc_fourth">Tuklasin ang mga nakakaengganyong WhatsApp status, na nagdaragdag ng inspirasyon sa iyong araw.</string>
+
+    <!-- Group Status (3.2.0) -->
+    <string name="group_status_tip_title">Gumagana rin ang Group Status</string>
+    <string name="group_status_tip_body">Buksan ang status ng isang group sa %1$s, pagkatapos bumalik dito para i-save ito.</string>
+    <string name="open_whatsapp">Buksan ang %1$s</string>
+    <string name="no_status_hint">Manood muna ng status o Group Status sa %1$s. Lalabas ito dito.</string>
 </resources>

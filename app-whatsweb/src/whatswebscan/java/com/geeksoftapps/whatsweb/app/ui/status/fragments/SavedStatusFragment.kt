@@ -131,6 +131,7 @@ class SavedStatusFragment : BasicFragment(), KodeinAware, SavedStatusAdapter.Eve
         startActivity(
             Intent(context, StatusPreviewActivity::class.java).apply {
                 putExtra(WHATSAPP_STORAGE_URI, whatsAppDocumentFile?.uri)
+                putExtra(IS_BUSINESS, arguments?.getBoolean(IS_BUSINESS, false) == true)
                 putExtra(StatusPreviewActivity.EXTRA_STATUS_NAME, statusFile.uri)
                 putExtra(StatusPreviewActivity.EXTRA_STATUS_TYPE, type)
             })

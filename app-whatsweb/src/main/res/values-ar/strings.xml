@@ -208,4 +208,10 @@
     <string name="desc_two">انشر الفرح من خلال مشاركة حالات الواتساب مباشرة من التطبيق مع الأصدقاء والعائلة.</string>
     <string name="desc_three">التقط حالات WhatsApp وقم بتخزينها على جهازك للوصول إليها في أي وقت، حتى بدون الاتصال بالإنترنت.</string>
     <string name="desc_fourth">اكتشف حالات WhatsApp الجذابة، مما يضيف لمسة من الإلهام إلى يومك.</string>
+
+    <!-- Group Status (3.2.0) -->
+    <string name="group_status_tip_title">حالات المجموعات مدعومة أيضًا</string>
+    <string name="group_status_tip_body">افتح حالة مجموعة في %1$s، ثم عُد إلى هنا لحفظها.</string>
+    <string name="open_whatsapp">فتح %1$s</string>
+    <string name="no_status_hint">شاهد حالة أو حالة مجموعة في %1$s أولًا. ستظهر هنا.</string>
 </resources>

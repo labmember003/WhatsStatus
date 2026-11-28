@@ -125,4 +125,10 @@
     <string name="desc_two">ॲपवरून थेट मित्र आणि कुटुंबासह WhatsApp स्थिती शेअर करून आनंद पसरवा.</string>
     <string name="desc_three">इंटरनेट कनेक्शन नसतानाही कधीही ॲक्सेस करण्यासाठी तुमच्या डिव्हाइसवर WhatsApp स्थिती कॅप्चर करा आणि स्टोअर करा.</string>
     <string name="desc_fourth">तुमच्या दिवसाला प्रेरणा देणारी आकर्षक WhatsApp स्थिती शोधा.</string>
+
+    <!-- Group Status (3.2.0) -->
+    <string name="group_status_tip_title">ग्रुप स्टेटसही सेव्ह करा</string>
+    <string name="group_status_tip_body">%1$s मध्ये एखाद्या ग्रुपचे स्टेटस उघडा, मग सेव्ह करण्यासाठी इथे परत या.</string>
+    <string name="open_whatsapp">%1$s उघडा</string>
+    <string name="no_status_hint">आधी %1$s मध्ये एखादे स्टेटस किंवा ग्रुप स्टेटस पाहा. ते इथे दिसेल.</string>
 </resources>

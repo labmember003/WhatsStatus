@@ -13,12 +13,14 @@ import com.geeksoftapps.whatsweb.commons.log
 import com.geeksoftapps.whatsweb.commons.media.MediaActivity
 import com.geeksoftapps.whatsweb.commons.toast
 
+import com.geeksoftapps.whatsweb.app.ui.status.fragments.StatusContainerFragment.Companion.IS_BUSINESS
 import com.geeksoftapps.whatsweb.app.ui.status.fragments.StatusContainerFragment.Companion.WHATSAPP_STORAGE_URI
 import com.geeksoftapps.whatsweb.app.ui.status.viewmodels.StatusPreviewViewModel
 import com.geeksoftapps.whatsweb.app.utils.Constants
 import com.geeksoftapps.whatsweb.app.utils.logCrashlytics
 import com.geeksoftapps.whatsweb.status.IStatusRepo
 import com.geeksoftapps.whatsweb.status.StatusRepo
+import com.geeksoftapps.whatsweb.status.whatsapp_business_saved_status_file
 import com.geeksoftapps.whatsweb.status.whatsapp_saved_status_file
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
@@ -77,7 +79,13 @@ class StatusPreviewActivity : MediaActivity(), KodeinAware {
             return
         }
 
-        statusRepo = StatusRepo(this, statusDocumentFile, whatsapp_saved_status_file)
+        // Business statuses are saved to (and listed from) their own folder
+        val isBusiness = intent.getBooleanExtra(IS_BUSINESS, false)
+        statusRepo = StatusRepo(
+            this,
+            statusDocumentFile,
+            if (isBusiness) whatsapp_business_saved_status_file else whatsapp_saved_status_file
+        )
         statusPreviewViewModel = StatusPreviewViewModel(statusRepo)
 
         bindUI()

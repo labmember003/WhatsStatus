@@ -208,4 +208,10 @@
     <string name="desc_two">Sebarkan kegembiraan dengan membagikan status WhatsApp langsung dari aplikasi kepada teman dan keluarga.</string>
     <string name="desc_three">Tangkap dan simpan status WhatsApp di perangkat Anda untuk diakses kapan saja, bahkan tanpa koneksi internet.</string>
     <string name="desc_fourth">Temukan status WhatsApp yang menarik, tambahkan sentuhan inspirasi pada hari Anda.</string>
+
+    <!-- Group Status (3.2.0) -->
+    <string name="group_status_tip_title">Status Grup juga bisa</string>
+    <string name="group_status_tip_body">Buka status grup di %1$s, lalu kembali ke sini untuk menyimpannya.</string>
+    <string name="open_whatsapp">Buka %1$s</string>
+    <string name="no_status_hint">Lihat status atau Status Grup di %1$s dulu. Nanti muncul di sini.</string>
 </resources>

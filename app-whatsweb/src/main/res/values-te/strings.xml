@@ -125,4 +125,10 @@
     <string name="desc_two">యాప్ నుండి నేరుగా స్నేహితులు మరియు కుటుంబ సభ్యులతో WhatsApp స్థితిగతులను పంచుకోవడం ద్వారా ఆనందాన్ని పంచండి.</string>
     <string name="desc_three">ఇంటర్నెట్ కనెక్షన్ లేకుండా కూడా ఎప్పుడైనా యాక్సెస్ కోసం మీ పరికరంలో WhatsApp స్థితిగతులను క్యాప్చర్ చేయండి మరియు నిల్వ చేయండి.</string>
     <string name="desc_fourth">ఆకర్షణీయమైన WhatsApp స్థితిగతులను కనుగొనండి, మీ రోజుకి స్ఫూర్తిని జోడిస్తుంది.</string>
+
+    <!-- Group Status (3.2.0) -->
+    <string name="group_status_tip_title">గ్రూప్ స్టేటస్ కూడా సేవ్ అవుతుంది</string>
+    <string name="group_status_tip_body">%1$sలో ఒక గ్రూప్ స్టేటస్‌ను తెరిచి, సేవ్ చేయడానికి ఇక్కడికి తిరిగి రండి.</string>
+    <string name="open_whatsapp">%1$s తెరవండి</string>
+    <string name="no_status_hint">ముందుగా %1$sలో ఒక స్టేటస్ లేదా గ్రూప్ స్టేటస్ చూడండి. అది ఇక్కడ కనిపిస్తుంది.</string>
 </resources>

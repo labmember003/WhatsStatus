@@ -125,4 +125,10 @@
     <string name="desc_two">直接从应用程序与朋友和家人分享 WhatsApp 状态，传播欢乐。</string>
     <string name="desc_three">在您的设备上捕获并存储 WhatsApp 状态，以便随时访问，即使没有互联网连接也是如此。</string>
     <string name="desc_fourth">发现引人入胜的 WhatsApp 状态，为您的一天增添一丝灵感。</string>
+
+    <!-- Group Status (3.2.0) -->
+    <string name="group_status_tip_title">群组状态也能保存</string>
+    <string name="group_status_tip_body">在 %1$s 中打开群组的状态，然后回到这里保存。</string>
+    <string name="open_whatsapp">打开 %1$s</string>
+    <string name="no_status_hint">请先在 %1$s 中查看状态或群组状态，之后会显示在这里。</string>
 </resources>

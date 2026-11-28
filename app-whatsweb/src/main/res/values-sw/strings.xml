@@ -125,4 +125,10 @@
     <string name="desc_two">Sambaza furaha kwa kushiriki hali za WhatsApp moja kwa moja kutoka kwa programu na marafiki na familia.</string>
     <string name="desc_three">Nasa na uhifadhi hali za WhatsApp kwenye kifaa chako kwa ufikiaji wakati wowote, hata bila muunganisho wa intaneti.</string>
     <string name="desc_fourth">Gundua hali zinazohusika za WhatsApp, na kuongeza mguso wa msukumo kwa siku yako.</string>
+
+    <!-- Group Status (3.2.0) -->
+    <string name="group_status_tip_title">Hali ya Kikundi pia inafanya kazi</string>
+    <string name="group_status_tip_body">Fungua hali ya kikundi kwenye %1$s, kisha rudi hapa uihifadhi.</string>
+    <string name="open_whatsapp">Fungua %1$s</string>
+    <string name="no_status_hint">Tazama hali au Hali ya Kikundi kwenye %1$s kwanza. Itaonekana hapa.</string>
 </resources>

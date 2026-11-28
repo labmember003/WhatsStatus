@@ -125,4 +125,10 @@
     <string name="desc_two">Lan tỏa niềm vui bằng cách chia sẻ trạng thái WhatsApp trực tiếp từ ứng dụng với bạn bè và gia đình.</string>
     <string name="desc_three">Ghi lại và lưu trữ trạng thái WhatsApp trên thiết bị của bạn để truy cập bất cứ lúc nào, ngay cả khi không có kết nối internet.</string>
     <string name="desc_fourth">Khám phá các trạng thái hấp dẫn của WhatsApp, thêm cảm hứng cho ngày của bạn.</string>
+
+    <!-- Group Status (3.2.0) -->
+    <string name="group_status_tip_title">Hỗ trợ cả Trạng thái nhóm</string>
+    <string name="group_status_tip_body">Mở trạng thái của một nhóm trong %1$s, rồi quay lại đây để lưu.</string>
+    <string name="open_whatsapp">Mở %1$s</string>
+    <string name="no_status_hint">Hãy xem một trạng thái hoặc Trạng thái nhóm trong %1$s trước. Nó sẽ hiện ở đây.</string>
 </resources>

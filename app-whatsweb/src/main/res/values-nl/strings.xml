@@ -125,4 +125,10 @@
     <string name="desc_two">Verspreid vreugde door WhatsApp-statussen rechtstreeks vanuit de app te delen met vrienden en familie.</string>
     <string name="desc_three">Leg WhatsApp-statussen vast en bewaar ze op uw apparaat, zodat u er altijd toegang toe heeft, zelfs zonder internetverbinding.</string>
     <string name="desc_fourth">Ontdek boeiende WhatsApp-statussen en voeg een vleugje inspiratie toe aan je dag.</string>
+
+    <!-- Group Status (3.2.0) -->
+    <string name="group_status_tip_title">Groepsstatus werkt ook</string>
+    <string name="group_status_tip_body">Open de status van een groep in %1$s en kom daarna terug om hem op te slaan.</string>
+    <string name="open_whatsapp">%1$s openen</string>
+    <string name="no_status_hint">Bekijk eerst een status of groepsstatus in %1$s. Die verschijnt dan hier.</string>
 </resources>

@@ -7,5 +7,9 @@
     <color name="colorPrimaryDark">#FF6750A4</color>
     <color name="colorAccent">#FF6750A4</color>
     <color name="toggle_unselected_text">#8A94A8</color>
+    <!-- Group Status tip card -->
+    <color name="tip_background">#FFF3EDF7</color>
+    <color name="tip_title_text">#FF1D1B20</color>
+    <color name="tip_secondary_text">#FF49454F</color>
 </resources>
 

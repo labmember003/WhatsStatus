@@ -1,0 +1,4 @@
+• New: save Group Status updates, the statuses shared with just one group
+• Finds statuses that newer chat app versions keep in sub-folders
+• Fixed: Business statuses saved from full-screen view now go to the Business Saved tab
+• A tip on the Available tab shows how Group Status works

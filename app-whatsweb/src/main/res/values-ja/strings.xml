@@ -125,4 +125,10 @@
     <string name="desc_two">WhatsApp のステータスをアプリから直接友人や家族と共有して、喜びを広げましょう。</string>
     <string name="desc_three">WhatsApp のステータスをキャプチャしてデバイスに保存すると、インターネット接続がなくてもいつでもアクセスできます。</string>
     <string name="desc_fourth">魅力的な WhatsApp のステータスを見つけて、あなたの一日にちょっとしたインスピレーションを加えましょう。</string>
+
+    <!-- Group Status (3.2.0) -->
+    <string name="group_status_tip_title">グループステータスにも対応</string>
+    <string name="group_status_tip_body">%1$s でグループのステータスを開いてから、ここに戻って保存してください。</string>
+    <string name="open_whatsapp">%1$s を開く</string>
+    <string name="no_status_hint">まず %1$s でステータスかグループステータスを見てください。ここに表示されます。</string>
 </resources>

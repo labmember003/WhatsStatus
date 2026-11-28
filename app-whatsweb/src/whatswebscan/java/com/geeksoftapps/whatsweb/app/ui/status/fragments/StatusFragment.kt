@@ -27,6 +27,8 @@ import com.geeksoftapps.whatsweb.app.ui.status.fragments.StatusContainerFragment
 import com.geeksoftapps.whatsweb.app.ui.status.preview.StatusPreviewActivity
 import com.geeksoftapps.whatsweb.app.ui.status.viewmodels.StatusSaverViewModel
 import com.geeksoftapps.whatsweb.app.utils.log
+import com.geeksoftapps.whatsweb.app.utils.WhatsWebPreferences
+import com.geeksoftapps.whatsweb.commons.toast
 import com.geeksoftapps.whatsweb.status.whatsapp_business_saved_status_file
 import com.geeksoftapps.whatsweb.status.whatsapp_saved_status_file
 import com.geeksoftapps.whatsweb.status.IStatusRepo
@@ -102,7 +104,44 @@ class StatusFragment : BasicFragment(), KodeinAware, StatusAdapter.EventListener
                 whatsapp_saved_status_file
         )
         statussaverViewModel = StatusSaverViewModel(statusRepo)
+        setupGroupStatusTip()
         bindUI()
+    }
+
+    private val isBusiness get() = arguments?.getBoolean(IS_BUSINESS, false) == true
+
+    private val messengerName get() = if (isBusiness) "WhatsApp Business" else "WhatsApp"
+
+    /**
+     * Group Status (WhatsApp, Oct 2026) is cached in the same .Statuses folder once viewed,
+     * so it shows up in this list like any other status. This tip tells people it works.
+     */
+    private fun setupGroupStatusTip() {
+        binding.tvGroupStatusTipBody.text = getString(R.string.group_status_tip_body, messengerName)
+        binding.btnOpenWhatsAppForGroupStatus.text = getString(R.string.open_whatsapp, messengerName)
+        binding.tvNoStatusHint.text = getString(R.string.no_status_hint, messengerName)
+        binding.cardGroupStatusTip.visibility =
+            if (WhatsWebPreferences.groupStatusTipDismissed) View.GONE else View.VISIBLE
+        binding.btnCloseGroupStatusTip.setOnClickListener {
+            WhatsWebPreferences.groupStatusTipDismissed = true
+            binding.cardGroupStatusTip.visibility = View.GONE
+            context?.let { FirebaseAnalytics.getInstance(it).log("GroupStatusTip_Dismiss") }
+        }
+        binding.btnOpenWhatsAppForGroupStatus.setOnClickListener {
+            context?.let { FirebaseAnalytics.getInstance(it).log("GroupStatusTip_OpenApp", var1 = messengerName) }
+            openMessenger()
+        }
+    }
+
+    private fun openMessenger() {
+        val ctx = context ?: return
+        val pkg = if (isBusiness) "com.whatsapp.w4b" else "com.whatsapp"
+        val launch = ctx.packageManager.getLaunchIntentForPackage(pkg)
+        if (launch == null) {
+            toast(getString(R.string.whatsapp_not_installed))
+            return
+        }
+        startActivity(launch)
     }
 
     private fun bindUI() = lifecycleScope.launch {
@@ -112,7 +151,7 @@ class StatusFragment : BasicFragment(), KodeinAware, StatusAdapter.EventListener
             if (statusFiles == null) return@Observer
             binding.shimmerViewContainer.stopShimmer()
             binding.shimmerViewContainer.visibility = View.GONE
-            listOf(binding.avNoSavedStatuses, binding.tvNoSavedStatusHeading).forEach {
+            listOf(binding.avNoSavedStatuses, binding.tvNoSavedStatusHeading, binding.tvNoStatusHint).forEach {
                 it.visibility = if (statusFiles.isEmpty()) View.VISIBLE else View.GONE
             }
             statusAdapter.setStatusFilesList(statusFiles)
@@ -132,6 +171,7 @@ class StatusFragment : BasicFragment(), KodeinAware, StatusAdapter.EventListener
         startActivity(
             Intent(context, StatusPreviewActivity::class.java).apply {
                 putExtra(WHATSAPP_STORAGE_URI, whatsAppDocumentFile?.uri)
+                putExtra(IS_BUSINESS, arguments?.getBoolean(IS_BUSINESS, false) == true)
                 putExtra(StatusPreviewActivity.EXTRA_STATUS_NAME, statusFile.uri)
                 putExtra(StatusPreviewActivity.EXTRA_STATUS_TYPE, type)
             })

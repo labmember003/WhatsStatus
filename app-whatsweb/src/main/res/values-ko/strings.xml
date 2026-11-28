@@ -125,4 +125,10 @@
     <string name="desc_two">앱에서 바로 WhatsApp 상태를 친구, 가족과 공유하여 즐거움을 더해 보세요.</string>
     <string name="desc_three">인터넷 연결 없이도 언제든지 액세스할 수 있도록 장치에 WhatsApp 상태를 캡처하고 저장합니다.</string>
     <string name="desc_fourth">매력적인 WhatsApp 상태를 발견하고 하루에 영감을 더해보세요.</string>
+
+    <!-- Group Status (3.2.0) -->
+    <string name="group_status_tip_title">그룹 상태도 저장돼요</string>
+    <string name="group_status_tip_body">%1$s에서 그룹 상태를 연 다음 여기로 돌아와 저장하세요.</string>
+    <string name="open_whatsapp">%1$s 열기</string>
+    <string name="no_status_hint">먼저 %1$s에서 상태나 그룹 상태를 보세요. 여기에 표시됩니다.</string>
 </resources>

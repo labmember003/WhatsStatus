@@ -26,6 +26,9 @@ object WhatsWebPreferences: PreferenceTypes() {
 
     var whatsAppBusinessStorageUri by String("whatsapp_business_storage_uri", "")
 
+    // The "Group Status works too" tip on the Available tab, closed with its ✕
+    var groupStatusTipDismissed by Boolean("group_status_tip_dismissed", false)
+
     var userRatedVersion by String(res.getString(R.string.key_preference_user_rated_version), "")
 
     //In Seconds

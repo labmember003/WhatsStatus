@@ -125,4 +125,10 @@
     <string name="desc_two">กระจายความสุขด้วยการแชร์สถานะ WhatsApp โดยตรงจากแอพกับเพื่อนและครอบครัว</string>
     <string name="desc_three">บันทึกและจัดเก็บสถานะ WhatsApp บนอุปกรณ์ของคุณเพื่อการเข้าถึงได้ตลอดเวลา แม้ว่าจะไม่ได้เชื่อมต่ออินเทอร์เน็ตก็ตาม</string>
     <string name="desc_fourth">ค้นพบสถานะ WhatsApp ที่น่าดึงดูด เพิ่มแรงบันดาลใจให้กับวันของคุณ</string>
+
+    <!-- Group Status (3.2.0) -->
+    <string name="group_status_tip_title">ใช้กับสถานะกลุ่มได้ด้วย</string>
+    <string name="group_status_tip_body">เปิดสถานะของกลุ่มใน %1$s แล้วกลับมาที่นี่เพื่อบันทึก</string>
+    <string name="open_whatsapp">เปิด %1$s</string>
+    <string name="no_status_hint">ดูสถานะหรือสถานะกลุ่มใน %1$s ก่อน แล้วจะแสดงที่นี่</string>
 </resources>

@@ -125,4 +125,10 @@
     <string name="desc_two">با به اشتراک گذاشتن وضعیت های WhatsApp به طور مستقیم از برنامه با دوستان و خانواده، شادی را پخش کنید.</string>
     <string name="desc_three">برای دسترسی در هر زمان، حتی بدون اتصال به اینترنت، وضعیت های WhatsApp را ضبط و ذخیره کنید.</string>
     <string name="desc_fourth">وضعیت‌های جذاب واتس‌اپ را کشف کنید و الهام‌بخشی را به روز خود اضافه کنید.</string>
+
+    <!-- Group Status (3.2.0) -->
+    <string name="group_status_tip_title">وضعیت گروه هم پشتیبانی می‌شود</string>
+    <string name="group_status_tip_body">وضعیت یک گروه را در %1$s باز کنید، سپس برای ذخیره به اینجا برگردید.</string>
+    <string name="open_whatsapp">باز کردن %1$s</string>
+    <string name="no_status_hint">ابتدا یک وضعیت یا وضعیت گروه را در %1$s ببینید. اینجا نمایش داده می‌شود.</string>
 </resources>

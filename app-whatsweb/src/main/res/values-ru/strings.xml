@@ -208,4 +208,10 @@
     <string name="desc_two">Дарите радость, делясь статусами WhatsApp прямо из приложения с друзьями и семьей.</string>
     <string name="desc_three">Сохраняйте статусы WhatsApp на своем устройстве, чтобы иметь к ним доступ в любое время, даже без подключения к Интернету.</string>
     <string name="desc_fourth">Откройте для себя интересные статусы WhatsApp, которые добавят вдохновения в ваш день.</string>
+
+    <!-- Group Status (3.2.0) -->
+    <string name="group_status_tip_title">Статусы групп тоже работают</string>
+    <string name="group_status_tip_body">Откройте статус группы в %1$s, затем вернитесь сюда, чтобы сохранить его.</string>
+    <string name="open_whatsapp">Открыть %1$s</string>
+    <string name="no_status_hint">Сначала посмотрите статус или статус группы в %1$s. Он появится здесь.</string>
 </resources>

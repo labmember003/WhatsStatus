@@ -82,4 +82,10 @@
     <string name="admob_app_id" translatable="false">ca-app-pub-7683902216769416~9535667759</string>
     <string name="admob_banner_ad_unit_id" translatable="false">ca-app-pub-7683902216769416/3795152269</string>
 
+
+    <!-- Group Status (3.2.0) -->
+    <string name="group_status_tip_title">Group Status works too</string>
+    <string name="group_status_tip_body">Open a group\'s status in %1$s, then come back here to save it.</string>
+    <string name="open_whatsapp">Open %1$s</string>
+    <string name="no_status_hint">Watch a status or a Group Status in %1$s first. It will show up here.</string>
 </resources>

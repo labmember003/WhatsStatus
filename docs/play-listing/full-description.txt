@@ -1,0 +1,33 @@
+Saw a funny video or a lovely photo in someone's status? Save it before it disappears after 24 hours.
+
+Status Saver keeps the photos and videos you have watched in your chat app's status feed, so you can save them, share them or repost them to your own status.
+
+NEW: Group Status
+Group Status updates are statuses shared only with the members of one group. Status Saver picks them up too. Open a group's status in your chat app, come back to Status Saver, and it is there, ready to save.
+
+What you can do
+• Save status photos and videos to your phone's gallery
+• Save Group Status updates, the same way as any other status
+• Repost a status to your own status, or share it to any app
+• Works with personal and Business accounts; switch with one tap
+• Watch videos and view photos full-screen before you save them
+• Find everything you saved in the Saved tab, even offline
+• Saves the exact file from your phone, with no extra compression
+
+How to use it
+1. Open your chat app and watch the status or Group Status you want to keep.
+2. Open Status Saver. The status shows up in the Available tab.
+3. Tap it, then tap Save. It goes to your gallery and the Saved tab.
+
+The first time, Status Saver asks you to pick the chat app's folder. A short guide shows you which folder to choose and which button to tap.
+
+Privacy
+• Everything stays on your phone. Status Saver reads only the status folder you allow, and only to show and save statuses.
+• No sign-up, no account, and we don't read your chats or contacts.
+• The app shows a small banner ad, and asks for your consent first where the law requires it.
+
+Please respect other people's content
+Save and share only statuses you have the right to use, and ask the owner before you repost their status.
+
+Disclaimer
+Status Saver is an independent app made by Falcon Tech Lab. It is not affiliated with, sponsored by or endorsed by WhatsApp LLC or Meta Platforms, Inc.

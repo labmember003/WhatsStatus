@@ -20,10 +20,7 @@ class StatusesLiveData (
 
     private fun loadStatuses() {
         launch {
-            statusFileList = statusDirectory.listFiles()
-                .filter { it.statusType() != StatusType.OTHER }
-                .sortedByDescending { it.lastModified() }
-                .toMutableList()
+            statusFileList = StatusScanner.scan(statusDirectory).toMutableList()
             postValue(statusFileList)
         }
     }

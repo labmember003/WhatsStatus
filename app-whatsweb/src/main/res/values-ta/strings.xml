@@ -125,4 +125,10 @@
     <string name="desc_two">பயன்பாட்டிலிருந்து நேரடியாக நண்பர்கள் மற்றும் குடும்பத்தினருடன் WhatsApp நிலைகளைப் பகிர்வதன் மூலம் மகிழ்ச்சியைப் பரப்புங்கள்.</string>
     <string name="desc_three">இணைய இணைப்பு இல்லாவிட்டாலும், எந்த நேரத்திலும் அணுகுவதற்கு உங்கள் சாதனத்தில் WhatsApp நிலைகளைப் பதிவுசெய்து சேமிக்கவும்.</string>
     <string name="desc_fourth">உங்கள் நாளுக்கு உத்வேகம் தரும் வகையில் WhatsApp நிலைகளைக் கண்டறியவும்.</string>
+
+    <!-- Group Status (3.2.0) -->
+    <string name="group_status_tip_title">குழு ஸ்டேட்டஸும் சேமிக்கலாம்</string>
+    <string name="group_status_tip_body">%1$s-இல் ஒரு குழுவின் ஸ்டேட்டஸைத் திறந்து, சேமிக்க இங்கே திரும்பி வாருங்கள்.</string>
+    <string name="open_whatsapp">%1$s-ஐத் திற</string>
+    <string name="no_status_hint">முதலில் %1$s-இல் ஒரு ஸ்டேட்டஸ் அல்லது குழு ஸ்டேட்டஸைப் பாருங்கள். அது இங்கே தோன்றும்.</string>
 </resources>
