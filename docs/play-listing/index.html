@@ -1,0 +1,99 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Status Saver 3.2.0 · Group Status + Play listing</title>
+<style>
+:root{--bg:#fff;--fg:#1d1b20;--mut:#49454f;--card:#f3edf7;--acc:#6750a4;--ok:#1b7f3b;--warn:#a15c00;--bad:#b3261e;--line:#e0dce5}
+@media(prefers-color-scheme:dark){:root{--bg:#141218;--fg:#e6e0e9;--mut:#cac4d0;--card:#2b2930;--acc:#d0bcff;--ok:#7dd99a;--warn:#ffb951;--bad:#f2b8b5;--line:#3b383e}}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.5 -apple-system,system-ui,sans-serif}
+main{max-width:760px;margin:auto;padding:20px}
+h1{font-size:24px;margin:.2em 0} h2{font-size:19px;margin:1.6em 0 .5em;border-bottom:1px solid var(--line);padding-bottom:4px}
+.card{background:var(--card);border-radius:14px;padding:14px 16px;margin:10px 0}
+.chip{display:inline-block;border-radius:999px;padding:2px 10px;font-size:13px;font-weight:600;margin:2px 4px 2px 0;border:1px solid currentColor}
+.ok{color:var(--ok)} .warn{color:var(--warn)} .bad{color:var(--bad)} .acc{color:var(--acc)}
+pre{white-space:pre-wrap;background:var(--card);padding:12px;border-radius:10px;font:14px/1.45 ui-monospace,Menlo,monospace}
+table{border-collapse:collapse;width:100%;font-size:14px} td,th{border-bottom:1px solid var(--line);padding:6px 4px;text-align:left;vertical-align:top}
+.big{font-size:18px;font-weight:700} small{color:var(--mut)}
+</style></head><body><main>
+<h1>Status Saver 3.2.0 · Group Status</h1>
+<small>Sat 28 Nov 2026 · repo labmember003/WhatsStatus · issue #5</small>
+
+<div class="card"><div class="big">✋ Your one next action</div>
+Reply <b>“yes, upload 3.2.0”</b> on Telegram to send the build to Play, and/or <b>“yes, update listing”</b> to apply the text below in Play Console. Nothing has been uploaded or changed on Play yet.</div>
+
+<h2>Tested on the emulator · Sat 28 Nov</h2>
+<div class="card"><span class="chip ok">✓ 4 of 4 statuses shown</span><span class="chip ok">✓ 2 from a sub-folder (new)</span><span class="chip ok">✓ junk files skipped</span><span class="chip ok">✓ Save → gallery + Saved tab</span><span class="chip ok">✓ ✕ closes tip</span><span class="chip ok">✓ “not installed” message</span><span class="chip ok">✓ 3 unit tests pass</span><br><br>
+<img src="app-group-status.png" alt="Status tab with the Group Status tip" style="max-width:280px;width:100%;border-radius:12px;border:1px solid var(--line)"><br>
+<small>Green and orange = files in a sub-folder, like Group Status. The old app could not see them.</small></div>
+
+<h2>What changed in the app</h2>
+<table>
+<tr><th>Change</th><th>Why</th></tr>
+<tr><td><span class="chip ok">NEW</span> Finds statuses in sub-folders of .Statuses (2 levels)</td><td>Group Status and newer WhatsApp builds can keep files in sub-folders; before, the app only looked at the top level.</td></tr>
+<tr><td><span class="chip ok">NEW</span> “Group Status works too” tip on the Available tab, with an <b>Open WhatsApp</b> button and ✕ to close (remembered)</td><td>Tells people the new WhatsApp feature works, at the moment they need it.</td></tr>
+<tr><td><span class="chip ok">NEW</span> Clearer empty state: “Watch a status or a Group Status in WhatsApp first…”</td><td>The old screen only said “No Status Available!”.</td></tr>
+<tr><td><span class="chip warn">FIX</span> Business statuses saved from full-screen view went to the normal WhatsApp Saved tab</td><td>Found while reading the code; existing bug in the live app.</td></tr>
+<tr><td><span class="chip warn">FIX</span> Skips .nomedia, half-downloaded and empty files</td><td>So broken tiles never appear.</td></tr>
+<tr><td><span class="chip acc">TEXT</span> New texts in English + 28 languages</td><td>Hindi, Spanish, Portuguese, Arabic, Indonesian, Urdu, Bengali and more.</td></tr>
+</table>
+<p>Version <b>3.2.0 (100007010)</b>. Includes the unreleased 3.1.1/3.1.2 work already on main (own Firebase, feedback email, ad consent).</p>
+
+<h2>Play listing draft (not published)</h2>
+<div class="card"><b>Rules I followed</b> (Google Play Metadata, Impersonation and IP policies):<br>
+<span class="chip">title ≤ 30</span><span class="chip">short ≤ 80</span><span class="chip">no brand in title</span><span class="chip">no “best/#1”</span><span class="chip">no other apps’ names</span><span class="chip">no unattributed reviews</span><span class="chip">must match real features</span></div>
+
+<p><b>Title</b> · 27/30</p><pre>Status Saver &amp; Group Status</pre>
+<p><b>Short description</b> · 78/80</p><pre>Save status photos, videos &amp; Group Status updates. Repost or share in one tap.</pre>
+<p><b>Full description</b> · 1907/4000</p><pre>Saw a funny video or a lovely photo in someone&#x27;s status? Save it before it disappears after 24 hours.
+
+Status Saver keeps the photos and videos you have watched in your chat app&#x27;s status feed, so you can save them, share them or repost them to your own status.
+
+NEW: Group Status
+Group Status updates are statuses shared only with the members of one group. Status Saver picks them up too. Open a group&#x27;s status in your chat app, come back to Status Saver, and it is there, ready to save.
+
+What you can do
+• Save status photos and videos to your phone&#x27;s gallery
+• Save Group Status updates, the same way as any other status
+• Repost a status to your own status, or share it to any app
+• Works with personal and Business accounts; switch with one tap
+• Watch videos and view photos full-screen before you save them
+• Find everything you saved in the Saved tab, even offline
+• Saves the exact file from your phone, with no extra compression
+
+How to use it
+1. Open your chat app and watch the status or Group Status you want to keep.
+2. Open Status Saver. The status shows up in the Available tab.
+3. Tap it, then tap Save. It goes to your gallery and the Saved tab.
+
+The first time, Status Saver asks you to pick the chat app&#x27;s folder. A short guide shows you which folder to choose and which button to tap.
+
+Privacy
+• Everything stays on your phone. Status Saver reads only the status folder you allow, and only to show and save statuses.
+• No sign-up, no account, and we don&#x27;t read your chats or contacts.
+• The app shows a small banner ad, and asks for your consent first where the law requires it.
+
+Please respect other people&#x27;s content
+Save and share only statuses you have the right to use, and ask the owner before you repost their status.
+
+Disclaimer
+Status Saver is an independent app made by Falcon Tech Lab. It is not affiliated with, sponsored by or endorsed by WhatsApp LLC or Meta Platforms, Inc.</pre>
+<p><b>What’s new (release notes)</b></p><pre>• New: save Group Status updates, the statuses shared with just one group
+• Finds statuses that newer chat app versions keep in sub-folders
+• Fixed: Business statuses saved from full-screen view now go to the Business Saved tab
+• A tip on the Available tab shows how Group Status works</pre>
+
+<h2>Before → after</h2>
+<table>
+<tr><th>Live now</th><th>Problem</th><th>Draft</th></tr>
+<tr><td>Title “Status Saver &amp; Repost for WA”</td><td class="warn">“WA” is the brand’s short name</td><td>“Status Saver &amp; Group Status”</td></tr>
+<tr><td>“Best tool for WA and Business”</td><td class="warn">“Best” claim + brand</td><td>No superlatives, no brand</td></tr>
+<tr><td>“Direct Chat (No Contact Saved)”</td><td class="bad">The app has no such feature</td><td>Removed</td></tr>
+<tr><td>“Smart Organization: photos and videos sorted”</td><td class="bad">Not in the app</td><td>Removed</td></tr>
+<tr><td>Instagram, TikTok, Telegram named</td><td class="warn">Other companies’ brands</td><td>“share it to any app”</td></tr>
+<tr><td>“not affiliated with WhatsApp Inc.”</td><td class="warn">Company is now WhatsApp LLC</td><td>“WhatsApp LLC or Meta Platforms, Inc.” (the only brand mention)</td></tr>
+</table>
+
+<h2>What to expect</h2>
+<table><tr><th></th><th>Low</th><th>Likely</th><th>Great</th></tr>
+<tr><td>Store visitors who install (vs now)</td><td>−5% (losing “WA” in title)</td><td>±0</td><td>+10% (Group Status hook)</td></tr>
+<tr><td>Time to show in search after edit</td><td colspan="3">a few hours to 2 days</td></tr></table>
+<p><small>Honest note: removing “WA” from the title may cost some searches that type “wa status saver”. It lowers the risk of a trademark takedown, which would cost everything. Re-check installs on Sat 12 Dec.</small></p>
+</main></body></html>
